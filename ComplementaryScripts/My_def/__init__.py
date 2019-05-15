@@ -5,6 +5,7 @@
 useful functions def self
 '''
 
+from select_blast import select_blast
 from eva_gprinset import eva_gprinset
 from gpr2log import gpr2log
 from io_outtxt import  io_outtxt

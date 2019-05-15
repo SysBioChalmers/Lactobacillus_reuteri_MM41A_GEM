@@ -8,7 +8,6 @@
 import os
 from Bio.Blast import NCBIXML
 import itertools
-import My_def
 
 
 os.chdir('../../ComplementaryData/01_Sequences_analysis/')
@@ -33,21 +32,6 @@ for index_pair in itertools.permutations(range(len(seqs_ids)),2):
 
     balstcmd = 'blastp -db ' + db + ' -query ' + seq + ' -out ' + outfile +  ' -evalue 10e-5  -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"'
     os.system(balstcmd);
-
-
-
-#def Find_BBH(result1,result2,best=True):
-    '''
-    find BBH(Bidirectional Best Hits) from blast results
-    :param result1: blast result file -outfmt 5
-    :param result2: blast result file -outfmt 5
-    :param best: best match
-    :return: dic BBH
-    '''
-    #for index_pair in itertools.combinations(range(len(seqs_ids)),2)
-
-
-
 
 
 print(os.system('ls'))
