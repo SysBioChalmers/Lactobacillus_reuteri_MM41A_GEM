@@ -1,0 +1,419 @@
+[17:28:21] This is prokka 1.13
+[17:28:21] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[17:28:21] Homepage is https://github.com/tseemann/prokka
+[17:28:21] Local time is Wed May 15 17:28:21 2019
+[17:28:21] You are lhao
+[17:28:21] Operating system is darwin
+[17:28:21] You have BioPerl 1.007002
+[17:28:21] System has 2 cores.
+[17:28:21] Option --cpu asked for 8 cores, but system only has 2
+[17:28:21] Will use maximum of 2 cores.
+[17:28:21] Annotating as >>> Bacteria <<<
+[17:28:21] Generating locus_tag from 'Lreuteri_biogaia_v03/Lreuteri_biogaia_v03_Complete_sequence.fas' contents.
+[17:28:21] Setting --locustag MBLCLPDI from MD5 6b5c59d27bc97bbca24582fd154a24a7
+[17:28:21] Re-using existing --outdir Lreuteri_biogaia_v03/prokka/
+[17:28:21] Using filename prefix: Lreuteri_biogaia_v03.XXX
+[17:28:21] Setting HMMER_NCPU=1
+[17:28:21] Writing log to: Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.log
+[17:28:21] Command: /usr/local/bin/prokka --proteins Lreuteri_refseq_v02/Lreuteri_refseq_v02.faa --outdir Lreuteri_biogaia_v03/prokka/ --prefix Lreuteri_biogaia_v03 Lreuteri_biogaia_v03/Lreuteri_biogaia_v03_Complete_sequence.fas --force
+[17:28:21] Appending to PATH: /usr/local/Cellar/prokka/1.13/bin
+[17:28:21] Looking for 'aragorn' - found /anaconda3/bin/aragorn
+[17:28:21] Determined aragorn version is 1.2
+[17:28:21] Looking for 'barrnap' - found /usr/local/bin/barrnap
+[17:28:21] Determined barrnap version is 0.9
+[17:28:21] Looking for 'blastp' - found /anaconda3/bin/blastp
+[17:28:21] Determined blastp version is 2.6
+[17:28:21] Looking for 'cmpress' - found /anaconda3/bin/cmpress
+[17:28:21] Determined cmpress version is 1.1
+[17:28:21] Looking for 'cmscan' - found /anaconda3/bin/cmscan
+[17:28:21] Determined cmscan version is 1.1
+[17:28:21] Looking for 'egrep' - found /usr/bin/egrep
+[17:28:21] Looking for 'find' - found /usr/bin/find
+[17:28:21] Looking for 'grep' - found /usr/bin/grep
+[17:28:21] Looking for 'hmmpress' - found /anaconda3/bin/hmmpress
+[17:28:21] Determined hmmpress version is 3.2
+[17:28:21] Looking for 'hmmscan' - found /anaconda3/bin/hmmscan
+[17:28:21] Determined hmmscan version is 3.2
+[17:28:21] Looking for 'java' - found /anaconda3/bin/java
+[17:28:21] Looking for 'less' - found /usr/bin/less
+[17:28:21] Looking for 'makeblastdb' - found /anaconda3/bin/makeblastdb
+[17:28:22] Determined makeblastdb version is 2.6
+[17:28:22] Looking for 'minced' - found /anaconda3/bin/minced
+[17:28:22] Determined minced version is 3.2
+[17:28:22] Looking for 'parallel' - found /usr/local/bin/parallel
+[17:28:22] Determined parallel version is 20190122
+[17:28:22] Looking for 'prodigal' - found /anaconda3/bin/prodigal
+[17:28:23] Determined prodigal version is 2.6
+[17:28:23] Looking for 'prokka-genbank_to_fasta_db' - found /usr/local/bin/prokka-genbank_to_fasta_db
+[17:28:23] Looking for 'sed' - found /usr/bin/sed
+[17:28:23] Looking for 'tbl2asn' - found /anaconda3/bin/tbl2asn
+[17:28:23] Determined tbl2asn version is 25.6
+[17:28:23] Using genetic code table 11.
+[17:28:23] Loading and checking input file: Lreuteri_biogaia_v03/Lreuteri_biogaia_v03_Complete_sequence.fas
+[17:28:23] Wrote 1 contigs totalling 2039427 bp.
+[17:28:23] Predicting tRNAs and tmRNAs
+[17:28:23] Running: aragorn -l -gc11  -w Lreuteri_biogaia_v03\/prokka\/\/Lreuteri_biogaia_v03\.fna
+[17:28:24] 1 tRNA-Lys c[17834,17909] 35 (ctt)
+[17:28:24] 2 tRNA-Lys c[20395,20470] 35 (ctt)
+[17:28:24] 3 tRNA-Ile [179009,179085] 37 (gat)
+[17:28:24] 4 tRNA-Ala [179087,179161] 35 (tgc)
+[17:28:24] 5 tRNA-Thr [182521,182595] 35 (agt)
+[17:28:24] 6 tRNA-His [203865,203940] 36 (gtg)
+[17:28:24] 7 tRNA-Thr [233421,233494] 35 (ggt)
+[17:28:24] 8 tRNA-Asn [317109,317184] 35 (gtt)
+[17:28:24] 9 tRNA-Thr [317230,317302] 34 (cgt)
+[17:28:24] 10 tRNA-Asn [320485,320560] 35 (gtt)
+[17:28:24] 11 tRNA-Tyr [324158,324243] 38 (gta)
+[17:28:24] 12 tRNA-Gln [324252,324324] 33 (ttg)
+[17:28:24] 13 tRNA-Leu [335043,335129] 35 (aag)
+[17:28:24] 14 tRNA-Arg c[444746,444817] 34 (ccg)
+[17:28:24] 15 tmRNA [477539,477910] 95,133 ANNNSNSYAYAA*
+[17:28:24] 16 tRNA-Gln [493672,493745] 34 (ctg)
+[17:28:24] 17 tRNA-Glu [495846,495920] 36 (ctc)
+[17:28:24] 18 tRNA-Ile [634360,634436] 37 (gat)
+[17:28:24] 19 tRNA-Ala [634438,634512] 35 (tgc)
+[17:28:24] 20 tRNA-Val [637792,637866] 35 (tac)
+[17:28:24] 21 tRNA-Lys [637883,637957] 35 (ttt)
+[17:28:24] 22 tRNA-Thr [638000,638073] 34 (tgt)
+[17:28:24] 23 tRNA-Gly [638082,638153] 33 (gcc)
+[17:28:24] 24 tRNA-Leu [638170,638256] 35 (taa)
+[17:28:24] 25 tRNA-Arg [638263,638338] 36 (acg)
+[17:28:24] 26 tRNA-Pro [638342,638417] 36 (tgg)
+[17:28:24] 27 tRNA-Met [638446,638521] 36 (cat)
+[17:28:24] 28 tRNA-Met [638535,638611] 36 (cat)
+[17:28:24] 29 tRNA-Ser [638662,638749] 35 (tga)
+[17:28:24] 30 tRNA-Met [638757,638832] 36 (cat)
+[17:28:24] 31 tRNA-Asp [638835,638911] 37 (gtc)
+[17:28:24] 32 tRNA-Phe [638919,638993] 35 (gaa)
+[17:28:24] 33 tRNA-Gly [639008,639078] 33 (tcc)
+[17:28:24] 34 tRNA-Ile [639087,639163] 37 (gat)
+[17:28:24] 35 tRNA-Ser [639164,639253] 36 (gct)
+[17:28:24] 36 tRNA-Glu [639256,639330] 35 (ttc)
+[17:28:24] 37 tRNA-Met [639338,639413] 36 (cat)
+[17:28:24] 38 tRNA-Asp [639416,639492] 37 (gtc)
+[17:28:24] 39 tRNA-Ile [650987,651063] 37 (gat)
+[17:28:24] 40 tRNA-Ala [651065,651139] 35 (tgc)
+[17:28:24] 41 tRNA-Ser c[751585,751672] 35 (cga)
+[17:28:24] 42 tRNA-Arg [1040318,1040389] 34 (tcg)
+[17:28:24] 43 tRNA-Gln c[1045737,1045810] 34 (ttg)
+[17:28:24] 44 tRNA-Val c[1045848,1045922] 35 (tac)
+[17:28:24] 45 tRNA-Glu c[1045926,1045998] 34 (ttc)
+[17:28:24] 46 tRNA-Gly c[1046016,1046086] 33 (tcc)
+[17:28:24] 47 tRNA-Pro c[1046269,1046345] 36 (tgg)
+[17:28:24] 48 tRNA-Leu c[1046350,1046436] 35 (taa)
+[17:28:24] 49 tRNA-Gly c[1046453,1046524] 33 (gcc)
+[17:28:24] 50 tRNA-Glu c[1046529,1046601] 34 (ttc)
+[17:28:24] 51 tRNA-Pro [1056786,1056859] 35 (tgg)
+[17:28:24] 52 tRNA-Arg [1283457,1283532] 36 (tct)
+[17:28:24] 53 tRNA-Gly c[1363127,1363198] 33 (ccc)
+[17:28:24] 54 tRNA-Leu c[1368933,1369019] 36 (cag)
+[17:28:24] 55 tRNA-Leu c[1408464,1408550] 36 (caa)
+[17:28:24] 56 tRNA-Cys c[1408564,1408634] 33 (gca)
+[17:28:24] 57 tRNA-His c[1408670,1408745] 36 (gtg)
+[17:28:24] 58 tRNA-Trp c[1408762,1408833] 33 (cca)
+[17:28:24] 59 tRNA-Tyr c[1408839,1408923] 38 (gta)
+[17:28:24] 60 tRNA-Phe c[1408927,1409001] 35 (gaa)
+[17:28:24] 61 tRNA-Val c[1409036,1409110] 35 (tac)
+[17:28:24] 62 tRNA-Glu c[1409114,1409186] 34 (ttc)
+[17:28:24] 63 tRNA-Ser c[1409193,1409286] 37 (gga)
+[17:28:24] 64 tRNA-Ala c[1412612,1412686] 35 (tgc)
+[17:28:24] 65 tRNA-Ile c[1412688,1412764] 37 (gat)
+[17:28:24] 66 tRNA-Arg c[1488310,1488384] 36 (cct)
+[17:28:24] 67 tRNA-Pro c[1590662,1590737] 36 (cgg)
+[17:28:24] 68 tRNA-Arg c[1590781,1590855] 35 (acg)
+[17:28:24] 69 tRNA-Gly c[1590861,1590932] 33 (gcc)
+[17:28:24] 70 tRNA-Leu c[1591022,1591106] 36 (tag)
+[17:28:24] 71 tRNA-Val c[1591112,1591186] 35 (tac)
+[17:28:24] 72 tRNA-Asp c[1612554,1612630] 37 (gtc)
+[17:28:24] Found 72 tRNAs
+[17:28:24] Predicting Ribosomal RNAs
+[17:28:24] Running Barrnap with 2 threads
+[17:28:27] 1 Complete_sequence_with_correct_origin 177344 16S ribosomal RNA
+[17:28:27] 2 Complete_sequence_with_correct_origin 179322 23S ribosomal RNA
+[17:28:27] 3 Complete_sequence_with_correct_origin 182325 5S ribosomal RNA
+[17:28:27] 4 Complete_sequence_with_correct_origin 312210 16S ribosomal RNA
+[17:28:27] 5 Complete_sequence_with_correct_origin 313988 23S ribosomal RNA
+[17:28:27] 6 Complete_sequence_with_correct_origin 316991 5S ribosomal RNA
+[17:28:27] 7 Complete_sequence_with_correct_origin 632695 16S ribosomal RNA
+[17:28:27] 8 Complete_sequence_with_correct_origin 634673 23S ribosomal RNA
+[17:28:27] 9 Complete_sequence_with_correct_origin 637674 5S ribosomal RNA
+[17:28:27] 10 Complete_sequence_with_correct_origin 649322 16S ribosomal RNA
+[17:28:27] 11 Complete_sequence_with_correct_origin 651300 23S ribosomal RNA
+[17:28:27] 12 Complete_sequence_with_correct_origin 654302 5S ribosomal RNA
+[17:28:27] 13 Complete_sequence_with_correct_origin 1113874 5S ribosomal RNA
+[17:28:27] 14 Complete_sequence_with_correct_origin 1114068 23S ribosomal RNA
+[17:28:27] 15 Complete_sequence_with_correct_origin 1117192 16S ribosomal RNA
+[17:28:27] 16 Complete_sequence_with_correct_origin 1409338 5S ribosomal RNA
+[17:28:27] 17 Complete_sequence_with_correct_origin 1409533 23S ribosomal RNA
+[17:28:27] 18 Complete_sequence_with_correct_origin 1412857 16S ribosomal RNA
+[17:28:27] Found 18 rRNAs
+[17:28:27] Skipping ncRNA search, enable with --rfam if desired.
+[17:28:27] Total of 89 tRNA + rRNA features
+[17:28:27] Searching for CRISPR repeats
+[17:28:27] Found 0 CRISPRs
+[17:28:27] Predicting coding sequences
+[17:28:27] Contigs total 2039427 bp, so using single mode
+[17:28:27] Running: prodigal -i Lreuteri_biogaia_v03\/prokka\/\/Lreuteri_biogaia_v03\.fna -c -m -g 11 -p single -f sco -q
+[17:28:31] Excluding CDS which overlaps existing RNA (rRNA) at Complete_sequence_with_correct_origin:181642..181971 on + strand
+[17:28:31] Excluding CDS which overlaps existing RNA (rRNA) at Complete_sequence_with_correct_origin:316308..316637 on + strand
+[17:28:31] Excluding CDS which overlaps existing RNA (tRNA) at Complete_sequence_with_correct_origin:317101..317319 on + strand
+[17:28:32] Excluding CDS which overlaps existing RNA (rRNA) at Complete_sequence_with_correct_origin:636993..637322 on + strand
+[17:28:32] Excluding CDS which overlaps existing RNA (rRNA) at Complete_sequence_with_correct_origin:653620..653949 on + strand
+[17:28:32] Excluding CDS which overlaps existing RNA (rRNA) at Complete_sequence_with_correct_origin:1114337..1114666 on - strand
+[17:28:33] Excluding CDS which overlaps existing RNA (rRNA) at Complete_sequence_with_correct_origin:1409802..1410131 on - strand
+[17:28:33] Found 2019 CDS
+[17:28:33] Connecting features back to sequences
+[17:28:33] Not using genus-specific database. Try --usegenus to enable it.
+[17:28:33] Preparing user-supplied primary BLAST annotation source: Lreuteri_refseq_v02/Lreuteri_refseq_v02.faa
+[17:28:33] Guessed source was in fasta format.
+[17:28:33] Running: makeblastdb -dbtype prot -in Lreuteri_refseq_v02\/Lreuteri_refseq_v02\.faa -out Lreuteri_biogaia_v03\/prokka\/\/proteins -logfile /dev/null
+[17:28:34] Using /inference source as 'Lreuteri_refseq_v02.faa'
+[17:28:34] Annotating CDS, please be patient.
+[17:28:34] Will use 2 CPUs for similarity searching.
+[17:28:34] There are still 2019 unannotated CDS left (started with 2019)
+[17:28:34] Will use blast to search against Lreuteri_biogaia_v03/prokka//proteins with 2 CPUs
+[17:28:34] Running: cat Lreuteri_biogaia_v03\/prokka\/\/proteins\.faa | parallel --gnu --plain -j 2 --block 150390 --recstart '>' --pipe blastp -query - -db Lreuteri_biogaia_v03/prokka//proteins -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Lreuteri_biogaia_v03\/prokka\/\/proteins\.blast 2> /dev/null
+[17:28:44] Modify product: DUF1727 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:44] Modify product: MULTISPECIES: DUF1146 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:44] Modify product: DUF2969 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:44] Modify product: DUF1694 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:44] Modify product: DUF4115 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:44] Modify product: MULTISPECIES: DUF1292 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:44] Modify product: MULTISPECIES: DUF2507 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:44] Modify product: MULTISPECIES: DUF948 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:44] Modify product: MULTISPECIES: prepilin-type N-terminal cleavage/methylation domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:44] Modify product: DUF1027 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:44] Modify product: MULTISPECIES: DUF4044 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:44] Modify product: MULTISPECIES: DUF1447 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:44] Modify product: DUF2129 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:44] Modify product: MULTISPECIES: DUF896 family protein [Lactobacillus] => hypothetical protein
+[17:28:44] Modify product: MULTISPECIES: DUF448 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:44] Modify product: DUF2929 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:44] Modify product: DUF2140 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF4355 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF2479 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF805 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF1440 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF1273 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF814 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF441 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF5011 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF951 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: MULTISPECIES: DUF1129 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:45] Modify product: DUF3427 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF72 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: MULTISPECIES: DUF1021 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:45] Modify product: DUF1934 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF1700 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF2508 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF970 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:45] Modify product: DUF972 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: MULTISPECIES: TIGR00159 family protein [Lactobacillus] => MULTISPECIES: family protein [Lactobacillus]
+[17:28:46] Modify product: DUF2075 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF454 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF421 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF1049 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF4968 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF3800 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF2971 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF2479 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF806 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: MULTISPECIES: DUF3042 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:46] Modify product: MULTISPECIES: DUF910 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:46] Modify product: DUF1275 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF1797 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: UPF0104 family protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF4422 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF2922 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF4828 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF3114 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:46] Modify product: DUF3021 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF3021 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF4145 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF998 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF4811 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF2252 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF4767 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: MULTISPECIES: DUF3173 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:47] Modify product: MULTISPECIES: DUF4870 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:47] Modify product: MULTISPECIES: DUF1304 domain-containing protein [Lactobacillus] => hypothetical protein
+[17:28:47] Modify product: DUF4430 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF1836 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF488 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF2325 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF3278 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF475 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF3278 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF3533 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF1002 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Modify product: DUF3737 domain-containing protein [Lactobacillus reuteri] => hypothetical protein
+[17:28:47] Cleaned 74 /product names
+[17:28:47] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//proteins.faa
+[17:28:47] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//proteins.blast
+[17:28:47] There are still 61 unannotated CDS left (started with 2019)
+[17:28:47] Will use blast to search against /usr/local/Cellar/prokka/1.13/bin/../db/kingdom/Bacteria/sprot with 2 CPUs
+[17:28:47] Running: cat Lreuteri_biogaia_v03\/prokka\/\/sprot\.faa | parallel --gnu --plain -j 2 --block 1195 --recstart '>' --pipe blastp -query - -db /usr/local/Cellar/prokka/1.13/bin/../db/kingdom/Bacteria/sprot -evalue 1e-06 -num_threads 1 -num_descriptions 1 -num_alignments 1 -seg no > Lreuteri_biogaia_v03\/prokka\/\/sprot\.blast 2> /dev/null
+[17:28:49] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//sprot.faa
+[17:28:49] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//sprot.blast
+[17:28:49] There are still 55 unannotated CDS left (started with 2019)
+[17:28:49] Will use hmmer3 to search against /usr/local/Cellar/prokka/1.13/bin/../db/hmm/HAMAP.hmm with 2 CPUs
+[17:28:49] Running: cat Lreuteri_biogaia_v03\/prokka\/\/HAMAP\.hmm\.faa | parallel --gnu --plain -j 2 --block 906 --recstart '>' --pipe hmmscan --noali --notextw --acc -E 1e-06 --cpu 1 /usr/local/Cellar/prokka/1.13/bin/../db/hmm/HAMAP.hmm /dev/stdin > Lreuteri_biogaia_v03\/prokka\/\/HAMAP\.hmm\.hmmer3 2> /dev/null
+[17:28:52] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//HAMAP.hmm.faa
+[17:28:52] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//HAMAP.hmm.hmmer3
+[17:28:52] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//proteins.psq
+[17:28:52] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//proteins.phr
+[17:28:52] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//proteins.pin
+[17:28:52] Labelling remaining 54 proteins as 'hypothetical protein'
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 15991
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 24517
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 41547
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 92678
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 93198
+[17:28:52] Possible /pseudo 'NAD(P)H-dependent oxidoreductase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 111611
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 317553
+[17:28:52] Possible /pseudo 'beta-galactosidase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 337158
+[17:28:52] Possible /pseudo 'APC family permease [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 405619
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 462832
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 484005
+[17:28:52] Possible /pseudo 'cupredoxin domain-containing protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 490788
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 493836
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 500820
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 501270
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 502246
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 502470
+[17:28:52] Possible /pseudo 'amino acid permease [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 509998
+[17:28:52] Possible /pseudo 'YibE/F family protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 522773
+[17:28:52] Possible /pseudo 'insulinase family protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 587192
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 625550
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 625837
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 703929
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 740337
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 740777
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 741067
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 789731
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 790010
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 790558
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 881479
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 882014
+[17:28:52] Possible /pseudo 'XRE family transcriptional regulator [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 883389
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 888675
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 890576
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 890748
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 891032
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 893001
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 901725
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 902090
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 902394
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 902963
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 903376
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 904043
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 904864
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 915184
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 915499
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 919198
+[17:28:52] Possible /pseudo 'type I restriction modification protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 931235
+[17:28:52] Possible /pseudo 'Putative fructokinase' at Complete_sequence_with_correct_origin position 973003
+[17:28:52] Possible /pseudo 'CrcB family protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1020895
+[17:28:52] Possible /pseudo 'ISL3 family transposase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1065546
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1078872
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1079845
+[17:28:52] Possible /pseudo 'ISL3 family transposase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1087799
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1097405
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1103767
+[17:28:52] Possible /pseudo 'IS66 family transposase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1112087
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1119719
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1120913
+[17:28:52] Possible /pseudo 'transcriptional regulator [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1161447
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1165597
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1177882
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1195530
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1199468
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1199809
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1200936
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1204636
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1204871
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1223626
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1228625
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1229646
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1229914
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1230102
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1232000
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1235240
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1235478
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1236264
+[17:28:52] Possible /pseudo 'XRE family transcriptional regulator [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1237758
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1239449
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1284476
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1285494
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1363676
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1425090
+[17:28:52] Possible /pseudo 'IS3 family transposase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1431695
+[17:28:52] Possible /pseudo 'transposase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1433038
+[17:28:52] Possible /pseudo 'transposase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1435405
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1508301
+[17:28:52] Possible /pseudo 'cadmium-translocating P-type ATPase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1520532
+[17:28:52] Possible /pseudo 'energy-coupling factor transporter ATPase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1554315
+[17:28:52] Possible /pseudo 'threonine/serine exporter [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1596317
+[17:28:52] Possible /pseudo 'VIT family protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1600078
+[17:28:52] Possible /pseudo 'MULTISPECIES: amino acid ABC transporter permease [Lactobacillus]' at Complete_sequence_with_correct_origin position 1603921
+[17:28:52] Possible /pseudo 'ABC transporter ATP-binding protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1646462
+[17:28:52] Possible /pseudo 'IS1182 family transposase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1670165
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1670786
+[17:28:52] Possible /pseudo 'IS30 family transposase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1680293
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1702772
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1704805
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1733926
+[17:28:52] Possible /pseudo 'ABC transporter permease [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1742310
+[17:28:52] Possible /pseudo 'transposase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1754358
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1773914
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1774369
+[17:28:52] Possible /pseudo 'ABC transporter ATP-binding protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1792901
+[17:28:52] Possible /pseudo 'BMC domain-containing protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1835599
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1851093
+[17:28:52] Possible /pseudo 'MULTISPECIES: hypothetical protein [Lactobacillus]' at Complete_sequence_with_correct_origin position 1873251
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1895539
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1906530
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1908200
+[17:28:52] Possible /pseudo 'ISLre2-like element ISLre2 family transposase [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1929464
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1940079
+[17:28:52] Possible /pseudo 'hypothetical protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1942586
+[17:28:52] Possible /pseudo 'ABC transporter ATP-binding protein [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1954508
+[17:28:52] Possible /pseudo 'cytochrome b5 [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1972073
+[17:28:52] Possible /pseudo 'cytochrome b5 [Lactobacillus reuteri]' at Complete_sequence_with_correct_origin position 1972426
+[17:28:52] Found 5 unique /gene codes.
+[17:28:52] Fixed 2 duplicate /gene - gmuE_1 gmuE_2
+[17:28:52] Fixed 2 duplicate /gene - frc_1 frc_2
+[17:28:52] Fixed 2 colliding /gene names.
+[17:28:52] Adding /locus_tag identifiers
+[17:28:52] Assigned 2109 locus_tags to CDS and RNA features.
+[17:28:52] Writing outputs to Lreuteri_biogaia_v03/prokka//
+[17:28:53] Generating annotation statistics file
+[17:28:53] Generating Genbank and Sequin files
+[17:28:53] Running: tbl2asn -V b -a r10k -l paired-ends -M n -N 1 -y 'Annotated using prokka 1.13 from https://github.com/tseemann/prokka' -Z Lreuteri_biogaia_v03\/prokka\/\/Lreuteri_biogaia_v03\.err -i Lreuteri_biogaia_v03\/prokka\/\/Lreuteri_biogaia_v03\.fsa 2> /dev/null
+[17:28:58] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//errorsummary.val
+[17:28:58] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.dr
+[17:28:58] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.fixedproducts
+[17:28:58] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.ecn
+[17:28:58] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.val
+[17:28:58] Repairing broken .GBK output that tbl2asn produces...
+[17:28:58] Running: sed 's/COORDINATES: profile/COORDINATES:profile/' < Lreuteri_biogaia_v03\/prokka\/\/Lreuteri_biogaia_v03\.gbf > Lreuteri_biogaia_v03\/prokka\/\/Lreuteri_biogaia_v03\.gbk
+[17:28:58] Deleting unwanted file: Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.gbf
+[17:28:58] Output files:
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.gbk
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.ffn
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.log
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.faa
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.fsa
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.txt
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.err
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.fna
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.tsv
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.sqn
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.tbl
+[17:28:58] Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03.gff
+[17:28:58] Annotation finished successfully.
+[17:28:58] Walltime used: 0.62 minutes
+[17:28:58] If you use this result please cite the Prokka paper:
+[17:28:58] Seemann T (2014) Prokka: rapid prokaryotic genome annotation. Bioinformatics. 30(14):2068-9.
+[17:28:58] Type 'prokka --citation' for more details.
+[17:28:58] Share and enjoy!
