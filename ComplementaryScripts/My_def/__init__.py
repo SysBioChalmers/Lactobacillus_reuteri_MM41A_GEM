@@ -1,7 +1,9 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 # Created by lhao at 2019-04-12
-
+'''
+useful functions def self
+'''
 
 from eva_gprinset import eva_gprinset
 from gpr2log import gpr2log
