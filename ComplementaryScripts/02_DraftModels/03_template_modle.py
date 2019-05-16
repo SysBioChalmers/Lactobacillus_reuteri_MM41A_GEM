@@ -19,6 +19,7 @@ t_ids = ['iBT721','iNF517']     #['iBT721','iNF517','iMP429','iYO844','iML1515']
 #read blast result and have a list.
 
 Lreu_py_tp = Model('Lreu_py_tp')
+Lreu_py_tp.description = 'GEM for L.reuteri by "iBT721","iNF517" template'
 #bigg_unmodel = cobra.io.load_json_model('/Users/lhao/Documents/Git/BIGG/universal_model.json')
 
 allfromfromgene_list = []
@@ -59,30 +60,26 @@ for index in range(len(t_ids)):   #range(len(t_ids))
 
             if i.id in reaset:
                 rea = Lreu_py_tp.reactions.get_by_id(i.id)
-                if i.reaction !=rea.reaction or i.bounds != rea.bounds:
+
+                if i.reaction !=rea.reaction or i.bounds != rea.bounds  or rea.gene_reaction_rule !=i.gene_reaction_rule:
                     i.id = i.id + '_' + t_ids[index]
                     #print(i,i.bounds)
                     #print(rea,rea.bounds)
+                    # print (rea.gene_reaction_rule,'********',i.gene_reaction_rule)
                     Lreu_py_tp.add_reactions([i])
                 else:
                     rea.notes['from'] = rea.notes['from'] + i.notes['from']
-                    
-
-                    if rea.gene_reaction_rule !=i.gene_reaction_rule:
-                        #pass
-                        print (rea.gene_reaction_rule,i.gene_reaction_rule)
-                        rea.gene_reaction_rule = '(' + rea.gene_reaction_rule + ') or (' + i.gene_reaction_rule + ')'
             else:
                 Lreu_py_tp.add_reactions([i])
-
 
 
 removegeneslist = [i for i in Lreu_py_tp.genes if i.id not in allfromfromgene_list]
 
 cobra.manipulation.remove_genes(Lreu_py_tp,removegeneslist)
 
-#cobra.io.write_sbml_model(Lreu_py_tp, 'Lreu_py_te.xml')
-#My_def.io_outtxt(Lreu_py_tp,"Lreu_py_te.txt",True)
+cobra.io.write_sbml_model(Lreu_py_tp, '../../../ModelFiles/Lreu_py_te.xml')
+cobra.io.save_json_model( Lreu_py_tp, '../../../ModelFiles/Lreu_py_te.json')
+My_def.io_outtxt(Lreu_py_tp,"../../../ModelFiles/Lreu_py_te.txt",True)
 
 print ('done')
 
