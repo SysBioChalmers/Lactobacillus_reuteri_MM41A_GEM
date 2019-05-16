@@ -9,7 +9,6 @@ import os
 from Bio.Blast import NCBIXML
 import itertools
 
-
 os.chdir('../../ComplementaryData/01_Sequences_analysis/')
 
 names = ['Lreuteri_refseq_v01','Lreuteri_refseq_v02','Lreuteri_biogaia_v03']

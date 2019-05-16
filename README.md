@@ -7,6 +7,11 @@ Requirements,
 - [Biopython](https://biopython.org/)
 - [cobrapy](https://opencobra.github.io/cobrapy/)
 
+Notice, <br />
+Please add `./ComplementaryScripts/My_def` to sys.path to ues functions in My_def   <br />
+    - `import sys`    <br />
+    - `sys.path.extend(['./Projects/Project_Lreuteri/Lactobacillus_reuteri_MM41A_GEM/ComplementaryScripts/My_def'])` 
+
 Initial data, 
 - sequences of *L.reuteri* ,
     - Lreuteri_refseq_v01, Genbank [FTP](ftp://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/ASSEMBLY_BACTERIA/Lactobacillus_reuteri/GCF_000159475/)
