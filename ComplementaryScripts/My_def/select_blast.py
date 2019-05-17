@@ -48,7 +48,7 @@ def select_blast(result1,result2,best_match=True,evalue = 10**-10, pident = 40, 
 
     df2 = df2.rename(columns={'qseqid':'sseqid','sseqid':'qseqid'})
 
-    result_df = pd.merge(df1, df2[['qseqid','sseqid']], on=['qseqid','sseqid'], how='inner')
+    result_df = pd.merge(df1, df2, on=['qseqid','sseqid'], how='inner')
     return result_df
 
 if __name__ == '__main__':

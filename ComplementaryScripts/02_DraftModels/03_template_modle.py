@@ -4,10 +4,11 @@
 
 
 import os
+
 import cobra
-import re
 import pandas as pd
-from cobra import Model, Reaction, Metabolite
+from cobra import Model
+
 import My_def
 
 os.chdir('../../ComplementaryData/02_DraftModels/Template/')
@@ -63,8 +64,8 @@ for index in range(len(t_ids)):   #range(len(t_ids))
 
                 if i.reaction !=rea.reaction or i.bounds != rea.bounds  or rea.gene_reaction_rule !=i.gene_reaction_rule:
                     i.id = i.id + '_' + t_ids[index]
-                    #print(i,i.bounds)
-                    #print(rea,rea.bounds)
+                    print(i, i.bounds)
+                    print(rea, rea.bounds)
                     # print (rea.gene_reaction_rule,'********',i.gene_reaction_rule)
                     Lreu_py_tp.add_reactions([i])
                 else:
