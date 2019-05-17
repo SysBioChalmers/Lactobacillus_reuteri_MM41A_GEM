@@ -5,6 +5,7 @@
 #change the seq reads id
 
 import os
+
 from Bio import SeqIO
 
 os.chdir('../../ComplementaryData/02_DraftModels/Template/template_seqs/')

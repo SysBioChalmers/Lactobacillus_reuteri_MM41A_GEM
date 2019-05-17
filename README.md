@@ -14,8 +14,8 @@ Please add `./ComplementaryScripts/My_def` to sys.path to ues functions in My_de
 
 Initial data, 
 - sequences of *L.reuteri* ,
-    - Lreuteri_refseq_v01, Genbank [FTP](ftp://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/ASSEMBLY_BACTERIA/Lactobacillus_reuteri/GCF_000159475/)
-    - Lreuteri_refseq_v02, Genbank , ACCESSION   [NZ_ACGX02000007,FTP](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/159/475/GCF_000159475.2_ASM15947v2/)
+    - Lreuteri_refseq_v01, Genbank , [FTP ftp://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/ASSEMBLY_BACTERIA/Lactobacillus_reuteri/GCF_000159475/](ftp://ftp.ncbi.nlm.nih.gov/genomes/archive/old_refseq/ASSEMBLY_BACTERIA/Lactobacillus_reuteri/GCF_000159475/)
+    - Lreuteri_refseq_v02, Genbank , ACCESSION   [NZ_ACGX02000007,FTP ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/159/475/GCF_000159475.2_ASM15947v2/](ftp://ftp.ncbi.nlm.nih.gov/genomes/all/GCF/000/159/475/GCF_000159475.2_ASM15947v2/)
     - Lreuteri_biogaia_v03, Biogaia company, raw genome Lreuteri_biogaia_v03_Complete_sequence.fas annotated by [Prokka](http://github.com) 
 - Template model informations,
     - iBT721, Lactobacillus plantarumWCFS1, BioModels, https://www.ebi.ac.uk/biomodels/MODEL1507180045
