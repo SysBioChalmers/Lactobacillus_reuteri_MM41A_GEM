@@ -129,6 +129,69 @@ def build_model_from_template(candidate_rxns,BBHs,report=False):
     return model_from_template
 
 
+def parse_gr(gr):
+    # return a list of genes in gr rule
+    genes = list(set([item for item in gr.replace('(','').replace(')','').split() if item not in ['and','or']]))
+    genes.sort()
+    return genes
+
+
+def update_gr(gr,BBHs):
+    # replace the targetli gene ids in gr rule with the ones in querymonas based on BBH. For those targetli genes
+    # wihout BBH in querymonas, add a tag '_missing' at the end of the gene id
+    
+    target2query_map = dict()
+    for query_gene,target_gene in BBHs: target2query_map[target_gene] = query_gene
+    
+    genes = parse_gr(gr)
+    new_gr = gr
+    for gene in genes:
+        query_gene = target2query_map.get(gene)
+        if query_gene is None: query_gene = gene+'_missing'
+        new_gr = new_gr.replace(gene,query_gene)
+    
+    # refine new gr rule. 
+     
+    # case 1: if 'missing' not in gr rule, do not need to update
+    if '_missing' not in new_gr: refined_gr = new_gr
+    
+    # case 2: only 'or' relationships are in gr rule, remove all genes with '_missing' tag
+    elif ' and ' not in new_gr: 
+        new_genes = [item for item in parse_gr(new_gr) if '_missing' not in item]
+        refined_gr = ''
+        for g in new_genes: refined_gr += g + ' or '
+        refined_gr = refined_gr[:-4]
+    
+    # case 3: if 'or' not in gr rule, keep missing genes
+    elif 'or' not in new_gr: refined_gr = new_gr
+    
+    # case 4: if (A and B) or (C and D_missing) or E. In such or structure, if one of the gene/gene complex is 
+    #         complete, then remove all others with missing gene(s). if all parts are incompelte, only removes 
+    #         those part which are totally missing.
+    elif 'and' in new_gr and 'or' in new_gr: refined_gr = update_and_or_case(new_gr)
+
+    # Ohter cases: export to a txt file and manully edit
+    else:  refined_gr = new_gr
+    return refined_gr
+
+
+def report_model_status(model):
+    print('Number of reactions:',len(model.reactions))
+    print('Number of metabolits:',len(model.metabolites))
+    print('Number of compartments:',len(model.compartments))
+    k = 0
+    for gene in model.genes:
+        if 'missing' in gene.id: k += 1
+    print('Number of genes:',len(model.genes))
+    print('Number of missing genes:',k)
+    
+    k = 0
+    for rxn in model.reactions:
+        if '_missing' in rxn.gene_reaction_rule: k += 1
+    print('Number of reactions with missing genes:',k)
+
+
+
 # Modeling pipeline
 
 # load template model
