@@ -15,14 +15,14 @@ import cobra
 import pandas as pd
 
 
-def str_rea_metbolites(rea_metbolites):
+def str_rea_metabolites(rea_metabolites):
     '''
 
-    :param rea_metbolites: reaction.metabolites a dictionary
-    :return: a str of rea_metbolites
+    :param rea_metabolites: reaction.metabolites a dictionary
+    :return: a str of rea_metabolites
     '''
     temp_dic = {}
-    for k, v in rea_metbolites.items():
+    for k, v in rea_metabolites.items():
         temp_dic[k.id] = v
     str_mets = str(temp_dic)
 
@@ -53,7 +53,7 @@ for rea in bigg_model.reactions:
 
     rowlist.append(rea.id)
     rowlist.append(rea.reaction)
-    rowlist.append(str_rea_metbolites(rea.metabolites))
+    rowlist.append(str_rea_metabolites(rea.metabolites))
     rowlist.append(rea.bounds)
 
     if 'original_bigg_ids' in rea.notes.keys():
