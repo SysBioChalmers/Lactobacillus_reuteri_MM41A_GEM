@@ -19,12 +19,14 @@ import pysnooper
 #@pysnooper.snoop()
 def met_report(model,bigg_met_df,reaplace_id = True):
     '''
+    get a report to discribe the metabolites features
+    descripation : id in bigg or old bigg or not
 
     :param model:
     :return: met_report_df panda dataframe, a report of metabolites information
     '''
 
-    columns = ['type', 'id_in_tp', 'id_in_bigg', 'descripation', 'old_bigg_ids','feature_tp', 'feature_bigg', 'other']
+    columns = ['type', 'id_in_tp', 'id_in_bigg', 'descripation', 'old_bigg_ids','feature_tp', 'feature_bigg', 'notes']
     met_report_df = pd.DataFrame(columns=columns)
 
     for met in model.metabolites:
@@ -66,30 +68,34 @@ def met_report(model,bigg_met_df,reaplace_id = True):
 
 def standardlize_met(model,met_report_df,keywords = ['id in old_bigg_ids']):
     '''
-
+    change the model according to the report (replace old bigg id )
     :param model: process model,replace id
     :param met_report_df:
     :param keywords:
-    :return:
+    :return: model and report
     '''
 
     for keyword in keywords:
         temp_df = met_report_df[met_report_df['descripation'] == keyword]
+        temp_df = temp_df.copy()
         for index in range(len(temp_df)):
-            id_in_tp = temp_df['id_in_tp'].icol[index]
-            id_in_bigg = temp_df['id_in_bigg'].icol[index]
+            id_in_tp = temp_df['id_in_tp'].iloc[index]
+            id_in_bigg = temp_df['id_in_bigg'].iloc[index]
             if id_in_bigg != '' and id_in_bigg != id_in_tp:
                 model.metabolites.get_by_id(id_in_tp).id = id_in_bigg
+                temp_df['notes'].iloc[index] = 'replaced'
 
-
+        met_report_df.update(temp_df)
 
 
 
 def str_rea_metabolites(rea_metbolites):
     '''
+    convert reaction.metabolites to str
 
-    :param rea_metbolites: reaction.metabolites a dictionary
+    :param rea_metbolites: reaction.metabolites a special dictionary
     :return: a str of rea_metbolites
+    eval(str_rea_metabolites(rea_metbolites)) could be a normal dictionary
     '''
     temp_dic = {}
     for k, v in rea_metbolites.items():
@@ -99,7 +105,16 @@ def str_rea_metabolites(rea_metbolites):
     return str_mets
 
 def review_equation(rea, temp_df, row_list,columns):
-    # check equation
+
+    '''
+    check equation dital incloud euqation, bounds
+    :param rea: rea in model
+    :param temp_df: a part rea_report that id in bigg/ol_bigg
+    :param row_list:
+    :param columns:
+    :return: row_list to discribe reas same or not
+
+    '''
     rea_met_dic = eval(str_rea_metabolites(rea.metabolites))
     str_bounds = str(rea.bounds)
 
@@ -138,6 +153,18 @@ def review_equation(rea, temp_df, row_list,columns):
 
 #@pysnooper.snoop()
 def each_rea_report( rea, columns ,bigg_rea_df,reaplace_id):
+    '''
+    get a report to discribe the reactions features
+    descripation : id in bigg or old bigg , euqation same or not
+
+    :param model:
+    :return: rea_report_df panda dataframe, a report of rea information
+    :param rea:
+    :param columns:
+    :param bigg_rea_df:
+    :param reaplace_id:
+    :return:
+    '''
     row_list = [''] * len(columns)
     id_in_bigg = rea.id
 
@@ -177,10 +204,18 @@ def each_rea_report( rea, columns ,bigg_rea_df,reaplace_id):
     return row_list
 
 
-
 #@pysnooper.snoop()
-def rea_report(model, bigg_rea_df,reaplace_id = True):
-    columns = ['type', 'id_in_tp', 'id_in_bigg', 'descripation', 'old_bigg_ids','feature_tp', 'feature_bigg', 'other']
+def rea_report(model, bigg_rea_df,reaplace_id = True,):
+    '''
+    get a report to discribe the reactions features
+    descripation : id in bigg or old bigg , euqation same or not
+
+    :param model:
+    :return: rea_report_df panda dataframe, a report of rea information
+    :param rea:
+    '''
+
+    columns = ['type', 'id_in_tp', 'id_in_bigg', 'descripation', 'old_bigg_ids','feature_tp', 'feature_bigg', 'notes']
     rea_report_df = pd.DataFrame(columns=columns)
 
     for rea in model.reactions:
@@ -192,9 +227,17 @@ def rea_report(model, bigg_rea_df,reaplace_id = True):
     return rea_report_df
 
 def standardlize_rea(model,rea_report_df,keywords = ['id in bigg(same)','id in old_bigg(same)','id in old_bigg(mets different)','id in old_bigg(bounds different)','{id_in_bigg repeat}id in old_bigg(same)']):
+    '''
 
+    change the model according to the report (replace old bigg id )
+    :param model: process model,replace id
+    :param rea_report_df:
+    :param keywords:
+    :return: model and report
+    '''
     for keyword in keywords:
         temp_df = rea_report_df[rea_report_df['descripation'] == keyword]
+        temp_df = temp_df.copy()
         for index in range(len(temp_df)):
             id_in_tp = temp_df['id_in_tp'].iloc[index]
             id_in_bigg = temp_df['id_in_bigg'].iloc[index]
@@ -204,6 +247,9 @@ def standardlize_rea(model,rea_report_df,keywords = ['id in bigg(same)','id in o
                 if id_in_bigg not in realist:
                     model.reactions.get_by_id(id_in_tp).id = id_in_bigg
 
+                    temp_df['notes'].iloc[index] = 'replaced'
+        rea_report_df.update(temp_df)
+
 def merge_row_list(row_list , temp_row_list,columns):
 
     row_list[columns.index('id_in_bigg')] = temp_row_list[columns.index('id_in_bigg')]
@@ -212,8 +258,17 @@ def merge_row_list(row_list , temp_row_list,columns):
     return row_list
 
 def iNF517_report(model,bigg_rea_df,rea_report_df):
-    columns = ['type', 'id_in_tp', 'id_in_bigg', 'descripation', 'old_bigg_ids','feature_tp', 'feature_bigg', 'other']
+    '''
+    for iNF517
+    reaction id contain _copy1 and _copy2 problems
+    :param model:
+    :param bigg_rea_df:
+    :param rea_report_df:
+    :return:
+    '''
+    columns = ['type', 'id_in_tp', 'id_in_bigg', 'descripation', 'old_bigg_ids','feature_tp', 'feature_bigg', 'notes']
     temp_df = rea_report_df[rea_report_df['descripation'] == 'not in bigg']
+    temp_df = temp_df.copy()
 
     for index in range(len(temp_df)) :
         row_list = list(temp_df.iloc[index])
@@ -221,7 +276,7 @@ def iNF517_report(model,bigg_rea_df,rea_report_df):
 
         if '_copy' in  id_in_tp :
             new_id = id_in_tp.split('_copy')[0]
-            row_list[columns.index('other')] = new_id
+            row_list[columns.index('notes')] = new_id
 
             rea = model.reactions.get_by_id(id_in_tp)
             rea.id = new_id
@@ -229,10 +284,10 @@ def iNF517_report(model,bigg_rea_df,rea_report_df):
             rea.id = id_in_tp
 
             row_list = merge_row_list(row_list , temp_row_list,columns)
-            row_list[columns.index('other')] = new_id
+            row_list[columns.index('notes')] = new_id
 
             if 'same' in row_list[columns.index('descripation')]:
-                row_list[columns.index('other')] = 'keep'
+                row_list[columns.index('notes')] = 'keep'
 
             temp_df.iloc[index] = row_list
             #print(temp_df.iloc[index])
@@ -246,14 +301,61 @@ def iNF517_report(model,bigg_rea_df,rea_report_df):
 
 def iNF517_process(iNF517,rea_report_df):
 
-    columns = ['type', 'id_in_tp', 'id_in_bigg', 'descripation', 'old_bigg_ids', 'feature_tp', 'feature_bigg', 'other']
-    temp_df = rea_report_df[rea_report_df['other'] != '']
-    rea_id_list = list(temp_df['id_in_tp'])
+    '''
+    chaneg model accordng to the report:
+    combine _copy1 and _copy2
+    if rea == rea in bigg: keep
+    elif bounds != (0,0) :keep
+    elif copy1 == copy2 merge gpr,keep one
 
-    for i in rea_id_list:
-        rea = iNF517.reaction
-        print()
+    chaneg id without _copy
+    '''
+    df = rea_report_df[rea_report_df['notes'] != '']
+    df = df.copy()
 
+    realist = list(df['id_in_tp'])
+    for index in range(0, len(realist), 2):
+        keep1 = True
+        if 'same' in df.iloc[index]['descripation']:
+            rea = iNF517.reactions.get_by_id(realist[index])
+            rea_copy = iNF517.reactions.get_by_id(realist[index + 1])
+        elif 'same' in df.iloc[index + 1]['descripation']:
+            keep1 = False
+            rea = iNF517.reactions.get_by_id(realist[index + 1])
+            rea_copy = iNF517.reactions.get_by_id(realist[index])
+        else:
+            rea_copy1 = iNF517.reactions.get_by_id(realist[index])
+            rea_copy2 = iNF517.reactions.get_by_id(realist[index + 1])
+
+            if rea_copy1.bounds == (0.0, 0.0):
+                keep1 = False
+                rea = rea_copy2
+                rea_copy = rea_copy1
+            elif rea_copy2.bounds == (0.0, 0.0):
+                rea = rea_copy1
+                rea_copy = rea_copy2
+            else:
+                rea = rea_copy1
+                rea_copy = rea_copy2
+        if rea.gene_reaction_rule == '':
+            rea.gene_reaction_rule = rea_copy.gene_reaction_rule
+        elif rea_copy.gene_reaction_rule == '':
+            pass
+        elif rea.gene_reaction_rule != rea_copy.gene_reaction_rule:
+            rea.gene_reaction_rule = '(' + rea.gene_reaction_rule + ') or (' + rea_copy.gene_reaction_rule + ')'
+
+        if keep1:
+            df['notes'].iloc[index] = 'keep'
+            df['notes'].iloc[index + 1] = 'replaced'
+        else:
+            df['notes'].iloc[index + 1] = 'keep'
+            df['notes'].iloc[index] = 'replaced'
+
+        rea.id = realist[index].split('_copy')[0]
+        rea_copy.remove_from_model()
+        #print(index)
+
+    rea_report_df.update(df)
 
 
 if  __name__ == '__main__':
@@ -264,7 +366,7 @@ if  __name__ == '__main__':
     bigg_rea_df = pd.read_csv('../../../bigg_database/bigg_models_reactions_all.txt')
     bigg_met_df = pd.read_csv('../../../bigg_database/bigg_models_metabolites.txt', sep='\t', usecols=[0, 1, 5])
     t_id = ['iBT721', 'iNF517']
-    t_id = ['iNF517']
+    #t_id = ['iNF517']
 
     for model_id in t_id:
         modelfile = model_id+'.xml'
@@ -274,19 +376,20 @@ if  __name__ == '__main__':
                 met.id = met.id.replace('LSQBKT', '')
                 met.id = met.id.replace('_RSQBKT', '')
 
-        met_report_df = met_report(model, bigg_met_df, reaplace_id=True)
+        met_report_df = met_report(model, bigg_met_df, reaplace_id=False)
         standardlize_met(model, met_report_df)
-        met_report_df.to_csv(model_id +'_met_report.csv')
+        met_report_df.to_csv(model_id +'_met_report.csv', index=False)
 
-        rea_report_df = rea_report(model, bigg_rea_df, reaplace_id=True)
+        rea_report_df = rea_report(model, bigg_rea_df, reaplace_id=False)
 
         if model_id == 'iNF517' :
-            rea_report_df = iNF517_report(model,bigg_rea_df,rea_report_df)
+            rea_report_df = iNF517_report(model, bigg_rea_df, rea_report_df)
+            iNF517_process(model,rea_report_df)
 
         standardlize_rea(model, rea_report_df)
-        rea_report_df.to_csv(model_id +'_rea_report.csv')
+        rea_report_df.to_csv(model_id +'_rea_report.csv', index=False)
 
-        #cobra.io.save_json_model(model,model_id + '_standlized.json')
+        cobra.io.save_json_model(model,model_id + '_standlized.json')
 
 
 
