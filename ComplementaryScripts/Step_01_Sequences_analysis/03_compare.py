@@ -8,7 +8,7 @@ import My_def
 from matplotlib_venn import venn3, venn3_circles
 from matplotlib import pyplot as plt
 
-os.chdir('../../ComplementaryData/01_Sequences_analysis/')
+os.chdir('../../ComplementaryData/Step_01_Sequences_analysis/')
 
 names = ['Lreuteri_refseq_v01','Lreuteri_refseq_v02','Lreuteri_biogaia_v03']
 result_dic = {}

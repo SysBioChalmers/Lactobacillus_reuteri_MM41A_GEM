@@ -5,7 +5,7 @@
 import os
 from Bio import SeqIO
 
-os.chdir('../../ComplementaryData/01_Sequences_analysis/')
+os.chdir('../../ComplementaryData/Step_01_Sequences_analysis/')
 
 gbk_file = 'Lreuteri_refseq_v01/Lreuteri_refseq_v01.gbk'
 fna_file = "Lreuteri_refseq_v01/Lreuteri_refseq_v01.fna"

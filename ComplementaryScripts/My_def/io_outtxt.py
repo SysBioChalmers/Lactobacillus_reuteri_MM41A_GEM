@@ -15,7 +15,7 @@ def io_outtxt(model,outfile,sort=False):
 if __name__ == '__main__':
     import cobra
     import os
-    os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/Stept_02_DraftModels/Template/')
+    os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/Step_02_DraftModels/Template/')
     iNF517 = cobra.io.read_sbml_model('iNF517.xml')
     outfile = "iNF517_3.txt"
     io_outtxt(iNF517, outfile, True)

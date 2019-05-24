@@ -8,7 +8,7 @@ import os
 
 from Bio import SeqIO
 
-os.chdir('../../ComplementaryData/Stept_02_DraftModels/Template/template_seqs/')
+os.chdir('../../ComplementaryData/Step_02_DraftModels/Template/template_seqs/')
 
 templatelist = ['iBT721',
                 'iNF517',

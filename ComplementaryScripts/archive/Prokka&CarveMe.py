@@ -4,7 +4,7 @@
 
 import os
 
-os.chdir('../../ComplementaryData/01_Sequences_analysis/')
+os.chdir('../../ComplementaryData/Step_01_Sequences_analysis/')
 
 #prokka wiout any protien sequences
 #os.system('prokka --outdir prokka/v1 --prefix Lreuteri_6475_v1 Final_6475_Sequence.fas --force')

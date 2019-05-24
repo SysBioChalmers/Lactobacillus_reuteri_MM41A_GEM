@@ -8,7 +8,7 @@ import re
 import My_def
 import pandas as pd
 
-os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/03_Compare_Refine/')
+os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/Step_03_Compare_Refine/')
 
 
 namelist = ['Lreu_se_rast.xml','Lreu_se_pro.xml','Lreu_se_dna.xml']

@@ -12,7 +12,7 @@ import os
 import cobra
 import My_def
 
-os.chdir('../../ComplementaryData/Stept_02_DraftModels/')
+os.chdir('../../ComplementaryData/Step_02_DraftModels/')
 
 #Gram positive
 os.system('carve Lreuteri_biogaia_v03.faa --cobra -u grampos -o CarveMe/Lreu_ca_gp.xml');

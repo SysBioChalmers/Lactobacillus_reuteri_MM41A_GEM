@@ -12,7 +12,7 @@ from matplotlib import pyplot as plt
 from matplotlib_venn import venn3, venn3_circles
 from matplotlib_venn import venn2, venn2_circles
 
-os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/03_Compare_Refine/')
+os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/Step_03_Compare_Refine/')
 
 with open('data.pickle', 'rb') as file:
     modelpdlist =pickle.load(file)

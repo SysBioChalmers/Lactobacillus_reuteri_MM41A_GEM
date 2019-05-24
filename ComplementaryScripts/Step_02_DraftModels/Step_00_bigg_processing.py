@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Created by Hao Luo at 2019-05-17
 
-"""01_bigg_processing.py
+"""Step_00_bigg_processing.py
 :description : script to process bigg model to easy to load
 :param : bigg database
 :returns: new files that easy to load

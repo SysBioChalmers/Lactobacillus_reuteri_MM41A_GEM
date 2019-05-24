@@ -10,7 +10,7 @@ import pandas as pd
 import pickle
 
 
-os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/03_Compare_Refine/')
+os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/Step_03_Compare_Refine/')
 
 with open('data.pickle', 'rb') as file:
     modelpdlist =pickle.load(file)

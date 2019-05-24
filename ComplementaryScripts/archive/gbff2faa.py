@@ -6,7 +6,7 @@
 import os
 from Bio import SeqIO
 
-os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/Stept_02_DraftModels/Template/')
+os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/Step_02_DraftModels/Template/')
 
 
 gbk_file = "GCF_000009425.1_ASM942v1_genomic.gbff"

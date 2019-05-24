@@ -12,7 +12,7 @@ from cobra import Reaction
 from cobra.flux_analysis import gapfill
 from cobra.flux_analysis import flux_variability_analysis
 
-os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/03_Compare_Refine/')
+os.chdir('/Users/lhao/Box Sync/Project_Lreuteri/Step_03_Compare_Refine/')
 
 iNF517 = cobra.io.load_json_model('iNF517_initial.json')
 Lreu_ca_gp = cobra.io.load_json_model('Lreu_ca_gp.json')

@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Created by Hao Luo at 2019-05-17
 
-"""02_tp_models_standardlization.py
+"""Step_01_tp_models_standardlization.py
 :description : script to process the template models (iBT517 & iNF517)
 :param :  template models
 :returns:  standardlized models
@@ -359,7 +359,7 @@ def iNF517_process(iNF517,rea_report_df):
 
 
 if  __name__ == '__main__':
-    os.chdir('../../ComplementaryData/Stept_02_DraftModels/Template/template_models/')
+    os.chdir('../../ComplementaryData/Step_02_DraftModels/Template/template_models/')
 
     # with open('../../../bigg_database/universal_model.pickle', 'rb') as f:
     #    bigg_model = pickle.load(f)
