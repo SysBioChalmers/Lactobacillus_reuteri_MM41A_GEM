@@ -24,10 +24,10 @@ def do_blast(query_fasta,target_fasta):
     blast_cmd = '''mkdir blast_tmps
     mv input.fa blast_tmps
     makeblastdb -dbtype prot -in blast_tmps/input.fa  -out blast_tmps/DB
-    blastp -query blast_tmps/input.fa -db blast_tmps/DB -outfmt 6  -max_target_seqs 500 -max_hsps 1  -num_threads 1 -out ../Results/bidirectional_blast.tab
+    blastp -query blast_tmps/input.fa -db blast_tmps/DB -outfmt 6  -max_target_seqs 500 -max_hsps 1  -num_threads 1 -out blast/bidirectional_blast.tab
     '''
     os.system(blast_cmd)
-    add_coverage('blast_tmps/input.fa','../Results/bidirectional_blast.tab')
+    add_coverage('blast_tmps/input.fa','blast/bidirectional_blast.tab')
     os.system('rm -r blast_tmps')
 
 
@@ -68,7 +68,7 @@ def extract_BBHs(BBH_evalue,report=False,coverage=45):
     
     target_query = dict()
     query_target = dict()
-    for line in open('../Results/bidirectional_blast.tab'):
+    for line in open('blast/bidirectional_blast.tab'):
         cont = line.split()
         evalue = float(cont[10])
         cov = float(cont[12])
@@ -105,12 +105,14 @@ def get_all_rxns_in_BBH(template_model, BBHs):
     # get all reactions
     candidate_rxn_ids = list()
     candidate_rxns = list()
+    gene_set = set([ i.id for i in template_model.genes])
     for query_gene,target_gene in BBHs:
-        gene = template_model.genes.get_by_id(target_gene)
-        for rxn in gene.reactions:
-            if rxn.id not in candidate_rxn_ids: 
-                candidate_rxn_ids.append(rxn.id)
-                candidate_rxns.append(rxn)
+        if target_gene in gene_set:     # KeyError  KeyError: 'lp_0001' (gene id not in model)
+            gene = template_model.genes.get_by_id(target_gene)
+            for rxn in gene.reactions:
+                if rxn.id not in candidate_rxn_ids:
+                    candidate_rxn_ids.append(rxn.id)
+                    candidate_rxns.append(rxn)
     print('Number of candiate reactions:',len(candidate_rxn_ids))
     
     return candidate_rxns
@@ -168,7 +170,7 @@ def update_gr(gr,BBHs):
     # case 4: if (A and B) or (C and D_missing) or E. In such or structure, if one of the gene/gene complex is 
     #         complete, then remove all others with missing gene(s). if all parts are incompelte, only removes 
     #         those part which are totally missing.
-    elif 'and' in new_gr and 'or' in new_gr: refined_gr = update_and_or_case(new_gr)
+    #elif 'and' in new_gr and 'or' in new_gr: refined_gr = update_and_or_case(new_gr)
 
     # Ohter cases: export to a txt file and manully edit
     else:  refined_gr = new_gr
@@ -191,18 +193,21 @@ def report_model_status(model):
     print('Number of reactions with missing genes:',k)
 
 
+if __name__ =='__main__':
+    # Modeling pipeline
 
-# Modeling pipeline
+    # load template model
+    #template_model = cobra.io.read_sbml_model('iJO1366.xml')
+    os.chdir('../../ComplementaryData/02_DraftModels/Template/')
+    template_model = cobra.io.load_json_model('template_models/iBT721_standlized.json')
 
-# load template model
-template_model = cobra.io.read_sbml_model('iJO1366.xml')
+    # do blast
+    do_blast('../Lreuteri_biogaia_v03.faa',
+              'template_seqs/iBT721.faa')
 
-# do blast
-do_blast('query_protein_seqeunces.fasta',
-          'orf_iJO1366_formated.fasta')
+    BBHs = extract_BBHs(1e-20,True)
 
-BBHs = extract_BBHs(1e-20,True)
+    candidate_rxns = get_all_rxns_in_BBH(template_model, BBHs)
 
-candidate_rxns = get_all_rxns_in_BBH(template_model, BBHs)
+    model_from_template = build_model_from_template(candidate_rxns,BBHs,True)
 
-model_from_template = build_model_from_template(candidate_rxns,BBHs,True)

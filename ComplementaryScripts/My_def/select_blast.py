@@ -9,7 +9,7 @@ import re
 import pysnooper
 
 #@pysnooper.snoop()
-def select_blast(result1,result2,best_match=True,evalue = 10**-10, pident = 40, length = 200, bitscore = 0, ppos = 0 ):
+def select_blast(result1,result2,best_match=True,evalue = 10**-10, pident = 40, length = 200, bitscore = 0, ppos = 0 ,qcovs = 0):
     '''
     selsect the result hits from blast result
     :param result1: blast result file -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"
@@ -26,14 +26,14 @@ def select_blast(result1,result2,best_match=True,evalue = 10**-10, pident = 40, 
             result2 = 'Lreuteri_refseq_v02_in_Lreuteri_refseq_v01.csv'
             result_df = select_blast(result1, result2, best_match=True,evalue = 10**-10, pident = 40, length = 0, bitscore = 0, ppos = 0)
     '''
-    names = ['qseqid', 'sseqid', 'evalue', 'pident', 'length', 'bitscore', 'ppos']
+    names = ['qseqid', 'sseqid', 'evalue', 'pident', 'length', 'bitscore', 'ppos','qcovs']
 
     df1 = pd.read_csv(result1, sep = '\t', names = names)
     df2 = pd.read_csv(result2, sep = '\t', names = names)
 
     for index  in [0,1]:
         dfi = [df1,df2][index]
-        dfi = dfi[(dfi["evalue"] <= evalue) & (dfi["pident"] >= pident) & (dfi["length"] >= length) & (dfi["bitscore"] >= bitscore) & (dfi["ppos"] >= ppos)]
+        dfi = dfi[(dfi["evalue"] <= evalue) & (dfi["pident"] >= pident) & (dfi["length"] >= length) & (dfi["bitscore"] >= bitscore) & (dfi["ppos"] >= ppos) & (dfi["qcovs"] >= qcovs)]
         dfi = dfi.copy()
         dfi['sseqid'] = dfi.sseqid.apply(lambda x: re.sub('(\|$)|(^.*?\|)','',x))
         dfi = dfi.sort_values(['qseqid', 'pident','bitscore'], ascending=[True,False,False])

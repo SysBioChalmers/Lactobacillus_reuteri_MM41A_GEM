@@ -4,35 +4,96 @@
 
 
 import os
+import pandas as pd
+import re
 import My_def
 
-os.chdir('../../ComplementaryData/02_DraftModels/Template/')
+def blastp_pairwise(qseq_file,sseq_file,out_dir = ''):
 
-t_ids = ['iBT721','iNF517','iMP429','iYO844','iML1515']
-t_models = ['template_models/'+i+'.xml'for i in t_ids]
+    '''
+
+    :param qseq_file:
+    :param sseq_file:
+    :param out_dir:
+    :return:  two files
+    '''
+
+    os.system('mkdir blast_tmps')
+
+    mk_db = 'makeblastdb -in '+ qseq_file +' -dbtype prot -out blast_tmps/qseq_db -parse_seqids\n' \
+            'makeblastdb -in '+ sseq_file +' -dbtype prot -out blast_tmps/sseq_db -parse_seqids'
+    os.system(mk_db)
+    print('blasting...')
+    blastp_cmd ='blastp -db blast_tmps/qseq_db -query ' + sseq_file + ' -out '+ out_dir +' blast_result_s_in_q.csv -evalue 1 -outfmt "6 qseqid sseqid evalue pident length bitscore ppos qcovs" \n' \
+                'blastp -db blast_tmps/sseq_db -query ' + qseq_file + ' -out '+ out_dir +' blast_result_q_in_s.csv -evalue 1 -outfmt "6 qseqid sseqid evalue pident length bitscore ppos qcovs"'
+    os.system(blastp_cmd)
+
+    #os.system('rm -r blast_tmps')
+    return out_dir + 'blast_result_s_in_q.csv', out_dir + 'blast_result_q_in_s.csv'
+    print('out put files are ' + out_dir + '/blast_result_s_in_q.csv and blast_result_q_in_s.csv')
 
 
-Lreu_seq = '../Lreuteri_biogaia_v03.faa'
-Lreu_db = 'blast/Lreu/Lreu'
-os.system('makeblastdb -in ../Lreuteri_biogaia_v03.faa -dbtype prot -out blast/Lreu/Lreu -parse_seqids')
+def select_blast(result1 = 'blast_result_s_in_q.csv',result2 = 'blast_result_q_in_s.csv',best_match=True,evalue = 10**-10, pident = 40, length = 200, bitscore = 0, ppos = 0 ,qcovs = 0):
+    '''
+    selsect the result hits from blast result
+    :param result1: blast result file -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"
+    :param result2: last result file -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"
+    :param best_match: BBH(Bidirectional Best Hits) from blast results, best mached and  unique
+    :param evalue:  evalue = 10**-10
+    :param pident:  ident
+    :param length:  matched length
+    :param bitscore:
+    :param ppos:
+    :return:    a dataframe meet the params
+    examlple:
+            result1 = 'Lreuteri_refseq_v01_in_Lreuteri_refseq_v02.csv'
+            result2 = 'Lreuteri_refseq_v02_in_Lreuteri_refseq_v01.csv'
+            result_df = select_blast(result1, result2, best_match=True,evalue = 10**-10, pident = 40, length = 0, bitscore = 0, ppos = 0)
+    '''
+    names = ['qseqid', 'sseqid', 'evalue', 'pident', 'length', 'bitscore', 'ppos','qcovs']
 
-for index in range(len(t_ids)):  #
-    t_seqsdb = 'blast/' + t_ids[index] + '/' + t_ids[index]
-    t_seqs = 'template_seqs/' + t_ids[index]+'.faa'
+    df1 = pd.read_csv(result1, sep = '\t', names = names)
+    df2 = pd.read_csv(result2, sep = '\t', names = names)
 
-    balstdb = 'makeblastdb -in ' + t_seqs + ' -dbtype prot -out ' + t_seqsdb + ' -parse_seqids'
-    os.system(balstdb)
+    for index  in [0,1]:
+        dfi = [df1,df2][index]
+        dfi = dfi[(dfi["evalue"] <= evalue) & (dfi["pident"] >= pident) & (dfi["length"] >= length) & (dfi["bitscore"] >= bitscore) & (dfi["ppos"] >= ppos) & (dfi["qcovs"] >= qcovs)]
+        dfi = dfi.copy()
+        dfi['sseqid'] = dfi.sseqid.apply(lambda x: re.sub('(\|$)|(^.*?\|)','',x))
+        dfi = dfi.sort_values(['qseqid', 'pident','bitscore'], ascending=[True,False,False])
 
-    outfile1 = 'blast/'+ t_ids[index] +'_in_Lreu.csv'
-    balsttoLeu = 'blastp -db Blast/Lreu/Lreu -query ' + t_seqs + ' -out ' + outfile1 +  ' -evalue 10e-5  -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"'
-    os.system(balsttoLeu)
+        if best_match:
+            dfi = dfi.drop_duplicates(subset='qseqid', keep='first')
 
-    outfile2 = 'blast/Lreu_in_' + t_ids[index] + '.csv'
-    balstfromLeu = 'blastp -db '+ t_seqsdb +' -query ../Lreuteri_biogaia_v03.faa -out ' + outfile2 + '  -evalue 10e-5  -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"'
-    os.system(balstfromLeu)
+        if index ==0:
+            df1 = dfi
+        else:
+            df2 = dfi
 
-    result_df = My_def.select_blast(outfile1, outfile2, best_match=True,evalue = 10**-10, pident = 0, length = 0, bitscore = 100, ppos = 45)
+    df2 = df2.rename(columns={'qseqid':'sseqid','sseqid':'qseqid'})
 
-    result_df.to_csv('blast/' + t_ids[index] + '_and_Lreu.csv' , index = False)
+    result_df = pd.merge(df1, df2, on=['qseqid','sseqid'], how='inner')
+    return result_df
+
+
+if __name__ =='__main__':
+
+    os.chdir('../../ComplementaryData/02_DraftModels/Template/')
+
+    t_ids = ['iBT721','iNF517','iMP429','iYO844','iML1515']
+
+    for i in t_ids:  #
+
+        qseq_file = '../Lreuteri_biogaia_v03.faa'
+        sseq_file = 'template_seqs/' + i +'.faa'
+
+        blast_result_s_in_q, blast_result_q_in_s = blastp_pairwise(qseq_file, sseq_file, out_dir='')
+
+        blast_result_df = My_def.select_blast(blast_result_s_in_q, blast_result_q_in_s, best_match=True, evalue=10 ** -10, pident=0, length=0,
+                                              bitscore=100, ppos=45, qcovs=0)
+
+        blast_result_df.to_csv('blast/' + i + '_and_Lreu.csv', index=False)
+        os.system('rm ' + blast_result_s_in_q )
+        os.system('rm ' + blast_result_q_in_s)
 
 

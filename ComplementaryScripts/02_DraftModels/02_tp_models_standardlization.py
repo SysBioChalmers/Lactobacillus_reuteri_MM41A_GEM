@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Created by Hao Luo at 2019-05-17
 
-"""tp_models_standardlization.py
+"""02_tp_models_standardlization.py
 :description : script to process the template models (iBT517 & iNF517)
 :param :  template models
 :returns:  standardlized models
