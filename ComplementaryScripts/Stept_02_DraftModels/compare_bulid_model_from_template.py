@@ -13,7 +13,7 @@ import os
 
 
 
-os.chdir('../../ComplementaryData/02_DraftModels/Template/')
+os.chdir('../../ComplementaryData/Stept_02_DraftModels/Template/')
 template_model = cobra.io.load_json_model('template_models/iBT721_standlized.json')
 
 # do blast

@@ -48,7 +48,7 @@ def get_model_from_template(tp_model, blase_result_df):
 
 
 if __name__ == '__main__':
-    os.chdir('../../ComplementaryData/02_DraftModels/Template/')
+    os.chdir('../../ComplementaryData/Stept_02_DraftModels/Template/')
     t_ids = ['iBT721', 'iNF517']    # ['iBT721','iNF517','iMP429','iYO844','iML1515']
     for index in range(len(t_ids)):
         blast_result_df = pd.read_csv('blast/' + t_ids[index] + '_and_Lreu.csv')

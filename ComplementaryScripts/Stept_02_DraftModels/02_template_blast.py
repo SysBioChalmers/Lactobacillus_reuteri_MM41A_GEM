@@ -78,7 +78,7 @@ def select_blast(result1 = 'blast_result_s_in_q.csv',result2 = 'blast_result_q_i
 
 if __name__ =='__main__':
 
-    os.chdir('../../ComplementaryData/02_DraftModels/Template/')
+    os.chdir('../../ComplementaryData/Stept_02_DraftModels/Template/')
 
     t_ids = ['iBT721','iNF517','iMP429','iYO844','iML1515']
 

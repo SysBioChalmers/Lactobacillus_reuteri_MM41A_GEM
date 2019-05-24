@@ -359,7 +359,7 @@ def iNF517_process(iNF517,rea_report_df):
 
 
 if  __name__ == '__main__':
-    os.chdir('../../ComplementaryData/02_DraftModels/Template/template_models/')
+    os.chdir('../../ComplementaryData/Stept_02_DraftModels/Template/template_models/')
 
     # with open('../../../bigg_database/universal_model.pickle', 'rb') as f:
     #    bigg_model = pickle.load(f)
