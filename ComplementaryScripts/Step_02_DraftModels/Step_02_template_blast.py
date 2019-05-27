@@ -60,7 +60,7 @@ def select_blast(result1 = 'blast_result_s_in_q.csv',result2 = 'blast_result_q_i
         dfi = dfi[(dfi["evalue"] <= evalue) & (dfi["pident"] >= pident) & (dfi["length"] >= length) & (dfi["bitscore"] >= bitscore) & (dfi["ppos"] >= ppos) & (dfi["qcovs"] >= qcovs)]
         dfi = dfi.copy()
         dfi['sseqid'] = dfi.sseqid.apply(lambda x: re.sub('(\|$)|(^.*?\|)','',x))
-        dfi = dfi.sort_values(['qseqid', 'pident','bitscore'], ascending=[True,False,False])
+        dfi = dfi.sort_values(['qseqid', "evalue" , 'pident','bitscore'], ascending=[True,True,False,False])
 
         if best_match:
             dfi = dfi.drop_duplicates(subset='qseqid', keep='first')

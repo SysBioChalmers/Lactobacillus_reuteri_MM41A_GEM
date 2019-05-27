@@ -11,7 +11,7 @@ from cobra import Model
 import My_def
 
 
-def get_model_from_template(tp_model, blase_result_df):
+def get_model_from_template(tp_model1, blase_result_df,remove_missing_genes = True):
     '''
     build a model based on template model
     :param tp_model: template model
@@ -19,14 +19,19 @@ def get_model_from_template(tp_model, blase_result_df):
     :return:  draft model
     '''
 
+    tp_model = tp_model1.copy()
     model = Model()
     model.description = 'GEM for L.reuteri by template' + tp_model.id
-    tp_gene_list = blast_result_df['qseqid'].to_list()
-    my_gene_list = blast_result_df['sseqid'].to_list()
+    tp_gene_list = blase_result_df['qseqid'].to_list()
+    my_gene_list = blase_result_df['sseqid'].to_list()
 
     for rea in tp_model.reactions:
 
         new_gpr_i, torf = My_def.gpr2log(rea.gene_reaction_rule, tp_gene_list)
+
+        if not remove_missing_genes:
+            if 'True' in new_gpr_i:
+                torf = True
 
         if torf:
             rea.notes['from'] = [tp_model.id]
@@ -42,7 +47,9 @@ def get_model_from_template(tp_model, blase_result_df):
             model.add_reactions([rea])
 
     removegeneslist = [i for i in model.genes if i.id not in my_gene_list]
-    cobra.manipulation.remove_genes(model, removegeneslist)
+
+    if remove_missing_genes:
+        cobra.manipulation.remove_genes(model, removegeneslist)
 
     return model
 
