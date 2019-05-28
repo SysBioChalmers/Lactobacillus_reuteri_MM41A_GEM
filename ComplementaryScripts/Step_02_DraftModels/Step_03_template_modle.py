@@ -65,8 +65,8 @@ if __name__ == '__main__':
         Lreu_py_tp = get_model_from_template(tp_model, blast_result_df)
         locals()['Lreu_from_' + t_ids[index]] = Lreu_py_tp
 
-        #cobra.io.write_sbml_model(Lreu_py_tp, '../../../ModelFiles/Lreu_from_' + t_ids[index] + '.xml')
-        #cobra.io.save_json_model(Lreu_py_tp, '../../../ModelFiles/Lreu_from_' + t_ids[index] + '.json')
-        #My_def.io_outtxt(Lreu_py_tp, '../../../ModelFiles/Lreu_from_' + t_ids[index] + '.txt', True)
+        cobra.io.write_sbml_model(Lreu_py_tp, 'Lreu_from_' + t_ids[index] + '.xml')
+        cobra.io.save_json_model(Lreu_py_tp, 'Lreu_from_' + t_ids[index] + '.json')
+        My_def.io_outtxt(Lreu_py_tp, 'Lreu_from_' + t_ids[index] + '.txt', True)
 
         print('done')
