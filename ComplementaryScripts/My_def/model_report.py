@@ -76,6 +76,12 @@ def met_report(model, bigg_met_df, compartment=''):
         met_report_df = met_report_df.sort_values(by='descripation').reset_index(drop=True)
 
     return met_report_df
+def combine_met(keep_id,replace_id,model):
+
+    for rea in model.metabolites.get_by_id(replace_id).reactions:
+        # rea.reaction = re.sub(r'(^|\b)'+id_in_tp+'(\b|$)', id_in_bigg, rea.reaction)
+        model.reactions.get_by_id(rea.id).reaction = re.sub('(^| )' + replace_id + '( |$)', keep_id, rea.reaction)
+    model.metabolites.get_by_id(replace_id).remove_from_model()
 
 
 def standardlize_met(model1, met_report_df, keywords=''):
