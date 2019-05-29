@@ -69,7 +69,9 @@ def merge_gprule(gpr1,gpr2):
 def merge_draftmodels(model1, model2):
     model = model1.copy()
     reaset = set([i.id for i in model.reactions])
+    errodic = {}
     for rea2 in model2.reactions:
+
         if rea2.id not in reaset:
             model.add_reaction(rea2)
             reaset.add(rea2.id)
@@ -77,18 +79,24 @@ def merge_draftmodels(model1, model2):
             rea1 = model1.reactions.get_by_id(rea2.id)
             gpr,notes = compare_euqations(rea1, rea2)
             if notes[0] == 'mets different':
-                print(rea1,'\n',rea2,'\n',notes[0],'ignore')
+
+
+                dif = [i for i in dir_rea_metabolites(rea1.metabolites).keys() if i not in dir_rea_metabolites(rea2.metabolites).keys()]
+
+                errodic[rea1.id] = [rea1.reaction,rea2.reaction,dif]
+
             elif notes[2] == '':
                 model.reactions.get_by_id(rea2.id).gene_reaction_rule = gpr
-    return model
-
+    for k,v in errodic.items():
+        print(k,'\t',v)
+    return model,errodic
 
 if __name__=='__main__':
     os.chdir('../../ComplementaryData/Step_02_DraftModels/')
 
 
-    Lreu_ca_standardlized = cobra.io.load_json_model('CarveMe/Lreu_ca_standardlized.json')
-    Lreu_ca_gp_standardlized = cobra.io.load_json_model('CarveMe/Lreu_ca_gp_standardlized.json')
+    Lreu_ca = cobra.io.load_json_model('CarveMe/Lreu_ca.json')
+    Lreu_ca_gp = cobra.io.load_json_model('CarveMe/Lreu_ca_gp.json')
     Lreu_from_iNF517 = cobra.io.load_json_model('Template/Lreu_from_iNF517.json')
     Lreu_from_iBT721 = cobra.io.load_json_model('Template/Lreu_from_iBT721.json')
 
@@ -99,14 +107,14 @@ if __name__=='__main__':
 
     # %%    <option 2>
     # by def function
+    # NOTE ! based on Lreu_from_iNF517 because metabolites notes
+    # NoTE ! change model by hand according to the error raise
 
-    model2 = merge_draftmodels(Lreu_from_iBT721,Lreu_from_iNF517)
-
-    model2 = merge_draftmodels(model2,Lreu_ca_gp_standardlized)
-
-
-
-
-
+    #model2,errodic = merge_draftmodels(Lreu_from_iBT721,Lreu_from_iNF517)
+    model2, errodic = merge_draftmodels(Lreu_from_iNF517, Lreu_from_iBT721)
+    model2,errodic  = merge_draftmodels(model2,Lreu_ca_gp)
 
     #cobra.io.save_json_model(model,'../../ModelFiles/Lreu.json')
+
+
+
