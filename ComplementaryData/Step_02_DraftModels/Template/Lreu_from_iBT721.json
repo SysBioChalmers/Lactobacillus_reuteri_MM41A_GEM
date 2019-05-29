@@ -745,7 +745,7 @@
 "formula":"H2S"
 },
 {
-"id":"cysth__L_c",
+"id":"cyst__L_c",
 "name":"L_Cystathionine",
 "compartment":"default",
 "formula":"X"
@@ -3714,7 +3714,7 @@
 "metabolites":{
 "2obut_c":1.0,
 "cys__L_c":1.0,
-"cysth__L_c":-1.0,
+"cyst__L_c":-1.0,
 "h2o_c":-1.0,
 "nh4_c":1.0
 },
@@ -3731,7 +3731,7 @@
 "id":"CYSTL",
 "name":"cystathionine b lyase",
 "metabolites":{
-"cysth__L_c":-1.0,
+"cyst__L_c":-1.0,
 "h2o_c":-1.0,
 "hcys__L_c":1.0,
 "nh4_c":1.0,
