@@ -1387,7 +1387,7 @@
 "formula":"H2S"
 },
 {
-"id":"cysth__L_c",
+"id":"cyst__L_c",
 "name":"L_Cystathionine",
 "compartment":"default",
 "formula":"X"
@@ -5937,7 +5937,7 @@
 "metabolites":{
 "2obut_c":1.0,
 "cys__L_c":1.0,
-"cysth__L_c":-1.0,
+"cyst__L_c":-1.0,
 "h2o_c":-1.0,
 "nh4_c":1.0
 },
@@ -5949,7 +5949,7 @@
 "id":"CYSTL",
 "name":"cystathionine b lyase",
 "metabolites":{
-"cysth__L_c":-1.0,
+"cyst__L_c":-1.0,
 "h2o_c":-1.0,
 "hcys__L_c":1.0,
 "nh4_c":1.0,
@@ -13036,7 +13036,7 @@
 "ac_c":1.0,
 "achms_c":-1.0,
 "cys__L_c":-1.0,
-"cysth__L_c":1.0,
+"cyst__L_c":1.0,
 "h_c":1.0
 },
 "lower_bound":0.0,
@@ -17081,7 +17081,7 @@
 "name":"lp_3665"
 }
 ],
-"id":"MODEL1507180045",
+"id":"iBT721",
 "name":"Teusink2006 - Genome-scale metabolic network of Lactobacillus plantarum (iBT721)",
 "compartments":{
 "default":"No Compartment"

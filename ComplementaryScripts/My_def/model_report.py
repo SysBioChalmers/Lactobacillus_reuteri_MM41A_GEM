@@ -9,15 +9,9 @@
 :rtype: dataframe
 """
 
-import os
 import re
 
-import cobra
 import pandas as pd
-from matplotlib import pyplot as plt
-from matplotlib_venn import venn3, venn3_circles
-from matplotlib_venn import venn2, venn2_circles
-import My_def
 
 
 # @pysnooper.snoop()
@@ -51,7 +45,6 @@ def each_met_report(met_id, bigg_met_df, columns):
 
     return row_list
 
-
 def met_report(model, bigg_met_df, compartment=''):
     '''
     get a report to discribe the metabolites features
@@ -77,6 +70,7 @@ def met_report(model, bigg_met_df, compartment=''):
                     row_list2[columns.index('descripation')] = 'without compartment(' + row_list2[
                         columns.index('descripation')] + ')'
                     row_list[2:] = row_list2[2:]
+                    print('Manual check: ', row_list)
 
         met_report_df.loc[len(met_report_df)] = row_list
         met_report_df = met_report_df.sort_values(by='descripation').reset_index(drop=True)
@@ -94,8 +88,8 @@ def standardlize_met(model1, met_report_df, keywords=''):
     '''
     model = model1.copy()
     if keywords == '':
-        keywords = ['id in old_bigg_ids', 'without compartment(id in bigg)', 'without compartment(id in old_bigg_ids)']
-
+        # keywords = ['id in old_bigg_ids', 'without compartment(id in bigg)', 'without compartment(id in old_bigg_ids)']
+        keywords = ['id in old_bigg_ids']
     for keyword in keywords:
         temp_df = met_report_df[met_report_df['descripation'] == keyword]
         temp_df = temp_df.copy()
@@ -136,6 +130,12 @@ def str_rea_metabolites(rea_metbolites):
     return str_mets
 
 
+def revers_dic(dic):
+    temp_dic = {}
+    for k, v in dic.items():
+        temp_dic[k] = -v
+    return temp_dic
+
 def review_equation(rea, temp_df, row_list, columns):
     '''
     check equation dital incloud euqation, bounds
@@ -160,13 +160,27 @@ def review_equation(rea, temp_df, row_list, columns):
     feature_tp = ''
     feature_bigg = ''
 
-    if rea_met_dic == eval(temp_df['mets'].iloc[0]) and str_bounds == temp_df['bounds'].iloc[0]:
-        description = '(same)'
+    if rea_met_dic == eval(temp_df['mets'].iloc[0]):
+        if str_bounds == temp_df['bounds'].iloc[0]:
+            description = '(same)'
+        else:
+            description = '(bounds different)'
+            feature_tp = str_bounds
+            feature_bigg = temp_df['bounds'].iloc[0]
 
-    elif rea_met_dic == eval(temp_df['mets'].iloc[0]) and str_bounds != temp_df['bounds'].iloc[0]:
-        description = '(bounds different)'
-        feature_tp = str_bounds
-        feature_bigg = temp_df['bounds'].iloc[0]
+    elif rea_met_dic == revers_dic(eval(temp_df['mets'].iloc[0])):
+        newbounds = []
+        newbounds.append(-rea.bounds[1])
+        newbounds.append(-rea.bounds[0])
+        newbounds = tuple(newbounds)
+        newbounds = str(newbounds)
+
+        if newbounds == temp_df['bounds'].iloc[0]:
+            description = '(same)'
+        else:
+            description = '(bounds different)'
+            feature_tp = str_bounds
+            feature_bigg = temp_df['bounds'].iloc[0]
 
     else:
         description = '(mets different)'
