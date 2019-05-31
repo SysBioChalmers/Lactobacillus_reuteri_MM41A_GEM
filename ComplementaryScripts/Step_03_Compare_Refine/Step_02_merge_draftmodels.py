@@ -10,6 +10,13 @@
 """
 import cobra
 import os
+import pandas as pd
+import re
+pd.set_option('display.max_rows', 500)
+pd.set_option('display.max_columns', 500)
+pd.set_option('display.width', 1000)
+
+
 def dir_rea_metabolites(rea_metbolites):
     '''
     convert reaction.metabolites to str
@@ -28,12 +35,12 @@ def dir_rea_revers_metabolites(rea_metbolites):
     temp_dic = {}
     for k, v in rea_metbolites.items():
         temp_dic[k.id] = -v
-
     return temp_dic
 
 def compare_euqations(rea1,rea2):
     gpr = rea1.gene_reaction_rule
-    notes = ['']*3
+    notes = ['mets different','bounds different','gpr different']
+
     if dir_rea_metabolites(rea1.metabolites) == dir_rea_metabolites(rea2.metabolites) :
         notes[0] = 'mets same'
         if rea1.bounds == rea2.bounds:
@@ -50,8 +57,6 @@ def compare_euqations(rea1,rea2):
             notes[2] = 'gpr same'
         else:
             gpr = merge_gprule(rea1.gene_reaction_rule, rea2.gene_reaction_rule)
-    else:
-        notes[0] = 'mets different'
 
     return gpr,notes
 
@@ -66,35 +71,102 @@ def merge_gprule(gpr1,gpr2):
         gpr = '( %s ) or ( %s )'% (gpr1,gpr2)
     return gpr
 
-def merge_draftmodels(model1, model2):
-    model = model1.copy()
-    reaset = set([i.id for i in model.reactions])
-    errodic = {}
-    for rea2 in model2.reactions:
+def merge_draftmodels(model1, model2, inplace = False):
 
+    if inplace:
+        model = model1
+    else:
+        model = model1.copy()
+
+    #model = model1
+    reaset = set([i.id for i in model.reactions])
+    data = []
+
+    for rea2 in model2.reactions:
+        rowlist = ['']*6
+        rowlist[0] = rea2.id
+        rowlist[1] = 'add'
         if rea2.id not in reaset:
             model.add_reaction(rea2)
             reaset.add(rea2.id)
+            rowlist[2] = 'new'
         else:
             rea1 = model1.reactions.get_by_id(rea2.id)
             gpr,notes = compare_euqations(rea1, rea2)
-            if notes[0] == 'mets different':
+            rowlist[2] = ','.join(notes)
 
+            if notes[0] == 'mets different':
+                rowlist[1] = 'skip'
+
+                rowlist[3] = rea1.reaction
+                rowlist[4] = rea2.reaction
 
                 dif = [i for i in dir_rea_metabolites(rea1.metabolites).keys() if i not in dir_rea_metabolites(rea2.metabolites).keys()]
+                if len(dif)==0:
+                    dif = 'coefficient dif'
+                rowlist[5] = dif
 
-                errodic[rea1.id] = [rea1.reaction,rea2.reaction,dif]
-
-            elif notes[2] == '':
+            elif notes[2] == 'gpr different':
+                rowlist[3] = rea1.gene_reaction_rule
+                rowlist[4] = rea2.gene_reaction_rule
                 model.reactions.get_by_id(rea2.id).gene_reaction_rule = gpr
-    for k,v in errodic.items():
-        print(k,'\t',v)
-    return model,errodic
+
+            elif notes[1] == 'bounds different':
+                rowlist[3] = str(rea1.bounds)
+                rowlist[4] = str(rea2.bounds)
+        data.append(rowlist)
+    report_df = pd.DataFrame(data,index=None,columns = ['rea_id', 'add_skip','describ','fea1','fea2','dif'])
+
+    print('\033[0;31;47m')
+    print('mets different reaction list')
+    print(report_df[report_df['describ'].str.contains('mets different')])
+    #display(report_df[report_df['describ'].str.contains('mets different')])
+
+    return model.copy(),report_df
+
+
+def merge_metabolitesid(model, new_id, old_id):
+    model = model.copy()
+    try:
+        model.metabolites.get_by_id(old_id).id = new_id
+
+    except ValueError:
+
+        for rea in model.metabolites.get_by_id(old_id).reactions:
+            # rea.reaction = re.sub(r'(^|\b)'+id_in_tp+'(\b|$)', id_in_bigg, rea.reaction)
+            rea_equ = rea.reaction
+            model.reactions.get_by_id(rea.id).reaction = re.sub('(^| )' + old_id + '( |$)', new_id, rea.reaction)
+
+        model.metabolites.get_by_id(old_id).remove_from_model()
+        print(new_id + ' already in model!!!')
+
+    except KeyError:
+        print(old_id + ' not in model!!! skiped')
+
+    return model
+
+def judge(model1,old_id,model2,new_id):
+
+    try:
+        print(model1.metabolites.get_by_id(old_id).name)
+        print(model2.metabolites.get_by_id(new_id).name)
+
+        if model1.metabolites.get_by_id(old_id).formula == '' or model2.metabolites.get_by_id(new_id).formula=='':
+            print('Manual handling!!! no formula')
+        elif model1.metabolites.get_by_id(old_id).formula == model2.metabolites.get_by_id(new_id).formula:
+            #merge_metabolitesid(model1, new_id, old_id)
+            return True
+        else:
+            print('%s and %s not same'%old_id, new_id)
+            return False
+    except KeyError:
+        print(old_id + 'not in model!!! skiped')
+        return False
 
 if __name__=='__main__':
     os.chdir('../../ComplementaryData/Step_02_DraftModels/')
 
-
+    # %% load models
     Lreu_ca = cobra.io.load_json_model('CarveMe/Lreu_ca.json')
     Lreu_ca_gp = cobra.io.load_json_model('CarveMe/Lreu_ca_gp.json')
     Lreu_from_iNF517 = cobra.io.load_json_model('Template/Lreu_from_iNF517.json')
@@ -102,19 +174,58 @@ if __name__=='__main__':
 
     # %%    <option 1>
     # by cobra function
-    #model1 = Lreu_from_iBT721.merge(Lreu_from_iNF517,inplace=False)
-    #model1 = model1.merge(Lreu_ca_gp_standardlized,inplace=False)
+    #model_1 = Lreu_from_iBT721.merge(Lreu_from_iNF517,inplace=False)
+    #model_1 = model1.merge(Lreu_ca_gp_standardlized,inplace=False)
 
     # %%    <option 2>
     # by def function
-    # NOTE ! based on Lreu_from_iNF517 because metabolites notes
-    # NoTE ! change model by hand according to the error raise
+    # Note：based on Lreu_from_iNF517 because metabolites notes
 
-    #model2,errodic = merge_draftmodels(Lreu_from_iBT721,Lreu_from_iNF517)
-    model2, errodic = merge_draftmodels(Lreu_from_iNF517, Lreu_from_iBT721)
-    model2,errodic  = merge_draftmodels(model2,Lreu_ca_gp)
-
-    #cobra.io.save_json_model(model,'../../ModelFiles/Lreu.json')
+    #model2,report_df = merge_draftmodels(Lreu_from_iBT721,Lreu_from_iNF517)
+    model_2, report_df1 = merge_draftmodels(Lreu_from_iNF517, Lreu_from_iBT721)
+    model_2, report_df2  = merge_draftmodels(model_2,Lreu_ca_gp)
 
 
+    # %% Manual handling
 
+    modellist = ['Lreu_from_iNF517','Lreu_from_iBT721','Lreu_ca','Lreu_ca_gp','model_2']
+    #according to report 1
+
+    if judge(model_2, 'g6p_B_c', Lreu_from_iBT721, 'g6p__B_c'):
+        for model in modellist:
+            locals()[model] = merge_metabolitesid(locals()[model], 'g6p_B_c', 'g6p__B_c')
+
+    if judge(model_2, 'g1p_B_c', Lreu_from_iBT721, 'g1p__B_c'):
+        for model in modellist:
+            locals()[model] = merge_metabolitesid(locals()[model], 'g1p_B_c', 'g1p__B_c')
+
+    #according to report2
+    if judge(model_2, '5fothf_c', Lreu_ca_gp, '5fthf_c'):
+        for model in modellist:
+            locals()[model] = merge_metabolitesid(locals()[model], '5fthf_c', '5fothf_c')
+
+    if judge(model_2, 'glcn__D_c', Lreu_ca_gp, 'glcn_c'):
+        for model in modellist:
+            locals()[model] = merge_metabolitesid(locals()[model], 'glcn_c', 'glcn__D_c')
+
+    if judge(model_2, 'orn__L_c', Lreu_ca_gp, 'orn_c'):
+        for model in modellist:
+            locals()[model] = merge_metabolitesid(locals()[model], 'orn_c', 'orn__L_c')
+
+    if judge(model_2, 'dtdp6dm_c', Lreu_ca_gp, 'dtdprmn_c'):
+        for model in modellist:
+            locals()[model] = merge_metabolitesid(locals()[model], 'dtdprmn_c', 'dtdp6dm_c')
+
+    #judge(model2, 'glcn__D_e', Lreu_ca_gp, 'dtdprmn_c')
+
+    # %% check again
+
+    model_2, report_df1 = merge_draftmodels(Lreu_from_iNF517, Lreu_from_iBT721)
+    model_2, report_df2 = merge_draftmodels(model_2, Lreu_ca_gp)
+
+    cobra.io.save_json_model(Lreu_ca,'CarveMe/Lreu_ca_0531.json')
+    cobra.io.save_json_model(Lreu_ca_gp, 'CarveMe/Lreu_ca_gp_0531.json')
+    cobra.io.save_json_model(Lreu_from_iNF517, 'Template/Lreu_from_iNF517_0531.json')
+    cobra.io.save_json_model(Lreu_from_iBT721, 'Template/Lreu_from_iBT721_0531.json')
+
+    cobra.io.save_json_model(model_2,'../../ModelFiles/Lreu_0531.json')
