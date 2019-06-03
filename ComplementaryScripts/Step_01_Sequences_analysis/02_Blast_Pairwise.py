@@ -9,29 +9,132 @@ import os
 from Bio.Blast import NCBIXML
 import itertools
 
-os.chdir('../../ComplementaryData/Step_01_Sequences_analysis/')
 
-names = ['Lreuteri_refseq_v01','Lreuteri_refseq_v02','Lreuteri_biogaia_v03']
+import os
+import pandas as pd
+import re
+import My_def
 
-seqs_ids = [ i + '/' + i + '.faa' for i in names]
-seqs_dbs = [ 'blast/' + i + '/' + i  for i in names]
+def blastp_pairwise(qseq_file,sseq_file,out_dir = ''):
+
+    '''
+
+    :param qseq_file:
+    :param sseq_file:
+    :param out_dir:
+    :return:  two files
+    '''
+
+    os.system('mkdir blast_tmps')
+
+    mk_db = 'makeblastdb -in '+ qseq_file +' -dbtype prot -out blast_tmps/qseq_db -parse_seqids\n' \
+            'makeblastdb -in '+ sseq_file +' -dbtype prot -out blast_tmps/sseq_db -parse_seqids'
+    os.system(mk_db)
+    print('blasting...')
+    blastp_cmd ='blastp -db blast_tmps/qseq_db -query ' + sseq_file + ' -out '+ out_dir +' blast_result_s_in_q.csv -evalue 1 -outfmt "6 qseqid sseqid evalue pident length bitscore ppos qcovs" \n' \
+                'blastp -db blast_tmps/sseq_db -query ' + qseq_file + ' -out '+ out_dir +' blast_result_q_in_s.csv -evalue 1 -outfmt "6 qseqid sseqid evalue pident length bitscore ppos qcovs"'
+    os.system(blastp_cmd)
+
+    #os.system('rm -r blast_tmps')
+    return out_dir + 'blast_result_s_in_q.csv', out_dir + 'blast_result_q_in_s.csv'
+    print('out put files are ' + out_dir + '/blast_result_s_in_q.csv and blast_result_q_in_s.csv')
 
 
-#make balst database
-for index in range(len(seqs_ids)):
-    balstdb = 'makeblastdb -in ' + seqs_ids[index] + ' -dbtype prot -out ' + seqs_dbs[index] + ' -parse_seqids'
-    os.system(balstdb);
+def select_blast(result1 = 'blast_result_s_in_q.csv',result2 = 'blast_result_q_in_s.csv',best_match=True,evalue = 10**-10, pident = 40, length = 200, bitscore = 0, ppos = 0 ,qcovs = 0):
+    '''
+    selsect the result hits from blast result
+    :param result1: blast result file -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"
+    :param result2: last result file -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"
+    :param best_match: BBH(Bidirectional Best Hits) from blast results, best mached and  unique
+    :param evalue:  evalue = 10**-10
+    :param pident:  ident
+    :param length:  matched length
+    :param bitscore:
+    :param ppos:
+    :return:    a dataframe meet the params
+    examlple:
+            result1 = 'Lreuteri_refseq_v01_in_Lreuteri_refseq_v02.csv'
+            result2 = 'Lreuteri_refseq_v02_in_Lreuteri_refseq_v01.csv'
+            result_df = select_blast(result1, result2, best_match=True,evalue = 10**-10, pident = 40, length = 0, bitscore = 0, ppos = 0)
+    '''
+    names = ['qseqid', 'sseqid', 'evalue', 'pident', 'length', 'bitscore', 'ppos','qcovs']
 
-#blast pairwise
+    df1 = pd.read_csv(result1, sep = '\t', names = names)
+    df2 = pd.read_csv(result2, sep = '\t', names = names)
 
-for index_pair in itertools.permutations(range(len(seqs_ids)),2):
-    seq = seqs_ids[index_pair[0]]
-    db = seqs_dbs[index_pair[1]]
-    outfile = 'blast/'+ names[index_pair[0]] +'_in_' + names[index_pair[1]] + '.csv'
+    for index  in [0,1]:
+        dfi = [df1,df2][index]
+        dfi = dfi[(dfi["evalue"] <= evalue) & (dfi["pident"] >= pident) & (dfi["length"] >= length) & (dfi["bitscore"] >= bitscore) & (dfi["ppos"] >= ppos) & (dfi["qcovs"] >= qcovs)]
+        dfi = dfi.copy()
+        dfi['sseqid'] = dfi.sseqid.apply(lambda x: re.sub('(\|$)|(^.*?\|)','',x))
+        dfi = dfi.sort_values(['qseqid', "evalue" , 'pident','bitscore'], ascending=[True,True,False,False])
 
-    balstcmd = 'blastp -db ' + db + ' -query ' + seq + ' -out ' + outfile +  ' -evalue 10e-5  -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"'
-    os.system(balstcmd);
+        if best_match:
+            dfi = dfi.drop_duplicates(subset='qseqid', keep='first')
+
+        if index ==0:
+            df1 = dfi
+        else:
+            df2 = dfi
+
+    df2 = df2.rename(columns={'qseqid':'sseqid','sseqid':'qseqid'})
+
+    result_df = pd.merge(df1, df2, on=['qseqid','sseqid'], how='inner')
+    return result_df
+
+if __name__ =='__main__':
+
+    os.chdir('../../ComplementaryData/Step_01_Sequences_analysis/')
+
+    names = ['Lreuteri_refseq_v01', 'Lreuteri_refseq_v02', 'Lreuteri_biogaia_v03']
+
+    seq1 = 'Lreuteri_refseq_v01/Lreuteri_refseq_v01.faa'
+    seq2 = 'Lreuteri_refseq_v02/Lreuteri_refseq_v02.faa'
+    seq3 = 'Lreuteri_biogaia_v03/Lreuteri_biogaia_v03.faa'
 
 
-print(os.system('ls'))
+    qseq_file = seq1
+    sseq_file = seq2
+
+    blast_result_s_in_q, blast_result_q_in_s = blastp_pairwise(qseq_file, sseq_file, out_dir='')
+
+    blast_result_df12 = My_def.select_blast(blast_result_s_in_q, blast_result_q_in_s, best_match=True, evalue=10 ** -10, pident=0, length=0,
+                                          bitscore=100, ppos=45, qcovs=0)
+
+    blast_result_df12.to_csv('blast/' + 'v01andv02.csv', index=False)
+    os.system('rm ' + blast_result_s_in_q )
+    os.system('rm ' + blast_result_q_in_s)
+
+
+
+    qseq_file = seq1
+    sseq_file = seq3
+
+    blast_result_s_in_q, blast_result_q_in_s = blastp_pairwise(qseq_file, sseq_file, out_dir='')
+
+    blast_result_df13 = My_def.select_blast(blast_result_s_in_q, blast_result_q_in_s, best_match=True, evalue=10 ** -10,
+                                          pident=0, length=0,
+                                          bitscore=100, ppos=45, qcovs=0)
+
+    blast_result_df13.to_csv('blast/' + 'v01andv03.csv', index=False)
+    os.system('rm ' + blast_result_s_in_q)
+    os.system('rm ' + blast_result_q_in_s)
+
+
+
+    qseq_file = seq2
+    sseq_file = seq3
+
+    blast_result_s_in_q, blast_result_q_in_s = blastp_pairwise(qseq_file, sseq_file, out_dir='')
+
+    blast_result_df23 = My_def.select_blast(blast_result_s_in_q, blast_result_q_in_s, best_match=True, evalue=10 ** -10,
+                                          pident=0, length=0,
+                                          bitscore=100, ppos=45, qcovs=0)
+
+    blast_result_df23.to_csv('blast/' + 'v02andv03.csv', index=False)
+    os.system('rm ' + blast_result_s_in_q)
+    os.system('rm ' + blast_result_q_in_s)
+
+
+
 

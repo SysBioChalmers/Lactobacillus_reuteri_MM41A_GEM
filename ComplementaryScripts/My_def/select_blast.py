@@ -40,7 +40,7 @@ def select_blast(result1,result2,best_match=True,evalue = 10**-10, pident = 40, 
 
         if best_match:
             dfi = dfi.drop_duplicates(subset='qseqid', keep='first')
-
+            dfi = dfi.drop_duplicates(subset='sseqid', keep='first')
         if index ==0:
             df1 = dfi
         else:
