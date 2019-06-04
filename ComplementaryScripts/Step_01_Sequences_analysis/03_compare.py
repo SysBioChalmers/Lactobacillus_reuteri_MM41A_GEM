@@ -23,8 +23,8 @@ result23.columns = ['v03', 'v02']
 
 
 # %% option1
-result = pd.merge(result13,result23,on=['v03'],how='outer')
-result = pd.merge(result,result12,on=['v02','v01'],how='outer')
+result = pd.merge(result13,result23,on=['v03'],how='inner')
+result = pd.merge(result,result12,on=['v02','v01'],how='inner')
 result = result.fillna(0)
 
 
@@ -75,3 +75,6 @@ for i in range(7):
 #for text in v.subset_labels:
 #    text.set_fontsize(16)
 plt.show()
+
+
+
