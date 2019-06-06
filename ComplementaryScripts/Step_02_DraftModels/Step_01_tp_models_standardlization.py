@@ -128,6 +128,9 @@ def iNF517_process(iNF517,rea_report_df):
             df['notes'].iloc[index] = 'replaced'
 
         rea.id = realist[index].split('_copy')[0]
+        df['new_id'].iloc[index + 1] = rea.id
+        df['new_id'].iloc[index] = rea.id
+
         rea_copy.remove_from_model()
         #print(index)
 
