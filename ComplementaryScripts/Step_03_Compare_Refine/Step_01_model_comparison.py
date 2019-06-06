@@ -25,6 +25,7 @@ if  __name__ == '__main__':
     Lreu_ca_gp = cobra.io.load_json_model('CarveMe/Lreu_ca_gp.json')
     Lreu_from_iNF517 = cobra.io.load_json_model('Template/Lreu_from_iNF517.json')
     Lreu_from_iBT721 = cobra.io.load_json_model('Template/Lreu_from_iBT721.json')
+    Lreu_from_iML1515 = cobra.io.load_json_model('Template/Lreu_from_iML1515.json')
     bigg_rea_df = pd.read_csv('../bigg_database/bigg_rea_df.csv', sep='\t')
     bigg_met_df = pd.read_csv('../bigg_database/bigg_met_df.csv', sep='\t')
 
@@ -60,6 +61,9 @@ if  __name__ == '__main__':
     Lreu_from_iNF517_genes = [i.id for i in Lreu_from_iNF517.genes]
     Lreu_from_iNF517_reas = [i.id for i in Lreu_from_iNF517.reactions]
     Lreu_from_iNF517_mets = [i.id for i in Lreu_from_iNF517.metabolites]
+    Lreu_from_iML1515_genes = [i.id for i in Lreu_from_iML1515.genes]
+    Lreu_from_iML1515_reas = [i.id for i in Lreu_from_iML1515.reactions]
+    Lreu_from_iML1515_mets = [i.id for i in Lreu_from_iML1515.metabolites]
 
     # %% <fig compare templated based method models and Lreu_ca_gp>
     # just a overview
@@ -70,18 +74,18 @@ if  __name__ == '__main__':
 
     fg_1 = My_def.venn3_samesize([set(Lreu_from_iBT721_genes),
                  set(Lreu_from_iNF517_genes),
-                 set(Lreu_ca_gp_genes)],
-                ('iBT721', 'iNF517','CarveMe'), ax=axes[0])
+                 set(Lreu_from_iML1515_genes)],
+                ('iBT721', 'iNF517','iML1515'), ax=axes[0])
 
     fg_2 = My_def.venn3_samesize([set(Lreu_from_iBT721_reas),
                  set(Lreu_from_iNF517_reas),
-                 set(Lreu_ca_gp_reas)],
-                ('iBT721', 'iNF517','CarveMe'), ax=axes[1])
+                 set(Lreu_from_iML1515_reas)],
+                ('iBT721', 'iNF517','iML1515'), ax=axes[1])
 
     fg_3 = My_def.venn3_samesize([set(Lreu_from_iBT721_mets),
                  set(Lreu_from_iNF517_mets),
-                 set(Lreu_ca_gp_mets)],
-                ('iBT721', 'iNF517','CarveMe'), ax=axes[2])
+                 set(Lreu_from_iML1515_mets)],
+                ('iBT721', 'iNF517','iML1515'), ax=axes[2])
     plt.show()
 
 
