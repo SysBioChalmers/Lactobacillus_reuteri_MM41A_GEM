@@ -22,12 +22,12 @@ import My_def
 # load template model
 #template_model = cobra.io.read_sbml_model('iJO1366.xml')
 os.chdir('../../ComplementaryData/Step_02_DraftModels/Template/')
-template_model = cobra.io.load_json_model('template_models/iBT721_standlized.json')
+template_model = cobra.io.load_json_model('template_models/iML1515_standlized.json')
 qseq_file = '../Lreuteri_biogaia_v03.faa'
-sseq_file = 'template_seqs/' + 'iBT721' + '.faa'
+sseq_file = 'template_seqs/' + 'iML1515' + '.faa'
 
 # do blast
-#Step_03_build_model_from_template.do_blast(qseq_file, sseq_file)
+Step_03_build_model_from_template.do_blast(qseq_file, sseq_file)
 
 BBHs = Step_03_build_model_from_template.extract_BBHs(1e-20,True,coverage=45)
 
@@ -38,14 +38,14 @@ model1  = Step_03_build_model_from_template.build_model_from_template(candidate_
 
 
 
-#blast_result_s_in_q, blast_result_q_in_s = Step_02_template_blast.blastp_pairwise(qseq_file, sseq_file, out_dir='')
+blast_result_s_in_q, blast_result_q_in_s = Step_02_template_blast.blastp_pairwise(qseq_file, sseq_file, out_dir='')
 
-blast_result_s_in_q = 'blast/blast_result_s_in_q.csv'
-blast_result_q_in_s = 'blast/blast_result_q_in_s.csv'
+#blast_result_s_in_q = 'blast/blast_result_s_in_q.csv'
+#blast_result_q_in_s = 'blast/blast_result_q_in_s.csv'
 blast_result_df = My_def.select_blast(blast_result_s_in_q, blast_result_q_in_s, best_match = True, evalue=1e-20,
                                       pident=0, length=0,
                                       bitscore=0, ppos=0, qcovs=45)#(bitscore=100, ppos=45)
-model2 = Step_03_template_modle.get_model_from_template(template_model, blast_result_df)
+model2 = Step_03_template_modle.get_model_from_template(template_model, blast_result_df,remove_missing_genes = False)
 
 
 # blast_result_df2 = My_def.select_blast(blast_result_s_in_q, blast_result_q_in_s, best_match=False, evalue=1e-20,
