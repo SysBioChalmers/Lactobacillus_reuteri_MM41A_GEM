@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <sbml xmlns:fbc="http://www.sbml.org/sbml/level3/version1/fbc/version2" level="3" sboTerm="SBO:0000624" version="1" xmlns="http://www.sbml.org/sbml/level3/version1/core" fbc:required="false">
-  <model fbc:strict="true" name="GEM for L.reuteri by templateMODEL1507180045">
+  <model fbc:strict="true" name="GEM for L.reuteri by templateiBT721">
     <listOfUnitDefinitions>
       <unitDefinition id="mmol_per_gDW_per_hr">
         <listOfUnits>
@@ -134,8 +134,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_cellb_e" name="cellobiose" compartment="default" fbc:chemicalFormula="C12H22O11"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_pep_c" name="Phosphoenolpyruvate" compartment="default" fbc:chemicalFormula="C3H2O6P"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_amet_c" name="S-Adenosyl-L-methionine" compartment="default" fbc:chemicalFormula="C15H23N6O5S"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_chol_c" name="Choline" compartment="default" fbc:chemicalFormula="C5H14NO"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_chol_e" name="Choline" compartment="default" fbc:chemicalFormula="C5H14NO"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_clpn_LPL_c" name="Cardiolipin__LPL_specific_" compartment="default" fbc:chemicalFormula="X"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_pg_LPL_c" name="Phospatidylglycerol__LPL_specific_" compartment="default" fbc:chemicalFormula="X"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_4cml_c" name="2-Carboxy-2,5-dihydro-5-oxofuran-2-acetate" compartment="default" fbc:chemicalFormula="C7H6O6"/>
@@ -265,8 +263,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_glu__D_c" name="D-Glutamate" compartment="default" fbc:chemicalFormula="C5H8NO4"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_trnaglu_c" name="tRNA (Glu)" compartment="default" fbc:chemicalFormula="R"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_glu__L_e" name="L-Glutamate" compartment="default" fbc:chemicalFormula="C5H8NO4"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_glyb_c" name="Glycine betaine" compartment="default" fbc:chemicalFormula="C5H11NO2"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_glyb_e" name="Glycine betaine" compartment="default" fbc:chemicalFormula="C5H11NO2"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_3pg_c" name="3-Phospho-D-glycerate" compartment="default" fbc:chemicalFormula="C3H4O7P"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_glyc__R_c" name="(R)-Glycerate" compartment="default" fbc:chemicalFormula="C3H5O4"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_glytrna_c" name="Glycyl-tRNA(Gly)" compartment="default" fbc:chemicalFormula="C2H4NOR"/>
@@ -275,6 +271,7 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_6pgc_c" name="6-Phospho-D-gluconate" compartment="default" fbc:chemicalFormula="C6H10O10P"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_gsn_c" name="Guanosine" compartment="default" fbc:chemicalFormula="C10H13N5O5"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_gua_c" name="Guanine" compartment="default" fbc:chemicalFormula="C5H5N5O"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_chol_c" name="Choline" compartment="default" fbc:chemicalFormula="C5H14NO"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_g3pc_c" name="sn-Glycero-3-phosphocholine" compartment="default" fbc:chemicalFormula="C8H20NO6P"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_etha_c" name="Ethanolamine" compartment="default" fbc:chemicalFormula="C2H8NO"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_g3pe_c" name="sn-Glycero-3-phosphoethanolamine" compartment="default" fbc:chemicalFormula="C5H14NO6P"/>
@@ -387,6 +384,7 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_udcpdp_c" name="Undecaprenyl diphosphate" compartment="default" fbc:chemicalFormula="C55H89O7P2"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_pgp_LPL_c" name="Phosphatidylglycerophosphate__LPL_specific_" compartment="default" fbc:chemicalFormula="X"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_phe__L_c" name="L-Phenylalanine" compartment="default" fbc:chemicalFormula="C9H11NO2"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_phpyr_c" name="Phenylpyruvate" compartment="default" fbc:chemicalFormula="C9H7O3"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_phetrna_c" name="L-Phenylalanyl-tRNA(Phe)" compartment="default" fbc:chemicalFormula="C9H10NOR"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_trnaphe_c" name="tRNA(Phe)" compartment="default" fbc:chemicalFormula="R"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_man1p_c" name="D-Mannose 1-phosphate" compartment="default" fbc:chemicalFormula="C6H11O9P"/>
@@ -416,7 +414,6 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_fru_c" name="D-Fructose" compartment="default" fbc:chemicalFormula="C6H12O6"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_sbt__D_c" name="D-Sorbitol" compartment="default" fbc:chemicalFormula="C6H14O6"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_sbt__L_c" name="L_Sorbitol" compartment="default" fbc:chemicalFormula="X"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_sbt6p_c" name="D-Sorbitol 6-phosphate" compartment="default" fbc:chemicalFormula="C6H13O9P"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_sl26da_c" name="N-Succinyl-LL-2,6-diaminoheptanedioate" compartment="default" fbc:chemicalFormula="C11H16N2O7"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_succ_c" name="Succinate" compartment="default" fbc:chemicalFormula="C4H4O4"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_sl2a6o_c" name="N-Succinyl-2-L-amino-6-oxoheptanedioate" compartment="default" fbc:chemicalFormula="C11H12NO8"/>
@@ -438,11 +435,13 @@
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_thm_c" name="Thiamin" compartment="default" fbc:chemicalFormula="C12H17N4OS"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_thmpp_c" name="Thiamine diphosphate" compartment="default" fbc:chemicalFormula="C12H16N4O7P2S"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_thmmp_c" name="Thiamin monophosphate" compartment="default" fbc:chemicalFormula="C12H16N4O4PS"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_trnatrp_c" name="tRNA(Trp)" compartment="default" fbc:chemicalFormula="R"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_indpyr_c" name="Indolepyruvate" compartment="default" fbc:chemicalFormula="C11H8NO3"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_trp__L_c" name="L-Tryptophan" compartment="default" fbc:chemicalFormula="C11H12N2O2"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_trnatrp_c" name="tRNA(Trp)" compartment="default" fbc:chemicalFormula="R"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_trptrna_c" name="L-Tryptophanyl-tRNA(Trp)" compartment="default" fbc:chemicalFormula="C11H11N2OR"/>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_trnatyr_c" name="tRNA(Tyr)" compartment="default" fbc:chemicalFormula="R"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_34hpp_c" name="3-(4-Hydroxyphenyl)pyruvate" compartment="default" fbc:chemicalFormula="C9H7O4"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_tyr__L_c" name="L-Tyrosine" compartment="default" fbc:chemicalFormula="C9H11NO3"/>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_trnatyr_c" name="tRNA(Tyr)" compartment="default" fbc:chemicalFormula="R"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_tyrtrna_c" name="L-Tyrosyl-tRNA(Tyr)" compartment="default" fbc:chemicalFormula="C9H10NO2R"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_uamag_c" name="UDP-N-acetylmuramoyl-L-alanyl-D-glutamate" compartment="default" fbc:chemicalFormula="C28H39N5O23P2"/>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_ugmd_c" name="UDP-N-acetylmuramoyl-L-alanyl-D-gamma-glutamyl-meso-2,6-diaminopimelate" compartment="default" fbc:chemicalFormula="C35H51N7O26P2"/>
@@ -475,8 +474,8 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00354" fbc:label="MBLCLPDI_00354" fbc:name="MBLCLPDI_00354"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00275" fbc:label="MBLCLPDI_00275" fbc:name="MBLCLPDI_00275"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01614" fbc:label="MBLCLPDI_01614" fbc:name="MBLCLPDI_01614"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01814" fbc:label="MBLCLPDI_01814" fbc:name="MBLCLPDI_01814"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00108" fbc:label="MBLCLPDI_00108" fbc:name="MBLCLPDI_00108"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01814" fbc:label="MBLCLPDI_01814" fbc:name="MBLCLPDI_01814"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00696" fbc:label="MBLCLPDI_00696" fbc:name="MBLCLPDI_00696"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00682" fbc:label="MBLCLPDI_00682" fbc:name="MBLCLPDI_00682"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00142" fbc:label="MBLCLPDI_00142" fbc:name="MBLCLPDI_00142"/>
@@ -511,21 +510,19 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00091" fbc:label="MBLCLPDI_00091" fbc:name="MBLCLPDI_00091"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00090" fbc:label="MBLCLPDI_00090" fbc:name="MBLCLPDI_00090"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00233" fbc:label="MBLCLPDI_00233" fbc:name="MBLCLPDI_00233"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01476" fbc:label="MBLCLPDI_01476" fbc:name="MBLCLPDI_01476"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00506" fbc:label="MBLCLPDI_00506" fbc:name="MBLCLPDI_00506"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01476" fbc:label="MBLCLPDI_01476" fbc:name="MBLCLPDI_01476"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00135" fbc:label="MBLCLPDI_00135" fbc:name="MBLCLPDI_00135"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00201" fbc:label="MBLCLPDI_00201" fbc:name="MBLCLPDI_00201"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00202" fbc:label="MBLCLPDI_00202" fbc:name="MBLCLPDI_00202"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00053" fbc:label="MBLCLPDI_00053" fbc:name="MBLCLPDI_00053"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_02076" fbc:label="MBLCLPDI_02076" fbc:name="MBLCLPDI_02076"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00248" fbc:label="MBLCLPDI_00248" fbc:name="MBLCLPDI_00248"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01711" fbc:label="MBLCLPDI_01711" fbc:name="MBLCLPDI_01711"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00320" fbc:label="MBLCLPDI_00320" fbc:name="MBLCLPDI_00320"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00330" fbc:label="MBLCLPDI_00330" fbc:name="MBLCLPDI_00330"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00557" fbc:label="MBLCLPDI_00557" fbc:name="MBLCLPDI_00557"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00558" fbc:label="MBLCLPDI_00558" fbc:name="MBLCLPDI_00558"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00556" fbc:label="MBLCLPDI_00556" fbc:name="MBLCLPDI_00556"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00558" fbc:label="MBLCLPDI_00558" fbc:name="MBLCLPDI_00558"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00555" fbc:label="MBLCLPDI_00555" fbc:name="MBLCLPDI_00555"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00557" fbc:label="MBLCLPDI_00557" fbc:name="MBLCLPDI_00557"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01350" fbc:label="MBLCLPDI_01350" fbc:name="MBLCLPDI_01350"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00850" fbc:label="MBLCLPDI_00850" fbc:name="MBLCLPDI_00850"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01655" fbc:label="MBLCLPDI_01655" fbc:name="MBLCLPDI_01655"/>
@@ -540,8 +537,8 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00698" fbc:label="MBLCLPDI_00698" fbc:name="MBLCLPDI_00698"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00697" fbc:label="MBLCLPDI_00697" fbc:name="MBLCLPDI_00697"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00858" fbc:label="MBLCLPDI_00858" fbc:name="MBLCLPDI_00858"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01413" fbc:label="MBLCLPDI_01413" fbc:name="MBLCLPDI_01413"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00560" fbc:label="MBLCLPDI_00560" fbc:name="MBLCLPDI_00560"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01413" fbc:label="MBLCLPDI_01413" fbc:name="MBLCLPDI_01413"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01416" fbc:label="MBLCLPDI_01416" fbc:name="MBLCLPDI_01416"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00131" fbc:label="MBLCLPDI_00131" fbc:name="MBLCLPDI_00131"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00130" fbc:label="MBLCLPDI_00130" fbc:name="MBLCLPDI_00130"/>
@@ -559,12 +556,12 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00327" fbc:label="MBLCLPDI_00327" fbc:name="MBLCLPDI_00327"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01045" fbc:label="MBLCLPDI_01045" fbc:name="MBLCLPDI_01045"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00429" fbc:label="MBLCLPDI_00429" fbc:name="MBLCLPDI_00429"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00222" fbc:label="MBLCLPDI_00222" fbc:name="MBLCLPDI_00222"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00365" fbc:label="MBLCLPDI_00365" fbc:name="MBLCLPDI_00365"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00222" fbc:label="MBLCLPDI_00222" fbc:name="MBLCLPDI_00222"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00256" fbc:label="MBLCLPDI_00256" fbc:name="MBLCLPDI_00256"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01718" fbc:label="MBLCLPDI_01718" fbc:name="MBLCLPDI_01718"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00712" fbc:label="MBLCLPDI_00712" fbc:name="MBLCLPDI_00712"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01359" fbc:label="MBLCLPDI_01359" fbc:name="MBLCLPDI_01359"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00712" fbc:label="MBLCLPDI_00712" fbc:name="MBLCLPDI_00712"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00787" fbc:label="MBLCLPDI_00787" fbc:name="MBLCLPDI_00787"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01344" fbc:label="MBLCLPDI_01344" fbc:name="MBLCLPDI_01344"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00137" fbc:label="MBLCLPDI_00137" fbc:name="MBLCLPDI_00137"/>
@@ -588,22 +585,22 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01794" fbc:label="MBLCLPDI_01794" fbc:name="MBLCLPDI_01794"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00884" fbc:label="MBLCLPDI_00884" fbc:name="MBLCLPDI_00884"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01337" fbc:label="MBLCLPDI_01337" fbc:name="MBLCLPDI_01337"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01592" fbc:label="MBLCLPDI_01592" fbc:name="MBLCLPDI_01592"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01593" fbc:label="MBLCLPDI_01593" fbc:name="MBLCLPDI_01593"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01594" fbc:label="MBLCLPDI_01594" fbc:name="MBLCLPDI_01594"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01592" fbc:label="MBLCLPDI_01592" fbc:name="MBLCLPDI_01592"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00567" fbc:label="MBLCLPDI_00567" fbc:name="MBLCLPDI_00567"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00105" fbc:label="MBLCLPDI_00105" fbc:name="MBLCLPDI_00105"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00566" fbc:label="MBLCLPDI_00566" fbc:name="MBLCLPDI_00566"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01671" fbc:label="MBLCLPDI_01671" fbc:name="MBLCLPDI_01671"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00104" fbc:label="MBLCLPDI_00104" fbc:name="MBLCLPDI_00104"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01668" fbc:label="MBLCLPDI_01668" fbc:name="MBLCLPDI_01668"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00565" fbc:label="MBLCLPDI_00565" fbc:name="MBLCLPDI_00565"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00814" fbc:label="MBLCLPDI_00814" fbc:name="MBLCLPDI_00814"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00104" fbc:label="MBLCLPDI_00104" fbc:name="MBLCLPDI_00104"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00565" fbc:label="MBLCLPDI_00565" fbc:name="MBLCLPDI_00565"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00105" fbc:label="MBLCLPDI_00105" fbc:name="MBLCLPDI_00105"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01669" fbc:label="MBLCLPDI_01669" fbc:name="MBLCLPDI_01669"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01668" fbc:label="MBLCLPDI_01668" fbc:name="MBLCLPDI_01668"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01671" fbc:label="MBLCLPDI_01671" fbc:name="MBLCLPDI_01671"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01670" fbc:label="MBLCLPDI_01670" fbc:name="MBLCLPDI_01670"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00566" fbc:label="MBLCLPDI_00566" fbc:name="MBLCLPDI_00566"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00815" fbc:label="MBLCLPDI_00815" fbc:name="MBLCLPDI_00815"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00085" fbc:label="MBLCLPDI_00085" fbc:name="MBLCLPDI_00085"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00086" fbc:label="MBLCLPDI_00086" fbc:name="MBLCLPDI_00086"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00085" fbc:label="MBLCLPDI_00085" fbc:name="MBLCLPDI_00085"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01391" fbc:label="MBLCLPDI_01391" fbc:name="MBLCLPDI_01391"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00376" fbc:label="MBLCLPDI_00376" fbc:name="MBLCLPDI_00376"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00066" fbc:label="MBLCLPDI_00066" fbc:name="MBLCLPDI_00066"/>
@@ -623,9 +620,8 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01537" fbc:label="MBLCLPDI_01537" fbc:name="MBLCLPDI_01537"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01561" fbc:label="MBLCLPDI_01561" fbc:name="MBLCLPDI_01561"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01414" fbc:label="MBLCLPDI_01414" fbc:name="MBLCLPDI_01414"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00062" fbc:label="MBLCLPDI_00062" fbc:name="MBLCLPDI_00062"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00809" fbc:label="MBLCLPDI_00809" fbc:name="MBLCLPDI_00809"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00648" fbc:label="MBLCLPDI_00648" fbc:name="MBLCLPDI_00648"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00809" fbc:label="MBLCLPDI_00809" fbc:name="MBLCLPDI_00809"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00285" fbc:label="MBLCLPDI_00285" fbc:name="MBLCLPDI_00285"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00549" fbc:label="MBLCLPDI_00549" fbc:name="MBLCLPDI_00549"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01089" fbc:label="MBLCLPDI_01089" fbc:name="MBLCLPDI_01089"/>
@@ -640,8 +636,8 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01415" fbc:label="MBLCLPDI_01415" fbc:name="MBLCLPDI_01415"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01947" fbc:label="MBLCLPDI_01947" fbc:name="MBLCLPDI_01947"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00680" fbc:label="MBLCLPDI_00680" fbc:name="MBLCLPDI_00680"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00125" fbc:label="MBLCLPDI_00125" fbc:name="MBLCLPDI_00125"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01967" fbc:label="MBLCLPDI_01967" fbc:name="MBLCLPDI_01967"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00125" fbc:label="MBLCLPDI_00125" fbc:name="MBLCLPDI_00125"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00122" fbc:label="MBLCLPDI_00122" fbc:name="MBLCLPDI_00122"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00999" fbc:label="MBLCLPDI_00999" fbc:name="MBLCLPDI_00999"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00315" fbc:label="MBLCLPDI_00315" fbc:name="MBLCLPDI_00315"/>
@@ -664,8 +660,8 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01433" fbc:label="MBLCLPDI_01433" fbc:name="MBLCLPDI_01433"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00228" fbc:label="MBLCLPDI_00228" fbc:name="MBLCLPDI_00228"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01002" fbc:label="MBLCLPDI_01002" fbc:name="MBLCLPDI_01002"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01108" fbc:label="MBLCLPDI_01108" fbc:name="MBLCLPDI_01108"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01107" fbc:label="MBLCLPDI_01107" fbc:name="MBLCLPDI_01107"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01108" fbc:label="MBLCLPDI_01108" fbc:name="MBLCLPDI_01108"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00718" fbc:label="MBLCLPDI_00718" fbc:name="MBLCLPDI_00718"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00059" fbc:label="MBLCLPDI_00059" fbc:name="MBLCLPDI_00059"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01106" fbc:label="MBLCLPDI_01106" fbc:name="MBLCLPDI_01106"/>
@@ -681,34 +677,36 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01370" fbc:label="MBLCLPDI_01370" fbc:name="MBLCLPDI_01370"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01115" fbc:label="MBLCLPDI_01115" fbc:name="MBLCLPDI_01115"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00072" fbc:label="MBLCLPDI_00072" fbc:name="MBLCLPDI_00072"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01102" fbc:label="MBLCLPDI_01102" fbc:name="MBLCLPDI_01102"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01103" fbc:label="MBLCLPDI_01103" fbc:name="MBLCLPDI_01103"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01100" fbc:label="MBLCLPDI_01100" fbc:name="MBLCLPDI_01100"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01101" fbc:label="MBLCLPDI_01101" fbc:name="MBLCLPDI_01101"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01103" fbc:label="MBLCLPDI_01103" fbc:name="MBLCLPDI_01103"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01102" fbc:label="MBLCLPDI_01102" fbc:name="MBLCLPDI_01102"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00468" fbc:label="MBLCLPDI_00468" fbc:name="MBLCLPDI_00468"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00132" fbc:label="MBLCLPDI_00132" fbc:name="MBLCLPDI_00132"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00133" fbc:label="MBLCLPDI_00133" fbc:name="MBLCLPDI_00133"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00374" fbc:label="MBLCLPDI_00374" fbc:name="MBLCLPDI_00374"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00670" fbc:label="MBLCLPDI_00670" fbc:name="MBLCLPDI_00670"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00713" fbc:label="MBLCLPDI_00713" fbc:name="MBLCLPDI_00713"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00714" fbc:label="MBLCLPDI_00714" fbc:name="MBLCLPDI_00714"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00716" fbc:label="MBLCLPDI_00716" fbc:name="MBLCLPDI_00716"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00715" fbc:label="MBLCLPDI_00715" fbc:name="MBLCLPDI_00715"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00716" fbc:label="MBLCLPDI_00716" fbc:name="MBLCLPDI_00716"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00713" fbc:label="MBLCLPDI_00713" fbc:name="MBLCLPDI_00713"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00450" fbc:label="MBLCLPDI_00450" fbc:name="MBLCLPDI_00450"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00669" fbc:label="MBLCLPDI_00669" fbc:name="MBLCLPDI_00669"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01346" fbc:label="MBLCLPDI_01346" fbc:name="MBLCLPDI_01346"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01007" fbc:label="MBLCLPDI_01007" fbc:name="MBLCLPDI_01007"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01404" fbc:label="MBLCLPDI_01404" fbc:name="MBLCLPDI_01404"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01346" fbc:label="MBLCLPDI_01346" fbc:name="MBLCLPDI_01346"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00427" fbc:label="MBLCLPDI_00427" fbc:name="MBLCLPDI_00427"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00660" fbc:label="MBLCLPDI_00660" fbc:name="MBLCLPDI_00660"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01886" fbc:label="MBLCLPDI_01886" fbc:name="MBLCLPDI_01886"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00318" fbc:label="MBLCLPDI_00318" fbc:name="MBLCLPDI_00318"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01997" fbc:label="MBLCLPDI_01997" fbc:name="MBLCLPDI_01997"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00152" fbc:label="MBLCLPDI_00152" fbc:name="MBLCLPDI_00152"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00688" fbc:label="MBLCLPDI_00688" fbc:name="MBLCLPDI_00688"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00152" fbc:label="MBLCLPDI_00152" fbc:name="MBLCLPDI_00152"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01997" fbc:label="MBLCLPDI_01997" fbc:name="MBLCLPDI_01997"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01886" fbc:label="MBLCLPDI_01886" fbc:name="MBLCLPDI_01886"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00411" fbc:label="MBLCLPDI_00411" fbc:name="MBLCLPDI_00411"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00060" fbc:label="MBLCLPDI_00060" fbc:name="MBLCLPDI_00060"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00571" fbc:label="MBLCLPDI_00571" fbc:name="MBLCLPDI_00571"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00699" fbc:label="MBLCLPDI_00699" fbc:name="MBLCLPDI_00699"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00048" fbc:label="MBLCLPDI_00048" fbc:name="MBLCLPDI_00048"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01353" fbc:label="MBLCLPDI_01353" fbc:name="MBLCLPDI_01353"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01352" fbc:label="MBLCLPDI_01352" fbc:name="MBLCLPDI_01352"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01000" fbc:label="MBLCLPDI_01000" fbc:name="MBLCLPDI_01000"/>
@@ -722,18 +720,20 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00143" fbc:label="MBLCLPDI_00143" fbc:name="MBLCLPDI_00143"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00778" fbc:label="MBLCLPDI_00778" fbc:name="MBLCLPDI_00778"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00239" fbc:label="MBLCLPDI_00239" fbc:name="MBLCLPDI_00239"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00691" fbc:label="MBLCLPDI_00691" fbc:name="MBLCLPDI_00691"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01604" fbc:label="MBLCLPDI_01604" fbc:name="MBLCLPDI_01604"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01678" fbc:label="MBLCLPDI_01678" fbc:name="MBLCLPDI_01678"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00786" fbc:label="MBLCLPDI_00786" fbc:name="MBLCLPDI_00786"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00650" fbc:label="MBLCLPDI_00650" fbc:name="MBLCLPDI_00650"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01016" fbc:label="MBLCLPDI_01016" fbc:name="MBLCLPDI_01016"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01985" fbc:label="MBLCLPDI_01985" fbc:name="MBLCLPDI_01985"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00845" fbc:label="MBLCLPDI_00845" fbc:name="MBLCLPDI_00845"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00786" fbc:label="MBLCLPDI_00786" fbc:name="MBLCLPDI_00786"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01016" fbc:label="MBLCLPDI_01016" fbc:name="MBLCLPDI_01016"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01604" fbc:label="MBLCLPDI_01604" fbc:name="MBLCLPDI_01604"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00439" fbc:label="MBLCLPDI_00439" fbc:name="MBLCLPDI_00439"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00723" fbc:label="MBLCLPDI_00723" fbc:name="MBLCLPDI_00723"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01799" fbc:label="MBLCLPDI_01799" fbc:name="MBLCLPDI_01799"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01800" fbc:label="MBLCLPDI_01800" fbc:name="MBLCLPDI_01800"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01801" fbc:label="MBLCLPDI_01801" fbc:name="MBLCLPDI_01801"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01802" fbc:label="MBLCLPDI_01802" fbc:name="MBLCLPDI_01802"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01801" fbc:label="MBLCLPDI_01801" fbc:name="MBLCLPDI_01801"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00839" fbc:label="MBLCLPDI_00839" fbc:name="MBLCLPDI_00839"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00530" fbc:label="MBLCLPDI_00530" fbc:name="MBLCLPDI_00530"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00531" fbc:label="MBLCLPDI_00531" fbc:name="MBLCLPDI_00531"/>
@@ -744,14 +744,12 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01299" fbc:label="MBLCLPDI_01299" fbc:name="MBLCLPDI_01299"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00325" fbc:label="MBLCLPDI_00325" fbc:name="MBLCLPDI_00325"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_02022" fbc:label="MBLCLPDI_02022" fbc:name="MBLCLPDI_02022"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00175" fbc:label="MBLCLPDI_00175" fbc:name="MBLCLPDI_00175"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00408" fbc:label="MBLCLPDI_00408" fbc:name="MBLCLPDI_00408"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00378" fbc:label="MBLCLPDI_00378" fbc:name="MBLCLPDI_00378"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01201" fbc:label="MBLCLPDI_01201" fbc:name="MBLCLPDI_01201"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01200" fbc:label="MBLCLPDI_01200" fbc:name="MBLCLPDI_01200"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00103" fbc:label="MBLCLPDI_00103" fbc:name="MBLCLPDI_00103"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00036" fbc:label="MBLCLPDI_00036" fbc:name="MBLCLPDI_00036"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00097" fbc:label="MBLCLPDI_00097" fbc:name="MBLCLPDI_00097"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01180" fbc:label="MBLCLPDI_01180" fbc:name="MBLCLPDI_01180"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01181" fbc:label="MBLCLPDI_01181" fbc:name="MBLCLPDI_01181"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00107" fbc:label="MBLCLPDI_00107" fbc:name="MBLCLPDI_00107"/>
@@ -760,15 +758,15 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00857" fbc:label="MBLCLPDI_00857" fbc:name="MBLCLPDI_00857"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01140" fbc:label="MBLCLPDI_01140" fbc:name="MBLCLPDI_01140"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00428" fbc:label="MBLCLPDI_00428" fbc:name="MBLCLPDI_00428"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01813" fbc:label="MBLCLPDI_01813" fbc:name="MBLCLPDI_01813"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00407" fbc:label="MBLCLPDI_00407" fbc:name="MBLCLPDI_00407"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01813" fbc:label="MBLCLPDI_01813" fbc:name="MBLCLPDI_01813"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00221" fbc:label="MBLCLPDI_00221" fbc:name="MBLCLPDI_00221"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00154" fbc:label="MBLCLPDI_00154" fbc:name="MBLCLPDI_00154"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_02102" fbc:label="MBLCLPDI_02102" fbc:name="MBLCLPDI_02102"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00499" fbc:label="MBLCLPDI_00499" fbc:name="MBLCLPDI_00499"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00341" fbc:label="MBLCLPDI_00341" fbc:name="MBLCLPDI_00341"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00250" fbc:label="MBLCLPDI_00250" fbc:name="MBLCLPDI_00250"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00519" fbc:label="MBLCLPDI_00519" fbc:name="MBLCLPDI_00519"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00250" fbc:label="MBLCLPDI_00250" fbc:name="MBLCLPDI_00250"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00672" fbc:label="MBLCLPDI_00672" fbc:name="MBLCLPDI_00672"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00671" fbc:label="MBLCLPDI_00671" fbc:name="MBLCLPDI_00671"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01385" fbc:label="MBLCLPDI_01385" fbc:name="MBLCLPDI_01385"/>
@@ -1491,25 +1489,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00135"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction fast="false" id="R_CHLabc" reversible="false" name="choline transport via ABC system" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_atp_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_chol_e" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_chol_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00201"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00202"/>
-          </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_CLPNS_LPL" reversible="true" name="Cardiolipin Synthase LPL specific" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
@@ -2741,25 +2720,6 @@
           <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01927"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_GLYBabc" reversible="false" name="glycine betaine transport via ABC system" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_atp_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_glyb_e" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_glyb_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00201"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00202"/>
-          </fbc:and>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction fast="false" id="R_GLYCK" reversible="false" name="glycerate kinase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1"/>
@@ -3037,7 +2997,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00062"/>
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00648"/>
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00809"/>
           </fbc:or>
@@ -4557,6 +4516,22 @@
           <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00571"/>
         </fbc:geneProductAssociation>
       </reaction>
+      <reaction fast="false" id="R_PHETA1" reversible="true" name="phenylalanine transaminase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+        <listOfReactants>
+          <speciesReference constant="true" species="M_akg_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_phe__L_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="true" species="M_glu__L_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_phpyr_c" stoichiometry="1"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00048"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00699"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
+      </reaction>
       <reaction fast="false" id="R_PHETRS" reversible="false" name="Phenylalanyl tRNA synthetase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1"/>
@@ -4770,7 +4745,10 @@
           <speciesReference constant="true" species="M_prpp_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00239"/>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00239"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00691"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_PSUDS" reversible="false" name="pseudouridylate synthase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -4788,6 +4766,7 @@
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01985"/>
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01604"/>
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00845"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01678"/>
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00786"/>
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00650"/>
           </fbc:or>
@@ -5135,20 +5114,6 @@
           <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_02022"/>
         </fbc:geneProductAssociation>
       </reaction>
-      <reaction fast="false" id="R_SBTPD" reversible="true" name="sorbitol 6 phosphate dehydrogenase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_nad_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_sbt6p_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_f6p_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_nadh_c" stoichiometry="1"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00175"/>
-        </fbc:geneProductAssociation>
-      </reaction>
       <reaction fast="false" id="R_SDPDS" reversible="false" name="succinyl diaminopimelate desuccinylase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
           <speciesReference constant="true" species="M_h2o_c" stoichiometry="1"/>
@@ -5255,19 +5220,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00036"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction fast="false" id="R_SUCD3BC" reversible="true" name="succinate dehydrogenase menaquinone 7" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
-        <listOfReactants>
-          <speciesReference constant="true" species="M_mqn7_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_succ_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_fum_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_mql7_c" stoichiometry="1"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00097"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_TDMAT6" reversible="false" name="Tetradecanoyl acyl carrier proteinmalonyl CoA C acyltransferase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -5469,6 +5421,22 @@
           </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
+      <reaction fast="false" id="R_TRPTA" reversible="true" name="tryptophan transaminase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+        <listOfReactants>
+          <speciesReference constant="true" species="M_akg_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_trp__L_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="true" species="M_glu__L_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_indpyr_c" stoichiometry="1"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00048"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00699"/>
+          </fbc:or>
+        </fbc:geneProductAssociation>
+      </reaction>
       <reaction fast="false" id="R_TRPTRS" reversible="false" name="Tryptophanyl tRNA synthetase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <listOfReactants>
           <speciesReference constant="true" species="M_atp_c" stoichiometry="1"/>
@@ -5483,6 +5451,22 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00221"/>
+        </fbc:geneProductAssociation>
+      </reaction>
+      <reaction fast="false" id="R_TYRTA" reversible="true" name="tyrosine transaminase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+        <listOfReactants>
+          <speciesReference constant="true" species="M_akg_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_tyr__L_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="true" species="M_34hpp_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_glu__L_c" stoichiometry="1"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:or>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00048"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00699"/>
+          </fbc:or>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_TYRTRS" reversible="false" name="Tyrosyl tRNA synthetase" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -5852,6 +5836,7 @@
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01985"/>
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01604"/>
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00845"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01678"/>
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00786"/>
             <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00650"/>
           </fbc:or>

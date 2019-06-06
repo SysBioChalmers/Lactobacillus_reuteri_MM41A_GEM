@@ -11,6 +11,7 @@ from gpr2log import gpr2log
 from io_outtxt import  io_outtxt
 from mapIDsViaMNXref import mapIDsViaMNXref
 from venn3_samesize import venn3_samesize
-from merge_model import merge_model
+
 from output_txt import output_txt
 import model_report
+import merge_model

@@ -853,6 +853,122 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_acg5sa_c" name="N-Acetyl-L-glutamate 5-semialdehyde" metaid="M_acg5sa_c" compartment="c" fbc:charge="-1" fbc:chemicalFormula="C7H10NO4">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_acg5sa_c">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/bigg.metabolite/acg5sa"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CPD-469"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:11493"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:12461"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:12577"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16319"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:21551"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29123"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:7152"/>
+                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB06488"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01250"/>
+                  <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM1062"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00918"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_acorn_c" name="N2-Acetyl-L-ornithine" metaid="M_acorn_c" compartment="c" fbc:charge="0" fbc:chemicalFormula="C7H14N2O3">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_acorn_c">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/bigg.metabolite/acorn"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:N-ALPHA-ACETYLORNITHINE"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:12634"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16543"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:21814"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:40771"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:57805"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:7368"/>
+                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB03357"/>
+                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB06489"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00437"/>
+                  <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM817"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00342"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_akg_c" name="2-Oxoglutarate" metaid="M_akg_c" compartment="c" fbc:charge="-2" fbc:chemicalFormula="C5H4O5">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_akg_c">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/bigg.metabolite/akg"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:2-KETOGLUTARATE"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CPD-16852"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:11638"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:1253"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16810"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:19748"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:19749"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:30915"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:30916"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:40661"/>
+                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB62781"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00026"/>
+                  <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM20"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00024"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_glu__L_c" name="L-Glutamate" metaid="M_glu__L_c" compartment="c" fbc:charge="-1" fbc:chemicalFormula="C5H8NO4">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_glu__L_c">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/bigg.metabolite/glu__L"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:GLT"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:Glutamates"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:13107"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:14321"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16015"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:18237"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:21301"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:21304"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:24314"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29985"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29987"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29988"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:42825"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:5431"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:6224"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:76051"/>
+                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB00148"/>
+                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB60475"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00025"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00302"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.drug/D00007"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.drug/D04341"/>
+                  <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM89557"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00023"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd19002"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd27177"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_diact_c" name="Diacetyl C4H6O2" metaid="M_diact_c" compartment="c" fbc:charge="0" fbc:chemicalFormula="C4H6O2">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -1930,72 +2046,6 @@
                   <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C04751"/>
                   <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM507"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd02893"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_akg_c" name="2-Oxoglutarate" metaid="M_akg_c" compartment="c" fbc:charge="-2" fbc:chemicalFormula="C5H4O5">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_akg_c">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/bigg.metabolite/akg"/>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:2-KETOGLUTARATE"/>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:CPD-16852"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:11638"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:1253"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16810"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:19748"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:19749"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:30915"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:30916"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:40661"/>
-                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB62781"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00026"/>
-                  <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM20"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00024"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_glu__L_c" name="L-Glutamate" metaid="M_glu__L_c" compartment="c" fbc:charge="-1" fbc:chemicalFormula="C5H8NO4">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_glu__L_c">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/bigg.metabolite/glu__L"/>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:GLT"/>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:Glutamates"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:13107"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:14321"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16015"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:18237"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:21301"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:21304"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:24314"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29985"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29987"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29988"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:42825"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:5431"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:6224"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:76051"/>
-                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB00148"/>
-                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB60475"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00025"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00302"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.drug/D00007"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.drug/D04341"/>
-                  <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM89557"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00023"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd19002"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd27177"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -6186,6 +6236,43 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_gln__L_e" name="L-Glutamine" metaid="M_gln__L_e" compartment="e" fbc:charge="0" fbc:chemicalFormula="C5H10N2O3">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_gln__L_e">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/bigg.metabolite/gln__L"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:GLN"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:13110"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:18050"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:21308"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:24316"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:28300"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:32665"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:32666"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:32678"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:32679"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:42812"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:42814"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:42899"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:42943"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:5432"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:58359"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:6227"/>
+                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB00641"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00064"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00303"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.drug/D00015"/>
+                  <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM37"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00053"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00253"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_pram_c" name="5-Phospho-beta-D-ribosylamine" metaid="M_pram_c" compartment="c" fbc:charge="-1" fbc:chemicalFormula="C5H11NO7P">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -6329,45 +6416,6 @@
                   <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM71"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11911"/>
                   <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd27100"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-      </species>
-      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_glu__L_e" name="L-Glutamate" metaid="M_glu__L_e" compartment="e" fbc:charge="-1" fbc:chemicalFormula="C5H8NO4">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#M_glu__L_e">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/bigg.metabolite/glu__L"/>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:GLT"/>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:Glutamates"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:13107"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:14321"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:16015"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:18237"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:21301"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:21304"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:24314"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29985"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29987"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29988"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:42825"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:5431"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:6224"/>
-                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:76051"/>
-                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB00148"/>
-                  <rdf:li rdf:resource="http://identifiers.org/hmdb/HMDB60475"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00025"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C00302"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.drug/D00007"/>
-                  <rdf:li rdf:resource="http://identifiers.org/kegg.drug/D04341"/>
-                  <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM89557"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd00023"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd19002"/>
-                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd27177"/>
                 </rdf:Bag>
               </bqbiol:is>
             </rdf:Description>
@@ -8987,6 +9035,46 @@
           </rdf:RDF>
         </sbml:annotation>
       </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_phetrna_c" name="L-Phenylalanyl-tRNA(Phe)" metaid="M_phetrna_c" compartment="c" fbc:charge="-2" fbc:chemicalFormula="C24H32NO17P2R3">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_phetrna_c">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/bigg.metabolite/phetrna"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:13152"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29153"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:6283"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C03511"/>
+                  <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM89802"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd12335"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
+      <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_trnaphe_c" name="TRNA(Phe)" metaid="M_trnaphe_c" compartment="c" fbc:charge="-2" fbc:chemicalFormula="C15H23O16P2R3">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#M_trnaphe_c">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/bigg.metabolite/trnaphe"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:PHE-tRNAs"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:10687"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:15183"/>
+                  <rdf:li rdf:resource="http://identifiers.org/chebi/CHEBI:29184"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.compound/C01648"/>
+                  <rdf:li rdf:resource="http://identifiers.org/metanetx.chemical/MNXM90753"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd11919"/>
+                  <rdf:li rdf:resource="http://identifiers.org/seed.compound/cpd27782"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+      </species>
       <species boundaryCondition="false" constant="false" hasOnlySubstanceUnits="false" id="M_2mahmp_c" name="2-Methyl-4-amino-5-hydroxymethylpyrimidine diphosphate" metaid="M_2mahmp_c" compartment="c" fbc:charge="-3" fbc:chemicalFormula="C6H8N3O7P2">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -10811,12 +10899,13 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01648" fbc:label="MBLCLPDI_01648" fbc:name="MBLCLPDI_01648"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00057" fbc:label="MBLCLPDI_00057" fbc:name="MBLCLPDI_00057"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00350" fbc:label="MBLCLPDI_00350" fbc:name="MBLCLPDI_00350"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01476" fbc:label="MBLCLPDI_01476" fbc:name="MBLCLPDI_01476"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01475" fbc:label="MBLCLPDI_01475" fbc:name="MBLCLPDI_01475"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01476" fbc:label="MBLCLPDI_01476" fbc:name="MBLCLPDI_01476"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00138" fbc:label="MBLCLPDI_00138" fbc:name="MBLCLPDI_00138"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00611" fbc:label="MBLCLPDI_00611" fbc:name="MBLCLPDI_00611"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00139" fbc:label="MBLCLPDI_00139" fbc:name="MBLCLPDI_00139"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01087" fbc:label="MBLCLPDI_01087" fbc:name="MBLCLPDI_01087"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00215" fbc:label="MBLCLPDI_00215" fbc:name="MBLCLPDI_00215"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01601" fbc:label="MBLCLPDI_01601" fbc:name="MBLCLPDI_01601"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00354" fbc:label="MBLCLPDI_00354" fbc:name="MBLCLPDI_00354"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01350" fbc:label="MBLCLPDI_01350" fbc:name="MBLCLPDI_01350"/>
@@ -10855,8 +10944,8 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00812" fbc:label="MBLCLPDI_00812" fbc:name="MBLCLPDI_00812"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01077" fbc:label="MBLCLPDI_01077" fbc:name="MBLCLPDI_01077"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00469" fbc:label="MBLCLPDI_00469" fbc:name="MBLCLPDI_00469"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00091" fbc:label="MBLCLPDI_00091" fbc:name="MBLCLPDI_00091"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00090" fbc:label="MBLCLPDI_00090" fbc:name="MBLCLPDI_00090"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00091" fbc:label="MBLCLPDI_00091" fbc:name="MBLCLPDI_00091"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00135" fbc:label="MBLCLPDI_00135" fbc:name="MBLCLPDI_00135"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00201" fbc:label="MBLCLPDI_00201" fbc:name="MBLCLPDI_00201"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00202" fbc:label="MBLCLPDI_00202" fbc:name="MBLCLPDI_00202"/>
@@ -10866,10 +10955,10 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01948" fbc:label="MBLCLPDI_01948" fbc:name="MBLCLPDI_01948"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00320" fbc:label="MBLCLPDI_00320" fbc:name="MBLCLPDI_00320"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00330" fbc:label="MBLCLPDI_00330" fbc:name="MBLCLPDI_00330"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00557" fbc:label="MBLCLPDI_00557" fbc:name="MBLCLPDI_00557"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00555" fbc:label="MBLCLPDI_00555" fbc:name="MBLCLPDI_00555"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00556" fbc:label="MBLCLPDI_00556" fbc:name="MBLCLPDI_00556"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00558" fbc:label="MBLCLPDI_00558" fbc:name="MBLCLPDI_00558"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00555" fbc:label="MBLCLPDI_00555" fbc:name="MBLCLPDI_00555"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00557" fbc:label="MBLCLPDI_00557" fbc:name="MBLCLPDI_00557"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00850" fbc:label="MBLCLPDI_00850" fbc:name="MBLCLPDI_00850"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01655" fbc:label="MBLCLPDI_01655" fbc:name="MBLCLPDI_01655"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00825" fbc:label="MBLCLPDI_00825" fbc:name="MBLCLPDI_00825"/>
@@ -10900,7 +10989,7 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01304" fbc:label="MBLCLPDI_01304" fbc:name="MBLCLPDI_01304"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00787" fbc:label="MBLCLPDI_00787" fbc:name="MBLCLPDI_00787"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01688" fbc:label="MBLCLPDI_01688" fbc:name="MBLCLPDI_01688"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00995" fbc:label="MBLCLPDI_00995" fbc:name="MBLCLPDI_00995"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00994" fbc:label="MBLCLPDI_00994" fbc:name="MBLCLPDI_00994"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00137" fbc:label="MBLCLPDI_00137" fbc:name="MBLCLPDI_00137"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00238" fbc:label="MBLCLPDI_00238" fbc:name="MBLCLPDI_00238"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00402" fbc:label="MBLCLPDI_00402" fbc:name="MBLCLPDI_00402"/>
@@ -10920,24 +11009,24 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01308" fbc:label="MBLCLPDI_01308" fbc:name="MBLCLPDI_01308"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00884" fbc:label="MBLCLPDI_00884" fbc:name="MBLCLPDI_00884"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01337" fbc:label="MBLCLPDI_01337" fbc:name="MBLCLPDI_01337"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00104" fbc:label="MBLCLPDI_00104" fbc:name="MBLCLPDI_00104"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00105" fbc:label="MBLCLPDI_00105" fbc:name="MBLCLPDI_00105"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00376" fbc:label="MBLCLPDI_00376" fbc:name="MBLCLPDI_00376"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00147" fbc:label="MBLCLPDI_00147" fbc:name="MBLCLPDI_00147"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00591" fbc:label="MBLCLPDI_00591" fbc:name="MBLCLPDI_00591"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01336" fbc:label="MBLCLPDI_01336" fbc:name="MBLCLPDI_01336"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00105" fbc:label="MBLCLPDI_00105" fbc:name="MBLCLPDI_00105"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00815" fbc:label="MBLCLPDI_00815" fbc:name="MBLCLPDI_00815"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01908" fbc:label="MBLCLPDI_01908" fbc:name="MBLCLPDI_01908"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01192" fbc:label="MBLCLPDI_01192" fbc:name="MBLCLPDI_01192"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00829" fbc:label="MBLCLPDI_00829" fbc:name="MBLCLPDI_00829"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00828" fbc:label="MBLCLPDI_00828" fbc:name="MBLCLPDI_00828"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00829" fbc:label="MBLCLPDI_00829" fbc:name="MBLCLPDI_00829"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00073" fbc:label="MBLCLPDI_00073" fbc:name="MBLCLPDI_00073"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01772" fbc:label="MBLCLPDI_01772" fbc:name="MBLCLPDI_01772"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00948" fbc:label="MBLCLPDI_00948" fbc:name="MBLCLPDI_00948"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00882" fbc:label="MBLCLPDI_00882" fbc:name="MBLCLPDI_00882"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00070" fbc:label="MBLCLPDI_00070" fbc:name="MBLCLPDI_00070"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01561" fbc:label="MBLCLPDI_01561" fbc:name="MBLCLPDI_01561"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01414" fbc:label="MBLCLPDI_01414" fbc:name="MBLCLPDI_01414"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00809" fbc:label="MBLCLPDI_00809" fbc:name="MBLCLPDI_00809"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00648" fbc:label="MBLCLPDI_00648" fbc:name="MBLCLPDI_00648"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00809" fbc:label="MBLCLPDI_00809" fbc:name="MBLCLPDI_00809"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00285" fbc:label="MBLCLPDI_00285" fbc:name="MBLCLPDI_00285"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00549" fbc:label="MBLCLPDI_00549" fbc:name="MBLCLPDI_00549"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01089" fbc:label="MBLCLPDI_01089" fbc:name="MBLCLPDI_01089"/>
@@ -10951,7 +11040,7 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01139" fbc:label="MBLCLPDI_01139" fbc:name="MBLCLPDI_01139"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01947" fbc:label="MBLCLPDI_01947" fbc:name="MBLCLPDI_01947"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00680" fbc:label="MBLCLPDI_00680" fbc:name="MBLCLPDI_00680"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01967" fbc:label="MBLCLPDI_01967" fbc:name="MBLCLPDI_01967"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01837" fbc:label="MBLCLPDI_01837" fbc:name="MBLCLPDI_01837"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00122" fbc:label="MBLCLPDI_00122" fbc:name="MBLCLPDI_00122"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00999" fbc:label="MBLCLPDI_00999" fbc:name="MBLCLPDI_00999"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00803" fbc:label="MBLCLPDI_00803" fbc:name="MBLCLPDI_00803"/>
@@ -10962,13 +11051,12 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01690" fbc:label="MBLCLPDI_01690" fbc:name="MBLCLPDI_01690"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00059" fbc:label="MBLCLPDI_00059" fbc:name="MBLCLPDI_00059"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00461" fbc:label="MBLCLPDI_00461" fbc:name="MBLCLPDI_00461"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00533" fbc:label="MBLCLPDI_00533" fbc:name="MBLCLPDI_00533"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01733" fbc:label="MBLCLPDI_01733" fbc:name="MBLCLPDI_01733"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01083" fbc:label="MBLCLPDI_01083" fbc:name="MBLCLPDI_01083"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01433" fbc:label="MBLCLPDI_01433" fbc:name="MBLCLPDI_01433"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00208" fbc:label="MBLCLPDI_00208" fbc:name="MBLCLPDI_00208"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00207" fbc:label="MBLCLPDI_00207" fbc:name="MBLCLPDI_00207"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00209" fbc:label="MBLCLPDI_00209" fbc:name="MBLCLPDI_00209"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00207" fbc:label="MBLCLPDI_00207" fbc:name="MBLCLPDI_00207"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00208" fbc:label="MBLCLPDI_00208" fbc:name="MBLCLPDI_00208"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00228" fbc:label="MBLCLPDI_00228" fbc:name="MBLCLPDI_00228"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01002" fbc:label="MBLCLPDI_01002" fbc:name="MBLCLPDI_01002"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00718" fbc:label="MBLCLPDI_00718" fbc:name="MBLCLPDI_00718"/>
@@ -10984,25 +11072,27 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00973" fbc:label="MBLCLPDI_00973" fbc:name="MBLCLPDI_00973"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00468" fbc:label="MBLCLPDI_00468" fbc:name="MBLCLPDI_00468"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00716" fbc:label="MBLCLPDI_00716" fbc:name="MBLCLPDI_00716"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00713" fbc:label="MBLCLPDI_00713" fbc:name="MBLCLPDI_00713"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00715" fbc:label="MBLCLPDI_00715" fbc:name="MBLCLPDI_00715"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00714" fbc:label="MBLCLPDI_00714" fbc:name="MBLCLPDI_00714"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00713" fbc:label="MBLCLPDI_00713" fbc:name="MBLCLPDI_00713"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00132" fbc:label="MBLCLPDI_00132" fbc:name="MBLCLPDI_00132"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00133" fbc:label="MBLCLPDI_00133" fbc:name="MBLCLPDI_00133"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00035" fbc:label="MBLCLPDI_00035" fbc:name="MBLCLPDI_00035"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00374" fbc:label="MBLCLPDI_00374" fbc:name="MBLCLPDI_00374"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00670" fbc:label="MBLCLPDI_00670" fbc:name="MBLCLPDI_00670"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00450" fbc:label="MBLCLPDI_00450" fbc:name="MBLCLPDI_00450"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01922" fbc:label="MBLCLPDI_01922" fbc:name="MBLCLPDI_01922"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00669" fbc:label="MBLCLPDI_00669" fbc:name="MBLCLPDI_00669"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01346" fbc:label="MBLCLPDI_01346" fbc:name="MBLCLPDI_01346"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01007" fbc:label="MBLCLPDI_01007" fbc:name="MBLCLPDI_01007"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01404" fbc:label="MBLCLPDI_01404" fbc:name="MBLCLPDI_01404"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00669" fbc:label="MBLCLPDI_00669" fbc:name="MBLCLPDI_00669"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01346" fbc:label="MBLCLPDI_01346" fbc:name="MBLCLPDI_01346"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00427" fbc:label="MBLCLPDI_00427" fbc:name="MBLCLPDI_00427"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00660" fbc:label="MBLCLPDI_00660" fbc:name="MBLCLPDI_00660"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00152" fbc:label="MBLCLPDI_00152" fbc:name="MBLCLPDI_00152"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00688" fbc:label="MBLCLPDI_00688" fbc:name="MBLCLPDI_00688"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00152" fbc:label="MBLCLPDI_00152" fbc:name="MBLCLPDI_00152"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00060" fbc:label="MBLCLPDI_00060" fbc:name="MBLCLPDI_00060"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00571" fbc:label="MBLCLPDI_00571" fbc:name="MBLCLPDI_00571"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01352" fbc:label="MBLCLPDI_01352" fbc:name="MBLCLPDI_01352"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01353" fbc:label="MBLCLPDI_01353" fbc:name="MBLCLPDI_01353"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01775" fbc:label="MBLCLPDI_01775" fbc:name="MBLCLPDI_01775"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00873" fbc:label="MBLCLPDI_00873" fbc:name="MBLCLPDI_00873"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01306" fbc:label="MBLCLPDI_01306" fbc:name="MBLCLPDI_01306"/>
@@ -11013,29 +11103,29 @@
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01211" fbc:label="MBLCLPDI_01211" fbc:name="MBLCLPDI_01211"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00778" fbc:label="MBLCLPDI_00778" fbc:name="MBLCLPDI_00778"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00239" fbc:label="MBLCLPDI_00239" fbc:name="MBLCLPDI_00239"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00786" fbc:label="MBLCLPDI_00786" fbc:name="MBLCLPDI_00786"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01016" fbc:label="MBLCLPDI_01016" fbc:name="MBLCLPDI_01016"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00845" fbc:label="MBLCLPDI_00845" fbc:name="MBLCLPDI_00845"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01985" fbc:label="MBLCLPDI_01985" fbc:name="MBLCLPDI_01985"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01604" fbc:label="MBLCLPDI_01604" fbc:name="MBLCLPDI_01604"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00650" fbc:label="MBLCLPDI_00650" fbc:name="MBLCLPDI_00650"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01016" fbc:label="MBLCLPDI_01016" fbc:name="MBLCLPDI_01016"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01985" fbc:label="MBLCLPDI_01985" fbc:name="MBLCLPDI_01985"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00845" fbc:label="MBLCLPDI_00845" fbc:name="MBLCLPDI_00845"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00786" fbc:label="MBLCLPDI_00786" fbc:name="MBLCLPDI_00786"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00439" fbc:label="MBLCLPDI_00439" fbc:name="MBLCLPDI_00439"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00723" fbc:label="MBLCLPDI_00723" fbc:name="MBLCLPDI_00723"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01802" fbc:label="MBLCLPDI_01802" fbc:name="MBLCLPDI_01802"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01801" fbc:label="MBLCLPDI_01801" fbc:name="MBLCLPDI_01801"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01799" fbc:label="MBLCLPDI_01799" fbc:name="MBLCLPDI_01799"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01801" fbc:label="MBLCLPDI_01801" fbc:name="MBLCLPDI_01801"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01800" fbc:label="MBLCLPDI_01800" fbc:name="MBLCLPDI_01800"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01802" fbc:label="MBLCLPDI_01802" fbc:name="MBLCLPDI_01802"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00120" fbc:label="MBLCLPDI_00120" fbc:name="MBLCLPDI_00120"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00119" fbc:label="MBLCLPDI_00119" fbc:name="MBLCLPDI_00119"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00965" fbc:label="MBLCLPDI_00965" fbc:name="MBLCLPDI_00965"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00967" fbc:label="MBLCLPDI_00967" fbc:name="MBLCLPDI_00967"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_00352" fbc:label="MBLCLPDI_00352" fbc:name="MBLCLPDI_00352"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00351" fbc:label="MBLCLPDI_00351" fbc:name="MBLCLPDI_00351"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_00352" fbc:label="MBLCLPDI_00352" fbc:name="MBLCLPDI_00352"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01454" fbc:label="MBLCLPDI_01454" fbc:name="MBLCLPDI_01454"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01299" fbc:label="MBLCLPDI_01299" fbc:name="MBLCLPDI_01299"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00325" fbc:label="MBLCLPDI_00325" fbc:name="MBLCLPDI_00325"/>
-      <fbc:geneProduct fbc:id="G_MBLCLPDI_01201" fbc:label="MBLCLPDI_01201" fbc:name="MBLCLPDI_01201"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_01200" fbc:label="MBLCLPDI_01200" fbc:name="MBLCLPDI_01200"/>
+      <fbc:geneProduct fbc:id="G_MBLCLPDI_01201" fbc:label="MBLCLPDI_01201" fbc:name="MBLCLPDI_01201"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00103" fbc:label="MBLCLPDI_00103" fbc:name="MBLCLPDI_00103"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00974" fbc:label="MBLCLPDI_00974" fbc:name="MBLCLPDI_00974"/>
       <fbc:geneProduct fbc:id="G_MBLCLPDI_00097" fbc:label="MBLCLPDI_00097" fbc:name="MBLCLPDI_00097"/>
@@ -11529,6 +11619,38 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01087"/>
+        </fbc:geneProductAssociation>
+      </reaction>
+      <reaction fast="false" id="R_ACOTA" reversible="true" name="Acetylornithine transaminase" metaid="R_ACOTA" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#R_ACOTA">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/ACOTA"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:ACETYLORNTRANSAM-RXN"/>
+                  <rdf:li rdf:resource="http://identifiers.org/ec-code/2.6.1.11"/>
+                  <rdf:li rdf:resource="http://identifiers.org/kegg.reaction/R02283"/>
+                  <rdf:li rdf:resource="http://identifiers.org/metanetx.reaction/MNXR95388"/>
+                  <rdf:li rdf:resource="http://identifiers.org/rhea/18049"/>
+                  <rdf:li rdf:resource="http://identifiers.org/rhea/18050"/>
+                  <rdf:li rdf:resource="http://identifiers.org/rhea/18051"/>
+                  <rdf:li rdf:resource="http://identifiers.org/rhea/18052"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+        <listOfReactants>
+          <speciesReference constant="true" species="M_acorn_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_akg_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="true" species="M_acg5sa_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_glu__L_c" stoichiometry="1"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00215"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_ACTD" reversible="true" name="Acetoin dehydrogenase" metaid="R_ACTD" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
@@ -14572,7 +14694,7 @@
           <speciesReference constant="true" species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00995"/>
+          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00994"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_FTHFLi" reversible="false" name="Formate-tetrahydrofolate ligase" metaid="R_FTHFLi" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -15244,6 +15366,43 @@
           <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01337"/>
         </fbc:geneProductAssociation>
       </reaction>
+      <reaction fast="false" id="R_GLNabc" reversible="false" name="L-glutamine transport via ABC system" metaid="R_GLNabc" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#R_GLNabc">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/GLNabc"/>
+                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:ABC-12-RXN"/>
+                  <rdf:li rdf:resource="http://identifiers.org/ec-code/3.6.3.21"/>
+                  <rdf:li rdf:resource="http://identifiers.org/metanetx.reaction/MNXR100258"/>
+                  <rdf:li rdf:resource="http://identifiers.org/rhea/29895#1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/rhea/29896#1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/rhea/29897#1"/>
+                  <rdf:li rdf:resource="http://identifiers.org/rhea/29898#1"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+        <listOfReactants>
+          <speciesReference constant="true" species="M_atp_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_gln__L_e" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="true" species="M_adp_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_gln__L_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_pi_c" stoichiometry="1"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:and>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00104"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00105"/>
+          </fbc:and>
+        </fbc:geneProductAssociation>
+      </reaction>
       <reaction fast="false" id="R_GLU5K" reversible="false" name="Glutamate 5-kinase" metaid="R_GLU5K" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
         <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
           <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
@@ -15392,43 +15551,6 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01336"/>
-        </fbc:geneProductAssociation>
-      </reaction>
-      <reaction fast="false" id="R_GLUabc" reversible="false" name="L-glutamate transport via ABC system" metaid="R_GLUabc" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
-        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
-          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-            <rdf:Description rdf:about="#R_GLUabc">
-              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
-                <rdf:Bag>
-                  <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/GLUabc"/>
-                  <rdf:li rdf:resource="http://identifiers.org/biocyc/META:ABC-13-RXN"/>
-                  <rdf:li rdf:resource="http://identifiers.org/ec-code/3.6.3.21"/>
-                  <rdf:li rdf:resource="http://identifiers.org/metanetx.reaction/MNXR100299"/>
-                  <rdf:li rdf:resource="http://identifiers.org/rhea/29035#1"/>
-                  <rdf:li rdf:resource="http://identifiers.org/rhea/29036#1"/>
-                  <rdf:li rdf:resource="http://identifiers.org/rhea/29037#1"/>
-                  <rdf:li rdf:resource="http://identifiers.org/rhea/29038#1"/>
-                </rdf:Bag>
-              </bqbiol:is>
-            </rdf:Description>
-          </rdf:RDF>
-        </sbml:annotation>
-        <listOfReactants>
-          <speciesReference constant="true" species="M_atp_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_glu__L_e" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_h2o_c" stoichiometry="1"/>
-        </listOfReactants>
-        <listOfProducts>
-          <speciesReference constant="true" species="M_adp_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_glu__L_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_h_c" stoichiometry="1"/>
-          <speciesReference constant="true" species="M_pi_c" stoichiometry="1"/>
-        </listOfProducts>
-        <fbc:geneProductAssociation>
-          <fbc:and>
-            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00815"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00105"/>
-          </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_GLYBabc" reversible="false" name="Glycine betaine transport via ABC system" metaid="R_GLYBabc" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -15688,7 +15810,7 @@
           <speciesReference constant="true" species="M_h_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00948"/>
+          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00882"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_GPDDA1" reversible="false" name="Glycerophosphodiester phosphodiesterase (Glycerophosphocholine)" metaid="R_GPDDA1" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -16918,7 +17040,7 @@
           <speciesReference constant="true" species="M_ile__L_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01967"/>
+          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01837"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_IMPC" reversible="true" name="IMP cyclohydrolase" metaid="R_IMPC" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
@@ -17098,7 +17220,7 @@
           <speciesReference constant="true" species="M_leu__L_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01967"/>
+          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01837"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_LYSTRS_1" reversible="false" name="Lysyl tRNA synthetase" metaid="R_LYSTRS_1" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -17265,10 +17387,7 @@
           <speciesReference constant="true" species="M_coa_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:or>
-            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00461"/>
-            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00533"/>
-          </fbc:or>
+          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00461"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_MAN6PI" reversible="true" name="Mannose-6-phosphate isomerase" metaid="R_MAN6PI" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_default_lb">
@@ -18554,7 +18673,7 @@
           <speciesReference constant="true" species="M_pro__L_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00035"/>
+          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00374"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_PAPPT1" reversible="false" name="Phospho N acetylmuramoyl pentapeptide transferase alpha glutamate " metaid="R_PAPPT1" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -18931,6 +19050,36 @@
         </listOfProducts>
         <fbc:geneProductAssociation>
           <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_00571"/>
+        </fbc:geneProductAssociation>
+      </reaction>
+      <reaction fast="false" id="R_PHETRS_1" reversible="false" name="Phenylalanyl tRNA synthetase" metaid="R_PHETRS_1" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
+        <sbml:annotation xmlns:sbml="http://www.sbml.org/sbml/level3/version1/core">
+          <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+            <rdf:Description rdf:about="#R_PHETRS_1">
+              <bqbiol:is xmlns:bqbiol="http://biomodels.net/biology-qualifiers/">
+                <rdf:Bag>
+                  <rdf:li rdf:resource="http://identifiers.org/bigg.reaction/PHETRS_1"/>
+                </rdf:Bag>
+              </bqbiol:is>
+            </rdf:Description>
+          </rdf:RDF>
+        </sbml:annotation>
+        <listOfReactants>
+          <speciesReference constant="true" species="M_atp_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_phe__L_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_trnaphe_c" stoichiometry="1"/>
+        </listOfReactants>
+        <listOfProducts>
+          <speciesReference constant="true" species="M_amp_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_h_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_phetrna_c" stoichiometry="1"/>
+          <speciesReference constant="true" species="M_ppi_c" stoichiometry="1"/>
+        </listOfProducts>
+        <fbc:geneProductAssociation>
+          <fbc:and>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01352"/>
+            <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01353"/>
+          </fbc:and>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_PMPK" reversible="false" name="Phosphomethylpyrimidine kinase" metaid="R_PMPK" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">
@@ -21707,7 +21856,7 @@
           <speciesReference constant="true" species="M_val__L_c" stoichiometry="1"/>
         </listOfProducts>
         <fbc:geneProductAssociation>
-          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01967"/>
+          <fbc:geneProductRef fbc:geneProduct="G_MBLCLPDI_01837"/>
         </fbc:geneProductAssociation>
       </reaction>
       <reaction fast="false" id="R_XANt2" reversible="false" name="Xanthine transport in via proton symport" metaid="R_XANt2" sboTerm="SBO:0000375" fbc:upperFluxBound="cobra_default_ub" fbc:lowerFluxBound="cobra_0_bound">

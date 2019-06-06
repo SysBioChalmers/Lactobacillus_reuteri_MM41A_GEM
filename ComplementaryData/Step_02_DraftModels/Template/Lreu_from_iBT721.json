@@ -232,7 +232,12 @@
 "id":"26dap_LL_c",
 "name":"LL-2,6-Diaminoheptanedioate",
 "compartment":"default",
-"formula":"C7H14N2O4"
+"formula":"C7H14N2O4",
+"notes":{
+"initial_id":[
+"26dap__LL_c"
+]
+}
 },
 {
 "id":"al26da_c",
@@ -661,18 +666,6 @@
 "formula":"C15H23N6O5S"
 },
 {
-"id":"chol_c",
-"name":"Choline",
-"compartment":"default",
-"formula":"C5H14NO"
-},
-{
-"id":"chol_e",
-"name":"Choline",
-"compartment":"default",
-"formula":"C5H14NO"
-},
-{
 "id":"clpn_LPL_c",
 "name":"Cardiolipin__LPL_specific_",
 "compartment":"default",
@@ -688,7 +681,12 @@
 "id":"4cml_c",
 "name":"2-Carboxy-2,5-dihydro-5-oxofuran-2-acetate",
 "compartment":"default",
-"formula":"C7H6O6"
+"formula":"C7H6O6",
+"notes":{
+"initial_id":[
+"2c25dho_c"
+]
+}
 },
 {
 "id":"5odhf2a_c",
@@ -745,7 +743,7 @@
 "formula":"H2S"
 },
 {
-"id":"cyst__L_c",
+"id":"cysth__L_c",
 "name":"L_Cystathionine",
 "compartment":"default",
 "formula":"X"
@@ -826,7 +824,12 @@
 "id":"dad_2_c",
 "name":"Deoxyadenosine",
 "compartment":"default",
-"formula":"C10H13N5O3"
+"formula":"C10H13N5O3",
+"notes":{
+"initial_id":[
+"dad__2_c"
+]
+}
 },
 {
 "id":"damp_c",
@@ -1447,18 +1450,6 @@
 "formula":"C5H8NO4"
 },
 {
-"id":"glyb_c",
-"name":"Glycine betaine",
-"compartment":"default",
-"formula":"C5H11NO2"
-},
-{
-"id":"glyb_e",
-"name":"Glycine betaine",
-"compartment":"default",
-"formula":"C5H11NO2"
-},
-{
 "id":"3pg_c",
 "name":"3-Phospho-D-glycerate",
 "compartment":"default",
@@ -1505,6 +1496,12 @@
 "name":"Guanine",
 "compartment":"default",
 "formula":"C5H5N5O"
+},
+{
+"id":"chol_c",
+"name":"Choline",
+"compartment":"default",
+"formula":"C5H14NO"
 },
 {
 "id":"g3pc_c",
@@ -2179,6 +2176,12 @@
 "formula":"C9H11NO2"
 },
 {
+"id":"phpyr_c",
+"name":"Phenylpyruvate",
+"compartment":"default",
+"formula":"C9H7O3"
+},
+{
 "id":"phetrna_c",
 "name":"L-Phenylalanyl-tRNA(Phe)",
 "compartment":"default",
@@ -2353,12 +2356,6 @@
 "formula":"X"
 },
 {
-"id":"sbt6p_c",
-"name":"D-Sorbitol 6-phosphate",
-"compartment":"default",
-"formula":"C6H13O9P"
-},
-{
 "id":"sl26da_c",
 "name":"N-Succinyl-LL-2,6-diaminoheptanedioate",
 "compartment":"default",
@@ -2404,7 +2401,12 @@
 "id":"dtdp4d6dm_c",
 "name":"dTDP_4_dehydro_6_deoxy_L_mannose",
 "compartment":"default",
-"formula":"C16H22N2O15P2"
+"formula":"C16H22N2O15P2",
+"notes":{
+"initial_id":[
+"dtdpddm_c"
+]
+}
 },
 {
 "id":"dtdp6dm_c",
@@ -2416,7 +2418,12 @@
 "id":"dtdp4d6dg_c",
 "name":"dTDP_4_dehydro_6_deoxy_D_glucose",
 "compartment":"default",
-"formula":"C16H22N2O15P2"
+"formula":"C16H22N2O15P2",
+"notes":{
+"initial_id":[
+"dtdpddg_c"
+]
+}
 },
 {
 "id":"dtdpglc_c",
@@ -2485,10 +2492,10 @@
 "formula":"C12H16N4O4PS"
 },
 {
-"id":"trnatrp_c",
-"name":"tRNA(Trp)",
+"id":"indpyr_c",
+"name":"Indolepyruvate",
 "compartment":"default",
-"formula":"R"
+"formula":"C11H8NO3"
 },
 {
 "id":"trp__L_c",
@@ -2497,22 +2504,34 @@
 "formula":"C11H12N2O2"
 },
 {
+"id":"trnatrp_c",
+"name":"tRNA(Trp)",
+"compartment":"default",
+"formula":"R"
+},
+{
 "id":"trptrna_c",
 "name":"L-Tryptophanyl-tRNA(Trp)",
 "compartment":"default",
 "formula":"C11H11N2OR"
 },
 {
-"id":"trnatyr_c",
-"name":"tRNA(Tyr)",
+"id":"34hpp_c",
+"name":"3-(4-Hydroxyphenyl)pyruvate",
 "compartment":"default",
-"formula":"R"
+"formula":"C9H7O4"
 },
 {
 "id":"tyr__L_c",
 "name":"L-Tyrosine",
 "compartment":"default",
 "formula":"C9H11NO3"
+},
+{
+"id":"trnatyr_c",
+"name":"tRNA(Tyr)",
+"compartment":"default",
+"formula":"R"
 },
 {
 "id":"tyrtrna_c",
@@ -2639,7 +2658,7 @@
 "gene_reaction_rule":"MBLCLPDI_00210",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2658,7 +2677,7 @@
 "gene_reaction_rule":"MBLCLPDI_01735",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2676,7 +2695,7 @@
 "gene_reaction_rule":"MBLCLPDI_00215",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2696,7 +2715,7 @@
 "gene_reaction_rule":"MBLCLPDI_00350",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2715,7 +2734,7 @@
 "gene_reaction_rule":"MBLCLPDI_00138",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2733,7 +2752,7 @@
 "gene_reaction_rule":"MBLCLPDI_00611",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2751,7 +2770,7 @@
 "gene_reaction_rule":"MBLCLPDI_00139",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2769,7 +2788,7 @@
 "gene_reaction_rule":"MBLCLPDI_00138",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2788,7 +2807,7 @@
 "gene_reaction_rule":"MBLCLPDI_01292 and MBLCLPDI_00272",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2807,7 +2826,7 @@
 "gene_reaction_rule":"MBLCLPDI_00354",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2825,7 +2844,7 @@
 "gene_reaction_rule":"MBLCLPDI_00275",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2842,7 +2861,7 @@
 "gene_reaction_rule":"MBLCLPDI_01614",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2860,7 +2879,7 @@
 "gene_reaction_rule":"MBLCLPDI_01614",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2878,7 +2897,7 @@
 "gene_reaction_rule":"MBLCLPDI_01814 or MBLCLPDI_00108",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2897,7 +2916,7 @@
 "gene_reaction_rule":"MBLCLPDI_00696",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2916,7 +2935,7 @@
 "gene_reaction_rule":"MBLCLPDI_00682",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2933,7 +2952,10 @@
 "gene_reaction_rule":"MBLCLPDI_00142",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"ADSL1"
 ]
 }
 },
@@ -2950,7 +2972,10 @@
 "gene_reaction_rule":"MBLCLPDI_00142",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"ADSL2"
 ]
 }
 },
@@ -2971,7 +2996,7 @@
 "gene_reaction_rule":"MBLCLPDI_00074",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -2994,7 +3019,7 @@
 "gene_reaction_rule":"MBLCLPDI_00765",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3012,7 +3037,7 @@
 "gene_reaction_rule":"MBLCLPDI_00684",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3032,7 +3057,7 @@
 "gene_reaction_rule":"MBLCLPDI_00098",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3050,7 +3075,7 @@
 "gene_reaction_rule":"MBLCLPDI_00150",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3068,7 +3093,10 @@
 "gene_reaction_rule":"(MBLCLPDI_00141 and MBLCLPDI_00140) or (MBLCLPDI_01598 and MBLCLPDI_00140)",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"AIRC"
 ]
 }
 },
@@ -3088,7 +3116,7 @@
 "gene_reaction_rule":"MBLCLPDI_00526",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3104,7 +3132,7 @@
 "gene_reaction_rule":"MBLCLPDI_00273",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3125,7 +3153,7 @@
 "gene_reaction_rule":"MBLCLPDI_00583",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3144,7 +3172,7 @@
 "gene_reaction_rule":"MBLCLPDI_01747",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3163,7 +3191,7 @@
 "gene_reaction_rule":"MBLCLPDI_01747 or MBLCLPDI_00350",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3182,7 +3210,7 @@
 "gene_reaction_rule":"MBLCLPDI_00695",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3198,7 +3226,7 @@
 "gene_reaction_rule":"MBLCLPDI_00529",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3214,7 +3242,7 @@
 "gene_reaction_rule":"MBLCLPDI_00532",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3231,7 +3259,7 @@
 "gene_reaction_rule":"MBLCLPDI_00820",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3252,7 +3280,7 @@
 "gene_reaction_rule":"MBLCLPDI_00819",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3273,7 +3301,7 @@
 "gene_reaction_rule":"MBLCLPDI_01405",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3293,7 +3321,7 @@
 "gene_reaction_rule":"MBLCLPDI_00700",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3311,7 +3339,7 @@
 "gene_reaction_rule":"MBLCLPDI_02065",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3334,7 +3362,7 @@
 "gene_reaction_rule":"MBLCLPDI_02103",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3355,7 +3383,7 @@
 "gene_reaction_rule":"MBLCLPDI_02050",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3376,7 +3404,7 @@
 "gene_reaction_rule":"MBLCLPDI_02051",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3395,7 +3423,7 @@
 "gene_reaction_rule":"MBLCLPDI_00129",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3413,7 +3441,7 @@
 "gene_reaction_rule":"MBLCLPDI_00693",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3429,7 +3457,7 @@
 "gene_reaction_rule":"MBLCLPDI_00308",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3450,7 +3478,7 @@
 "gene_reaction_rule":"MBLCLPDI_00812",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3469,7 +3497,7 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3492,7 +3520,7 @@
 "gene_reaction_rule":"MBLCLPDI_00090 and MBLCLPDI_00091",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3511,7 +3539,7 @@
 "gene_reaction_rule":"MBLCLPDI_00233",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3529,7 +3557,7 @@
 "gene_reaction_rule":"MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3548,28 +3576,7 @@
 "gene_reaction_rule":"MBLCLPDI_00135",
 "notes":{
 "from":[
-"MODEL1507180045"
-]
-}
-},
-{
-"id":"CHLabc",
-"name":"choline transport via ABC system",
-"metabolites":{
-"adp_c":1.0,
-"atp_c":-1.0,
-"chol_c":1.0,
-"chol_e":-1.0,
-"h2o_c":-1.0,
-"h_c":1.0,
-"pi_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00201 and MBLCLPDI_00202",
-"notes":{
-"from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3586,7 +3593,7 @@
 "gene_reaction_rule":"MBLCLPDI_00053",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3604,7 +3611,7 @@
 "gene_reaction_rule":"MBLCLPDI_02076",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3623,7 +3630,7 @@
 "gene_reaction_rule":"MBLCLPDI_00354",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3641,7 +3648,7 @@
 "gene_reaction_rule":"MBLCLPDI_00275",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3662,7 +3669,7 @@
 "gene_reaction_rule":"MBLCLPDI_00248",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3685,7 +3692,7 @@
 "gene_reaction_rule":"MBLCLPDI_00248",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3704,7 +3711,7 @@
 "gene_reaction_rule":"MBLCLPDI_01711",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3714,7 +3721,7 @@
 "metabolites":{
 "2obut_c":1.0,
 "cys__L_c":1.0,
-"cyst__L_c":-1.0,
+"cysth__L_c":-1.0,
 "h2o_c":-1.0,
 "nh4_c":1.0
 },
@@ -3723,7 +3730,7 @@
 "gene_reaction_rule":"MBLCLPDI_00320",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3731,7 +3738,7 @@
 "id":"CYSTL",
 "name":"cystathionine b lyase",
 "metabolites":{
-"cyst__L_c":-1.0,
+"cysth__L_c":-1.0,
 "h2o_c":-1.0,
 "hcys__L_c":1.0,
 "nh4_c":1.0,
@@ -3742,7 +3749,7 @@
 "gene_reaction_rule":"MBLCLPDI_00320",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3763,7 +3770,7 @@
 "gene_reaction_rule":"MBLCLPDI_00330",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3783,7 +3790,7 @@
 "gene_reaction_rule":"(MBLCLPDI_00555 and MBLCLPDI_00556) and MBLCLPDI_00557 and MBLCLPDI_00558",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3802,7 +3809,7 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3821,7 +3828,7 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3840,7 +3847,10 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"CYTDK3"
 ]
 }
 },
@@ -3858,7 +3868,7 @@
 "gene_reaction_rule":"MBLCLPDI_00850",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3876,7 +3886,7 @@
 "gene_reaction_rule":"MBLCLPDI_00850",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3895,7 +3905,7 @@
 "gene_reaction_rule":"MBLCLPDI_01425 or MBLCLPDI_01655",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3914,7 +3924,7 @@
 "gene_reaction_rule":"MBLCLPDI_01474 and MBLCLPDI_01473",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3932,7 +3942,7 @@
 "gene_reaction_rule":"MBLCLPDI_00694",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3948,7 +3958,7 @@
 "gene_reaction_rule":"MBLCLPDI_00692",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3967,7 +3977,7 @@
 "gene_reaction_rule":"MBLCLPDI_00776",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -3985,7 +3995,7 @@
 "gene_reaction_rule":"MBLCLPDI_00966",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4004,7 +4014,7 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4023,7 +4033,7 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4042,7 +4052,7 @@
 "gene_reaction_rule":"MBLCLPDI_01655 or MBLCLPDI_01425",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4058,7 +4068,7 @@
 "gene_reaction_rule":"MBLCLPDI_01908",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4077,7 +4087,7 @@
 "gene_reaction_rule":"MBLCLPDI_00698",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4096,7 +4106,7 @@
 "gene_reaction_rule":"MBLCLPDI_00697",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4115,7 +4125,7 @@
 "gene_reaction_rule":"MBLCLPDI_00858",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4136,7 +4146,7 @@
 "gene_reaction_rule":"MBLCLPDI_01413 or MBLCLPDI_00560",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4153,7 +4163,7 @@
 "gene_reaction_rule":"MBLCLPDI_01416",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4172,7 +4182,7 @@
 "gene_reaction_rule":"MBLCLPDI_00131",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4190,7 +4200,7 @@
 "gene_reaction_rule":"MBLCLPDI_00130",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4208,7 +4218,7 @@
 "gene_reaction_rule":"MBLCLPDI_01411",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4226,7 +4236,7 @@
 "gene_reaction_rule":"MBLCLPDI_01655 or MBLCLPDI_01425",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4244,7 +4254,7 @@
 "gene_reaction_rule":"MBLCLPDI_01313",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4262,7 +4272,7 @@
 "gene_reaction_rule":"MBLCLPDI_01412",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4281,7 +4291,7 @@
 "gene_reaction_rule":"MBLCLPDI_01380",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4301,7 +4311,7 @@
 "gene_reaction_rule":"MBLCLPDI_01001",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4320,7 +4330,7 @@
 "gene_reaction_rule":"MBLCLPDI_02031",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4339,7 +4349,7 @@
 "gene_reaction_rule":"MBLCLPDI_01422",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4357,7 +4367,7 @@
 "gene_reaction_rule":"MBLCLPDI_00447",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4374,7 +4384,7 @@
 "gene_reaction_rule":"MBLCLPDI_00117",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4392,7 +4402,7 @@
 "gene_reaction_rule":"MBLCLPDI_00359",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4411,7 +4421,7 @@
 "gene_reaction_rule":"MBLCLPDI_00500",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4430,7 +4440,7 @@
 "gene_reaction_rule":"MBLCLPDI_00327",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4449,7 +4459,7 @@
 "gene_reaction_rule":"MBLCLPDI_01045",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4466,7 +4476,7 @@
 "gene_reaction_rule":"MBLCLPDI_00429",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4484,7 +4494,7 @@
 "gene_reaction_rule":"MBLCLPDI_00222 or MBLCLPDI_00365",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4501,7 +4511,7 @@
 "gene_reaction_rule":"MBLCLPDI_00256",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4520,7 +4530,7 @@
 "gene_reaction_rule":"MBLCLPDI_01718",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4538,7 +4548,7 @@
 "gene_reaction_rule":"MBLCLPDI_01359 or MBLCLPDI_00712",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4557,7 +4567,7 @@
 "gene_reaction_rule":"MBLCLPDI_00787",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4576,7 +4586,7 @@
 "gene_reaction_rule":"MBLCLPDI_01344",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4596,7 +4606,10 @@
 "gene_reaction_rule":"MBLCLPDI_00137",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"FTHFL"
 ]
 }
 },
@@ -4614,7 +4627,7 @@
 "gene_reaction_rule":"MBLCLPDI_00447",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4631,7 +4644,7 @@
 "gene_reaction_rule":"MBLCLPDI_01689",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4650,7 +4663,7 @@
 "gene_reaction_rule":"MBLCLPDI_00238",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4669,7 +4682,7 @@
 "gene_reaction_rule":"MBLCLPDI_00402",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4689,7 +4702,7 @@
 "gene_reaction_rule":"MBLCLPDI_00375",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4707,7 +4720,7 @@
 "gene_reaction_rule":"MBLCLPDI_01155",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4726,7 +4739,7 @@
 "gene_reaction_rule":"MBLCLPDI_01921",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4742,7 +4755,7 @@
 "gene_reaction_rule":"MBLCLPDI_00462",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4761,7 +4774,7 @@
 "gene_reaction_rule":"MBLCLPDI_01933",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4777,7 +4790,7 @@
 "gene_reaction_rule":"MBLCLPDI_01697",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4795,7 +4808,7 @@
 "gene_reaction_rule":"MBLCLPDI_00997",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4814,7 +4827,7 @@
 "gene_reaction_rule":"MBLCLPDI_01932",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4833,7 +4846,10 @@
 "gene_reaction_rule":"MBLCLPDI_00403",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"GALU"
 ]
 }
 },
@@ -4853,7 +4869,7 @@
 "gene_reaction_rule":"MBLCLPDI_00426",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4872,7 +4888,7 @@
 "gene_reaction_rule":"MBLCLPDI_00149",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4890,7 +4906,7 @@
 "gene_reaction_rule":"MBLCLPDI_00451",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4909,7 +4925,7 @@
 "gene_reaction_rule":"MBLCLPDI_00504",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4927,7 +4943,7 @@
 "gene_reaction_rule":"MBLCLPDI_01308 or MBLCLPDI_01794",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4945,7 +4961,7 @@
 "gene_reaction_rule":"MBLCLPDI_01308 or MBLCLPDI_01794",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -4963,7 +4979,10 @@
 "gene_reaction_rule":"MBLCLPDI_00884",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"GLCNt2"
 ]
 }
 },
@@ -4984,7 +5003,7 @@
 "gene_reaction_rule":"MBLCLPDI_01337",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5007,7 +5026,7 @@
 "gene_reaction_rule":"MBLCLPDI_01593 and MBLCLPDI_01592 and MBLCLPDI_01594",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5028,7 +5047,7 @@
 "gene_reaction_rule":"(MBLCLPDI_00104 and MBLCLPDI_00105) or (MBLCLPDI_00567 and MBLCLPDI_00566 and MBLCLPDI_00565) or (MBLCLPDI_00814 and MBLCLPDI_00815) or (MBLCLPDI_01668 and MBLCLPDI_01669 and MBLCLPDI_01670 and MBLCLPDI_01671)",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5047,7 +5066,7 @@
 "gene_reaction_rule":"MBLCLPDI_01391 or MBLCLPDI_00086 or MBLCLPDI_00085",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5065,7 +5084,7 @@
 "gene_reaction_rule":"MBLCLPDI_00376",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5086,7 +5105,7 @@
 "gene_reaction_rule":"MBLCLPDI_00066",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5106,7 +5125,7 @@
 "gene_reaction_rule":"MBLCLPDI_00147",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5122,7 +5141,7 @@
 "gene_reaction_rule":"MBLCLPDI_00591",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5143,7 +5162,7 @@
 "gene_reaction_rule":"MBLCLPDI_01336",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5161,28 +5180,10 @@
 "gene_reaction_rule":"MBLCLPDI_01927",
 "notes":{
 "from":[
-"MODEL1507180045"
-]
-}
-},
-{
-"id":"GLYBabc",
-"name":"glycine betaine transport via ABC system",
-"metabolites":{
-"adp_c":1.0,
-"atp_c":-1.0,
-"glyb_c":1.0,
-"glyb_e":-1.0,
-"h2o_c":-1.0,
-"h_c":1.0,
-"pi_c":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00201 and MBLCLPDI_00202",
-"notes":{
-"from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"GLUt2"
 ]
 }
 },
@@ -5201,7 +5202,7 @@
 "gene_reaction_rule":"MBLCLPDI_00704",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5220,7 +5221,7 @@
 "gene_reaction_rule":"MBLCLPDI_01192",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5241,7 +5242,7 @@
 "gene_reaction_rule":"MBLCLPDI_00829 and MBLCLPDI_00828",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5261,7 +5262,7 @@
 "gene_reaction_rule":"MBLCLPDI_00073",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5284,7 +5285,7 @@
 "gene_reaction_rule":"MBLCLPDI_01772",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5303,7 +5304,7 @@
 "gene_reaction_rule":"MBLCLPDI_01922",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5322,7 +5323,7 @@
 "gene_reaction_rule":"MBLCLPDI_00882",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5340,7 +5341,7 @@
 "gene_reaction_rule":"MBLCLPDI_01814 or MBLCLPDI_00108",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5359,7 +5360,7 @@
 "gene_reaction_rule":"MBLCLPDI_00070",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5378,7 +5379,7 @@
 "gene_reaction_rule":"MBLCLPDI_00070",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5397,7 +5398,7 @@
 "gene_reaction_rule":"MBLCLPDI_00070",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5416,7 +5417,7 @@
 "gene_reaction_rule":"MBLCLPDI_00070",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5435,7 +5436,7 @@
 "gene_reaction_rule":"MBLCLPDI_00070",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5454,7 +5455,7 @@
 "gene_reaction_rule":"MBLCLPDI_01537",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5472,7 +5473,7 @@
 "gene_reaction_rule":"MBLCLPDI_01313",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5491,7 +5492,10 @@
 "gene_reaction_rule":"MBLCLPDI_01561",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"GTHRD"
 ]
 }
 },
@@ -5512,7 +5516,7 @@
 "gene_reaction_rule":"MBLCLPDI_00066",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5531,7 +5535,7 @@
 "gene_reaction_rule":"MBLCLPDI_01414",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5547,10 +5551,10 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00062 or MBLCLPDI_00648 or MBLCLPDI_00809",
+"gene_reaction_rule":"MBLCLPDI_00648 or MBLCLPDI_00809",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5568,7 +5572,7 @@
 "gene_reaction_rule":"MBLCLPDI_00285",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5586,7 +5590,10 @@
 "gene_reaction_rule":"MBLCLPDI_00275 or MBLCLPDI_00549",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"GUAt2"
 ]
 }
 },
@@ -5603,7 +5610,7 @@
 "gene_reaction_rule":"MBLCLPDI_01089",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5622,7 +5629,7 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5641,7 +5648,7 @@
 "gene_reaction_rule":"MBLCLPDI_01170",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5658,7 +5665,7 @@
 "gene_reaction_rule":"MBLCLPDI_01089",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5677,7 +5684,7 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5694,7 +5701,7 @@
 "gene_reaction_rule":"MBLCLPDI_01089",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5713,7 +5720,7 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5732,7 +5739,7 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5751,7 +5758,7 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5770,7 +5777,7 @@
 "gene_reaction_rule":"MBLCLPDI_01138",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5789,7 +5796,7 @@
 "gene_reaction_rule":"MBLCLPDI_01341",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5806,7 +5813,7 @@
 "gene_reaction_rule":"MBLCLPDI_01089",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5825,7 +5832,7 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5842,7 +5849,7 @@
 "gene_reaction_rule":"MBLCLPDI_01089",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5861,7 +5868,7 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5882,7 +5889,7 @@
 "gene_reaction_rule":"MBLCLPDI_02010",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5902,7 +5909,7 @@
 "gene_reaction_rule":"MBLCLPDI_00223",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5922,7 +5929,7 @@
 "gene_reaction_rule":"MBLCLPDI_00761",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5941,7 +5948,7 @@
 "gene_reaction_rule":"MBLCLPDI_01139",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5958,7 +5965,7 @@
 "gene_reaction_rule":"MBLCLPDI_01089",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5977,7 +5984,7 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -5994,7 +6001,7 @@
 "gene_reaction_rule":"MBLCLPDI_01089",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6013,7 +6020,7 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6032,7 +6039,7 @@
 "gene_reaction_rule":"MBLCLPDI_01415",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6050,7 +6057,7 @@
 "gene_reaction_rule":"MBLCLPDI_01947",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6067,7 +6074,7 @@
 "gene_reaction_rule":"MBLCLPDI_01089",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6086,7 +6093,7 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6104,7 +6111,10 @@
 "gene_reaction_rule":"MBLCLPDI_00549",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"HXANt2"
 ]
 }
 },
@@ -6122,7 +6132,7 @@
 "gene_reaction_rule":"MBLCLPDI_00285",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6143,7 +6153,7 @@
 "gene_reaction_rule":"MBLCLPDI_00680",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6161,7 +6171,7 @@
 "gene_reaction_rule":"MBLCLPDI_00125 or MBLCLPDI_01967",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6178,7 +6188,7 @@
 "gene_reaction_rule":"MBLCLPDI_00150",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6198,7 +6208,7 @@
 "gene_reaction_rule":"MBLCLPDI_00122",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6216,7 +6226,7 @@
 "gene_reaction_rule":"MBLCLPDI_01814 or MBLCLPDI_00108",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6232,7 +6242,7 @@
 "gene_reaction_rule":"MBLCLPDI_00999",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6250,7 +6260,7 @@
 "gene_reaction_rule":"MBLCLPDI_00315 and MBLCLPDI_00316",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6269,7 +6279,7 @@
 "gene_reaction_rule":"MBLCLPDI_01848",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6288,7 +6298,7 @@
 "gene_reaction_rule":"MBLCLPDI_01407 or MBLCLPDI_00803",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6309,7 +6319,7 @@
 "gene_reaction_rule":"MBLCLPDI_01432",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6327,7 +6337,7 @@
 "gene_reaction_rule":"MBLCLPDI_00125 or MBLCLPDI_01967",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6345,7 +6355,7 @@
 "gene_reaction_rule":"MBLCLPDI_01680",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6366,7 +6376,7 @@
 "gene_reaction_rule":"MBLCLPDI_00289",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6384,7 +6394,7 @@
 "gene_reaction_rule":"MBLCLPDI_01657",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6402,7 +6412,7 @@
 "gene_reaction_rule":"MBLCLPDI_01085",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6420,7 +6430,7 @@
 "gene_reaction_rule":"MBLCLPDI_01690",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6438,7 +6448,10 @@
 "gene_reaction_rule":"MBLCLPDI_00533",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"MALTAT"
 ]
 }
 },
@@ -6456,7 +6469,7 @@
 "gene_reaction_rule":"MBLCLPDI_00058",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6474,7 +6487,7 @@
 "gene_reaction_rule":"MBLCLPDI_02079",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6490,7 +6503,7 @@
 "gene_reaction_rule":"MBLCLPDI_01733",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6510,7 +6523,7 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6530,7 +6543,7 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6550,7 +6563,7 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6570,7 +6583,7 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6590,7 +6603,7 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6610,7 +6623,7 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6630,7 +6643,7 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6648,7 +6661,7 @@
 "gene_reaction_rule":"MBLCLPDI_01924",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6668,7 +6681,7 @@
 "gene_reaction_rule":"MBLCLPDI_01433",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6689,7 +6702,7 @@
 "gene_reaction_rule":"MBLCLPDI_00228",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6708,7 +6721,7 @@
 "gene_reaction_rule":"MBLCLPDI_01002",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6728,7 +6741,7 @@
 "gene_reaction_rule":"MBLCLPDI_01108 and MBLCLPDI_01107",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6746,7 +6759,7 @@
 "gene_reaction_rule":"MBLCLPDI_00718",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6764,7 +6777,7 @@
 "gene_reaction_rule":"MBLCLPDI_00059",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6782,7 +6795,7 @@
 "gene_reaction_rule":"MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6798,7 +6811,7 @@
 "gene_reaction_rule":"MBLCLPDI_01106",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6816,7 +6829,7 @@
 "gene_reaction_rule":"MBLCLPDI_00684",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6834,7 +6847,7 @@
 "gene_reaction_rule":"MBLCLPDI_01316",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6852,7 +6865,7 @@
 "gene_reaction_rule":"MBLCLPDI_01316",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6871,7 +6884,7 @@
 "gene_reaction_rule":"MBLCLPDI_00559",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6890,7 +6903,7 @@
 "gene_reaction_rule":"MBLCLPDI_00649",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6911,7 +6924,7 @@
 "gene_reaction_rule":"MBLCLPDI_00311",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6930,7 +6943,7 @@
 "gene_reaction_rule":"MBLCLPDI_00168 or MBLCLPDI_00310",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6948,7 +6961,7 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6966,7 +6979,7 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -6984,7 +6997,7 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7002,7 +7015,7 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7020,7 +7033,7 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7038,7 +7051,7 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7056,7 +7069,7 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7074,7 +7087,7 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7092,7 +7105,7 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7108,7 +7121,7 @@
 "gene_reaction_rule":"MBLCLPDI_01562",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7126,7 +7139,10 @@
 "gene_reaction_rule":"MBLCLPDI_00169",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"NNAMr"
 ]
 }
 },
@@ -7145,7 +7161,10 @@
 "gene_reaction_rule":"MBLCLPDI_01370",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"NNAT"
 ]
 }
 },
@@ -7163,7 +7182,7 @@
 "gene_reaction_rule":"MBLCLPDI_01115",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7182,7 +7201,10 @@
 "gene_reaction_rule":"MBLCLPDI_00072",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"NOX1"
 ]
 }
 },
@@ -7201,7 +7223,7 @@
 "gene_reaction_rule":"MBLCLPDI_00072",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7221,7 +7243,7 @@
 "gene_reaction_rule":"MBLCLPDI_01103 and MBLCLPDI_01102 and MBLCLPDI_01101 and MBLCLPDI_01100",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7241,7 +7263,7 @@
 "gene_reaction_rule":"MBLCLPDI_01103 and MBLCLPDI_01102 and MBLCLPDI_01101 and MBLCLPDI_01100",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7260,7 +7282,7 @@
 "gene_reaction_rule":"MBLCLPDI_00468",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7279,7 +7301,7 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7298,7 +7320,7 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7316,7 +7338,7 @@
 "gene_reaction_rule":"MBLCLPDI_00132",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7334,7 +7356,7 @@
 "gene_reaction_rule":"MBLCLPDI_00133",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7353,7 +7375,7 @@
 "gene_reaction_rule":"MBLCLPDI_00374",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7371,7 +7393,7 @@
 "gene_reaction_rule":"MBLCLPDI_00670",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7391,7 +7413,7 @@
 "gene_reaction_rule":"(MBLCLPDI_00714 and MBLCLPDI_00713) and MBLCLPDI_00715 and MBLCLPDI_00716",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7407,7 +7429,7 @@
 "gene_reaction_rule":"MBLCLPDI_00450",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7424,7 +7446,7 @@
 "gene_reaction_rule":"(MBLCLPDI_01007 and MBLCLPDI_01404 and MBLCLPDI_00669) or (MBLCLPDI_01007 and MBLCLPDI_01404 and MBLCLPDI_01346)",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7440,7 +7462,7 @@
 "gene_reaction_rule":"MBLCLPDI_00462",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7458,7 +7480,7 @@
 "gene_reaction_rule":"MBLCLPDI_00427",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7476,7 +7498,7 @@
 "gene_reaction_rule":"MBLCLPDI_00660",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7492,7 +7514,7 @@
 "gene_reaction_rule":"MBLCLPDI_01886 or MBLCLPDI_01997 or MBLCLPDI_00688 or MBLCLPDI_00152 or MBLCLPDI_00318",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7508,7 +7530,7 @@
 "gene_reaction_rule":"MBLCLPDI_00411",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7524,7 +7546,7 @@
 "gene_reaction_rule":"MBLCLPDI_00060",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7543,7 +7565,25 @@
 "gene_reaction_rule":"MBLCLPDI_00571",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+]
+}
+},
+{
+"id":"PHETA1",
+"name":"phenylalanine transaminase",
+"metabolites":{
+"akg_c":-1.0,
+"glu__L_c":1.0,
+"phe__L_c":-1.0,
+"phpyr_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"MBLCLPDI_00048 or MBLCLPDI_00699",
+"notes":{
+"from":[
+"iBT721"
 ]
 }
 },
@@ -7564,7 +7604,7 @@
 "gene_reaction_rule":"MBLCLPDI_01353 and MBLCLPDI_01352",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7580,7 +7620,7 @@
 "gene_reaction_rule":"MBLCLPDI_00411",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7598,7 +7638,7 @@
 "gene_reaction_rule":"MBLCLPDI_01000",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7616,7 +7656,7 @@
 "gene_reaction_rule":"MBLCLPDI_01139",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7635,7 +7675,7 @@
 "gene_reaction_rule":"MBLCLPDI_01775",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7653,7 +7693,7 @@
 "gene_reaction_rule":"MBLCLPDI_00873",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7671,7 +7711,7 @@
 "gene_reaction_rule":"MBLCLPDI_01306",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7689,7 +7729,7 @@
 "gene_reaction_rule":"MBLCLPDI_00366",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7708,7 +7748,7 @@
 "gene_reaction_rule":"MBLCLPDI_00032",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7729,7 +7769,7 @@
 "gene_reaction_rule":"MBLCLPDI_01306",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7750,7 +7790,10 @@
 "gene_reaction_rule":"MBLCLPDI_00151",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"PRAGS"
 ]
 }
 },
@@ -7770,7 +7813,7 @@
 "gene_reaction_rule":"MBLCLPDI_00148",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7791,7 +7834,10 @@
 "gene_reaction_rule":"MBLCLPDI_00143",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"PRASCS"
 ]
 }
 },
@@ -7812,7 +7858,7 @@
 "gene_reaction_rule":"MBLCLPDI_00778",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7828,10 +7874,10 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00239",
+"gene_reaction_rule":"MBLCLPDI_00239 or MBLCLPDI_00691",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7846,10 +7892,10 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_00786 or MBLCLPDI_00650",
+"gene_reaction_rule":"MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_01678 or MBLCLPDI_00786 or MBLCLPDI_00650",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7867,7 +7913,7 @@
 "gene_reaction_rule":"MBLCLPDI_00439",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7886,7 +7932,10 @@
 "gene_reaction_rule":"MBLCLPDI_00723",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"PTPAT"
 ]
 }
 },
@@ -7907,7 +7956,7 @@
 "gene_reaction_rule":"MBLCLPDI_01802 and MBLCLPDI_01801 and MBLCLPDI_01800 and MBLCLPDI_01799",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7926,7 +7975,7 @@
 "gene_reaction_rule":"MBLCLPDI_00839",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7944,7 +7993,7 @@
 "gene_reaction_rule":"MBLCLPDI_00997",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7963,7 +8012,7 @@
 "gene_reaction_rule":"MBLCLPDI_00787",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -7982,7 +8031,7 @@
 "gene_reaction_rule":"MBLCLPDI_01422",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8001,7 +8050,7 @@
 "gene_reaction_rule":"MBLCLPDI_00530",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8020,7 +8069,7 @@
 "gene_reaction_rule":"MBLCLPDI_00530",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8036,7 +8085,7 @@
 "gene_reaction_rule":"MBLCLPDI_00531",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8055,7 +8104,7 @@
 "gene_reaction_rule":"MBLCLPDI_00351 and MBLCLPDI_00352",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8074,7 +8123,7 @@
 "gene_reaction_rule":"MBLCLPDI_00351 and MBLCLPDI_00352",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8093,7 +8142,7 @@
 "gene_reaction_rule":"MBLCLPDI_00351 and MBLCLPDI_00352",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8112,7 +8161,7 @@
 "gene_reaction_rule":"MBLCLPDI_00351 and MBLCLPDI_00352",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8131,7 +8180,7 @@
 "gene_reaction_rule":"MBLCLPDI_01918 or MBLCLPDI_01454",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8150,7 +8199,7 @@
 "gene_reaction_rule":"MBLCLPDI_01918 or MBLCLPDI_01454",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8169,7 +8218,7 @@
 "gene_reaction_rule":"MBLCLPDI_01918 or MBLCLPDI_01454",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8188,7 +8237,7 @@
 "gene_reaction_rule":"MBLCLPDI_01918 or MBLCLPDI_01454",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8204,7 +8253,7 @@
 "gene_reaction_rule":"MBLCLPDI_01299",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8220,7 +8269,7 @@
 "gene_reaction_rule":"MBLCLPDI_00325",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8239,7 +8288,7 @@
 "gene_reaction_rule":"MBLCLPDI_02022",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8258,7 +8307,10 @@
 "gene_reaction_rule":"MBLCLPDI_02022",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"SBTD_D"
 ]
 }
 },
@@ -8277,26 +8329,7 @@
 "gene_reaction_rule":"MBLCLPDI_02022",
 "notes":{
 "from":[
-"MODEL1507180045"
-]
-}
-},
-{
-"id":"SBTPD",
-"name":"sorbitol 6 phosphate dehydrogenase",
-"metabolites":{
-"f6p_c":1.0,
-"h_c":1.0,
-"nad_c":-1.0,
-"nadh_c":1.0,
-"sbt6p_c":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00175",
-"notes":{
-"from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8314,7 +8347,7 @@
 "gene_reaction_rule":"MBLCLPDI_00408",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8332,7 +8365,7 @@
 "gene_reaction_rule":"MBLCLPDI_00378",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8349,7 +8382,7 @@
 "gene_reaction_rule":"MBLCLPDI_01201 and MBLCLPDI_01200",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8370,7 +8403,7 @@
 "gene_reaction_rule":"MBLCLPDI_00103",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8391,7 +8424,7 @@
 "gene_reaction_rule":"MBLCLPDI_01802 and MBLCLPDI_01801 and MBLCLPDI_01800 and MBLCLPDI_01799",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8411,7 +8444,7 @@
 "gene_reaction_rule":"MBLCLPDI_00036",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8431,25 +8464,7 @@
 "gene_reaction_rule":"MBLCLPDI_00036",
 "notes":{
 "from":[
-"MODEL1507180045"
-]
-}
-},
-{
-"id":"SUCD3BC",
-"name":"succinate dehydrogenase menaquinone 7",
-"metabolites":{
-"fum_c":1.0,
-"mql7_c":1.0,
-"mqn7_c":-1.0,
-"succ_c":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00097",
-"notes":{
-"from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8468,7 +8483,7 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8487,7 +8502,7 @@
 "gene_reaction_rule":"MBLCLPDI_01180",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8504,7 +8519,7 @@
 "gene_reaction_rule":"MBLCLPDI_01181",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8523,7 +8538,7 @@
 "gene_reaction_rule":"MBLCLPDI_00695",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8544,7 +8559,7 @@
 "gene_reaction_rule":"MBLCLPDI_01413 or MBLCLPDI_00560",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8562,7 +8577,7 @@
 "gene_reaction_rule":"MBLCLPDI_00107",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8583,7 +8598,7 @@
 "gene_reaction_rule":"MBLCLPDI_02025",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8602,7 +8617,7 @@
 "gene_reaction_rule":"MBLCLPDI_00500",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8621,7 +8636,7 @@
 "gene_reaction_rule":"MBLCLPDI_00500",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8640,7 +8655,7 @@
 "gene_reaction_rule":"MBLCLPDI_01298",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8658,7 +8673,7 @@
 "gene_reaction_rule":"MBLCLPDI_00857",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8677,7 +8692,7 @@
 "gene_reaction_rule":"MBLCLPDI_01140",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8693,7 +8708,7 @@
 "gene_reaction_rule":"MBLCLPDI_00428",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8712,7 +8727,25 @@
 "gene_reaction_rule":"MBLCLPDI_01813 or MBLCLPDI_00407",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+]
+}
+},
+{
+"id":"TRPTA",
+"name":"tryptophan transaminase",
+"metabolites":{
+"akg_c":-1.0,
+"glu__L_c":1.0,
+"indpyr_c":1.0,
+"trp__L_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"MBLCLPDI_00048 or MBLCLPDI_00699",
+"notes":{
+"from":[
+"iBT721"
 ]
 }
 },
@@ -8733,7 +8766,25 @@
 "gene_reaction_rule":"MBLCLPDI_00221",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+]
+}
+},
+{
+"id":"TYRTA",
+"name":"tyrosine transaminase",
+"metabolites":{
+"34hpp_c":1.0,
+"akg_c":-1.0,
+"glu__L_c":1.0,
+"tyr__L_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"MBLCLPDI_00048 or MBLCLPDI_00699",
+"notes":{
+"from":[
+"iBT721"
 ]
 }
 },
@@ -8754,7 +8805,7 @@
 "gene_reaction_rule":"MBLCLPDI_00154",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8775,7 +8826,7 @@
 "gene_reaction_rule":"MBLCLPDI_02102",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8796,7 +8847,7 @@
 "gene_reaction_rule":"MBLCLPDI_00499",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8812,7 +8863,7 @@
 "gene_reaction_rule":"MBLCLPDI_00341",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8830,7 +8881,7 @@
 "gene_reaction_rule":"MBLCLPDI_00519 or MBLCLPDI_00250",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8849,7 +8900,7 @@
 "gene_reaction_rule":"MBLCLPDI_00238",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8868,7 +8919,7 @@
 "gene_reaction_rule":"MBLCLPDI_00672",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8889,7 +8940,7 @@
 "gene_reaction_rule":"MBLCLPDI_00671",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8910,7 +8961,7 @@
 "gene_reaction_rule":"MBLCLPDI_01385",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8929,7 +8980,7 @@
 "gene_reaction_rule":"MBLCLPDI_00444",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8945,7 +8996,7 @@
 "gene_reaction_rule":"MBLCLPDI_00368",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8961,7 +9012,7 @@
 "gene_reaction_rule":"MBLCLPDI_01524",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -8982,7 +9033,7 @@
 "gene_reaction_rule":"MBLCLPDI_00261",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9000,7 +9051,7 @@
 "gene_reaction_rule":"MBLCLPDI_00505",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9018,7 +9069,7 @@
 "gene_reaction_rule":"MBLCLPDI_00509",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9036,7 +9087,10 @@
 "gene_reaction_rule":"MBLCLPDI_00771",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"URIDK1"
 ]
 }
 },
@@ -9054,7 +9108,10 @@
 "gene_reaction_rule":"MBLCLPDI_00771",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
+],
+"initial_id":[
+"URIDK2"
 ]
 }
 },
@@ -9072,7 +9129,7 @@
 "gene_reaction_rule":"MBLCLPDI_00963",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9091,7 +9148,7 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9110,7 +9167,7 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9129,7 +9186,7 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9150,7 +9207,7 @@
 "gene_reaction_rule":"MBLCLPDI_00554",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9168,7 +9225,7 @@
 "gene_reaction_rule":"MBLCLPDI_01988",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9186,7 +9243,7 @@
 "gene_reaction_rule":"MBLCLPDI_01599",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9204,7 +9261,7 @@
 "gene_reaction_rule":"MBLCLPDI_01814 or MBLCLPDI_00108",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9219,10 +9276,10 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_00786 or MBLCLPDI_00650",
+"gene_reaction_rule":"MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_01678 or MBLCLPDI_00786 or MBLCLPDI_00650",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 },
@@ -9242,7 +9299,7 @@
 "gene_reaction_rule":"MBLCLPDI_01087",
 "notes":{
 "from":[
-"MODEL1507180045"
+"iBT721"
 ]
 }
 }
@@ -9297,11 +9354,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01814",
+"id":"MBLCLPDI_00108",
 "name":""
 },
 {
-"id":"MBLCLPDI_00108",
+"id":"MBLCLPDI_01814",
 "name":""
 },
 {
@@ -9441,23 +9498,15 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01476",
-"name":""
-},
-{
 "id":"MBLCLPDI_00506",
 "name":""
 },
 {
+"id":"MBLCLPDI_01476",
+"name":""
+},
+{
 "id":"MBLCLPDI_00135",
-"name":""
-},
-{
-"id":"MBLCLPDI_00201",
-"name":""
-},
-{
-"id":"MBLCLPDI_00202",
 "name":""
 },
 {
@@ -9485,7 +9534,7 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00557",
+"id":"MBLCLPDI_00556",
 "name":""
 },
 {
@@ -9493,11 +9542,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00556",
+"id":"MBLCLPDI_00555",
 "name":""
 },
 {
-"id":"MBLCLPDI_00555",
+"id":"MBLCLPDI_00557",
 "name":""
 },
 {
@@ -9557,11 +9606,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01413",
+"id":"MBLCLPDI_00560",
 "name":""
 },
 {
-"id":"MBLCLPDI_00560",
+"id":"MBLCLPDI_01413",
 "name":""
 },
 {
@@ -9633,11 +9682,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00222",
+"id":"MBLCLPDI_00365",
 "name":""
 },
 {
-"id":"MBLCLPDI_00365",
+"id":"MBLCLPDI_00222",
 "name":""
 },
 {
@@ -9649,11 +9698,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00712",
+"id":"MBLCLPDI_01359",
 "name":""
 },
 {
-"id":"MBLCLPDI_01359",
+"id":"MBLCLPDI_00712",
 "name":""
 },
 {
@@ -9749,10 +9798,6 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01592",
-"name":""
-},
-{
 "id":"MBLCLPDI_01593",
 "name":""
 },
@@ -9761,31 +9806,11 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_01592",
+"name":""
+},
+{
 "id":"MBLCLPDI_00567",
-"name":""
-},
-{
-"id":"MBLCLPDI_00105",
-"name":""
-},
-{
-"id":"MBLCLPDI_00566",
-"name":""
-},
-{
-"id":"MBLCLPDI_01671",
-"name":""
-},
-{
-"id":"MBLCLPDI_00104",
-"name":""
-},
-{
-"id":"MBLCLPDI_01668",
-"name":""
-},
-{
-"id":"MBLCLPDI_00565",
 "name":""
 },
 {
@@ -9793,7 +9818,27 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_00104",
+"name":""
+},
+{
+"id":"MBLCLPDI_00565",
+"name":""
+},
+{
+"id":"MBLCLPDI_00105",
+"name":""
+},
+{
 "id":"MBLCLPDI_01669",
+"name":""
+},
+{
+"id":"MBLCLPDI_01668",
+"name":""
+},
+{
+"id":"MBLCLPDI_01671",
 "name":""
 },
 {
@@ -9801,15 +9846,19 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_00566",
+"name":""
+},
+{
 "id":"MBLCLPDI_00815",
 "name":""
 },
 {
-"id":"MBLCLPDI_00085",
+"id":"MBLCLPDI_00086",
 "name":""
 },
 {
-"id":"MBLCLPDI_00086",
+"id":"MBLCLPDI_00085",
 "name":""
 },
 {
@@ -9889,15 +9938,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00062",
+"id":"MBLCLPDI_00648",
 "name":""
 },
 {
 "id":"MBLCLPDI_00809",
-"name":""
-},
-{
-"id":"MBLCLPDI_00648",
 "name":""
 },
 {
@@ -9957,11 +10002,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00125",
+"id":"MBLCLPDI_01967",
 "name":""
 },
 {
-"id":"MBLCLPDI_01967",
+"id":"MBLCLPDI_00125",
 "name":""
 },
 {
@@ -10053,11 +10098,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01108",
+"id":"MBLCLPDI_01107",
 "name":""
 },
 {
-"id":"MBLCLPDI_01107",
+"id":"MBLCLPDI_01108",
 "name":""
 },
 {
@@ -10121,7 +10166,7 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01102",
+"id":"MBLCLPDI_01103",
 "name":""
 },
 {
@@ -10133,7 +10178,7 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01103",
+"id":"MBLCLPDI_01102",
 "name":""
 },
 {
@@ -10157,11 +10202,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00713",
+"id":"MBLCLPDI_00714",
 "name":""
 },
 {
-"id":"MBLCLPDI_00714",
+"id":"MBLCLPDI_00715",
 "name":""
 },
 {
@@ -10169,7 +10214,7 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00715",
+"id":"MBLCLPDI_00713",
 "name":""
 },
 {
@@ -10181,15 +10226,15 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01346",
-"name":""
-},
-{
 "id":"MBLCLPDI_01007",
 "name":""
 },
 {
 "id":"MBLCLPDI_01404",
+"name":""
+},
+{
+"id":"MBLCLPDI_01346",
 "name":""
 },
 {
@@ -10201,15 +10246,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01886",
-"name":""
-},
-{
 "id":"MBLCLPDI_00318",
 "name":""
 },
 {
-"id":"MBLCLPDI_01997",
+"id":"MBLCLPDI_00688",
 "name":""
 },
 {
@@ -10217,7 +10258,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00688",
+"id":"MBLCLPDI_01997",
+"name":""
+},
+{
+"id":"MBLCLPDI_01886",
 "name":""
 },
 {
@@ -10230,6 +10275,14 @@
 },
 {
 "id":"MBLCLPDI_00571",
+"name":""
+},
+{
+"id":"MBLCLPDI_00699",
+"name":""
+},
+{
+"id":"MBLCLPDI_00048",
 "name":""
 },
 {
@@ -10285,7 +10338,27 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_00691",
+"name":""
+},
+{
+"id":"MBLCLPDI_01604",
+"name":""
+},
+{
+"id":"MBLCLPDI_01678",
+"name":""
+},
+{
+"id":"MBLCLPDI_00786",
+"name":""
+},
+{
 "id":"MBLCLPDI_00650",
+"name":""
+},
+{
+"id":"MBLCLPDI_01016",
 "name":""
 },
 {
@@ -10294,18 +10367,6 @@
 },
 {
 "id":"MBLCLPDI_00845",
-"name":""
-},
-{
-"id":"MBLCLPDI_00786",
-"name":""
-},
-{
-"id":"MBLCLPDI_01016",
-"name":""
-},
-{
-"id":"MBLCLPDI_01604",
 "name":""
 },
 {
@@ -10325,11 +10386,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01801",
+"id":"MBLCLPDI_01802",
 "name":""
 },
 {
-"id":"MBLCLPDI_01802",
+"id":"MBLCLPDI_01801",
 "name":""
 },
 {
@@ -10373,10 +10434,6 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00175",
-"name":""
-},
-{
 "id":"MBLCLPDI_00408",
 "name":""
 },
@@ -10398,10 +10455,6 @@
 },
 {
 "id":"MBLCLPDI_00036",
-"name":""
-},
-{
-"id":"MBLCLPDI_00097",
 "name":""
 },
 {
@@ -10437,11 +10490,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01813",
+"id":"MBLCLPDI_00407",
 "name":""
 },
 {
-"id":"MBLCLPDI_00407",
+"id":"MBLCLPDI_01813",
 "name":""
 },
 {
@@ -10465,11 +10518,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00250",
+"id":"MBLCLPDI_00519",
 "name":""
 },
 {
-"id":"MBLCLPDI_00519",
+"id":"MBLCLPDI_00250",
 "name":""
 },
 {
@@ -10534,7 +10587,7 @@
 }
 ],
 "id":null,
-"name":"GEM for L.reuteri by templateMODEL1507180045",
+"name":"GEM for L.reuteri by templateiBT721",
 "compartments":{
 "default":""
 },

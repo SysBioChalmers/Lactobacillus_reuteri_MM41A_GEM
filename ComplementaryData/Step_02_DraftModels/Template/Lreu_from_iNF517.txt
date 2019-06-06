@@ -14,6 +14,7 @@ ACKr	ac_c + atp_c <=> actp_c + adp_c	0	-1000.0	1000.0	MBLCLPDI_00611
 ACLDC	alac__S_c + h_c --> actn__R_c + co2_c	0	0.0	1000.0	MBLCLPDI_00139
 ACLS	h_c + 2.0 pyr_c --> alac__S_c + co2_c	0	0.0	1000.0	MBLCLPDI_00138
 ACOATA	ACP_c + accoa_c <=> acACP_c + coa_c	0	-1000.0	1000.0	MBLCLPDI_01087
+ACOTA	acorn_c + akg_c <=> acg5sa_c + glu__L_c	0	-1000.0	1000.0	MBLCLPDI_00215
 ACTD	actn__R_c + nad_c <=> diact_c + h_c + nadh_c	0	-1000.0	1000.0	MBLCLPDI_01601
 ADA	adn_c + h2o_c + h_c --> ins_c + nh4_c	0	0.0	1000.0	MBLCLPDI_00354
 ADADir	atp_c + dcyt_c <=> adp_c + dcmp_c + h_c	0	-1000.0	1000.0	MBLCLPDI_01350
@@ -133,12 +134,12 @@ GK1	atp_c + gmp_c <=> adp_c + gdp_c	0	-1000.0	1000.0	MBLCLPDI_01308
 GK2	datp_c + gmp_c <=> dadp_c + gdp_c	0	-1000.0	1000.0	MBLCLPDI_01308
 GLCNt2ir	glcn__D_e + h_e <=> glcn__D_c + h_c	0	-1000.0	1000.0	MBLCLPDI_00884
 GLNS	atp_c + glu__L_c + nh4_c --> adp_c + gln__L_c + h_c + pi_c	0	0.0	1000.0	MBLCLPDI_01337
+GLNabc	atp_c + gln__L_e + h2o_c --> adp_c + gln__L_c + h_c + pi_c	0	0.0	1000.0	MBLCLPDI_00104 and MBLCLPDI_00105
 GLU5K	atp_c + glu__L_c --> adp_c + glu5p_c	0	0.0	1000.0	MBLCLPDI_00376
 GLUPRT	gln__L_c + h2o_c + prpp_c --> glu__L_c + ppi_c + pram_c	0	0.0	1000.0	MBLCLPDI_00147
 GLUR	glu__D_c <=> glu__L_c	0	-1000.0	1000.0	MBLCLPDI_00591
 GLUTRS2	atp_c + glu__L_c + trnagln_c --> amp_c + glutrnagln_c + h_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01336
 GLUTRS_2	atp_c + glu__L_c + trnaglu_c --> amp_c + glutrna_c + h_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01336
-GLUabc	atp_c + glu__L_e + h2o_c --> adp_c + glu__L_c + h_c + pi_c	0	0.0	1000.0	MBLCLPDI_00815 and MBLCLPDI_00105
 GLYBabc	atp_c + glyb_e + h2o_c --> adp_c + glyb_c + h_c + pi_c	0	0.0	1000.0	MBLCLPDI_00201 and MBLCLPDI_00202
 GLYCt	glyc_c <-- glyc_e	0	-1000.0	0.0	MBLCLPDI_01908
 GLYK	atp_c + glyc_c --> adp_c + glyc3p_c + h_c	0	0.0	1000.0	MBLCLPDI_01192
@@ -147,7 +148,7 @@ GLYt2r	gly_e + h_e --> gly_c + h_c	0	0.0	1000.0	MBLCLPDI_00106
 GMPR	gmp_c + 2.0 h_c + nadph_c --> imp_c + nadp_c + nh4_c	0	0.0	1000.0	MBLCLPDI_00073
 GMPS2	atp_c + gln__L_c + h2o_c + xmp_c --> amp_c + glu__L_c + gmp_c + 2.0 h_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01772
 GND	6pgc_c + nadp_c --> co2_c + nadph_c + ru5p__D_c	0	0.0	1000.0	MBLCLPDI_01922
-GNKr	atp_c + glcn__D_c --> 6pgc_c + adp_c + h_c	0	0.0	1000.0	MBLCLPDI_00948
+GNKr	atp_c + glcn__D_c --> 6pgc_c + adp_c + h_c	0	0.0	1000.0	MBLCLPDI_00882
 GPDDA1	g3pc_c + h2o_c --> chol_c + glyc3p_c + h_c	0	0.0	1000.0	MBLCLPDI_00070
 GPDDA2	g3pe_c + h2o_c --> etha_c + glyc3p_c + h_c	0	0.0	1000.0	MBLCLPDI_00070
 GPDDA3	g3ps_c + h2o_c --> glyc3p_c + h_c + ser__L_c	0	0.0	1000.0	MBLCLPDI_00070
@@ -171,7 +172,7 @@ HDMAT7	2thdeacp_c + h_c + nadh_c --> hdeacp_c + nad_c	0	0.0	1000.0	MBLCLPDI_0107
 HEMAT2	2theacp_c + h_c + nadh_c --> hexacp_c + nad_c	0	0.0	1000.0	MBLCLPDI_01077
 HETZK	4mhetz_c + atp_c --> 4mpetz_c + adp_c + h_c	0	0.0	1000.0	MBLCLPDI_01138
 HEX1	atp_c + glc__D_c --> adp_c + g6p_c + h_c	0	0.0	1000.0	MBLCLPDI_01341
-HEX7	atp_c + fru_c --> adp_c + f6p_c + h_c	0	0.0	1000.0	MBLCLPDI_00995
+HEX7	atp_c + fru_c --> adp_c + f6p_c + h_c	0	0.0	1000.0	MBLCLPDI_00994
 HHDHL7	3hpaacp_c --> 2thdeacp_c + h2o_c	0	0.0	1000.0	MBLCLPDI_01089
 HHDR7	3oxhdacp_c + h_c + nadph_c --> 3hpaacp_c + nadp_c	0	0.0	1000.0	MBLCLPDI_01084
 HHYHL2	3hhacp_c --> 2theacp_c + h2o_c	0	0.0	1000.0	MBLCLPDI_01089
@@ -192,19 +193,19 @@ HTDR6	3oxtdacp_c + h_c + nadph_c --> 3htdacp_c + nadp_c	0	0.0	1000.0	MBLCLPDI_01
 HXANt2r	h_e + hxan_e --> h_c + hxan_c	0	0.0	1000.0	MBLCLPDI_00549
 HXPRT	hxan_c + prpp_c --> imp_c + ppi_c	0	0.0	1000.0	MBLCLPDI_00285
 ILETRS_1	atp_c + ile__L_c + trnaile_c --> amp_c + h_c + iletrna_c + ppi_c	0	0.0	1000.0	MBLCLPDI_00680
-ILEt2r	h_e + ile__L_e <=> h_c + ile__L_c	0	-1000.0	1000.0	MBLCLPDI_01967
+ILEt2r	h_e + ile__L_e <=> h_c + ile__L_c	0	-1000.0	1000.0	MBLCLPDI_01837
 IMPC	h2o_c + imp_c <=> fprica_c	0	-1000.0	1000.0	MBLCLPDI_00150
 IMPD	h2o_c + imp_c + nad_c --> h_c + nadh_c + xmp_c	0	0.0	1000.0	MBLCLPDI_00122
 IPDDI	ipdp_c <=> dmpp_c	0	-1000.0	1000.0	MBLCLPDI_00999
 ITCY	cytd_c + itp_c --> cmp_c + h_c + idp_c	0	0.0	1000.0	MBLCLPDI_01350
 LDH_L	lac__L_c + nad_c <=> h_c + nadh_c + pyr_c	0	-1000.0	1000.0	MBLCLPDI_00803
 LEUTRS_1	atp_c + leu__L_c + trnaleu_c --> amp_c + h_c + leutrna_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01432
-LEUt2r	h_e + leu__L_e <=> h_c + leu__L_c	0	-1000.0	1000.0	MBLCLPDI_01967
+LEUt2r	h_e + leu__L_e <=> h_c + leu__L_c	0	-1000.0	1000.0	MBLCLPDI_01837
 LYSTRS_1	atp_c + lys__L_c + trnalys_c --> amp_c + h_c + lystrna_c + ppi_c	0	0.0	1000.0	MBLCLPDI_00289
 LYSt2r	h_e + lys__L_e <=> h_c + lys__L_c	0	-1000.0	1000.0	MBLCLPDI_01657
 MACPMT	acp_c + malcoa_c --> coa_c + malacp_c	0	0.0	1000.0	MBLCLPDI_01085
 MALLAC	h_c + mal__L_c --> co2_c + lac__L_c	0	0.0	1000.0	MBLCLPDI_01690
-MALTATr	accoa_c + malt_c --> acmalt_c + coa_c	0	0.0	1000.0	MBLCLPDI_00461 or MBLCLPDI_00533
+MALTATr	accoa_c + malt_c --> acmalt_c + coa_c	0	0.0	1000.0	MBLCLPDI_00461
 MAN6PI	man6p_c <=> f6p_c	0	-1000.0	1000.0	MBLCLPDI_01733
 MCMAT2	butacp_c + h_c + malacp_c --> 3oxhacp_c + acp_c + co2_c	0	0.0	1000.0	MBLCLPDI_01083
 MCMAT3	h_c + hexacp_c + malacp_c --> 3oxocacp_c + acp_c + co2_c	0	0.0	1000.0	MBLCLPDI_01083
@@ -245,7 +246,7 @@ OIVD2	3mob_c + coa_c + nad_c --> co2_c + ibcoa_c + nadh_c	0	0.0	0.0	MBLCLPDI_007
 OIVD3	3mop_c + coa_c + nad_c --> 2mbcoa_c + co2_c + nadh_c	0	0.0	0.0	MBLCLPDI_00715 and MBLCLPDI_00714 and MBLCLPDI_00713 and MBLCLPDI_00716
 OMPDC	h_c + orot5p_c --> co2_c + ump_c	0	0.0	1000.0	MBLCLPDI_00132
 ORPT	orot5p_c + ppi_c <=> orot_c + prpp_c	0	-1000.0	1000.0	MBLCLPDI_00133
-P5CR	1pyr5c_c + 2.0 h_c + nadph_c --> nadp_c + pro__L_c	0	0.0	1000.0	MBLCLPDI_00035
+P5CR	1pyr5c_c + 2.0 h_c + nadph_c --> nadp_c + pro__L_c	0	0.0	1000.0	MBLCLPDI_00374
 PAPPT1	uAgla_c + udcpp_c --> uaAgla_c + ump_c	0	0.0	1000.0	MBLCLPDI_00670
 PDH	coa_c + nad_c + pyr_c --> accoa_c + co2_c + nadh_c	0	0.0	0.0	MBLCLPDI_00715 and MBLCLPDI_00714 and MBLCLPDI_00713 and MBLCLPDI_00716
 PGAMT	gam1p_c <=> gam6p_c	0	-1000.0	1000.0	MBLCLPDI_00450
@@ -258,6 +259,7 @@ PGMT	g1p_c <=> g6p_c	0	-1000.0	1000.0	MBLCLPDI_00450
 PGMT_B	g6p_B_c <=> g1p_B_c	0	-1000.0	1000.0	MBLCLPDI_00060
 PGSA_LLA	0.01 cdpdag_LLA_c + glyc3p_c <=> cmp_c + h_c + 0.01 pgp_LLA_c	0	-1000.0	1000.0	MBLCLPDI_00571
 PHETA1	akg_c + phe__L_c <=> glu__L_c + phpyr_c	0	-1000.0	1000.0	MBLCLPDI_00832
+PHETRS_1	atp_c + phe__L_c + trnaphe_c --> amp_c + h_c + phetrna_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01352 and MBLCLPDI_01353
 PMPK	4ampm_c + atp_c --> 2mahmp_c + adp_c	0	0.0	1000.0	MBLCLPDI_01139
 PNTK	atp_c + pnto__R_c --> 4ppan_c + adp_c + h_c	0	0.0	1000.0	MBLCLPDI_01775
 PPA	h2o_c + ppi_c --> h_c + 2.0 pi_c	0	0.0	1000.0	MBLCLPDI_00873
@@ -348,7 +350,7 @@ URIK1	atp_c + uri_c --> adp_c + h_c + ump_c	0	0.0	1000.0	MBLCLPDI_01350
 URIK2	gtp_c + uri_c --> gdp_c + h_c + ump_c	0	0.0	1000.0	MBLCLPDI_01350
 URIK3	itp_c + uri_c --> h_c + idp_c + ump_c	0	0.0	1000.0	MBLCLPDI_01350
 VALTRS_1	atp_c + trnaval_c + val__L_c --> amp_c + h_c + ppi_c + valtrna_c	0	0.0	1000.0	MBLCLPDI_00554
-VALt2r	h_e + val__L_e <=> h_c + val__L_c	0	-1000.0	1000.0	MBLCLPDI_01967
+VALt2r	h_e + val__L_e <=> h_c + val__L_c	0	-1000.0	1000.0	MBLCLPDI_01837
 XANt2	h_e + xan_e --> h_c + xan_c	0	0.0	1000.0	MBLCLPDI_01988
 XPPT	prpp_c + xan_c --> ppi_c + xmp_c	0	0.0	1000.0	MBLCLPDI_01599
 YUMPS	r5p_c + ura_c --> h2o_c + psd5p_c	0	0.0	1000.0	MBLCLPDI_01604 or MBLCLPDI_00786 or MBLCLPDI_00650 or MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_00845
