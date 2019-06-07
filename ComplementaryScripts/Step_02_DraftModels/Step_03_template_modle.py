@@ -79,7 +79,7 @@ if __name__ == '__main__':
         # tp_model = cobra.io.read_sbml_model('template_models/' + t_ids[index] + '.xml')
         tp_model = cobra.io.load_json_model('template_models/' + t_ids[index] + '_standlized.json')
         # Lreu_from_template_i = getmodel_from_template(tp_model, blast_result_df)BT
-        Lreu_py_tp = get_model_from_template(tp_model, blast_result_df,remove_missing_genes = True)
+        Lreu_py_tp = get_model_from_template(tp_model, blast_result_df,remove_missing_genes = False)
         locals()['Lreu_from_' + t_ids[index]] = Lreu_py_tp
 
         cobra.io.write_sbml_model(Lreu_py_tp, 'Lreu_from_' + t_ids[index] + '.xml')

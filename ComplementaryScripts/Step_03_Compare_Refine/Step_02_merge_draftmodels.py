@@ -110,10 +110,12 @@ def merge_draftmodels(model1, model2, inplace = False):
                 rowlist[3] = rea1.gene_reaction_rule
                 rowlist[4] = rea2.gene_reaction_rule
                 model.reactions.get_by_id(rea2.id).gene_reaction_rule = gpr
+                model.reactions.get_by_id(rea2.id).notes['from'].update(rea2.notes['from'])
 
             elif notes[1] == 'bounds different':
                 rowlist[3] = str(rea1.bounds)
                 rowlist[4] = str(rea2.bounds)
+                model.reactions.get_by_id(rea2.id).notes['from'].update(rea2.notes['from'])
         data.append(rowlist)
     report_df = pd.DataFrame(data,index=None,columns = ['rea_id', 'add_skip','describ','fea1','fea2','dif'])
 
@@ -123,7 +125,6 @@ def merge_draftmodels(model1, model2, inplace = False):
     #display(report_df[report_df['describ'].str.contains('mets different')])
 
     return model.copy(),report_df
-
 
 def merge_metabolitesid(model, new_id, old_id):
     model = model.copy()
@@ -163,14 +164,41 @@ def judge(model1,old_id,model2,new_id):
         print(old_id + 'not in model!!! skiped')
         return False
 
+def note_rea_from(rea,notes):
+    if 'from' not in rea.notes:
+        rea.notes['from'] = {notes}
+    else:
+        if type(rea.notes['from']) == list:
+            rea.notes['from'] = set(rea.notes['from'])
+        elif type(rea.notes['from']) == str:
+            rea.notes['from'] = {rea.notes['from']}
+        rea.notes['from'].add(notes)
+
+def note_model_from(model,notes):
+    for rea in model.reactions:
+        rea = note_rea_from(rea, notes)
+
 if __name__=='__main__':
     os.chdir('../../ComplementaryData/Step_02_DraftModels/')
 
     # %% load models
     Lreu_ca = cobra.io.load_json_model('CarveMe/Lreu_ca.json')
     Lreu_ca_gp = cobra.io.load_json_model('CarveMe/Lreu_ca_gp.json')
+    Lreu_from_iML1515 = cobra.io.load_json_model('Template/Lreu_from_iML1515.json')
     Lreu_from_iNF517 = cobra.io.load_json_model('Template/Lreu_from_iNF517.json')
     Lreu_from_iBT721 = cobra.io.load_json_model('Template/Lreu_from_iBT721.json')
+
+    Lreu_ca.id = 'Lreu_ca'
+    Lreu_ca_gp.id = 'Lreu_ca_gp'
+    Lreu_from_iML1515.id = 'Lreu_from_iML1515'
+    Lreu_from_iNF517.id = 'Lreu_from_iNF517'
+    Lreu_from_iBT721.id = 'Lreu_from_iBT721'
+
+    note_model_from(Lreu_ca,Lreu_ca.id)
+    note_model_from(Lreu_ca_gp,Lreu_ca_gp.id)
+    note_model_from(Lreu_from_iNF517, Lreu_from_iNF517.id)
+    note_model_from(Lreu_from_iBT721, Lreu_from_iBT721.id)
+    note_model_from(Lreu_from_iML1515, Lreu_from_iML1515.id)
 
     # %%    <option 1>
     # by cobra function
@@ -181,15 +209,29 @@ if __name__=='__main__':
     # by def function
     # Note：based on Lreu_from_iNF517 because metabolites notes
 
-    #model2,report_df = merge_draftmodels(Lreu_from_iBT721,Lreu_from_iNF517)
-    model_2, report_df1 = merge_draftmodels(Lreu_from_iNF517, Lreu_from_iBT721)
-    model_2, report_df2  = merge_draftmodels(model_2,Lreu_ca_gp)
+    model_2, report_df = merge_draftmodels(Lreu_from_iNF517,Lreu_from_iML1515)
+    model_2, report_df1 = merge_draftmodels(model_2, Lreu_from_iBT721)
+    #model_2, report_df2  = merge_draftmodels(model_2,Lreu_ca_gp)
 
 
     # %% Manual handling
 
     modellist = ['Lreu_from_iNF517','Lreu_from_iBT721','Lreu_ca','Lreu_ca_gp','model_2']
     #according to report 1
+    # replace_list = ['isobut_e','isobut_c', 'isoval_c', '2mpal_c', '3mbal_c', 'orn__L_c', 'btd__RR_c', 'cysth__L_c',
+    #                 'ribflvRD_c', '5fothf_c', 'g6p__B_c', 'glcn__D_c', 'MCOOH_c', 'orn__L_c', 'g6p__B_c',
+    #                 'dtdp6dm_c', 'dtdpglc_c', 'ugmd_c', 'btd__RR_c', 'isoval_e', 'isobut_e', ]
+    # keep_list = ['acgal_e', '2ahhmd_c', 'acgal_e']
+
+    manual_dic = {'g6p_B_c':'g6p__B_c',
+                  'g1p_B_c':'g1p__B_c',
+                  '5fthf_c':'5fothf_c',
+                  'glcn_c':'glcn__D_c',
+                  'orn_c':'orn__L_c',
+                  'dtdprmn_c':'dtdp6dm_c',
+                  'dtdpglu_c':'dtdpglu_c',
+                  'mpt_c':'MPT_c',
+                  }
 
     if judge(model_2, 'g6p_B_c', Lreu_from_iBT721, 'g6p__B_c'):
         for model in modellist:
@@ -220,12 +262,15 @@ if __name__=='__main__':
 
     # %% check again
 
-    model_2, report_df1 = merge_draftmodels(Lreu_from_iNF517, Lreu_from_iBT721)
-    model_2, report_df2 = merge_draftmodels(model_2, Lreu_ca_gp)
+    #model_2, report_df1 = merge_draftmodels(Lreu_from_iNF517, Lreu_from_iBT721)
+    #model_2, report_df2 = merge_draftmodels(model_2, Lreu_ca_gp)
 
-    cobra.io.save_json_model(Lreu_ca,'CarveMe/Lreu_ca_0531.json')
-    cobra.io.save_json_model(Lreu_ca_gp, 'CarveMe/Lreu_ca_gp_0531.json')
-    cobra.io.save_json_model(Lreu_from_iNF517, 'Template/Lreu_from_iNF517_0531.json')
-    cobra.io.save_json_model(Lreu_from_iBT721, 'Template/Lreu_from_iBT721_0531.json')
+    # cobra.io.save_json_model(Lreu_ca,'CarveMe/Lreu_ca_0531.json')
+    # cobra.io.save_json_model(Lreu_ca_gp, 'CarveMe/Lreu_ca_gp_0531.json')
+    # cobra.io.save_json_model(Lreu_from_iNF517, 'Template/Lreu_from_iNF517_0531.json')
+    # cobra.io.save_json_model(Lreu_from_iBT721, 'Template/Lreu_from_iBT721_0531.json')
+    #
+    # cobra.io.save_json_model(model_2,'../../ModelFiles/Lreu_0531.json')
 
-    cobra.io.save_json_model(model_2,'../../ModelFiles/Lreu_0531.json')
+
+
