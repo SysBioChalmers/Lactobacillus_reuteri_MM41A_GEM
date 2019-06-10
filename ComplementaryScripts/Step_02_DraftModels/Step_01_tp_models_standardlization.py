@@ -277,10 +277,10 @@ if  __name__ == '__main__':
 
         # %% save report
         iBT721_initial_report = met_report_df.append(rea_report_df)
-        iBT721_initial_report.to_csv('iBT721_initial_report.csv', sep='\t', index=False)
+        #iBT721_initial_report.to_csv('iBT721_initial_report.csv', sep='\t', index=False)
         #iBT721_stand_report = met_report_df2.combine(rea_report_df2)
         #iBT721_stand_report.to_csv('iBT721_stand_report.csv', sep='\t', index=False)
-        cobra.io.save_json_model(iBT721, iBT721.id + '_standlized.json')
+        #cobra.io.save_json_model(iBT721, iBT721.id + '_standlized.json')
 
     # %% iNF517 report
 
@@ -315,8 +315,8 @@ if  __name__ == '__main__':
         iML1515 = standardlize_rea(iML1515, rea_report_df)
 
         iML1515_initial_report = met_report_df.append(rea_report_df)
-        iML1515_initial_report.to_csv('iML1515_initial_report.csv', sep='\t', index=False)
-        cobra.io.save_json_model(iML1515, iML1515.id + '_standlized.json')
+        #iML1515_initial_report.to_csv('iML1515_initial_report.csv', sep='\t', index=False)
+        #cobra.io.save_json_model(iML1515, iML1515.id + '_standlized.json')
 
     # %% Manual handling according to the report
 
@@ -333,3 +333,23 @@ if  __name__ == '__main__':
         # manual_df.to_csv('manual_df.scv', sep='\t', index=False)
 
         #iBT721 = manual_process(manual_df, iBT721)
+
+
+    iBT721_reas = set([i.id for i in iBT721.reactions])
+    iBT721_mets = set([i.id for i in iBT721.metabolites])
+    iNF517_reas = set([i.id for i in iNF517.reactions])
+    iNF517_mets = set([i.id for i in iNF517.metabolites])
+    iML1515_reas = set([i.id for i in iML1515.reactions])
+    iML1515_mets = set([i.id for i in iML1515.metabolites])
+    #model_2_reas = set([i.id for i in model_2.reactions])
+    #model_2_mets = set([i.id for i in model_2.metabolites])
+
+    #only_721_mets = (iBT721_mets - (iNF517_mets|iML1515_mets))&model_2_mets
+    #only_517_mets = (iNF517_mets - (iBT721_mets|iML1515_mets))&model_2_mets
+    #only_721_reas = (iBT721_reas - (iNF517_reas|iML1515_reas))&model_2_reas
+    #only_517_reas = (iNF517_reas - (iBT721_reas|iML1515_reas))&model_2_reas
+
+
+
+
+
