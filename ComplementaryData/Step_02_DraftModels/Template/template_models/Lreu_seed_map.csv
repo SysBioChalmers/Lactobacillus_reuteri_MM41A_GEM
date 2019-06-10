@@ -1,0 +1,2341 @@
+id_in_tp	bigg	metnetx	metacyc	kegg	seed	type	model
+cpd00443_c0	['M_4abz', '4abz']	MNXM421	P-AMINO-BENZOATE	['C00568', 'D02456']	cpd00443	met	Lreu_seed
+cpd02920_c0	['M_2ahhmd', '2ahhmd']	MNXM91459			cpd02920	met	Lreu_seed
+cpd00012_c0	['M_ppi', 'ppi']	MNXM11	PPI	C00013	cpd00012	met	Lreu_seed
+cpd00067_c0	['h', 'M_h']	MNXM1	PROTON	C00080	cpd00067	met	Lreu_seed
+cpd00683_c0	['dhpt', 'M_dhpt']	MNXM965		C00921	cpd00683	met	Lreu_seed
+cpd00114_c0	['imp', 'M_imp']	MNXM125	IMP	C00130	cpd00114	met	Lreu_seed
+cpd00103_c0	['M_prpp', 'prpp']	MNXM91	PRPP	C00119	cpd00103	met	Lreu_seed
+cpd00226_c0	['hxan', 'M_hxan']	MNXM213	HYPOXANTHINE	C00262	cpd00226	met	Lreu_seed
+cpd00001_c0	['M_h2o', 'oh1', 'M_oh1', 'h2o']	MNXM2	['OXONIUM', 'WATER', 'OH']	['C00001', 'D00001', 'C01328']	['cpd15275', 'cpd00001']	met	Lreu_seed
+cpd01759_c0		MNXM5236	CPD-576	C02715	cpd01759	met	Lreu_seed
+cpd00041_c0	['CE1787', 'M_CE1787', 'M_asp__L', 'CE5868', 'M_CE5868', 'asp__L']	MNXM42	L-ASPARTATE	['C16433', 'D00013', 'C00049']	['cpd00041', 'cpd19181']	met	Lreu_seed
+cpd00049_c0	['M_Rtotal', 'Rtotal', 'M_Rtotal2', 'Rtotal2', 'M_Rtotal3', 'Rtotal3']	MNXM72	['Carboxylates', 'Fatty-Acids', 'Monocarboxylates']	['C00060', 'C02403', 'C00162']	['cpd00049', 'cpd19000', 'cpd12094']	met	Lreu_seed
+cpd00002_c0	['atp', 'M_atp']	MNXM3	ATP	['D08646', 'C00002']	cpd00002	met	Lreu_seed
+cpd00008_c0	['M_adp', 'adp']	MNXM7	ADP	['C00008', 'G11113']	cpd00008	met	Lreu_seed
+cpd00009_c0	['pi', 'M_pi']	MNXM9	['Pi', 'CPD-16459']	['C00009', 'D05467']	cpd00009	met	Lreu_seed
+cpd00947_c0		MNXM269	Lactosyl-Ceramides	['G00092', 'C01290']	cpd00947	met	Lreu_seed
+cpd00108_c0	['M_gal', 'gal']	MNXM390	['ALPHA-D-GALACTOSE', 'D-galactopyranose', 'D-Galactose']	['C00984', 'C00124', 'D04291']	['cpd26818', 'cpd00724', 'cpd00108', 'cpd01112']	met	Lreu_seed
+cpd00878_c0	['M_gluside_cho', 'gluside_cho']	MNXM146539	Glucosyl-ceramides	['G10238', 'C01190']	cpd00878	met	Lreu_seed
+cpd00026_c0	['M_udpg', 'udpg']	MNXM52	CPD-12575	['G10608', 'C00029']	['cpd00026', 'cpd28293']	met	Lreu_seed
+cpd15746_c0		MNXM5882			cpd15746	met	Lreu_seed
+cpd00014_c0	['udp', 'M_udp']	MNXM17	UDP	['C00015', 'G10619']	cpd00014	met	Lreu_seed
+cpd15755_c0		MNXM8988			cpd15755	met	Lreu_seed
+cpd00046_c0	['M_cmp', 'cmp']	MNXM31	CMP	['G10621', 'C00055']	cpd00046	met	Lreu_seed
+cpd00096_c0	['cdp', 'M_cdp']	MNXM220	CDP	C00112	cpd00096	met	Lreu_seed
+cpd00037_c0	['M_uacgam', 'uacgam']	MNXM47	UDP-N-ACETYL-D-GLUCOSAMINE	['C00043', 'G10610']	cpd00037	met	Lreu_seed
+cpd03494_c0	['M_uagmda', 'uagmda']	MNXM2264	C5	['C05897', 'G10556']	cpd03494	met	Lreu_seed
+cpd03495_c0	['uaagmda', 'M_uaagmda']	MNXM1242			cpd03495	met	Lreu_seed
+cpd00658_c0	['M_ichor', 'ichor']	MNXM799	ISOCHORISMATE	C00885	cpd00658	met	Lreu_seed
+cpd00020_c0	['M_pyr', 'pyr']	MNXM23	PYRUVATE	C00022	cpd00020	met	Lreu_seed
+cpd02566_c0	['M_23ddhb', '23ddhb']	MNXM114261	DIHYDRO-DIOH-BENZOATE	C04171	['cpd29666', 'cpd02566']	met	Lreu_seed
+cpd00023_c0	['glu__L', 'M_glu__L']	MNXM89557	['Glutamates', 'GLT']	['C00025', 'D00007', 'C00302', 'D04341']	['cpd00023', 'cpd27177', 'cpd19002']	met	Lreu_seed
+cpd00084_c0	['cys__L', 'M_cys__L']	MNXM55	CYS	['C00097', 'D00026', 'C00736']	['cpd00547', 'cpd00084']	met	Lreu_seed
+cpd00506_c0		MNXM54306			cpd00506	met	Lreu_seed
+cpd00004_c0	['nadh', 'M_nadh']	MNXM10	NADH	C00004	cpd00004	met	Lreu_seed
+cpd11527_c0		MNXM8210			cpd11527	met	Lreu_seed
+cpd00003_c0	['nad', 'M_nad']	MNXM8	NAD	['D00002', 'C00003']	cpd00003	met	Lreu_seed
+cpd11528_c0		MNXM8209			cpd11528	met	Lreu_seed
+cpd00533_c0	['M_dcdp', 'dcdp']	MNXM411	DCDP	C00705	cpd00533	met	Lreu_seed
+cpd00356_c0	['M_dctp', 'dctp']	MNXM360	DCTP	C00458	cpd00356	met	Lreu_seed
+cpd00032_c0	['M_oaa', 'oaa']	MNXM46	OXALACETIC_ACID	C00036	cpd00032	met	Lreu_seed
+cpd00011_c0	['co2', 'M_co2']	MNXM13	CARBON-DIOXIDE	['C00011', 'D00004']	cpd00011	met	Lreu_seed
+cpd00061_c0	['M_pep', 'pep']	MNXM73	PHOSPHO-ENOL-PYRUVATE	C00074	cpd00061	met	Lreu_seed
+cpd00067_e0	['M_h', 'h']	MNXM1	PROTON	C00080	cpd00067	met	Lreu_seed
+cpd00075_e0	['no2', 'M_no2']	MNXM107	NITRITE	C00088	cpd00075	met	Lreu_seed
+cpd00075_c0	['M_no2', 'no2']	MNXM107	NITRITE	C00088	cpd00075	met	Lreu_seed
+cpd00213_c0	['M_lpam', 'lpam']	MNXM1024	LIPOAMIDE	['C00248', 'D00048']	cpd00213	met	Lreu_seed
+cpd03049_c0	['2ahethmpp', 'M_2ahethmpp']	MNXM1705	2-ALPHA-HYDROXYETHYL-THPP	C05125	cpd03049	met	Lreu_seed
+cpd00056_c0	['thmpp', 'M_thmpp']	MNXM256	THIAMINE-PYROPHOSPHATE	C00068	cpd00056	met	Lreu_seed
+cpd00836_c0	['HC00682', 'M_HC00682', 'M_adhlam', 'adhlam']	MNXM4815	S-ACETYLDIHYDROLIPOAMIDE	C01136	cpd00836	met	Lreu_seed
+cpd00006_c0	['M_nadp', 'nadp']	MNXM5	NADP	C00006	cpd00006	met	Lreu_seed
+cpd00842_c0	['M_3hbcoa', '3hbcoa', '3hbycoa', 'M_3hbycoa']	MNXM446	S-3-HYDROXYBUTANOYL-COA	C01144	cpd00842	met	Lreu_seed
+cpd00005_c0	['M_nadph', 'nadph']	MNXM6	NADPH	C00005	cpd00005	met	Lreu_seed
+cpd00279_c0	['M_aacoa', 'aacoa']	MNXM133	ACETOACETYL-COA	C00332	cpd00279	met	Lreu_seed
+cpd00179_c0	['M_malt', 'malt']	MNXM165	['MALTOSE', 'ALPHA-MALTOSE']	['G00275', 'C00897', 'D00044', 'C00208']	['cpd00665', 'cpd00179']	met	Lreu_seed
+cpd00027_c0	['M_glc__D', 'glc__D']	MNXM41	D-Glucose	['D00009', 'C00031']	['cpd00027', 'cpd26821']	met	Lreu_seed
+cpd03113_c0	['M_3hhdcoa', '3hhdcoa']	MNXM825	CPD0-2232	C05258	cpd03113	met	Lreu_seed
+cpd03114_c0	['3ohdcoa', 'M_3ohdcoa']	MNXM738	3-OXOPALMITOYL-COA	C05259	cpd03114	met	Lreu_seed
+cpd01140_c0		MNXM5324		C01623	cpd01140	met	Lreu_seed
+cpd02807_c0		MNXM2794	APIGENIN-7-O-BETA-D-GLUCOSIDE	C04608	cpd02807	met	Lreu_seed
+cpd02952_c0		MNXM5582	7-O-BETA-D-APIOFURANOSYL-12-BETA-D-GLU	C04858	cpd02952	met	Lreu_seed
+cpd00010_c0	['M_coa', 'coa']	MNXM12	['CO-A', 'COA-GROUP']	C00010	['cpd00010', 'cpd22528']	met	Lreu_seed
+cpd11466_c0		MNXM564	Myristoyl-ACPs	C05761	cpd11466	met	Lreu_seed
+cpd01695_c0	['tdcoa', 'M_tdcoa']	MNXM224	TETRADECANOYL-COA	C02593	cpd01695	met	Lreu_seed
+cpd11493_c0	['ACP', 'M_ACP']	MNXM925	ACP	C00229	cpd11493	met	Lreu_seed
+cpd08739_c0		MNXM13081		C11942	cpd08739	met	Lreu_seed
+cpd08740_c0		MNXM6454		C11943	cpd08740	met	Lreu_seed
+cpd17042_c0		MNXM51417			cpd17042	met	Lreu_seed
+cpd11640_c0	['M_h2', 'h2']	MNXM195	HYDROGEN-MOLECULE	C00282	cpd11640	met	Lreu_seed
+cpd15560_c0	['M_q8', 'q8']	MNXM232	UBIQUINONE-8	C17569	cpd15560	met	Lreu_seed
+cpd15561_c0	['M_q8h2', 'q8h2']	MNXM191	CPD-9956		['cpd29608', 'cpd15561']	met	Lreu_seed
+cpd00068_c0	['M_itp', 'itp']	MNXM423	ITP	C00081	cpd00068	met	Lreu_seed
+cpd00072_c0	['f6p', 'M_f6p']	MNXM155029	CPD-15709	C00085	cpd00072	met	Lreu_seed
+cpd00090_c0	['idp', 'M_idp']	MNXM495	IDP	C00104	cpd00090	met	Lreu_seed
+cpd00290_c0	['fdp', 'M_fdp']	MNXM417		C00354	cpd00290	met	Lreu_seed
+cpd11492_c0	['M_malACP', 'malACP']	MNXM184	MALONYL-ACP	C01209	cpd11492	met	Lreu_seed
+cpd11529_c0		MNXM10475			cpd11529	met	Lreu_seed
+cpd15495_c0	['M_maltpt', 'maltpt']	MNXM61032	MALTOPENTAOSE	G00343	cpd15495	met	Lreu_seed
+cpd01399_c0	['maltttr', 'M_maltttr']	MNXM5663	['CPD0-2595', 'CPD-13205', 'MALTOTETRAOSE']	['C02013', 'G00459']	['cpd01399', 'cpd01376']	met	Lreu_seed
+cpd00246_c0	['ins', 'M_ins']	MNXM334	INOSINE	['D00054', 'C00294']	cpd00246	met	Lreu_seed
+cpd00475_c0	['r1p', 'M_r1p']	MNXM295	RIBOSE-1P	C00620	cpd00475	met	Lreu_seed
+cpd00024_c0	['akg', 'M_akg']	MNXM20	2-KETOGLUTARATE	C00026	cpd00024	met	Lreu_seed
+cpd02685_c0	['n6all26d', 'M_n6all26d']	MNXM1759	CPD-1771	C04390	cpd02685	met	Lreu_seed
+cpd03289_c0	['M_nal2a6o', 'nal2a6o', 'acamoxm', 'M_acamoxm']	MNXM1872	N-ACETYL-L-2-AMINO-6-OXO-PIMELATE	C05539	cpd03289	met	Lreu_seed
+cpd11589_c0	['M_gly_asp__L', 'gly_asp__L']	MNXM55269			cpd11589	met	Lreu_seed
+cpd00033_c0	['M_gly', 'gly']	MNXM29	GLY	['C00037', 'D00011']	cpd00033	met	Lreu_seed
+cpd02519_c0		MNXM4606	GUANIDINOETHYL-METHYL-PHOSPHATE	C04071	cpd02519	met	Lreu_seed
+cpd02744_c0		MNXM4675	N-PHOSPHOGUANIDINOETHYL-METHYL-PHOSPHAT	C04503	cpd02744	met	Lreu_seed
+cpd00206_c0	['dcmp', 'M_dcmp']	MNXM266	DCMP	C00239	cpd00206	met	Lreu_seed
+cpd02227_c0	['M_rhcys', 'rhcys']	MNXM1777	CPD-564	C03539	cpd02227	met	Lreu_seed
+cpd00135_c0		MNXM123		C05330	['cpd00135', 'cpd19034']	met	Lreu_seed
+cpd08636_c0	['dhptd', 'M_dhptd']	MNXM2449		C11838	cpd08636	met	Lreu_seed
+cpd00070_c0	['malcoa', 'M_malcoa']	MNXM40	MALONYL-COA	C00083	cpd00070	met	Lreu_seed
+cpd00022_c0	['M_accoa', 'accoa']	MNXM21	ACETYL-COA	C00024	cpd00022	met	Lreu_seed
+cpd02375_c0		MNXM92089	ADENYLOSUCC		cpd02375	met	Lreu_seed
+cpd00018_c0	['amp', 'M_amp']	MNXM14	AMP	['D02769', 'C00020']	cpd00018	met	Lreu_seed
+cpd00106_c0	['fum', 'M_fum']	MNXM93	FUM	['C00122', 'D02308']	cpd00106	met	Lreu_seed
+cpd00367_c0	['cytd', 'M_cytd']	MNXM338	CYTIDINE	['C00475', 'D07769']	cpd00367	met	Lreu_seed
+cpd00052_c0	['M_ctp', 'ctp']	MNXM63	CTP	C00063	cpd00052	met	Lreu_seed
+cpd02201_c0	['4ppan', 'M_4ppan']	MNXM415	4-P-PANTOTHENATE	C03492	cpd02201	met	Lreu_seed
+cpd02666_c0	['4ppcys', 'M_4ppcys']	MNXM483	R-4-PHOSPHOPANTOTHENOYL-L-CYSTEINE	C04352	cpd02666	met	Lreu_seed
+cpd02097_c0	['glu5p', 'M_glu5p']	MNXM1280	L-GLUTAMATE-5-P	C03287	cpd02097	met	Lreu_seed
+cpd00201_c0	['10fthf', 'M_10fthf']	MNXM237	10-FORMYL-THF	C00234	cpd00201	met	Lreu_seed
+cpd03524_c0		MNXM33047			cpd03524	met	Lreu_seed
+cpd00654_c0	['M_dcyt', 'dcyt']	MNXM704	DEOXYCYTIDINE	C00881	cpd00654	met	Lreu_seed
+cpd11503_c0		MNXM8195			cpd11503	met	Lreu_seed
+cpd11504_c0		MNXM10448			cpd11504	met	Lreu_seed
+cpd00199_c0	['M_sucsal', 'sucsal']	MNXM172	SUCC-S-ALD	C00232	cpd00199	met	Lreu_seed
+cpd00036_c0	['succ', 'M_succ']	MNXM25	SUC	C00042	cpd00036	met	Lreu_seed
+cpd02021_c0		MNXM91307			cpd02021	met	Lreu_seed
+cpd02295_c0	['M_dhna', 'dhna']	MNXM552	DIHYDROXYNAPHTHOATE	C03657	cpd02295	met	Lreu_seed
+cpd00259_c0	['M_xylu__D', 'xylu__D']	MNXM597	D-XYLULOSE	C00310	cpd00259	met	Lreu_seed
+cpd00198_c0	['xu5p__D', 'M_xu5p__D']	MNXM186	XYLULOSE-5-PHOSPHATE	C00231	cpd00198	met	Lreu_seed
+cpd00101_c0		MNXM116	['RIBOSE-5P', 'CPD-15317']	C00117	cpd00101	met	Lreu_seed
+cpd00847_c0		MNXM881	RIBOSE-15-BISPHOSPHATE		cpd00847	met	Lreu_seed
+cpd15317_c0		MNXM147671			cpd15317	met	Lreu_seed
+cpd00908_c0		MNXM55315			cpd00908	met	Lreu_seed
+cpd15237_c0		MNXM900			cpd15237	met	Lreu_seed
+cpd11576_e0	['M_metox__R', 'metox__R']	MNXM8825			cpd11576	met	Lreu_seed
+cpd11576_c0	['metox__R', 'M_metox__R']	MNXM8825			cpd11576	met	Lreu_seed
+cpd15752_c0		MNXM5794			cpd15752	met	Lreu_seed
+cpd15761_c0		MNXM8771			cpd15761	met	Lreu_seed
+cpd00062_c0	['M_utp', 'utp']	MNXM121	UTP	C00075	cpd00062	met	Lreu_seed
+cpd00805_c0	['M_tag6p__D', 'tag6p__D']	MNXM795	TAGATOSE-6-PHOSPHATE	C01097	cpd00805	met	Lreu_seed
+cpd02371_c0	['tagdp__D', 'M_tagdp__D']	MNXM1324	TAGATOSE-1-6-DIPHOSPHATE	C03785	['cpd29681', 'cpd16800', 'cpd02371']	met	Lreu_seed
+cpd04097_c0		MNXM19009			cpd04097	met	Lreu_seed
+cpd04097_e0		MNXM19009			cpd04097	met	Lreu_seed
+cpd02961_c0	['M_dhnpt', 'dhnpt', 'M_HC01361', 'HC01361']	MNXM162359	DIHYDRO-NEO-PTERIN	C04874	cpd02961	met	Lreu_seed
+cpd00229_c0	['gcald', 'M_gcald']	MNXM349	GLYCOLALDEHYDE	C00266	cpd00229	met	Lreu_seed
+cpd00954_c0	['6hmhpt', 'M_6hmhpt']	MNXM937	AMINO-OH-HYDROXYMETHYL-DIHYDROPTERIDINE	C01300	['cpd29670', 'cpd00954']	met	Lreu_seed
+cpd00808_c0	['M_ru5p__L', 'ru5p__L']	MNXM901	L-RIBULOSE-5-P	C01101	cpd00808	met	Lreu_seed
+cpd11540_c0		MNXM6644			cpd11540	met	Lreu_seed
+cpd11541_c0		MNXM9707			cpd11541	met	Lreu_seed
+cpd03246_c0	['M_tdchola', 'tdchola']	MNXM1779	CPD-7283	C05465	cpd03246	met	Lreu_seed
+cpd00210_c0	['taur', 'M_taur']	MNXM282	TAURINE	['D00047', 'C00245']	cpd00210	met	Lreu_seed
+cpd01663_c0	['C02528', 'M_C02528']	MNXM1183	CPD-15189	['C02528', 'D00163']	cpd01663	met	Lreu_seed
+cpd00080_c0	['glyc3p', 'M_glyc3p']	MNXM66	GLYCEROL-3P	C00093	cpd00080	met	Lreu_seed
+cpd15686_c0		MNXM8381			cpd15686	met	Lreu_seed
+cpd15719_c0		MNXM11396			cpd15719	met	Lreu_seed
+cpd15682_c0		MNXM6581			cpd15682	met	Lreu_seed
+cpd15688_c0		MNXM8380			cpd15688	met	Lreu_seed
+cpd00112_c0	['M_cmpacna', 'cmpacna']	MNXM141	CMP-N-ACETYL-NEURAMINATE	['C00128', 'G10616']	cpd00112	met	Lreu_seed
+cpd03658_c0	['gt1a_cho', 'M_gt1a_cho']	MNXM5618	Ganglioside-GT1a	['C06138', 'G00112']	cpd03658	met	Lreu_seed
+cpd03659_c0		MNXM3909	Ganglioside-GQ1b	['C06139', 'G00117']	cpd03659	met	Lreu_seed
+cpd11543_c0		MNXM8027			cpd11543	met	Lreu_seed
+cpd11544_c0		MNXM8026			cpd11544	met	Lreu_seed
+cpd00171_c0	['ru5p__D', 'M_ru5p__D']	MNXM145	RIBULOSE-5P	C00199	cpd00171	met	Lreu_seed
+cpd00047_c0	['M_for', 'for']	MNXM39	FORMATE	C00058	cpd00047	met	Lreu_seed
+cpd11225_c0	['db4p', 'M_db4p']	MNXM2323	DIHYDROXY-BUTANONE-P	C15556	cpd11225	met	Lreu_seed
+cpd11536_c0		MNXM8010			cpd11536	met	Lreu_seed
+cpd11537_c0		MNXM9695			cpd11537	met	Lreu_seed
+cpd02465_c0		MNXM480	DELTA1-PIPERIDEINE-2-6-DICARBOXYLATE		cpd02465	met	Lreu_seed
+cpd11421_c0	['trdrd', 'M_trdrd']	MNXM96993	Red-Thioredoxin	C00342	['cpd11421', 'cpd28060']	met	Lreu_seed
+cpd11420_c0	['M_trdox', 'trdox']	MNXM148	Ox-Thioredoxin	C00343	['cpd11420', 'cpd27735', 'cpd29682']	met	Lreu_seed
+cpd00585_c0	['creat', 'M_creat']	MNXM1470	CREATININE	['C00791', 'D03600']	cpd00585	met	Lreu_seed
+cpd00013_c0	['M_nh4', 'nh3', 'M_nh3', 'nh4']	MNXM15	['AMMONIA', 'AMMONIUM']	['C01342', 'D02916', 'C00014']	['cpd00013', 'cpd19013']	met	Lreu_seed
+cpd01679_c0		MNXM1762	N-METHYLHYDANTOIN	C02565	cpd01679	met	Lreu_seed
+cpd00033_e0	['gly', 'M_gly']	MNXM29	GLY	['C00037', 'D00011']	cpd00033	met	Lreu_seed
+cpd01647_c0	['M_pad', 'pad']	MNXM2073	CPD-238	C02505	cpd01647	met	Lreu_seed
+cpd00430_c0		MNXM722732			cpd00430	met	Lreu_seed
+cpd00208_c0	['lcts', 'M_lcts']	MNXM362	CPD-15972	['G10504', 'C00243', 'D00046']	cpd00208	met	Lreu_seed
+cpd00147_c0	['5mta', 'M_5mta']	MNXM150	5-METHYLTHIOADENOSINE	C00170	cpd00147	met	Lreu_seed
+cpd00128_c0	['ade', 'M_ade']	MNXM168	['ADENINE', 'ADENINE-RING']	['D00034', 'C00147']	['cpd22238', 'cpd00128']	met	Lreu_seed
+cpd01981_c0	['5mtr', 'M_5mtr']	MNXM722742		C03089	cpd01981	met	Lreu_seed
+cpd00054_c0	['M_ser__L', 'ser__L']	MNXM53	['SER', 'Serines']	['D00016', 'C00716', 'C00065']	['cpd00054', 'cpd30743']	met	Lreu_seed
+cpd12232_c0		MNXM96971		C01329	cpd12232	met	Lreu_seed
+cpd00354_c0		MNXM96055	Nucleoside-Diphosphates	C00454	cpd00354	met	Lreu_seed
+cpd00162_c0	['etha', 'M_etha']	MNXM218	ETHANOL-AMINE	['D05074', 'C00189']	cpd00162	met	Lreu_seed
+cpd00071_c0	['acald', 'M_acald']	MNXM75	ACETALD	C00084	cpd00071	met	Lreu_seed
+cpd00519_c0	['M_mmcoa__S', 'mmcoa__S']	MNXM89955	D-METHYL-MALONYL-COA	C00683	['cpd00519', 'cpd29701']	met	Lreu_seed
+cpd00086_c0	['ppcoa', 'M_ppcoa']	MNXM86	PROPIONYL-COA	C00100	cpd00086	met	Lreu_seed
+cpd04393_c0		MNXM35134		C07123	cpd04393	met	Lreu_seed
+cpd00141_c0		MNXM356	PROPIONATE	['C00163', 'D02310']	cpd00141	met	Lreu_seed
+cpd00461_c0		MNXM9829	CPD-6761	C00596	cpd00461	met	Lreu_seed
+cpd00236_c0	['M_e4p', 'e4p']	MNXM258	ERYTHROSE-4P	C00279	cpd00236	met	Lreu_seed
+cpd02147_c0	['M_4per', '4per']	MNXM1407	ERYTHRONATE-4P	C03393	cpd02147	met	Lreu_seed
+cpd00810_c0	['orot5p', 'M_orot5p']	MNXM519	OROTIDINE-5-PHOSPHATE	C01103	cpd00810	met	Lreu_seed
+cpd00091_c0	['ump', 'M_ump']	MNXM80	UMP	C00105	cpd00091	met	Lreu_seed
+cpd00117_c0	['M_ala__D', 'ala__D']	MNXM156	D-ALANINE	C00133	cpd00117	met	Lreu_seed
+cpd15747_c0		MNXM5827			cpd15747	met	Lreu_seed
+cpd15774_c0		MNXM8892			cpd15774	met	Lreu_seed
+cpd00258_c0	['rbl__D', 'M_rbl__D']	MNXM41271	D-RIBULOSE	C00309	cpd00258	met	Lreu_seed
+cpd02654_c0	['M_4mpetz', '4mpetz']	MNXM960	THZ-P	C04327	cpd02654	met	Lreu_seed
+cpd02894_c0	['M_2mahmp', '2mahmp']	MNXM1135	AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP	C04752	cpd02894	met	Lreu_seed
+cpd00793_c0	['M_thmmp', 'thmmp']	MNXM662	THIAMINE-P	C01081	cpd00793	met	Lreu_seed
+cpd00064_c0	['orn', 'M_orn', 'orn__L', 'M_orn__L']	MNXM89689	L-ORNITHINE	['C00077', 'C01602', 'D08302']	['cpd19016', 'cpd00064']	met	Lreu_seed
+cpd00118_c0	['M_ptrc', 'ptrc']	MNXM118	PUTRESCINE	C00134	cpd00118	met	Lreu_seed
+cpd15350_c0	['M_2ddecg3p', '2ddecg3p']	MNXM5461			cpd15350	met	Lreu_seed
+cpd01741_c0		MNXM402	DODECANOATE	['C02679', 'D10714']	cpd01741	met	Lreu_seed
+cpd00424_c0		MNXM7231		C00542	cpd00424	met	Lreu_seed
+cpd00115_c0	['M_datp', 'datp']	MNXM286	DATP	C00131	cpd00115	met	Lreu_seed
+cpd00249_c0	['uri', 'M_uri']	MNXM288	URIDINE	C00299	cpd00249	met	Lreu_seed
+cpd00177_c0	['M_dadp', 'dadp']	MNXM374	DADP	C00206	cpd00177	met	Lreu_seed
+cpd15308_c0		MNXM147350			cpd15308	met	Lreu_seed
+cpd15523_c0	['pa141', 'M_pa141']	MNXM90512			cpd15523	met	Lreu_seed
+cpd00307_c0	['csn', 'M_csn']	MNXM761	CYTOSINE	C00380	cpd00307	met	Lreu_seed
+cpd00092_c0	['ura', 'M_ura']	MNXM158	URACIL	['C00106', 'D00027']	cpd00092	met	Lreu_seed
+cpd01030_e0	['salcn', 'M_salcn']	MNXM2561	CPD-1142	C01451	cpd01030	met	Lreu_seed
+cpd03698_c0	['salcn6p', 'M_salcn6p']	MNXM3356	CPD-1181	C06188	cpd03698	met	Lreu_seed
+cpd15702_c0		MNXM7956			cpd15702	met	Lreu_seed
+cpd15678_c0		MNXM6573			cpd15678	met	Lreu_seed
+cpd11573_c0		MNXM7607			cpd11573	met	Lreu_seed
+cpd00327_c0	['stcoa', 'strcoa', 'M_strcoa', 'M_stcoa']	MNXM272	STEAROYL-COA	C00412	cpd00327	met	Lreu_seed
+cpd11437_c0		MNXM5744			cpd11437	met	Lreu_seed
+cpd02210_c0	['M_3ig3p', '3ig3p']	MNXM866	INDOLE-3-GLYCEROL-P	C03506	['cpd29667', 'cpd02210']	met	Lreu_seed
+cpd00102_c0	['g3p', 'M_g3p']	MNXM74	GAP	['C00118', 'C00661']	['cpd19005', 'cpd00102']	met	Lreu_seed
+cpd00359_c0	['M_indole', 'indole']	MNXM377	INDOLE	C00463	cpd00359	met	Lreu_seed
+cpd15325_c0	['1ddecg3p', 'M_1ddecg3p']	MNXM4232	CPD0-2200		cpd15325	met	Lreu_seed
+cpd12225_c0	['M_dhlpro', 'dhlpro']	MNXM1663		C02972	cpd12225	met	Lreu_seed
+cpd12005_c0	['M_lpro', 'lpro']	MNXM998		C02051	['cpd27417', 'cpd12005']	met	Lreu_seed
+cpd15605_c0	['glyphe', 'M_gly_phe__L', 'M_glyphe', 'gly_phe__L']	MNXM8669			cpd15605	met	Lreu_seed
+cpd00066_c0	['M_phe__L', 'phe__L']	MNXM97	PHE	['C00079', 'C02057', 'D00021']	['cpd00066', 'cpd01400']	met	Lreu_seed
+cpd01977_c0	['4pasp', 'M_4pasp']	MNXM1177	L-BETA-ASPARTYL-P	C03082	cpd01977	met	Lreu_seed
+cpd15422_c0	['M_cdpdtdec7eg', 'cdpdtdec7eg']	MNXM4511			cpd15422	met	Lreu_seed
+cpd00007_c0	['o2', 'M_o2']	MNXM4	OXYGEN-MOLECULE	['C00007', 'D00003']	cpd00007	met	Lreu_seed
+cpd00493_c0	['M_pyam5p', 'pyam5p']	MNXM366	PYRIDOXAMINE-5P	C00647	cpd00493	met	Lreu_seed
+cpd00016_c0	['pydx5p', 'M_pydx5p']	MNXM161	PYRIDOXAL_PHOSPHATE	C00018	cpd00016	met	Lreu_seed
+cpd00025_c0	['M_h2o2', 'h2o2']	MNXM22	HYDROGEN-PEROXIDE	['C00027', 'D00008']	cpd00025	met	Lreu_seed
+cpd15357_c0	['M_2odec11eg3p', '2odec11eg3p']	MNXM5480			cpd15357	met	Lreu_seed
+cpd15269_c0		MNXM65309			cpd15269	met	Lreu_seed
+cpd11502_c0		MNXM8197			cpd11502	met	Lreu_seed
+cpd11464_c0		MNXM2645	Butanoyl-ACPs	C05745	cpd11464	met	Lreu_seed
+cpd11486_c0	['3ohexACP', 'M_3ohexACP']	MNXM25602	3-oxo-hexanoyl-ACPs	C05746	cpd11486	met	Lreu_seed
+cpd15045_c0		MNXM5873		C16329	cpd15045	met	Lreu_seed
+cpd15046_c0		MNXM5874		C16330	cpd15046	met	Lreu_seed
+cpd00017_c0	['M_amet', 'amet']	MNXM16	S-ADENOSYLMETHIONINE	C00019	cpd00017	met	Lreu_seed
+cpd00019_c0	['M_ahcys', 'ahcys']	MNXM19	ADENOSYL-HOMO-CYS	C00021	cpd00019	met	Lreu_seed
+cpd00060_c0	['M_met__L', 'met__L']	MNXM61	MET	['D00019', 'C01733', 'D04983', 'C00073']	['cpd00060', 'cpd30746']	met	Lreu_seed
+cpd03124_c0		MNXM553	HEXANOYL-COA	C05270	cpd03124	met	Lreu_seed
+cpd03121_c0	['M_3oocoa', '3oocoa']	MNXM706	CPD0-2106	C05267	cpd03121	met	Lreu_seed
+cpd01012_c0		MNXM4505	CD+2		cpd01012	met	Lreu_seed
+cpd01012_e0		MNXM4505	CD+2		cpd01012	met	Lreu_seed
+cpd03333_c0		MNXM2283	SINAPALDEHYDE	C05610	cpd03333	met	Lreu_seed
+cpd00373_c0		MNXM1120	SINAPATE	C00482	cpd00373	met	Lreu_seed
+cpd00268_c0	['M_tsul', 'tsul', 'HC01501', 'M_HC01501']	MNXM323	S2O3	['C00320', 'C05529']	cpd00268	met	Lreu_seed
+cpd00722_c0	['M_acser', 'acser']	MNXM418	ACETYLSERINE	C00979	cpd00722	met	Lreu_seed
+cpd00029_c0	['ac', 'M_ac']	MNXM26	ACET	['C00033', 'D00010']	cpd00029	met	Lreu_seed
+cpd00081_c0	['so3', 'M_so3']	MNXM105630	['SO3', 'HSO3', 'H2SO3']	['C11481', 'C00094']	cpd00081	met	Lreu_seed
+cpd02090_c0	['M_g3pg', 'g3pg']	MNXM598	GLYCEROPHOSPHOGLYCEROL	C03274	cpd02090	met	Lreu_seed
+cpd00100_c0	['glyc', 'M_glyc']	MNXM89612	GLYCEROL	['D00028', 'C00116']	cpd00100	met	Lreu_seed
+cpd00242_c0	['hco3', 'M_hco3']	MNXM60	HCO3	C00288	cpd00242	met	Lreu_seed
+cpd12848_c0	['M_btnCCP', 'btnCCP']	MNXM96075		C06250	cpd12848	met	Lreu_seed
+cpd12543_c0	['cbtnCCP', 'M_cbtnCCP']	MNXM5655		C04419	cpd12543	met	Lreu_seed
+cpd02233_c0	['2ameph', 'M_2ameph']	MNXM1692	CPD-1106	C03557	cpd02233	met	Lreu_seed
+cpd03379_c0		MNXM47346		C05673	cpd03379	met	Lreu_seed
+cpd00239_c0	['h2s', 'M_h2s']	MNXM89582	['HS', 'CPD-7046', 'CPD-846']	C00283	['cpd24697', 'cpd00239']	met	Lreu_seed
+cpd00873_c0	['M_nicrnt', 'nicrnt']	MNXM194	NICOTINATE_NUCLEOTIDE	C01185	cpd00873	met	Lreu_seed
+cpd03471_c0	['M_nicrns', 'nicrns']	MNXM1915	CPD-8259	C05841	cpd03471	met	Lreu_seed
+cpd00504_c0	['M_26dap_LL', '26dap_LL']	MNXM644	LL-DIAMINOPIMELATE	C00666	cpd00504	met	Lreu_seed
+cpd00516_c0	['26dap__M', 'M_26dap__M']	MNXM529	MESO-DIAMINOPIMELATE	C00680	cpd00516	met	Lreu_seed
+cpd00905_c0	['ppgpp', 'M_ppgpp']	MNXM1189	GUANOSINE-5DP-3DP	C01228	cpd00905	met	Lreu_seed
+cpd00031_c0	['gdp', 'M_gdp']	MNXM30	GDP	['C00035', 'G10620']	cpd00031	met	Lreu_seed
+cpd11585_c0	['L_alagly', 'M_L_alagly']	MNXM15783	ALA-GLY		cpd11585	met	Lreu_seed
+cpd00035_c0	['ala__L', 'M_ala__L']	MNXM32	L-ALPHA-ALANINE	['D00012', 'C00041', 'C01401']	['cpd00035', 'cpd01003']	met	Lreu_seed
+cpd00157_c0	['dha', 'M_dha']	MNXM460	DIHYDROXYACETONE	['D07841', 'C00184']	cpd00157	met	Lreu_seed
+cpd15500_c0	['mqn8', 'M_mqn8']	MNXM509	CPD-9728		cpd15500	met	Lreu_seed
+cpd15499_c0	['mql8', 'M_mql8']	MNXM223	REDUCED-MENAQUINONE		cpd15499	met	Lreu_seed
+cpd02626_c0		MNXM1992	CPD-1128	C04282	cpd02626	met	Lreu_seed
+cpd00340_c0		MNXM770	CPD-654	C00433	cpd00340	met	Lreu_seed
+cpd02547_c0	['M_applp', 'applp']	MNXM1697	R-1-AMINOPROPAN-2-YL-PHOSPHATE	C04122	cpd02547	met	Lreu_seed
+cpd03917_c0	['M_adcobhex', 'adcobhex']	MNXM877	CPD-691	C06507	cpd03917	met	Lreu_seed
+cpd03919_c0	['adocbip', 'M_adocbip']	MNXM856	ADENOSYLCOBINAMIDE-P	C06509	cpd03919	met	Lreu_seed
+cpd00652_c0	['M_galctr__D', 'galctr__D', 'M_galct__D', 'galct__D']	MNXM1080	D-GALACTARATE	C00879	cpd00652	met	Lreu_seed
+cpd00515_c0	['M_5d4dglcr', '5d4dglcr', 'M_5dh4dglc', '5dh4dglc']	MNXM854	5-KETO-4-DEOXY-D-GLUCARATE	C00679	cpd00515	met	Lreu_seed
+cpd00689_c0	['M_ppbng', 'ppbng']	MNXM554	PORPHOBILINOGEN	C00931	cpd00689	met	Lreu_seed
+cpd00755_c0	['M_hmbil', 'hmbil']	MNXM547	HYDROXYMETHYLBILANE	C01024	cpd00755	met	Lreu_seed
+cpd00196_c0	['M_actp', 'actp']	MNXM280	ACETYL-P	C00227	cpd00196	met	Lreu_seed
+cpd11472_c0		MNXM23683	Hexanoyl-ACPs	C05749	cpd11472	met	Lreu_seed
+cpd11490_c0	['3ooctACP', 'M_3ooctACP']	MNXM28031	3-Oxo-octanoyl-ACPs	C05750	cpd11490	met	Lreu_seed
+cpd15336_c0		MNXM146494			cpd15336	met	Lreu_seed
+cpd00448_c0	['M_glyald', 'glyald']	MNXM435	GLYCERALD	C00577	cpd00448	met	Lreu_seed
+cpd00223_c0		MNXM40615			cpd00223	met	Lreu_seed
+cpd00169_c0		MNXM162261		C00597	['cpd00169', 'cpd30741']	met	Lreu_seed
+cpd00276_e0	['M_gam', 'gam']	MNXM533	GLUCOSAMINE	['C00329', 'D04334']	['cpd01247', 'cpd27103', 'cpd00276']	met	Lreu_seed
+cpd00288_c0	['M_gam6p', 'gam6p']	MNXM370	D-GLUCOSAMINE-6-P	C00352	cpd00288	met	Lreu_seed
+cpd00760_c0	['M_2mbcoa', '2mbcoa']	MNXM569	2-METHYL-BUTYRYL-COA	C01033	cpd00760	met	Lreu_seed
+cpd11495_c0		MNXM9860			cpd11495	met	Lreu_seed
+cpd00655_c0	['M_dpcoa', 'dpcoa']	MNXM481	DEPHOSPHO-COA	C00882	cpd00655	met	Lreu_seed
+cpd00858_c0	['M_glu5sa', 'glu5sa']	MNXM245	L-GLUTAMATE_GAMMA-SEMIALDEHYDE	C01165	cpd00858	met	Lreu_seed
+cpd02431_c0	['M_1pyr5c', '1pyr5c']	MNXM1617		C04322	['cpd02651', 'cpd02431']	met	Lreu_seed
+cpd00082_e0	['M_fru', 'fru']	MNXM1380	['CPD-15382', 'D-Fructopyranose', 'FRU']	['C00095', 'C10906', 'D00114', 'C01496', 'C05003']	['cpd27040', 'cpd19015', 'cpd00082']	met	Lreu_seed
+cpd00802_c0	['f1p', 'M_f1p']	MNXM145568	['D-fructofuranose-1-phosphate', 'D-fructose-1-phosphate']	C01094	cpd00802	met	Lreu_seed
+cpd11514_c0		MNXM8015			cpd11514	met	Lreu_seed
+cpd11515_c0		MNXM6636			cpd11515	met	Lreu_seed
+cpd00126_c0	['M_gmp', 'gmp']	MNXM113	GMP	C00144	cpd00126	met	Lreu_seed
+cpd15352_c0	['2dmmq8', 'M_2dmmq8']	MNXM2178	DEMETHYLMENAQUINONE		cpd15352	met	Lreu_seed
+cpd15353_c0	['2dmmql8', 'M_2dmmql8']	MNXM558	['CPD-12115', 'CPD0-2129']		cpd15353	met	Lreu_seed
+cpd00203_c0	['M_13dpg', '13dpg']	MNXM261	DPG	C00236	cpd00203	met	Lreu_seed
+cpd00001_e0	['M_oh1', 'oh1', 'M_h2o', 'h2o']	MNXM2	['WATER', 'OXONIUM', 'OH']	['C00001', 'C01328', 'D00001']	['cpd15275', 'cpd00001']	met	Lreu_seed
+cpd00867_c0	['M_mi1p__D', 'mi1p__D']	MNXM646	D-MYO-INOSITOL-1-MONOPHOSPHATE	C01177	cpd00867	met	Lreu_seed
+cpd00121_c0	['M_inost', 'inost']	MNXM127	MYO-INOSITOL	['D08079', 'C00137']	cpd00121	met	Lreu_seed
+cpd00023_e0	['glu__L', 'M_glu__L']	MNXM89557	['GLT', 'Glutamates']	['D00007', 'C00302', 'D04341', 'C00025']	['cpd19002', 'cpd00023', 'cpd27177']	met	Lreu_seed
+cpd00971_e0	['M_na1', 'na1']	MNXM27	NA+	C01330	cpd00971	met	Lreu_seed
+cpd00971_c0	['M_na1', 'na1']	MNXM27	NA+	C01330	cpd00971	met	Lreu_seed
+cpd00481_c0	['M_ibcoa', 'ibcoa']	MNXM470	ISOBUTYRYL-COA	C00630	cpd00481	met	Lreu_seed
+cpd11545_c0		MNXM11912			cpd11545	met	Lreu_seed
+cpd00492_c0	['acmana', 'M_acmana']	MNXM2403	N-acetyl-D-mannosamine	C00645	cpd00492	met	Lreu_seed
+cpd11538_c0		MNXM9694			cpd11538	met	Lreu_seed
+cpd00453_c0		MNXM1118	DL-12-Propanediol	['C00583', 'D00078']	cpd00453	met	Lreu_seed
+cpd00371_c0	['ppal', 'M_ppal']	MNXM821	CPD-665	C00479	cpd00371	met	Lreu_seed
+cpd00774_c0	['M_uppg3', 'uppg3']	MNXM414	UROPORPHYRINOGEN-III	C01051	cpd00774	met	Lreu_seed
+cpd02999_c0		MNXM2140	N-ACETYLNEURAMINYL-ETCETERA-GLUCOSYLCERA	['C04927', 'G00111', 'G00978', 'G00127', 'G02789']	cpd02999	met	Lreu_seed
+cpd03660_c0	['gt1b_cho', 'M_gt1b_cho']	MNXM2348		['G01804', 'G00116', 'C06140', 'G04091']	cpd03660	met	Lreu_seed
+cpd01357_c0		MNXM1698	CPD-121	C01983	cpd01357	met	Lreu_seed
+cpd01447_c0		MNXM764	PHENYLGLYOXYLATE	C02137	cpd01447	met	Lreu_seed
+cpd00286_c0	['udcpp', 'M_udcpp']	MNXM251	UNDECAPRENYL-P	C00348	cpd00286	met	Lreu_seed
+cpd02862_c0	['M_uAgla', 'uAgla']	MNXM7865	C3	C04702	['cpd02862', 'cpd02943']	met	Lreu_seed
+cpd02948_c0	['M_uaGgla', 'uaGgla']	MNXM1955	C4	['C04851', 'G10552']	cpd02948	met	Lreu_seed
+cpd00299_c0	['M_dump', 'dump']	MNXM234	DUMP	C00365	cpd00299	met	Lreu_seed
+cpd00192_c0	['M_coucoa', 'coucoa']	MNXM264	P-COUMAROYL-COA	C00223	['cpd28722', 'cpd00192']	met	Lreu_seed
+cpd05630_c0		MNXM91262	CPD-7137	C08725	cpd05630	met	Lreu_seed
+cpd15065_c0		MNXM93760		C16349	cpd15065	met	Lreu_seed
+cpd11468_c0		MNXM5723	Dodecanoyl-ACPs	C05223	['cpd29211', 'cpd11468']	met	Lreu_seed
+cpd11469_c0	['M_tddec2eACP', 'tddec2eACP']	MNXM23842	Dodec-2-enoyl-ACPs	C05758	cpd11469	met	Lreu_seed
+cpd00058_e0	['cu2', 'M_cu2']	MNXM632	CU+2		cpd00058	met	Lreu_seed
+cpd00058_c0	['cu2', 'M_cu2']	MNXM632	CU+2		cpd00058	met	Lreu_seed
+cpd01489_c0		MNXM3765	CPD-311	C02207	cpd01489	met	Lreu_seed
+cpd00085_c0	['ala_B', 'M_ala_B']	MNXM144	B-ALANINE	['C00099', 'D07561']	cpd00085	met	Lreu_seed
+cpd00125_c0		MNXM722725			cpd00125	met	Lreu_seed
+cpd00087_c0		MNXM89609	THF-GLU-N	C00101	['cpd00087', 'cpd28218']	met	Lreu_seed
+cpd02152_c0		MNXM550	L-ARGININO-SUCCINATE	C03406	cpd02152	met	Lreu_seed
+cpd00051_c0	['M_arg__L', 'arg__L']	MNXM70	ARG	['C00062', 'C02385', 'D02982']	['cpd19021', 'cpd00051']	met	Lreu_seed
+cpd15328_c0	['1odec11eg3p', 'M_1odec11eg3p']	MNXM91049			cpd15328	met	Lreu_seed
+cpd03823_c0		MNXM5063	2-ARYL-2-METHYLMALONATE	C06388	cpd03823	met	Lreu_seed
+cpd03824_c0		MNXM4966	2-ARYLPROPIONATE	C06389	cpd03824	met	Lreu_seed
+cpd11549_c0		MNXM8148			cpd11549	met	Lreu_seed
+cpd11550_c0		MNXM10369			cpd11550	met	Lreu_seed
+cpd01407_c0		MNXM44065	SEDOHEPTULOSE	C02076	cpd01407	met	Lreu_seed
+cpd03722_c0		MNXM12925		C06222	cpd03722	met	Lreu_seed
+cpd00311_c0	['M_gsn', 'gsn']	MNXM401	GUANOSINE	C00387	cpd00311	met	Lreu_seed
+cpd00626_c0	['M_dtdpglu', 'dtdpglu']	MNXM1376	DTDP-D-GLUCOSE	C00842	cpd00626	met	Lreu_seed
+cpd00521_c0	['dtdp4d6dg', 'M_dtdp4d6dg']	MNXM451	DTDP-DEOH-DEOXY-GLUCOSE	C11907	cpd00521	met	Lreu_seed
+cpd00220_c0	['M_ribflv', 'ribflv']	MNXM270	RIBOFLAVIN	['D00050', 'C00255']	cpd00220	met	Lreu_seed
+cpd00739_c0	['M_ribflvRD', 'rbflvrd', 'M_rbflvrd', 'ribflvRD']	MNXM1246	CPD-316	C01007	cpd00739	met	Lreu_seed
+cpd12547_c0		MNXM96082		C04438	cpd12547	met	Lreu_seed
+cpd00767_c0	['Nacasp', 'M_Nacasp']	MNXM2139	CPD-420	C01042	cpd00767	met	Lreu_seed
+cpd00247_c0	['M_orot', 'orot']	MNXM235	OROTATE	['C00295', 'D00055']	cpd00247	met	Lreu_seed
+cpd02978_c0		MNXM397	DIHYDRONEOPTERIN-P3	C04895	cpd02978	met	Lreu_seed
+cpd03666_c0	['HC01710', 'M_HC01710']	MNXM4269		C06148	cpd03666	met	Lreu_seed
+cpd09846_c0		MNXM8478	CPD-7403	['C14147', 'D07767']	cpd09846	met	Lreu_seed
+cpd09847_c0		MNXM5841	CPD-7404	C14148	cpd09847	met	Lreu_seed
+cpd01061_c0		MNXM1558	GERANIAL	C01499	cpd01061	met	Lreu_seed
+cpd15165_c0		MNXM5766	CPD-7618	C16461	cpd15165	met	Lreu_seed
+cpd11554_c0		MNXM10449			cpd11554	met	Lreu_seed
+cpd11555_c0		MNXM10447			cpd11555	met	Lreu_seed
+cpd00668_c0		MNXM426		C00900	cpd00668	met	Lreu_seed
+cpd00361_c0		MNXM1268	ACETOIN	C00466	cpd00361	met	Lreu_seed
+cpd00132_c0	['M_asn__L', 'asn__L']	MNXM147	ASN	['C00152', 'C16438']	['cpd00132', 'cpd15142']	met	Lreu_seed
+cpd00357_c0	['ttp', 'M_ttp']	MNXM88255	CPD0-2550		cpd00357	met	Lreu_seed
+cpd00297_c0	['dtdp', 'M_dtdp']	MNXM152	TDP	C00363	cpd00297	met	Lreu_seed
+cpd02691_c0	['3hmbcoa', 'M_3hmbcoa']	MNXM701	2-METHYL-3-HYDROXY-BUTYRYL-COA	C04405	cpd02691	met	Lreu_seed
+cpd02124_c0	['2maacoa', 'M_2maacoa']	MNXM524	2-METHYL-ACETO-ACETYL-COA	C03344	cpd02124	met	Lreu_seed
+cpd00224_e0	['arab__L', 'M_arab__L']	MNXM461	L-ARABINOSE	['C11476', 'C00259']	['cpd27351', 'cpd00224']	met	Lreu_seed
+cpd00224_c0	['arab__L', 'M_arab__L']	MNXM461	L-ARABINOSE	['C11476', 'C00259']	['cpd27351', 'cpd00224']	met	Lreu_seed
+cpd00314_e0	['M_mnl', 'mnl']	MNXM615	MANNITOL	['D00062', 'C00392']	cpd00314	met	Lreu_seed
+cpd00491_c0	['M_mnl1p', 'mnl1p']	MNXM90126	MANNITOL-1P	C00644	['cpd27436', 'cpd00491']	met	Lreu_seed
+cpd00274_c0		MNXM722752			cpd00274	met	Lreu_seed
+cpd11588_c0	['gly_pro__L', 'M_gly_pro__L']	MNXM8670			cpd11588	met	Lreu_seed
+cpd00129_c0	['pro__L', 'M_pro__L']	MNXM114	PRO	['D00035', 'C00148', 'C16435']	['cpd00129', 'cpd15140']	met	Lreu_seed
+cpd00107_e0	['M_leu__L', 'leu__L']	MNXM140	LEU	['C00123', 'D00030', 'C16439']	['cpd15143', 'cpd00107']	met	Lreu_seed
+cpd00107_c0	['leu__L', 'M_leu__L']	MNXM140	LEU	['D00030', 'C16439', 'C00123']	['cpd00107', 'cpd15143']	met	Lreu_seed
+cpd11341_c0	['M_ggbutal', 'ggbutal']	MNXM1378	GAMMA-GLUTAMYL-GAMMA-AMINOBUTYRALDEH	C15700	cpd11341	met	Lreu_seed
+cpd11408_c0	['M_gg4abut', 'gg4abut']	MNXM1406	CPD-9000	C15767	cpd11408	met	Lreu_seed
+cpd00038_c0	['M_gtp', 'gtp']	MNXM51	GTP	C00044	cpd00038	met	Lreu_seed
+cpd00296_c0	['dgmp', 'M_dgmp']	MNXM546	DGMP	C00362	cpd00296	met	Lreu_seed
+cpd00277_c0	['M_dgsn', 'dgsn']	MNXM647	DEOXYGUANOSINE	C00330	cpd00277	met	Lreu_seed
+cpd00095_c0	['dhap', 'M_dhap']	MNXM77	DIHYDROXY-ACETONE-PHOSPHATE	C00111	cpd00095	met	Lreu_seed
+cpd15339_c0	['2agpe160', 'M_2agpe160']	MNXM34810	CPD0-2177		['cpd15339', 'cpd26438']	met	Lreu_seed
+cpd00214_c0	['hdca', 'M_hdca']	MNXM108	PALMITATE	['C00249', 'D05341']	cpd00214	met	Lreu_seed
+cpd11570_c0		MNXM10116			cpd11570	met	Lreu_seed
+cpd11571_c0		MNXM10035			cpd11571	met	Lreu_seed
+cpd01306_c0	['M_cyart', 'cyart']	MNXM1323	CYCLOARTENOL	C01902	cpd01306	met	Lreu_seed
+cpd05727_c0	['M_menecyart', 'menecyart']	MNXM4975	CPD-696	C08830	cpd05727	met	Lreu_seed
+cpd00134_c0	['pmtcoa', 'M_pmtcoa']	MNXM88	PALMITYL-COA	C00154	cpd00134	met	Lreu_seed
+cpd00365_c0	['M_retinol', 'retinol']	MNXM162234	['CPD-13524', 'Retinols']	['C00473', 'D06543']	['cpd28098', 'cpd00365']	met	Lreu_seed
+cpd01691_c0	['retpalm', 'M_retpalm']	MNXM918	CHOCOLA_A	['D00164', 'C02588']	cpd01691	met	Lreu_seed
+cpd00222_e0	['M_glcn__D', 'glcn__D', 'glcn', 'M_glcn']	MNXM341	GLUCONATE	C00257	cpd00222	met	Lreu_seed
+cpd00222_c0	['M_glcn', 'glcn__D', 'M_glcn__D', 'glcn']	MNXM341	GLUCONATE	C00257	cpd00222	met	Lreu_seed
+cpd15679_c0		MNXM6583			cpd15679	met	Lreu_seed
+cpd15685_c0		MNXM8382			cpd15685	met	Lreu_seed
+cpd00794_c0		MNXM198	TREHALOSE	['C01083', 'G00293']	cpd00794	met	Lreu_seed
+cpd00501_c0	['M_g1p_B', 'g1p_B']	MNXM679	CPD-448	C00663	cpd00501	met	Lreu_seed
+cpd15687_c0		MNXM8378			cpd15687	met	Lreu_seed
+cpd15720_c0		MNXM11360			cpd15720	met	Lreu_seed
+cpd00013_e0	['M_nh3', 'nh3', 'M_nh4', 'nh4']	MNXM15	['AMMONIUM', 'AMMONIA']	['D02916', 'C00014', 'C01342']	['cpd19013', 'cpd00013']	met	Lreu_seed
+cpd15322_c0		MNXM147674			cpd15322	met	Lreu_seed
+cpd15343_c0		MNXM146498			cpd15343	met	Lreu_seed
+cpd00397_c0	['rbl__L', 'M_rbl__L']	MNXM685	L-RIBULOSE	C00508	cpd00397	met	Lreu_seed
+cpd00957_c0		MNXM90905			['cpd00957', 'cpd29703']	met	Lreu_seed
+cpd00863_c0	['M_g6p_B', 'g6p_B']	MNXM508	GLC-6-P	C01172	cpd00863	met	Lreu_seed
+cpd00159_c0	['lac__L', 'M_lac__L']	MNXM179	L-LACTATE	C00186	cpd00159	met	Lreu_seed
+cpd00051_e0	['M_arg__L', 'arg__L']	MNXM70	ARG	['D02982', 'C00062', 'C02385']	['cpd00051', 'cpd19021']	met	Lreu_seed
+cpd00064_e0	['orn__L', 'M_orn', 'orn', 'M_orn__L']	MNXM89689	L-ORNITHINE	['C01602', 'C00077', 'D08302']	['cpd19016', 'cpd00064']	met	Lreu_seed
+cpd11553_c0		MNXM8194			cpd11553	met	Lreu_seed
+cpd15327_c0	['M_1hdecg3p', '1hdecg3p']	MNXM90586			cpd15327	met	Lreu_seed
+cpd00241_c0	['dgtp', 'M_dgtp']	MNXM344	DGTP	C00286	cpd00241	met	Lreu_seed
+cpd03518_c0	['HC01651', 'M_HC01651']	MNXM53766		C05922	cpd03518	met	Lreu_seed
+cpd03519_c0	['HC01652', 'M_HC01652']	MNXM2773		C05923	cpd03519	met	Lreu_seed
+cpd02734_c0		MNXM1800	CPD-87	C04484	cpd02734	met	Lreu_seed
+cpd03596_c0		MNXM3498	CPD-88	C06035	cpd03596	met	Lreu_seed
+cpd15704_c0		MNXM7960			cpd15704	met	Lreu_seed
+cpd15680_c0		MNXM6582			cpd15680	met	Lreu_seed
+cpd09848_c0		MNXM5840	CPD-7405	C14149	cpd09848	met	Lreu_seed
+cpd03962_c0		MNXM1147	['CYANURIC-ACID', 'CPD-19468']	C06554	cpd03962	met	Lreu_seed
+cpd09849_c0		MNXM1918	CPD-7406	C14150	cpd09849	met	Lreu_seed
+cpd00507_c0		MNXM55314			cpd00507	met	Lreu_seed
+cpd00098_c0	['M_chol', 'chol']	MNXM90	CHOLINE	['C00114', 'D07690']	cpd00098	met	Lreu_seed
+cpd02264_c0		MNXM722962			cpd02264	met	Lreu_seed
+cpd02265_c0		MNXM723047			cpd02265	met	Lreu_seed
+cpd10515_e0	['fe2', 'M_fe2']	MNXM111	FE+2	C14818	cpd10515	met	Lreu_seed
+cpd10515_c0	['fe2', 'M_fe2']	MNXM111	FE+2	C14818	cpd10515	met	Lreu_seed
+cpd15419_c0	['cdpdhdecg', 'M_cdpdhdecg']	MNXM3232			cpd15419	met	Lreu_seed
+cpd15545_c0	['pgp160', 'M_pgp160']	MNXM32180	CPD-12821		['cpd23599', 'cpd15545']	met	Lreu_seed
+cpd00179_e0	['M_malt', 'malt']	MNXM165	['ALPHA-MALTOSE', 'MALTOSE']	['C00208', 'D00044', 'G00275', 'C00897']	['cpd00665', 'cpd00179']	met	Lreu_seed
+cpd01919_c0	['malt6p', 'M_malt6p']	MNXM2394	['CPD-1244', 'CPD-15982']	['G10519', 'C02995']	cpd01919	met	Lreu_seed
+cpd03963_c0		MNXM1545	CPD-809	C06555	cpd03963	met	Lreu_seed
+cpd00073_c0	['M_urea', 'urea']	MNXM117	UREA	['C00086', 'D00023']	cpd00073	met	Lreu_seed
+cpd11474_c0		MNXM1473	Decanoyl-ACPs	C05755	cpd11474	met	Lreu_seed
+cpd11489_c0	['3oddecACP', 'M_3oddecACP']	MNXM28933	3-oxo-dodecanoyl-ACPs	C05756	cpd11489	met	Lreu_seed
+cpd11506_c0		MNXM8220			cpd11506	met	Lreu_seed
+cpd11507_c0		MNXM8218			cpd11507	met	Lreu_seed
+cpd00347_c0	['methf', 'M_methf']	MNXM511	5-10-METHENYL-THF-GLU-N	C00445	cpd00347	met	Lreu_seed
+cpd11476_c0		MNXM844	Palmitoyl-ACPs	C05764	cpd11476	met	Lreu_seed
+cpd15312_c0		MNXM146747			cpd15312	met	Lreu_seed
+cpd15527_c0	['M_pa181', 'pa181']	MNXM90511			cpd15527	met	Lreu_seed
+cpd15309_c0		MNXM162790			cpd15309	met	Lreu_seed
+cpd15524_c0	['M_pa160', 'pa160']	MNXM17312	CPD0-1422		['cpd26147', 'cpd15524']	met	Lreu_seed
+cpd00076_c0	['M_sucr', 'sucr']	MNXM167	SUCROSE	['D00025', 'G00370', 'C00089']	cpd00076	met	Lreu_seed
+cpd02298_c0		MNXM6568	1-KESTOTRIOSE	['G02515', 'C03661']	['cpd02298', 'cpd29253']	met	Lreu_seed
+cpd00100_e0	['M_glyc', 'glyc']	MNXM89612	GLYCEROL	['C00116', 'D00028']	cpd00100	met	Lreu_seed
+cpd00270_c0	['caffcoa', 'M_caffcoa']	MNXM443	CAFFEOYL-COA	C00323	cpd00270	met	Lreu_seed
+cpd05546_c0		MNXM145807	CPD-7138	C08639	cpd05546	met	Lreu_seed
+cpd15088_c0		MNXM11215		C16372	cpd15088	met	Lreu_seed
+cpd15779_c0		MNXM8770			cpd15779	met	Lreu_seed
+cpd11568_c0		MNXM8025			cpd11568	met	Lreu_seed
+cpd11569_c0		MNXM8023			cpd11569	met	Lreu_seed
+cpd15606_c0		MNXM8671			cpd15606	met	Lreu_seed
+cpd00069_c0	['M_tyr__L', 'tyr__L']	MNXM76	TYR	['C01536', 'D00022', 'C00082']	['cpd00069', 'cpd30745']	met	Lreu_seed
+cpd11546_c0		MNXM10220			cpd11546	met	Lreu_seed
+cpd11547_c0		MNXM10218			cpd11547	met	Lreu_seed
+cpd11539_c0		MNXM8019			cpd11539	met	Lreu_seed
+cpd15364_c0	['M_2tpr3dpcoa', '2tpr3dpcoa']	MNXM2769	2-5-TRIPHOSPHORIBOSYL-3-DEPHOSPHO-	C19771	cpd15364	met	Lreu_seed
+cpd15420_c0	['M_cdpdodec11eg', 'cdpdodec11eg']	MNXM4509			cpd15420	met	Lreu_seed
+cpd15548_c0		MNXM91688			cpd15548	met	Lreu_seed
+cpd15358_c0	['2odecg3p', 'M_2odecg3p']	MNXM5481	CPD-17274		cpd15358	met	Lreu_seed
+cpd01080_c0	['M_ocdca', 'ocdca']	MNXM236	STEARIC_ACID	['D00119', 'C01530']	cpd01080	met	Lreu_seed
+cpd11491_c0	['M_3omrsACP', '3omrsACP']	MNXM26095	3-oxo-myristoyl-ACPs	C05759	cpd11491	met	Lreu_seed
+cpd01318_c0		MNXM1560	GLYCOCHOLIC_ACID	C01921	cpd01318	met	Lreu_seed
+cpd00526_c0	['cholate', 'M_cholate']	MNXM450	CHOLATE	['D10699', 'C00695']	cpd00526	met	Lreu_seed
+cpd11558_c0		MNXM9656			cpd11558	met	Lreu_seed
+cpd11559_c0		MNXM9654			cpd11559	met	Lreu_seed
+cpd00282_c0	['M_dhor__S', 'dhor__S']	MNXM252	DI-H-OROTATE	C00337	cpd00282	met	Lreu_seed
+cpd00343_c0	['cbasp', 'M_cbasp']	MNXM465	CARBAMYUL-L-ASPARTATE	C00438	cpd00343	met	Lreu_seed
+cpd00009_e0	['M_pi', 'pi']	MNXM9	['Pi', 'CPD-16459']	['D05467', 'C00009']	cpd00009	met	Lreu_seed
+cpd00346_c0	['M_aspsa', 'aspsa']	MNXM361	L-ASPARTATE-SEMIALDEHYDE	C00441	cpd00346	met	Lreu_seed
+cpd09027_c0	['M_houdic', 'houdic', 'M_5houdic', '5houdic']	MNXM1805	CPD-5821	C12248	cpd09027	met	Lreu_seed
+cpd01567_c0		MNXM114184	R--ALLANTOIN	C02348	cpd01567	met	Lreu_seed
+cpd00175_c0	['M_udpacgal', 'udpacgal', 'M_uacgala', 'uacgala']	MNXM162233	UDP-N-ACETYL-GALACTOSAMINE	['G10611', 'C00203']	cpd00175	met	Lreu_seed
+cpd15342_c0		MNXM146496			cpd15342	met	Lreu_seed
+cpd11521_c0		MNXM10327			cpd11521	met	Lreu_seed
+cpd11522_c0		MNXM10326			cpd11522	met	Lreu_seed
+cpd11912_c0	['trnaglu', 'M_trnaglu']	MNXM90886	GLT-tRNAs	C01641	cpd11912	met	Lreu_seed
+cpd12227_c0	['glutrna', 'M_glutrna']	MNXM89752		C02987	cpd12227	met	Lreu_seed
+cpd03244_c0	['tdechola', 'M_tdechola']	MNXM9132	CPD-12457	C05463	cpd03244	met	Lreu_seed
+cpd02733_c0	['M_dchac', 'dchac']	MNXM57907	DEOXYCHOLATE	['D10781', 'C04483']	cpd02733	met	Lreu_seed
+cpd04058_c0		MNXM1937	L-N2-2-CARBOXYETHYLARGININE	C06655	cpd04058	met	Lreu_seed
+cpd00050_c0	['M_fmn', 'fmn']	MNXM119	FMN	C00061	cpd00050	met	Lreu_seed
+cpd00349_c0	['M_s17bp', 's17bp']	MNXM1294	D-SEDOHEPTULOSE-1-7-P2	C00447	cpd00349	met	Lreu_seed
+cpd00113_c0	['ipdp', 'M_ipdp']	MNXM83	DELTA3-ISOPENTENYL-PP	C00129	cpd00113	met	Lreu_seed
+cpd00202_c0	['M_dmpp', 'dmpp']	MNXM132	CPD-4211	C00235	cpd00202	met	Lreu_seed
+cpd00060_e0	['M_met__L', 'met__L']	MNXM61	MET	['D04983', 'C01733', 'D00019', 'C00073']	['cpd30746', 'cpd00060']	met	Lreu_seed
+cpd03487_c0	['M_uaaAgla', 'uaaAgla']	MNXM88512			cpd03487	met	Lreu_seed
+cpd03488_c0	['uaaAgtla', 'M_uaaAgtla']	MNXM88510			cpd03488	met	Lreu_seed
+cpd00338_c0	['M_5aop', '5aop']	MNXM405	5-AMINO-LEVULINATE	['D07567', 'C00430']	cpd00338	met	Lreu_seed
+cpd15028_c0		MNXM146142	CPD-7139	C16312	cpd15028	met	Lreu_seed
+cpd15029_c0		MNXM5713		C16313	cpd15029	met	Lreu_seed
+cpd11580_c0	['gly_gln__L', 'M_gly_gln__L']	MNXM55276	CPD-13394		cpd11580	met	Lreu_seed
+cpd00053_c0	['gln__L', 'M_gln__L']	MNXM37	GLN	['D00015', 'C00064', 'C00303']	['cpd00253', 'cpd00053']	met	Lreu_seed
+cpd03115_c0	['M_3htdcoa', '3htdcoa']	MNXM767	CPD0-2171	C05260	['cpd03115', 'cpd26436']	met	Lreu_seed
+cpd12689_c0	['3otdcoa', 'M_3otdcoa']	MNXM707	CPD-10284	C05261	cpd12689	met	Lreu_seed
+cpd06707_c0		MNXM5065	CPD-17683	C09815	cpd06707	met	Lreu_seed
+cpd00153_c0	['M_bz', 'bz']	MNXM217	BENZOATE	['D00038', 'C00180']	cpd00153	met	Lreu_seed
+cpd11560_c0		MNXM8005			cpd11560	met	Lreu_seed
+cpd11561_c0		MNXM8006			cpd11561	met	Lreu_seed
+cpd11552_c0		MNXM8196			cpd11552	met	Lreu_seed
+cpd00834_c0		MNXM75169			cpd00834	met	Lreu_seed
+cpd08928_c0	['thrp', 'M_thrp']	MNXM1492	L-THREONINE-O-3-PHOSPHATE	C12147	cpd08928	met	Lreu_seed
+cpd03043_c0		MNXM4337		C05116	cpd03043	met	Lreu_seed
+cpd00926_c0	['M_ans', 'ans']	MNXM2639	CPD-401	C01262	cpd00926	met	Lreu_seed
+cpd00848_c0		MNXM722872			cpd00848	met	Lreu_seed
+cpd00109_c0	['M_ficytC', 'ficytc', 'M_ficytc', 'ficytcc', 'M_ficytcc', 'ficytcc553', 'M_ficytcc553', 'ficytC']	MNXM5749	Oxidized-cytochromes-c553	['C01070', 'C00125', 'C00923']	['cpd19010', 'cpd27756', 'cpd00109']	met	Lreu_seed
+cpd00221_c0	['lac__D', 'M_lac__D']	MNXM285	D-LACTATE	C00256	cpd00221	met	Lreu_seed
+cpd00110_c0	['M_focytcc553', 'M_focytcc', 'M_focytC', 'focytC', 'focytcc553', 'focytcc']	MNXM746	['Cytochromes-C-Reduced', 'Reduced-cytochromes-c553']	['C01071', 'C00126']	['cpd19011', 'cpd00110', 'cpd28081']	met	Lreu_seed
+cpd15337_c0		MNXM3446			cpd15337	met	Lreu_seed
+cpd03847_c0		MNXM314	CPD-7836	C06424	cpd03847	met	Lreu_seed
+cpd03233_c0	['HC01459', 'M_HC01459']	MNXM827		C05450	cpd03233	met	Lreu_seed
+cpd03248_c0		MNXM873	CPD-7257	C05467	cpd03248	met	Lreu_seed
+cpd03918_c0	['M_adocbi', 'adocbi']	MNXM90790	ADENOSYLCOBINAMIDE	C06508	cpd03918	met	Lreu_seed
+cpd00292_c0		MNXM197	3-HYDROXY-3-METHYL-GLUTARYL-COA	C00356	cpd00292	met	Lreu_seed
+cpd00034_e0	['HC02172', 'M_HC02172', 'M_zn2', 'zn2']	MNXM149	ZN+2	C00038	cpd00034	met	Lreu_seed
+cpd00034_c0	['HC02172', 'M_zn2', 'zn2', 'M_HC02172']	MNXM149	ZN+2	C00038	cpd00034	met	Lreu_seed
+cpd00039_c0	['lys__L', 'M_lys__L']	MNXM78	LYS	['D02304', 'C16440', 'C00047']	['cpd00039', 'cpd19182']	met	Lreu_seed
+cpd00525_c0	['uamag', 'M_uamag']	MNXM722734		C00692	cpd00525	met	Lreu_seed
+cpd02861_c0	['M_uAgl', 'uAgl']	MNXM6465		C04700	cpd02861	met	Lreu_seed
+cpd11496_c0		MNXM10219			cpd11496	met	Lreu_seed
+cpd03227_c0		MNXM1138		C05444	cpd03227	met	Lreu_seed
+cpd03228_c0		MNXM1174		C05445	cpd03228	met	Lreu_seed
+cpd02882_c0	['M_4r5au', '4r5au']	MNXM791	AMINO-RIBOSYLAMINO-1H-3H-PYR-DIONE	C04732	['cpd02882', 'cpd29668']	met	Lreu_seed
+cpd02656_c0	['dmlz', 'M_dmlz']	MNXM1313	DIMETHYL-D-RIBITYL-LUMAZINE	C04332	cpd02656	met	Lreu_seed
+cpd00154_c0		MNXM113989		C01394	cpd00154	met	Lreu_seed
+cpd11582_c0	['M_ala_L_Thr__L', 'ala_L_Thr__L']	MNXM8264			cpd11582	met	Lreu_seed
+cpd00161_c0	['thr__L', 'M_thr__L']	MNXM142	THR	['C00188', 'D00041']	cpd00161	met	Lreu_seed
+cpd00293_c0	['M_acgam6p', 'acgam6p']	MNXM63556	['N-ACETYL-D-GLUCOSAMINE-6-P', 'CPD-16168']	C00357	cpd00293	met	Lreu_seed
+cpd02611_c0	['acgam1p', 'M_acgam1p']	MNXM89939		C04256	cpd02611	met	Lreu_seed
+cpd00217_c0	['isomal', 'M_isomal', 'M_HC00229', 'HC00229']	MNXM58018	Isomaltose	['G01318', 'C00252']	cpd00217	met	Lreu_seed
+cpd15341_c0	['2agpe180', 'M_2agpe180']	MNXM34811	CPD0-2223		['cpd15341', 'cpd26450']	met	Lreu_seed
+cpd09790_c0		MNXM6827		C14087	cpd09790	met	Lreu_seed
+cpd09791_c0		MNXM6828	CPD-10665	C14088	cpd09791	met	Lreu_seed
+cpd00089_c0	['M_g1p', 'g1p']	MNXM89588	D-glucose-1-phosphates	C00103	['cpd28817', 'cpd00089']	met	Lreu_seed
+cpd17043_c0		MNXM81014			cpd17043	met	Lreu_seed
+cpd00027_e0	['M_glc__D', 'glc__D']	MNXM41	D-Glucose	['C00031', 'D00009']	['cpd26821', 'cpd00027']	met	Lreu_seed
+cpd11475_c0	['tdec2eACP', 'M_tdec2eACP']	MNXM28221		C05754	cpd11475	met	Lreu_seed
+cpd00076_e0	['sucr', 'M_sucr']	MNXM167	SUCROSE	['G00370', 'D00025', 'C00089']	cpd00076	met	Lreu_seed
+cpd01693_c0		MNXM1004	SUCROSE-6P	['G10508', 'C02591']	cpd01693	met	Lreu_seed
+cpd15750_c0		MNXM5622			cpd15750	met	Lreu_seed
+cpd15759_c0		MNXM8307			cpd15759	met	Lreu_seed
+cpd15329_c0	['1odecg3p', 'M_1odecg3p']	MNXM32950	CPD0-2113		cpd15329	met	Lreu_seed
+cpd01973_c0	['M_4gudbd', '4gudbd']	MNXM2617	4-GUANIDO-BUTYRAMIDE	C03078	cpd01973	met	Lreu_seed
+cpd00762_c0	['4gudbutn', 'M_4gudbutn']	MNXM1312	CPD-592	C01035	cpd00762	met	Lreu_seed
+cpd00322_e0	['M_ile__L', 'ile__L']	MNXM231	ILE	['D00065', 'C00407']	cpd00322	met	Lreu_seed
+cpd00322_c0	['M_ile__L', 'ile__L']	MNXM231	ILE	['D00065', 'C00407']	cpd00322	met	Lreu_seed
+cpd00182_c0	['adn', 'M_adn']	MNXM212	ADENOSINE	['D00045', 'C00212']	cpd00182	met	Lreu_seed
+cpd00105_c0	['M_rib__D', 'rib__D']	MNXM242	D-Ribofuranose	['C00121', 'C21057']	cpd00105	met	Lreu_seed
+cpd01217_c0	['xtsn', 'M_xtsn']	MNXM687	XANTHOSINE	C01762	cpd01217	met	Lreu_seed
+cpd00309_c0	['M_xan', 'xan']	MNXM174	XANTHINE	C00385	cpd00309	met	Lreu_seed
+cpd12606_c0		MNXM162319	Alkyl-enyl-acyl-gly-P-EtOH-amines	C04756	cpd12606	met	Lreu_seed
+cpd00444_c0	['M_cdpea', 'cdpea']	MNXM449	CDP-ETHANOLAMINE	C00570	cpd00444	met	Lreu_seed
+cpd12322_c0		MNXM162490	1-ALKENYL-2-ACYLGLYCEROL	C03454	['cpd21767', 'cpd12322']	met	Lreu_seed
+cpd01982_c0	['M_pram', 'pram']	MNXM90003	5-P-BETA-D-RIBOSYL-AMINE	C03090	cpd01982	met	Lreu_seed
+cpd12273_c0	['M_ak2g_cho', 'ak2g_cho', 'ak2g_hs', 'M_ak2g_hs']	MNXM90768	1-Alkyl-2-acyl-glycerol	C03201	cpd12273	met	Lreu_seed
+cpd12554_c0		MNXM3421	Alkyl-acyl-gly-P-EtOH-amines	C04475	cpd12554	met	Lreu_seed
+cpd03916_c0	['M_adcobdam', 'adcobdam']	MNXM92085			cpd03916	met	Lreu_seed
+cpd15526_c0	['pa180', 'M_pa180']	MNXM51279	CPD0-1423		['cpd15526', 'cpd26148']	met	Lreu_seed
+cpd15421_c0	['cdpdodecg', 'M_cdpdodecg']	MNXM45856	CPD-12814		cpd15421	met	Lreu_seed
+cpd15721_c0		MNXM11394			cpd15721	met	Lreu_seed
+cpd11481_c0	['M_3hpalmACP', '3hpalmACP']	MNXM2576		C04633	cpd11481	met	Lreu_seed
+cpd11485_c0	['3opalmACP', 'M_3opalmACP']	MNXM4345	3-oxo-palmitoyl-ACPs	C05762	cpd11485	met	Lreu_seed
+cpd01947_c0		MNXM2757	BUTANEDIOL	C03044	cpd01947	met	Lreu_seed
+cpd11508_c0		MNXM9655			cpd11508	met	Lreu_seed
+cpd00541_c0		MNXM722769		['D00086', 'C00725']	cpd00541	met	Lreu_seed
+cpd14955_c0	['M_CE5656', 'CE5656', 'lipoamp', 'M_lipoamp']	MNXM722796		C16238	cpd14955	met	Lreu_seed
+cpd00374_c0	['tym', 'M_tym']	MNXM603	TYRAMINE	C00483	cpd00374	met	Lreu_seed
+cpd01610_c0	['M_C02442', 'C02442']	MNXM3670	CPD-391	C02442	cpd01610	met	Lreu_seed
+cpd03680_c0		MNXM3351	12-DEHYDRORETICULINIUM	C06167	cpd03680	met	Lreu_seed
+cpd03083_c0		MNXM1699	R-RETICULINE	C05178	cpd03083	met	Lreu_seed
+cpd01171_e0	['M_galt', 'galt']	MNXM1233	GALACTITOL	C01697	cpd01171	met	Lreu_seed
+cpd03752_c0	['galt1p', 'M_galt1p']	MNXM1667	GALACTITOL-1-PHOSPHATE	C06311	cpd03752	met	Lreu_seed
+cpd00043_c0	['udpgal', 'M_udpgal']	MNXM722709			cpd00043	met	Lreu_seed
+cpd02745_c0		MNXM2633	CPD-191	C04507	cpd02745	met	Lreu_seed
+cpd00191_c0	['M_msa', 'msa']	MNXM244	MALONATE-S-ALD	C00222	cpd00191	met	Lreu_seed
+cpd04107_c0		MNXM3013	CPD-17	C06719	cpd04107	met	Lreu_seed
+cpd14988_c0		MNXM5523	CPD-19	C16272	cpd14988	met	Lreu_seed
+cpd00285_c0	['M_ethamp', 'ethamp']	MNXM187	PHOSPHORYL-ETHANOLAMINE	C00346	cpd00285	met	Lreu_seed
+cpd15323_c0		MNXM147676			cpd15323	met	Lreu_seed
+cpd00412_c0	['duri', 'M_duri']	MNXM492	DEOXYURIDINE	C00526	cpd00412	met	Lreu_seed
+cpd00550_e0	['ser__D', 'M_ser__D']	MNXM694	D-SERINE	C00740	cpd00550	met	Lreu_seed
+cpd00550_c0	['M_ser__D', 'ser__D']	MNXM694	D-SERINE	C00740	cpd00550	met	Lreu_seed
+cpd15603_c0	['M_gly_cys__L', 'gly_cys__L']	MNXM8666			cpd15603	met	Lreu_seed
+cpd15330_c0	['1tdec7eg3p', 'M_1tdec7eg3p']	MNXM91053			cpd15330	met	Lreu_seed
+cpd15298_c0		MNXM83847			cpd15298	met	Lreu_seed
+cpd04049_c0		MNXM31012		C06645	cpd04049	met	Lreu_seed
+cpd04050_c0		MNXM4963		C06646	cpd04050	met	Lreu_seed
+cpd08208_c0		MNXM8064		C11353	cpd08208	met	Lreu_seed
+cpd03078_c0	['M_selnp', 'selnp']	MNXM1339	SEPO3	C05172	cpd03078	met	Lreu_seed
+cpd15565_c0	['sertrna_sec', 'M_sertrna_sec']	MNXM90476		C06481	cpd15565	met	Lreu_seed
+cpd15563_c0	['M_sectrna', 'sectrna']	MNXM91632		C06482	cpd15563	met	Lreu_seed
+cpd01765_c0		MNXM4737	N-METHYLHEXANAMIDE	C02722	cpd01765	met	Lreu_seed
+cpd00187_c0	['M_mma', 'mma']	MNXM255	METHYLAMINE	C00218	cpd00187	met	Lreu_seed
+cpd01113_c0	['M_hxa', 'hxa']	MNXM1653	HEXANOATE	C01585	cpd01113	met	Lreu_seed
+cpd15521_c0	['pa120', 'M_pa120']	MNXM90509			cpd15521	met	Lreu_seed
+cpd15417_c0	['M_cdpdddecg', 'cdpdddecg']	MNXM4507			cpd15417	met	Lreu_seed
+cpd15354_c0	['2hdec9eg3p', 'M_2hdec9eg3p']	MNXM5464			cpd15354	met	Lreu_seed
+cpd00449_c0	['M_dhlam', 'dhlam']	MNXM1277	DIHYDROLIPOAMIDE	C00579	cpd00449	met	Lreu_seed
+cpd11480_c0	['3hddecACP', 'M_3hddecACP']	MNXM27066		C05757	cpd11480	met	Lreu_seed
+cpd00054_e0	['ser__L', 'M_ser__L']	MNXM53	['Serines', 'SER']	['C00065', 'C00716', 'D00016']	['cpd30743', 'cpd00054']	met	Lreu_seed
+cpd00190_c0		MNXM105	GLC	C00221	cpd00190	met	Lreu_seed
+cpd11525_c0		MNXM10423			cpd11525	met	Lreu_seed
+cpd11526_c0		MNXM10422			cpd11526	met	Lreu_seed
+cpd09802_c0		MNXM4972		C14099	cpd09802	met	Lreu_seed
+cpd09804_c0		MNXM4298	CPD-15898	C14101	cpd09804	met	Lreu_seed
+cpd00862_c0		MNXM2970	Alpha-Hexose-1-Phosphates	C01171	['cpd00862', 'cpd22360']	met	Lreu_seed
+cpd02340_c0		MNXM10656		C03735	cpd02340	met	Lreu_seed
+cpd08279_c0		MNXM6614		C11427	cpd08279	met	Lreu_seed
+cpd02045_c0		MNXM1129	HYDROXYNAPHTHOATE	C03203	cpd02045	met	Lreu_seed
+cpd00939_c0	['4ahmmp', 'M_4ahmmp']	MNXM874	HMP	C01279	cpd00939	met	Lreu_seed
+cpd02775_c0	['4ampm', 'M_4ampm']	MNXM790	AMINO-HYDROXYMETHYL-METHYL-PYR-P	C04556	cpd02775	met	Lreu_seed
+cpd00154_e0		MNXM113989		C01394	cpd00154	met	Lreu_seed
+cpd02074_c0	['6a2ohxnt', 'M_6a2ohxnt']	MNXM916	2-KETO-6-AMINO-CAPROATE	C03239	cpd02074	met	Lreu_seed
+cpd00922_c0	['M_1pipdn2c', '1pipdn2c']	MNXM911	DELTA1-PIPERIDEINE-2-CARBOXYLATE	C04092	cpd00922	met	Lreu_seed
+cpd00055_c0	['M_fald', 'fald']	MNXM56	FORMALDEHYDE	['C00067', 'D00017']	cpd00055	met	Lreu_seed
+cpd04105_c0		MNXM590	CPD1G-2	['G11174', 'C06717']	cpd04105	met	Lreu_seed
+cpd04106_c0		MNXM1854	CPD1G-121	C06718	cpd04106	met	Lreu_seed
+cpd01441_c0	['acmalt', 'M_acmalt']	MNXM3135	CPD-18529	['G10592', 'C02130']	cpd01441	met	Lreu_seed
+cpd11587_c0	['M_ala_L_gln__L', 'ala_L_gln__L']	MNXM40495	CPD-13403		cpd11587	met	Lreu_seed
+cpd15751_c0		MNXM5797			cpd15751	met	Lreu_seed
+cpd15778_c0		MNXM8775			cpd15778	met	Lreu_seed
+cpd00281_c0	['4abut', 'M_4abut']	MNXM192	4-AMINO-BUTYRATE	['D00058', 'C00334']	cpd00281	met	Lreu_seed
+cpd00355_c0	['M_nmn', 'nmn']	MNXM355	NICOTINAMIDE_NUCLEOTIDE	C00455	cpd00355	met	Lreu_seed
+cpd02016_c0	['M_rnam', 'rnam']	MNXM1115	NICOTINAMIDE_RIBOSE	C03150	cpd02016	met	Lreu_seed
+cpd11583_c0	['CE5866', 'M_ala_L_leu__L', 'ala_L_leu__L', 'M_CE5866']	MNXM15786	CPD-13398		cpd11583	met	Lreu_seed
+cpd00637_e0	['M_met__D', 'met__D']	MNXM1275	CPD-218	C00855	cpd00637	met	Lreu_seed
+cpd00637_c0	['M_met__D', 'met__D']	MNXM1275	CPD-218	C00855	cpd00637	met	Lreu_seed
+cpd00358_c0	['dutp', 'M_dutp']	MNXM452	DUTP	C00460	cpd00358	met	Lreu_seed
+cpd00978_c0	['dudp', 'M_dudp']	MNXM572	DUDP	C01346	cpd00978	met	Lreu_seed
+cpd04015_c0		MNXM150873		C06611	cpd04015	met	Lreu_seed
+cpd04017_c0		MNXM5312		C06613	['cpd30045', 'cpd04017']	met	Lreu_seed
+cpd02414_c0		MNXM1873	L-ALPHA-AMINO-EPSILON-KETO-PIMELATE	C03871	cpd02414	met	Lreu_seed
+cpd02197_c0	['M_5fthf', '5fthf']	MNXM1392	5-FORMYL-THF	['C03479', 'D07986']	cpd02197	met	Lreu_seed
+cpd00770_c0	['Nforglu', 'M_Nforglu']	MNXM1287	CPD-600	C01045	['cpd00770', 'cpd24605']	met	Lreu_seed
+cpd03231_c0		MNXM560		C05448	cpd03231	met	Lreu_seed
+cpd03232_c0		MNXM3173		C05449	cpd03232	met	Lreu_seed
+cpd11532_c0		MNXM8225			cpd11532	met	Lreu_seed
+cpd11533_c0		MNXM9671			cpd11533	met	Lreu_seed
+cpd11592_c0	['gly_glu__L', 'M_gly_glu__L']	MNXM8667			cpd11592	met	Lreu_seed
+cpd02484_c0	['mi3p__D', 'M_mi3p__D']	MNXM540	1-L-MYO-INOSITOL-1-P	C04006	cpd02484	met	Lreu_seed
+cpd11679_c0		MNXM1502	Secondary-Alcohols	C01612	['cpd11901', 'cpd11679']	met	Lreu_seed
+cpd11733_c0		MNXM839	LONG-CHAIN-KETONE	C01450	['cpd11872', 'cpd11733']	met	Lreu_seed
+cpd15756_c0		MNXM8893			cpd15756	met	Lreu_seed
+cpd09793_c0		MNXM6043	CPD-7614	C14090	cpd09793	met	Lreu_seed
+cpd09794_c0		MNXM6044	CPD-7615	C14091	cpd09794	met	Lreu_seed
+cpd00859_c0		MNXM2276	PSEUDOURIDINE-5-P	C01168	cpd00859	met	Lreu_seed
+cpd00122_e0	['M_acgam', 'acgam']	MNXM143	N-acetyl-D-glucosamine	C00140	['cpd00122', 'cpd27608']	met	Lreu_seed
+cpd04016_c0		MNXM5676		C06612	cpd04016	met	Lreu_seed
+cpd15064_c0		MNXM6216		C16348	cpd15064	met	Lreu_seed
+cpd02731_c0	['M_hkndd', 'hkndd']	MNXM1693	CPD-157	C04479	cpd02731	met	Lreu_seed
+cpd00868_c0	['M_34hpp', '34hpp']	MNXM153	P-HYDROXY-PHENYLPYRUVATE	C01179	cpd00868	met	Lreu_seed
+cpd11465_c0	['but2eACP', 'M_but2eACP']	MNXM3229		C04246	cpd11465	met	Lreu_seed
+cpd15314_c0		MNXM6598			cpd15314	met	Lreu_seed
+cpd17041_c0		MNXM78334			cpd17041	met	Lreu_seed
+cpd02708_c0		MNXM3397	Z-2-METHYL-5-ISOPROPYLHEXA-25-DIENAL	C04435	cpd02708	met	Lreu_seed
+cpd08741_c0		MNXM6214		C11944	cpd08741	met	Lreu_seed
+cpd11566_c0		MNXM9701			cpd11566	met	Lreu_seed
+cpd11567_c0		MNXM9699			cpd11567	met	Lreu_seed
+cpd16401_c0		MNXM6882		C16595	cpd16401	met	Lreu_seed
+cpd16402_c0		MNXM6125		C16596	cpd16402	met	Lreu_seed
+cpd03696_e0	['arbt', 'M_arbt']	MNXM2683	HYDROQUINONE-O-BETA-D-GLUCOPYRANOSIDE	C06186	cpd03696	met	Lreu_seed
+cpd03697_c0	['arbt6p', 'M_arbt6p']	MNXM2806	CPD-1162	C06187	cpd03697	met	Lreu_seed
+cpd00295_c0	['dgdp', 'M_dgdp']	MNXM436	DGDP	C00361	cpd00295	met	Lreu_seed
+cpd00207_c0	['gua', 'M_gua']	MNXM259	GUANINE	C00242	cpd00207	met	Lreu_seed
+cpd00298_c0	['dtmp', 'M_dtmp']	MNXM257	TMP	C00364	cpd00298	met	Lreu_seed
+cpd00184_c0	['M_thymd', 'thymd']	MNXM420	THYMIDINE	C00214	cpd00184	met	Lreu_seed
+cpd01047_c0		MNXM879	CPD-431	C01477	cpd01047	met	Lreu_seed
+cpd01043_c0		MNXM114600	CPD-1095	C01470	cpd01043	met	Lreu_seed
+cpd11500_c0		MNXM10370			cpd11500	met	Lreu_seed
+cpd11501_c0		MNXM10368			cpd11501	met	Lreu_seed
+cpd00309_e0	['xan', 'M_xan']	MNXM174	XANTHINE	C00385	cpd00309	met	Lreu_seed
+cpd01221_c0		MNXM1967	CPD-255	C01769	cpd01221	met	Lreu_seed
+cpd00769_c0		MNXM2407	CPD-583	C01044	cpd00769	met	Lreu_seed
+cpd15348_c0		MNXM146501			cpd15348	met	Lreu_seed
+cpd15320_c0		MNXM147677			cpd15320	met	Lreu_seed
+cpd11482_c0	['3hdecACP', 'M_3hdecACP']	MNXM7127	Beta-hydroxydecanoyl-ACPs	C04619	cpd11482	met	Lreu_seed
+cpd11487_c0	['3odecACP', 'M_3odecACP']	MNXM26616	3-oxo-decanoyl-ACPs	C05753	cpd11487	met	Lreu_seed
+cpd00082_c0	['M_fru', 'fru']	MNXM1380	['CPD-15382', 'D-Fructopyranose', 'FRU']	['C00095', 'D00114', 'C01496', 'C05003', 'C10906']	['cpd00082', 'cpd19015', 'cpd27040']	met	Lreu_seed
+cpd11565_c0		MNXM6637			cpd11565	met	Lreu_seed
+cpd00220_e0	['ribflv', 'M_ribflv']	MNXM270	RIBOFLAVIN	['D00050', 'C00255']	cpd00220	met	Lreu_seed
+cpd15525_c0	['pa161', 'M_pa161']	MNXM90510			cpd15525	met	Lreu_seed
+cpd15418_c0	['M_cdpdhdec9eg', 'cdpdhdec9eg']	MNXM4508			cpd15418	met	Lreu_seed
+cpd03657_c0		MNXM2977		['C06136', 'G00124']	cpd03657	met	Lreu_seed
+cpd03656_c0	['ga2_cho', 'M_ga2_cho']	MNXM63441		['C06135', 'G00123']	cpd03656	met	Lreu_seed
+cpd15681_c0		MNXM6574			cpd15681	met	Lreu_seed
+cpd11479_c0	['3hhexACP', 'M_3hhexACP']	MNXM25370		C05747	cpd11479	met	Lreu_seed
+cpd00328_c0	['M_Stmyn', 'Stmyn']	MNXM1091	STREPTOMYCIN	['D08531', 'C00413']	cpd00328	met	Lreu_seed
+cpd00838_c0		MNXM2286	CPD-529	C01138	cpd00838	met	Lreu_seed
+cpd00180_c0	['M_oxa', 'oxa']	MNXM291	OXALATE	C00209	cpd00180	met	Lreu_seed
+cpd00262_c0	['oxalcoa', 'M_oxalcoa']	MNXM618	OXALYL-COA	C00313	cpd00262	met	Lreu_seed
+cpd00065_c0	['trp__L', 'M_trp__L']	MNXM94	TRP	['C00078', 'C00806', 'D00020']	['cpd19007', 'cpd00065']	met	Lreu_seed
+cpd02893_c0	['5aizc', 'M_5aizc']	MNXM507	PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE	C04751	cpd02893	met	Lreu_seed
+cpd02921_c0		MNXM32478			cpd02921	met	Lreu_seed
+cpd00350_c0	['M_frdp', 'frdp']	MNXM34	FARNESYL-PP	C00448	cpd00350	met	Lreu_seed
+cpd08211_c0		MNXM2473	CPD0-1028	C11356	cpd08211	met	Lreu_seed
+cpd11512_c0		MNXM9684			cpd11512	met	Lreu_seed
+cpd11513_c0		MNXM9682			cpd11513	met	Lreu_seed
+cpd00176_c0	['2ddglcn', 'M_2ddglcn']	MNXM440	2-DEHYDRO-3-DEOXY-D-GLUCONATE	C00204	cpd00176	met	Lreu_seed
+cpd02711_c0	['M_2ddg6p', '2ddg6p']	MNXM649	2-KETO-3-DEOXY-6-P-GLUCONATE	C04442	cpd02711	met	Lreu_seed
+cpd04806_c0		MNXM2968		C07645	cpd04806	met	Lreu_seed
+cpd16365_c0		MNXM10616		C16551	cpd16365	met	Lreu_seed
+cpd01560_c0		MNXM3219	BETA-ALANYL-COA	C02335	cpd01560	met	Lreu_seed
+cpd00663_c0	['M_prpncoa', 'prpncoa', 'pp2coa', 'M_pp2coa']	MNXM650	ACRYLYL-COA		cpd00663	met	Lreu_seed
+cpd15706_c0		MNXM7959			cpd15706	met	Lreu_seed
+cpd00841_c0	['5dpmev', 'M_5dpmev']	MNXM689	CPD-641	C01143	cpd00841	met	Lreu_seed
+cpd15345_c0		MNXM146502			cpd15345	met	Lreu_seed
+cpd00209_c0	['M_no3', 'no3']	MNXM207	['NITRATE', 'CPD-15028']	['D02313', 'C00244']	cpd00209	met	Lreu_seed
+cpd01844_c0	['M_ppap', 'ppap']	MNXM1499	PROPIONYL-P	C02876	cpd01844	met	Lreu_seed
+cpd00497_c0		MNXM298	XANTHOSINE-5-PHOSPHATE		cpd00497	met	Lreu_seed
+cpd15547_c0	['M_pgp180', 'pgp180']	MNXM75104	CPD-12820		['cpd15547', 'cpd23598']	met	Lreu_seed
+cpd15773_c0		MNXM8987			cpd15773	met	Lreu_seed
+cpd00588_e0	['sbt__D', 'M_sbt__D']	MNXM469	SORBITOL	['D00096', 'C00794']	cpd00588	met	Lreu_seed
+cpd00804_c0	['M_sbt6p', 'sbt6p']	MNXM393	D-SORBITOL-6-P	C01096	cpd00804	met	Lreu_seed
+cpd00457_c0	['M_cholp', 'cholp']	MNXM229	PHOSPHORYL-CHOLINE	C00588	cpd00457	met	Lreu_seed
+cpd15311_c0		MNXM146748			cpd15311	met	Lreu_seed
+cpd03293_c0		MNXM44319	CPD-17700	C05552	cpd03293	met	Lreu_seed
+cpd00104_c0	['btn', 'M_btn']	MNXM304	BIOTIN	['D00029', 'C00120']	cpd00104	met	Lreu_seed
+cpd18007_c0		MNXM2250	CPD-9442	C18024	cpd18007	met	Lreu_seed
+cpd18036_c0		MNXM4827	CPD-9441	C18053	cpd18036	met	Lreu_seed
+cpd00551_c0	['M_diact', 'diact']	MNXM1467	DIACETYL	C00741	cpd00551	met	Lreu_seed
+cpd02333_c0	['M_quln', 'quln']	MNXM555	QUINOLINATE	C03722	cpd02333	met	Lreu_seed
+cpd15754_c0		MNXM5793			cpd15754	met	Lreu_seed
+cpd15781_c0		MNXM8763			cpd15781	met	Lreu_seed
+cpd11519_c0		MNXM8022			cpd11519	met	Lreu_seed
+cpd11434_c0		MNXM5742			cpd11434	met	Lreu_seed
+cpd00332_c0		MNXM8878			cpd00332	met	Lreu_seed
+cpd00812_c0	['M_5pmev', '5pmev']	MNXM567	CPD-499	C01107	cpd00812	met	Lreu_seed
+cpd15604_c0	['M_glyleu', 'M_gly_leu__L', 'glyleu', 'gly_leu__L']	MNXM126241	CPD-12312	C02155	['cpd01459', 'cpd15604']	met	Lreu_seed
+cpd15355_c0	['2hdecg3p', 'M_2hdecg3p']	MNXM5465	CPD-17276		cpd15355	met	Lreu_seed
+cpd00117_e0	['ala__D', 'M_ala__D']	MNXM156	D-ALANINE	C00133	cpd00117	met	Lreu_seed
+cpd11516_c0		MNXM9700			cpd11516	met	Lreu_seed
+cpd11517_c0		MNXM9698			cpd11517	met	Lreu_seed
+cpd11494_c0	['M_acACP', 'acACP']	MNXM1269	ACETYL-ACP	C03939	cpd11494	met	Lreu_seed
+cpd11488_c0	['M_actACP', 'actACP']	MNXM1223	['Acetoacetyl-ACP', 'Acetoacetyl-ACPs']	C05744	cpd11488	met	Lreu_seed
+cpd03491_c0	['uaaGgla', 'M_uaaGgla']	MNXM1344	NAcMur-Peptide-NAcGlc-Undecaprenols	['C05893', 'G10553']	cpd03491	met	Lreu_seed
+cpd03492_c0	['uaaGgtla', 'M_uaaGgtla']	MNXM3113	CPD-12298	C05894	cpd03492	met	Lreu_seed
+cpd11524_c0		MNXM8175			cpd11524	met	Lreu_seed
+cpd00146_c0	['cbp', 'M_cbp']	MNXM138	CARBAMOYL-P	C00169	cpd00146	met	Lreu_seed
+cpd01859_c0		MNXM4910		C02909	cpd01859	met	Lreu_seed
+cpd14940_c0	['M_toctd2eACP', 'toctd2eACP']	MNXM2573	Octadec-2-enoyl-ACPs	C16221	['cpd14940', 'cpd15572']	met	Lreu_seed
+cpd12458_c0		MNXM6439	Stearoyl-ACPs	C04088	cpd12458	met	Lreu_seed
+cpd00861_c0	['M_uacmam', 'uacmam']	MNXM932		['C01170', 'G11112']	cpd00861	met	Lreu_seed
+cpd00108_e0	['gal', 'M_gal']	MNXM390	['D-Galactose', 'D-galactopyranose', 'ALPHA-D-GALACTOSE']	['C00124', 'C00984', 'D04291']	['cpd00724', 'cpd01112', 'cpd26818', 'cpd00108']	met	Lreu_seed
+cpd01262_c0		MNXM722790		C01835	cpd01262	met	Lreu_seed
+cpd11611_c0	['M_acoa', 'acoa']	MNXM44	ACYL-COA	C00040	['cpd11611', 'cpd27059']	met	Lreu_seed
+cpd12300_c0	['M_adhap_hs', 'adhap_hs']	MNXM94364		C03372	cpd12300	met	Lreu_seed
+cpd02884_c0	['fprica', 'M_fprica']	MNXM456	PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE	C04734	cpd02884	met	Lreu_seed
+cpd00195_c0		MNXM832	Primary-Alcohols	C00226	cpd00195	met	Lreu_seed
+cpd11616_c0		MNXM277	Aldehydes	C00071	cpd11616	met	Lreu_seed
+cpd00482_c0	['2pg', 'M_2pg']	MNXM275	2-PG	C00631	cpd00482	met	Lreu_seed
+cpd15661_c0	['M_prenoN_acid', 'prenoN_acid']	MNXM7696			cpd15661	met	Lreu_seed
+cpd15662_c0	['M_prenoN_ated', 'prenoN_ated']	MNXM12742			cpd15662	met	Lreu_seed
+cpd11586_c0	['M_ala_L_glu__L', 'ala_L_glu__L']	MNXM8263			cpd11586	met	Lreu_seed
+cpd00133_c0	['ncam', 'M_ncam']	MNXM216	NIACINAMIDE	['D00036', 'C00153']	cpd00133	met	Lreu_seed
+cpd00218_c0	['nac', 'M_nac']	MNXM274	NIACINE	['D00049', 'C00253']	cpd00218	met	Lreu_seed
+cpd00307_e0	['M_csn', 'csn']	MNXM761	CYTOSINE	C00380	cpd00307	met	Lreu_seed
+cpd01974_c0	['4hglu', 'M_4hglu']	MNXM2489		C03079	cpd01974	met	Lreu_seed
+cpd00830_c0	['4h2oglt', 'M_4h2oglt']	MNXM894	CPD-15015	C01127	cpd00830	met	Lreu_seed
+cpd01017_c0	['cgly', 'M_cgly']	MNXM683	CYS-GLY	C01419	cpd01017	met	Lreu_seed
+cpd11594_c0	['M_dextrin', 'dextrin']	MNXM49265		G00725	cpd11594	met	Lreu_seed
+cpd15753_c0		MNXM5623			cpd15753	met	Lreu_seed
+cpd15762_c0		MNXM8311			cpd15762	met	Lreu_seed
+cpd01482_c0	['ugam', 'M_ugam']	MNXM7861	UDP-D-GLUCOSAMINE	C02200	cpd01482	met	Lreu_seed
+cpd01623_c0		MNXM9206	UDP-D-GALACTOSAMINE	C02467	cpd01623	met	Lreu_seed
+cpd09255_c0	['hkntd', 'M_hkntd']	MNXM2040		C12624	cpd09255	met	Lreu_seed
+cpd15344_c0		MNXM146503			cpd15344	met	Lreu_seed
+cpd11534_c0		MNXM9670			cpd11534	met	Lreu_seed
+cpd02678_c0	['fgam', 'M_fgam']	MNXM453	5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE	C04376	cpd02678	met	Lreu_seed
+cpd02394_c0	['gar', 'M_gar']	MNXM463	5-PHOSPHO-RIBOSYL-GLYCINEAMIDE	C03838	cpd02394	met	Lreu_seed
+cpd11593_c0	['M_ala_L_asp__L', 'ala_L_asp__L']	MNXM40494	CPD-13404		cpd11593	met	Lreu_seed
+cpd02230_c0	['M_mi4p__D', 'mi4p__D']	MNXM2063	D-MYO-INOSITOL-4-PHOSPHATE	C03546	cpd02230	met	Lreu_seed
+cpd03118_c0	['3hdcoa', 'M_3hdcoa']	MNXM674	CPD0-2244	C05264	cpd03118	met	Lreu_seed
+cpd03119_c0	['3odcoa', 'M_3odcoa']	MNXM677	CPD0-2123	C05265	cpd03119	met	Lreu_seed
+cpd00344_c0	['M_nflgln', 'nflgln']	MNXM90092	N-FORMIMINO-L-GLUTAMATE	C00439	cpd00344	met	Lreu_seed
+cpd00378_c0	['M_frmd', 'frmd']	MNXM1231	FORMAMIDE	C00488	cpd00378	met	Lreu_seed
+cpd00251_c0	['adprib', 'M_adprib']	MNXM48596	ADENOSINE_DIPHOSPHATE_RIBOSE	['C00301', 'C01882']	['cpd00251', 'cpd01296']	met	Lreu_seed
+cpd01335_c0	['occoa', 'M_occoa']	MNXM342	CPD-196	C01944	cpd01335	met	Lreu_seed
+cpd11542_c0		MNXM9706			cpd11542	met	Lreu_seed
+cpd00254_e0	['mg2', 'M_mg2']	MNXM653	MG+2	C00305	cpd00254	met	Lreu_seed
+cpd00254_c0	['M_mg2', 'mg2']	MNXM653	MG+2	C00305	cpd00254	met	Lreu_seed
+cpd11499_c0		MNXM8147			cpd11499	met	Lreu_seed
+cpd09844_c0	['M_3hadpcoa', '3hadpcoa']	MNXM2784	3-HYDROXYADIPYL-COA	C14145	cpd09844	met	Lreu_seed
+cpd01507_c0	['oxadpcoa', 'M_oxadpcoa']	MNXM1264	3-KETO-ADIPYL-COA	C02232	cpd01507	met	Lreu_seed
+cpd11470_c0		MNXM979	Octanoyl-ACPs	C05752	['cpd11470', 'cpd29428']	met	Lreu_seed
+cpd11471_c0	['toct2eACP', 'M_toct2eACP']	MNXM23766	2-Octenoyl-ACPs	C05751	cpd11471	met	Lreu_seed
+cpd00130_e0	['M_mal__L', 'mal__L']	MNXM98	MAL	C00149	cpd00130	met	Lreu_seed
+cpd00130_c0	['M_mal__L', 'mal__L']	MNXM98	MAL	C00149	cpd00130	met	Lreu_seed
+cpd00284_c0	['6pgc', 'M_6pgc']	MNXM325	CPD-2961	C00345	cpd00284	met	Lreu_seed
+cpd00138_e0	['M_man', 'man']	MNXM182	MANNOSE	C00159	['cpd27437', 'cpd00138']	met	Lreu_seed
+cpd00235_c0	['man6p', 'M_man6p']	MNXM40579	['Mannose-6-phosphate', 'CPD-15980']	C00275	cpd00235	met	Lreu_seed
+cpd03365_c0		MNXM4381		C05654	cpd03365	met	Lreu_seed
+cpd03366_c0		MNXM5008		C05655	cpd03366	met	Lreu_seed
+cpd15313_c0		MNXM147670			cpd15313	met	Lreu_seed
+cpd12064_c0		MNXM158870		C02301	cpd12064	met	Lreu_seed
+cpd00266_c0		MNXM145540		C00487	['cpd00266', 'cpd19003']	met	Lreu_seed
+cpd15053_c0		MNXM5865		C16337	cpd15053	met	Lreu_seed
+cpd15054_c0		MNXM5866		C16338	cpd15054	met	Lreu_seed
+cpd00438_c0	['dad_2', 'M_dad_2']	MNXM625	DEOXYADENOSINE	C00559	cpd00438	met	Lreu_seed
+cpd00294_c0	['M_damp', 'damp']	MNXM432	DAMP	C00360	cpd00294	met	Lreu_seed
+cpd11535_c0		MNXM8011			cpd11535	met	Lreu_seed
+cpd00363_c0	['etoh', 'M_etoh']	MNXM303	ETOH	['D04855', 'D06542', 'D00068', 'C00469', 'D02798']	cpd00363	met	Lreu_seed
+cpd12729_c0		MNXM3728	URATE-3-RIBONUCLEOSIDE	C05513	cpd12729	met	Lreu_seed
+cpd00300_c0	['urate', 'M_urate']	MNXM441	['CPD-15332', 'URATE']	C00366	cpd00300	met	Lreu_seed
+cpd00149_c0	['cobalt2', 'M_cobalt2']	MNXM90960	CO+2	C00175	cpd00149	met	Lreu_seed
+cpd03426_c0	['srch', 'M_scl', 'scl', 'M_srch']	MNXM863	SIROHYDROCHLORIN	C05778	cpd03426	met	Lreu_seed
+cpd08368_c0	['copre2', 'M_copre2']	MNXM1420	CPD-9039		cpd08368	met	Lreu_seed
+cpd15701_c0		MNXM7958			cpd15701	met	Lreu_seed
+cpd15677_c0		MNXM6580			cpd15677	met	Lreu_seed
+cpd15684_c0		MNXM8377			cpd15684	met	Lreu_seed
+cpd11439_c0		MNXM5745			cpd11439	met	Lreu_seed
+cpd01329_c0	['M_malthx', 'malthx']	MNXM61028	MALTOHEXAOSE	['G00755', 'C01936']	cpd01329	met	Lreu_seed
+cpd00342_c0	['acorn', 'M_acorn']	MNXM817	N-ALPHA-ACETYLORNITHINE	C00437	cpd00342	met	Lreu_seed
+cpd11206_c0		MNXM2152	CPD-9038	C15527	cpd11206	met	Lreu_seed
+cpd03247_c0	['gdchola', 'M_gdchola']	MNXM2379	GLYCOCHENODEOXYCHOLIC_ACID	C05466	['cpd03247', 'cpd03243']	met	Lreu_seed
+cpd06739_c0		MNXM5387	CPD-12885	C09848	cpd06739	met	Lreu_seed
+cpd15166_c0		MNXM4528	Citronellates	C16462	['cpd15166', 'cpd26734']	met	Lreu_seed
+cpd00447_c0	['betald', 'M_betald']	MNXM457	BETAINE_ALDEHYDE	C00576	cpd00447	met	Lreu_seed
+cpd01587_c0	['M_5mcsn', '5mcsn']	MNXM3509	CPD0-2018	C02376	cpd01587	met	Lreu_seed
+cpd00151_c0	['M_thym', 'thym']	MNXM386	THYMINE	C00178	cpd00151	met	Lreu_seed
+cpd15349_c0		MNXM146500			cpd15349	met	Lreu_seed
+cpd00638_c0	['dnad', 'M_dnad']	MNXM309	DEAMIDO-NAD	C00857	cpd00638	met	Lreu_seed
+cpd03455_c0		MNXM6822		C05823	cpd03455	met	Lreu_seed
+cpd00706_c0	['mercppyr', 'M_mercppyr']	MNXM1214	3-MERCAPTO-PYRUVATE	C00957	cpd00706	met	Lreu_seed
+cpd00392_c0		MNXM3592	ERYTHRITOL	['C00503', 'D08915']	cpd00392	met	Lreu_seed
+cpd02203_c0		MNXM4547	D-ERYTHRITOL-4P	C03494	cpd02203	met	Lreu_seed
+cpd00931_c0	['5apru', 'M_5apru']	MNXM1532	CPD-602	C01268	cpd00931	met	Lreu_seed
+cpd11478_c0	['M_3hbutACP', '3hbutACP']	MNXM91793	Beta-3-hydroxybutyryl-ACPs	C04618	cpd11478	met	Lreu_seed
+cpd08625_c0	['M_C11821', 'C11821', 'M_5hiu', '5hiu']	MNXM1137	5-HYDROXYISOURATE	C11821	cpd08625	met	Lreu_seed
+cpd15321_c0		MNXM147675			cpd15321	met	Lreu_seed
+cpd00588_c0	['sbt__D', 'M_sbt__D']	MNXM469	SORBITOL	['D00096', 'C00794']	cpd00588	met	Lreu_seed
+cpd00911_c0	['M_6pgl', '6pgl']	MNXM429	D-6-P-GLUCONO-DELTA-LACTONE	C01236	cpd00911	met	Lreu_seed
+cpd00305_c0	['thm', 'M_thm']	MNXM161565		D08580	cpd00305	met	Lreu_seed
+cpd01085_c0		MNXM4871	VIOMYCIN	C01540	cpd01085	met	Lreu_seed
+cpd01684_c0		MNXM4753	VIOMYCIN-P	C02574	cpd01684	met	Lreu_seed
+cpd05041_c0		MNXM35131		C08062	cpd05041	met	Lreu_seed
+cpd00093_c0	['M_anth', 'anth']	MNXM188	ANTHRANILATE	C00108	cpd00093	met	Lreu_seed
+cpd11435_c0		MNXM5743			cpd11435	met	Lreu_seed
+cpd03221_c0	['zymst', 'M_zymst']	MNXM574	ZYMOSTEROL	C05437	cpd03221	met	Lreu_seed
+cpd02755_c0	['fecost', 'M_fecost']	MNXM1741	FECOSTEROL	C04525	cpd02755	met	Lreu_seed
+cpd15705_c0		MNXM7957			cpd15705	met	Lreu_seed
+cpd00644_c0	['pnto__R', 'M_pnto__R']	MNXM364	PANTOTHENATE		cpd00644	met	Lreu_seed
+cpd15049_c0		MNXM5869		C16333	cpd15049	met	Lreu_seed
+cpd15050_c0		MNXM5870		C16334	cpd15050	met	Lreu_seed
+cpd11484_c0	['M_3hmrsACP', '3hmrsACP']	MNXM7733	R-3-hydroxymyristoyl-ACPs	C04688	cpd11484	met	Lreu_seed
+cpd15544_c0		MNXM91690			cpd15544	met	Lreu_seed
+cpd01733_c0	['conialdh', 'M_conialdh']	MNXM858	CONIFERYL-ALDEHYDE	C02666	cpd01733	met	Lreu_seed
+cpd01059_c0	['fer', 'M_fer']	MNXM573	FERULIC-ACID	C01494	cpd01059	met	Lreu_seed
+cpd02740_c0	['M_gdptp', 'gdptp']	MNXM1561	GDP-TP	C04494	cpd02740	met	Lreu_seed
+cpd00079_c0	['M_g6p', 'g6p']	MNXM160	D-glucopyranose-6-phosphate	C00092	['cpd00079', 'cpd26836']	met	Lreu_seed
+cpd00875_c0		MNXM989		C01187	cpd00875	met	Lreu_seed
+cpd02546_c0	['ckdo', 'M_ckdo']	MNXM535	CMP-KDO	C04121	cpd02546	met	Lreu_seed
+cpd00509_c0	['2dr1p', 'M_2dr1p']	MNXM1063		C00672	['cpd00509', 'cpd26845']	met	Lreu_seed
+cpd00510_c0		MNXM35009			['cpd26846', 'cpd00510']	met	Lreu_seed
+cpd15780_c0		MNXM8310			cpd15780	met	Lreu_seed
+cpd02904_c0	['M_5prdmbz', '5prdmbz']	MNXM1224	ALPHA-RIBAZOLE-5-P	C04778	cpd02904	met	Lreu_seed
+cpd03423_c0	['rdmbzi', 'M_rdmbzi']	MNXM1539	ALPHA-RIBAZOLE	C05775	cpd03423	met	Lreu_seed
+cpd00869_c0	['2kmb', 'M_2kmb', '4met2obut', 'M_4met2obut']	MNXM276	CPD-479	C01180	cpd00869	met	Lreu_seed
+cpd02338_c0	['udpgalfur', 'M_udpgalfur']	MNXM2158	UDP-D-GALACTO-14-FURANOSE	C03733	cpd02338	met	Lreu_seed
+cpd02100_c0	['xu5p__L', 'M_xu5p__L']	MNXM1238	L-XYLULOSE-5-P	C03291	cpd02100	met	Lreu_seed
+cpd00039_e0	['lys__L', 'M_lys__L']	MNXM78	LYS	['C00047', 'D02304', 'C16440']	['cpd00039', 'cpd19182']	met	Lreu_seed
+cpd03393_c0		MNXM5296		C05692	cpd03393	met	Lreu_seed
+cpd03397_c0	['selhcys', 'M_selhcys']	MNXM2562	SELENOHOMOCYSTEINE	C05698	cpd03397	met	Lreu_seed
+cpd03128_c0	['M_dccoa', 'dccoa']	MNXM486	CPD-10267	C05274	cpd03128	met	Lreu_seed
+cpd03117_c0	['M_3oddcoa', '3oddcoa']	MNXM705	CPD0-2105	C05263	cpd03117	met	Lreu_seed
+cpd03715_c0	['M_cchoxod', 'cchoxod']	MNXM3948		C06210	cpd03715	met	Lreu_seed
+cpd04126_c0		MNXM3798	CPD-945	C06742	cpd04126	met	Lreu_seed
+cpd01642_c0		MNXM2216	CPD-946	['D08367', 'C02499']	cpd01642	met	Lreu_seed
+cpd03199_c0	['M_HC01446', 'HC01446']	MNXM36578	3-KETOLACTOSE	['G10531', 'C05403']	cpd03199	met	Lreu_seed
+cpd03193_c0	['HC01440', 'M_HC01440']	MNXM4339	CPD-1242	C05394	cpd03193	met	Lreu_seed
+cpd11530_c0		MNXM10474			cpd11530	met	Lreu_seed
+cpd02636_c0	['4mhetz', 'M_4mhetz']	MNXM962	THZ	C04294	cpd02636	met	Lreu_seed
+cpd00773_c0		MNXM722797			cpd00773	met	Lreu_seed
+cpd02820_c0		MNXM1688	UDP-ACETYL-CARBOXYVINYL-GLUCOSAMINE	C04631	cpd02820	met	Lreu_seed
+cpd15494_c0	['M_malthp', 'malthp']	MNXM61025	CPD0-1133	G00689	cpd15494	met	Lreu_seed
+cpd00205_e0	['M_k', 'k']	MNXM95	K+	['D08403', 'C00238']	cpd00205	met	Lreu_seed
+cpd00205_c0	['k', 'M_k']	MNXM95	K+	['D08403', 'C00238']	cpd00205	met	Lreu_seed
+cpd02524_c0	['M_HC01231', 'HC01231', 'ptcys', 'M_ptcys']	MNXM3059	CPD-46	C04079	['cpd24515', 'cpd02524']	met	Lreu_seed
+cpd15346_c0		MNXM146342			cpd15346	met	Lreu_seed
+cpd15173_c0		MNXM5522	CPD-12905	C16469	cpd15173	met	Lreu_seed
+cpd15175_c0		MNXM5558	CPD-12906	C16471	cpd15175	met	Lreu_seed
+cpd15338_c0		MNXM146497			cpd15338	met	Lreu_seed
+cpd14980_c0		MNXM114342		C16264	cpd14980	met	Lreu_seed
+cpd01129_c0		MNXM1245	PHTHALATE	C01606	cpd01129	met	Lreu_seed
+cpd01242_c0	['drib', 'M_drib']	MNXM2474		C01801	cpd01242	met	Lreu_seed
+cpd03920_c0	['M_agdpcbi', 'agdpcbi']	MNXM1105	ADENOSYLCOBINAMIDE-GDP	C06510	cpd03920	met	Lreu_seed
+cpd00166_c0	['adocbl', 'M_adocbl']	MNXM489	ADENOSYLCOBALAMIN	['D00042', 'C00194']	cpd00166	met	Lreu_seed
+cpd08289_c0	['M_dxyl5p', 'dxyl5p']	MNXM622	DEOXYXYLULOSE-5P	C11437	cpd08289	met	Lreu_seed
+cpd15378_c0	['4hba', 'M_4hba']	MNXM107505	4-HYDROXY-BENZYL-ALCOHOL	C17467	['cpd17595', 'cpd15378']	met	Lreu_seed
+cpd00283_c0	['grdp', 'M_grdp']	MNXM100	GERANYL-PP	C00341	cpd00283	met	Lreu_seed
+cpd06711_c0	['M_hmpscoa', 'hmpscoa']	MNXM91788		C09819	cpd06711	met	Lreu_seed
+cpd06712_c0		MNXM5635	BENZOYLSUCCINYL-COA	C09820	cpd06712	met	Lreu_seed
+cpd00818_c0	['M_dgal6p', 'dgal6p']	MNXM1735	['D-galactopyranose-6-phosphate', 'D-galactose-6-phosphate']	C01113	cpd00818	met	Lreu_seed
+cpd15316_c0		MNXM6600			cpd15316	met	Lreu_seed
+cpd11510_c0		MNXM8004			cpd11510	met	Lreu_seed
+cpd11511_c0		MNXM8003			cpd11511	met	Lreu_seed
+cpd10516_e0	['M_fe3', 'fe3']	MNXM196	FE+3	C14819	cpd10516	met	Lreu_seed
+cpd10516_c0	['M_fe3', 'fe3']	MNXM196	FE+3	C14819	cpd10516	met	Lreu_seed
+cpd08732_c0		MNXM6892		C11935	cpd08732	met	Lreu_seed
+cpd08733_c0		MNXM10041		C11936	cpd08733	met	Lreu_seed
+cpd11712_c0		MNXM3704	Protein-Histidines	C00615	cpd11712	met	Lreu_seed
+cpd12508_c0		MNXM90093		C04261	cpd12508	met	Lreu_seed
+cpd00030_e0	['mn2', 'M_mn2']	MNXM2255	MN+2	C19610	['cpd20863', 'cpd00030']	met	Lreu_seed
+cpd00030_c0	['M_mn2', 'mn2']	MNXM2255	MN+2	C19610	['cpd20863', 'cpd00030']	met	Lreu_seed
+cpd00149_e0	['cobalt2', 'M_cobalt2']	MNXM90960	CO+2	C00175	cpd00149	met	Lreu_seed
+cpd05521_c0	['vioxan', 'M_vioxan']	MNXM583	CPD1F-133	C08614	cpd05521	met	Lreu_seed
+cpd05513_c0	['neoxan', 'M_neoxan']	MNXM3211	CPD1F-135	C08606	['cpd05513', 'cpd26554']	met	Lreu_seed
+cpd03398_c0	['selcyst', 'M_selcyst']	MNXM1837	CPD-13717	C05699	['cpd05212', 'cpd03398', 'cpd29949']	met	Lreu_seed
+cpd14796_c0		MNXM2451	PHENYLACETALDOXIME	C16075	cpd14796	met	Lreu_seed
+cpd14795_c0		MNXM2709	PHENYLACETONITRILE	C16074	cpd14795	met	Lreu_seed
+cpd01914_e0	['M_metsox_S__L', 'metox', 'metsox_S__L', 'M_metox']	MNXM2246	L-Methionine-sulfoxides	C02989	['cpd15498', 'cpd01914', 'cpd29319']	met	Lreu_seed
+cpd01914_c0	['M_metox', 'metox', 'M_metsox_S__L', 'metsox_S__L']	MNXM2246	L-Methionine-sulfoxides	C02989	['cpd01914', 'cpd15498', 'cpd29319']	met	Lreu_seed
+cpd00099_c0	['M_cl', 'cl']	MNXM43	['HCL', 'CL-']	['C00698', 'C01327', 'D02057']	cpd00099	met	Lreu_seed
+cpd00099_e0	['M_cl', 'cl']	MNXM43	['CL-', 'HCL']	['D02057', 'C00698', 'C01327']	cpd00099	met	Lreu_seed
+cpd11718_c0	['3hacoa', 'M_3hacoa']	MNXM1875	L-3-HYDROXYACYL-COA	C00640	cpd11718	met	Lreu_seed
+cpd11637_c0	['M_3oacoa', '3oacoa']	MNXM1310	3-KETOACYL-COA	C00264	cpd11637	met	Lreu_seed
+cpd03198_c0	['6dg', 'M_6dg']	MNXM1434		['G01275', 'C05402']	cpd03198	met	Lreu_seed
+cpd03413_c0		MNXM4027	ALPHA-L-GLUTAMYL-PHOSPHATE	C05765	cpd03413	met	Lreu_seed
+cpd15760_c0		MNXM8776			cpd15760	met	Lreu_seed
+cpd02851_c0	['aicar', 'M_aicar']	MNXM365	AICAR	C04677	cpd02851	met	Lreu_seed
+cpd00382_c0	['M_raffin', 'raffin']	MNXM621	CPD-1099	['C00492', 'G00249']	cpd00382	met	Lreu_seed
+cpd02826_c0		MNXM162804			cpd02826	met	Lreu_seed
+cpd02140_c0		MNXM388	5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE	C03373	cpd02140	met	Lreu_seed
+cpd15318_c0		MNXM147673			cpd15318	met	Lreu_seed
+cpd00024_e0	['akg', 'M_akg']	MNXM20	2-KETOGLUTARATE	C00026	cpd00024	met	Lreu_seed
+cpd00531_c0	['hg2', 'M_hg2']	MNXM1562	HG+2	C00703	cpd00531	met	Lreu_seed
+cpd00531_e0	['M_hg2', 'hg2']	MNXM1562	HG+2	C00703	cpd00531	met	Lreu_seed
+cpd15363_c0	['M_2tdecg3p', '2tdecg3p']	MNXM5491			cpd15363	met	Lreu_seed
+cpd02996_c0		MNXM729		['G00109', 'G02956', 'G02955', 'G00176', 'C04924', 'C04884']	['cpd02996', 'cpd19033']	met	Lreu_seed
+cpd03655_c0	['M_gd2_cho', 'gd2_cho']	MNXM44103	Ganglioside-GD2	['G00114', 'C06134']	cpd03655	met	Lreu_seed
+cpd01620_c0	['M_shcl', 'dscl', 'shcl', 'M_dscl']	MNXM672	DIHYDROSIROHYDROCHLORIN	C02463	cpd01620	met	Lreu_seed
+cpd03709_c0		MNXM1593	SALICYLALDEHYDE	C06202	cpd03709	met	Lreu_seed
+cpd00599_c0	['salc', 'M_salc']	MNXM378	CPD-110	['D00097', 'C00805']	cpd00599	met	Lreu_seed
+cpd03122_c0	['3hhcoa', 'M_3hhcoa']	MNXM757	OH-HEXANOYL-COA	C05268	cpd03122	met	Lreu_seed
+cpd03123_c0	['3ohcoa', 'M_3ohcoa']	MNXM717	K-HEXANOYL-COA	C05269	cpd03123	met	Lreu_seed
+cpd00853_c0	['M_23dpg', '23dpg']	MNXM892	23-DIPHOSPHOGLYCERATE	C01159	cpd00853	met	Lreu_seed
+cpd11531_c0		MNXM8226			cpd11531	met	Lreu_seed
+cpd11432_c0		MNXM5741			cpd11432	met	Lreu_seed
+cpd04248_c0		MNXM5666	CPD0-1476	['D00265', 'C06899']	cpd04248	met	Lreu_seed
+cpd04661_c0		MNXM3152	CPD-9673	C07490	cpd04661	met	Lreu_seed
+cpd12018_c0		MNXM1443	All-trans-Retinyl-Esters	C02075	cpd12018	met	Lreu_seed
+cpd11548_c0		MNXM8150			cpd11548	met	Lreu_seed
+cpd01536_c0		MNXM1425	GDP-L-GALACTOSE	C02280	cpd01536	met	Lreu_seed
+cpd14655_c0		MNXM722795			cpd14655	met	Lreu_seed
+cpd11483_c0	['3hoctACP', 'M_3hoctACP']	MNXM10019	3-Hydroxy-octanoyl-ACPs	C04620	cpd11483	met	Lreu_seed
+cpd11564_c0		MNXM8016			cpd11564	met	Lreu_seed
+cpd12044_c0		MNXM6406	Protein-L-serines	['C02189', 'C06395']	['cpd19051', 'cpd12044']	met	Lreu_seed
+cpd12868_c0		MNXM96289	Protein-D-serines	C06396	cpd12868	met	Lreu_seed
+cpd12599_c0		MNXM613	CPD-7181	['C04730', 'G00108']	cpd12599	met	Lreu_seed
+cpd03654_c0	['gd3_cho', 'M_gd3_cho']	MNXM162464		['G00113', 'C06133']	cpd03654	met	Lreu_seed
+cpd00938_c0	['M_4cml', '4cml']	MNXM1521		C01278	cpd00938	met	Lreu_seed
+cpd02255_c0	['5odhf2a', 'M_5odhf2a']	MNXM829	3-OXOADIPATE-ENOL-LACTONE	C03586	cpd02255	met	Lreu_seed
+cpd15663_c0		MNXM12741			cpd15663	met	Lreu_seed
+cpd00120_c0	['btcoa', 'M_btcoa']	MNXM233	BUTYRYL-COA	C00136	cpd00120	met	Lreu_seed
+cpd02027_c0	['M_mmet', 'mmet']	MNXM1119	CPD-397	C03172	cpd02027	met	Lreu_seed
+cpd00209_e0	['M_no3', 'no3']	MNXM207	['CPD-15028', 'NITRATE']	['C00244', 'D02313']	cpd00209	met	Lreu_seed
+cpd11584_c0		MNXM722856			cpd11584	met	Lreu_seed
+cpd00119_c0	['M_his__L', 'his__L']	MNXM134	HIS	['D00032', 'C00768', 'C00135']	['cpd00572', 'cpd00119']	met	Lreu_seed
+cpd15067_c0		MNXM11326		C16351	cpd15067	met	Lreu_seed
+cpd00549_c0	['M_lys__D', 'lys__D']	MNXM975	CPD-219	C00739	cpd00549	met	Lreu_seed
+cpd03073_c0		MNXM2465	CPD-1066	C05161	cpd03073	met	Lreu_seed
+cpd00304_c0	['M_retinal', 'retinal']	MNXM425	RETINAL	C00376	cpd00304	met	Lreu_seed
+cpd00348_c0	['gal1p', 'M_gal1p']	MNXM336	GALACTOSE-1P	['C03384', 'C00446']	['cpd00348', 'cpd19025']	met	Lreu_seed
+cpd11830_c0	['alpro', 'M_alpro']	MNXM81221		C01242	cpd11830	met	Lreu_seed
+cpd12592_c0		MNXM3907		C04683	cpd12592	met	Lreu_seed
+cpd02972_c0		MNXM4462		C04887	cpd02972	met	Lreu_seed
+cpd00794_e0		MNXM198	TREHALOSE	['G00293', 'C01083']	cpd00794	met	Lreu_seed
+cpd00523_c0	['M_tre6p', 'tre6p']	MNXM448	TREHALOSE-6P	['C00689', 'G09795']	cpd00523	met	Lreu_seed
+cpd11591_c0	['gly_met__L', 'M_gly_met__L']	MNXM55287	CPD-13393		cpd11591	met	Lreu_seed
+cpd09792_c0		MNXM6494		C14089	cpd09792	met	Lreu_seed
+cpd00503_c0	['f26bp', 'M_f26bp']	MNXM651	CPD-535	C00665	cpd00503	met	Lreu_seed
+cpd15130_c0		MNXM3671	CPD-4201	C16424	cpd15130	met	Lreu_seed
+cpd11477_c0	['M_tpalm2eACP', 'tpalm2eACP']	MNXM29072	2-Hexadecenoyl-ACPs	C05763	cpd11477	met	Lreu_seed
+cpd11217_c0		MNXM2306	CPD-9925	C15547	cpd11217	met	Lreu_seed
+cpd00434_c0	['M_4abutn', '4abutn']	MNXM422	4-AMINO-BUTYRALDEHYDE	C00555	cpd00434	met	Lreu_seed
+cpd16395_c0		MNXM6074		C16586	cpd16395	met	Lreu_seed
+cpd16396_c0		MNXM3835		C16587	cpd16396	met	Lreu_seed
+cpd00226_e0	['M_hxan', 'hxan']	MNXM213	HYPOXANTHINE	C00262	cpd00226	met	Lreu_seed
+cpd11467_c0	['M_tmrs2eACP', 'tmrs2eACP']	MNXM24297	Tetradec-2-enoyl-ACPs	C05760	cpd11467	met	Lreu_seed
+cpd02490_c0		MNXM3966	CPD-306	C04020	cpd02490	met	Lreu_seed
+cpd15763_c0		MNXM8764			cpd15763	met	Lreu_seed
+cpd15315_c0		MNXM147672			cpd15315	met	Lreu_seed
+cpd00408_c0		MNXM722831			cpd00408	met	Lreu_seed
+cpd00712_c0	['M_2dhp', '2dhp']	MNXM959	2-DEHYDROPANTOATE	C00966	cpd00712	met	Lreu_seed
+cpd02603_c0		MNXM447	2-Acylglycero-Phosphocholines	C04233	cpd02603	met	Lreu_seed
+cpd02601_c0		MNXM180	2-Lysophosphatidylcholines	C04230	cpd02601	met	Lreu_seed
+cpd03671_c0	['M_gam1p', 'gam1p']	MNXM969	GLUCOSAMINE-1P	C06156	cpd03671	met	Lreu_seed
+cpd11518_c0		MNXM8024			cpd11518	met	Lreu_seed
+cpd01997_c0		MNXM50981		C03114	cpd01997	met	Lreu_seed
+cpd15749_c0		MNXM5792			cpd15749	met	Lreu_seed
+cpd15758_c0		MNXM8760			cpd15758	met	Lreu_seed
+cpd00094_c0	['2obut', 'M_2obut']	MNXM159	2-OXOBUTANOATE	C00109	cpd00094	met	Lreu_seed
+cpd09350_c0		MNXM2404	N2ACETYL-ALPHA-NP	C12987	cpd09350	met	Lreu_seed
+cpd09351_c0		MNXM2405	N-ACETYL-AAA-SEMIALDEHYDE	C12988	cpd09351	met	Lreu_seed
+cpd01133_c0	['M_stys', 'stchs', 'M_stchs', 'stys']	MNXM1503	CPD-170	['C01613', 'G00278']	cpd01133	met	Lreu_seed
+cpd15717_c0		MNXM11358			cpd15717	met	Lreu_seed
+cpd15776_c0		MNXM8759			cpd15776	met	Lreu_seed
+cpd01956_c0		MNXM1883	CPD-1131	C03057	cpd01956	met	Lreu_seed
+cpd03116_c0	['M_3hddcoa', '3hddcoa']	MNXM733	CPD0-2107	C05262	cpd03116	met	Lreu_seed
+cpd00876_c0	['M_3hmp', '3hmp']	MNXM396	3-HYDROXY-ISOBUTYRATE	C01188	cpd00876	met	Lreu_seed
+cpd00287_c0	['M_2mop', '2mop']	MNXM305	CPD-12179	C00349	['cpd23282', 'cpd00287']	met	Lreu_seed
+cpd15423_c0	['M_cdpdtdecg', 'cdpdtdecg']	MNXM4512	CPD-18388		cpd15423	met	Lreu_seed
+cpd15543_c0		MNXM91691			cpd15543	met	Lreu_seed
+cpd02113_c0		MNXM51660			cpd02113	met	Lreu_seed
+cpd00522_c0		MNXM2371	DTDP-DEOH-DEOXY-MANNOSE	C00688	['cpd08300', 'cpd00522']	met	Lreu_seed
+cpd11636_c0		MNXM94421		C00241	cpd11636	met	Lreu_seed
+cpd14710_c0		MNXM2916	CPD-113	C15986	cpd14710	met	Lreu_seed
+cpd01955_c0		MNXM2721	CPD-123	C03056	cpd01955	met	Lreu_seed
+cpd14711_c0		MNXM6103	CPD-124	C15987	cpd14711	met	Lreu_seed
+cpd09811_c0		MNXM6887		C14108	cpd09811	met	Lreu_seed
+cpd09812_c0		MNXM6888		C14109	cpd09812	met	Lreu_seed
+cpd00015_c0	['M_fad', 'fad']	MNXM33	FAD	['C00016', 'D00005']	cpd00015	met	Lreu_seed
+cpd00982_c0	['M_fadh2', 'fadh2']	MNXM38	FADH2	C01352	cpd00982	met	Lreu_seed
+cpd15319_c0		MNXM147678			cpd15319	met	Lreu_seed
+cpd02843_c0	['M_eig3p', 'eig3p']	MNXM1422	D-ERYTHRO-IMIDAZOLE-GLYCEROL-P	C04666	cpd02843	met	Lreu_seed
+cpd00930_c0	['imacp', 'M_imacp']	MNXM1456	IMIDAZOLE-ACETOL-P	C01267	cpd00930	met	Lreu_seed
+cpd03989_c0		MNXM722845		C06582	cpd03989	met	Lreu_seed
+cpd01711_c0	['ibt', 'M_ibt']	MNXM2531	ISOBUTYRATE	C02632	cpd01711	met	Lreu_seed
+cpd00042_c0	['gthrd', 'M_gthrd']	MNXM57	GLUTATHIONE	['C00051', 'D00014']	cpd00042	met	Lreu_seed
+cpd00111_c0	['M_gthox', 'gthox']	MNXM151	OXIDIZED-GLUTATHIONE	['D00031', 'C00127']	cpd00111	met	Lreu_seed
+cpd00123_c0	['3mob', 'M_3mob']	MNXM238	2-KETO-ISOVALERATE	C00141	cpd00123	met	Lreu_seed
+cpd02631_c0	['M_dkdi', 'dkdi']	MNXM114119	CPD-1133	['C04287', 'C06891']	['cpd19055', 'cpd02631']	met	Lreu_seed
+cpd16540_c0		MNXM2337	CPD-15127	C16737	cpd16540	met	Lreu_seed
+cpd15362_c0	['2tdec7eg3p', 'M_2tdec7eg3p']	MNXM5490			cpd15362	met	Lreu_seed
+cpd00742_c0	['M_allphn', 'allphn']	MNXM1122	CPD-578	C01010	cpd00742	met	Lreu_seed
+cpd00417_c0	['M_abt', 'abt__L', 'M_abt__L', 'abt']	MNXM801	L-ARABITOL	C00532	cpd00417	met	Lreu_seed
+cpd01618_c0	['13ppd', 'M_13ppd']	MNXM2861	CPD-347	C02457	cpd01618	met	Lreu_seed
+cpd00714_c0	['M_3hppnl', '3hppnl']	MNXM1526	HYDROXYPROPANAL	C00969	cpd00714	met	Lreu_seed
+cpd15306_c0		MNXM147349			cpd15306	met	Lreu_seed
+cpd03760_c0	['M_pre6b', 'pre6b']	MNXM1497	CPD-679	C06319	cpd03760	met	Lreu_seed
+cpd03761_c0	['M_pre6a', 'pre6a']	MNXM1496	CPD-675	C06320	cpd03761	met	Lreu_seed
+cpd15683_c0		MNXM8379			cpd15683	met	Lreu_seed
+cpd15716_c0		MNXM11392			cpd15716	met	Lreu_seed
+cpd00330_c0	['M_dhf', 'dhf']	MNXM281	['DIHYDROFOLATE-GLU-N', 'DIHYDROFOLATE']	C00415	cpd00330	met	Lreu_seed
+cpd00393_c0	['fol', 'M_fol']	MNXM617	CPD-12826	['C00504', 'D00070']	cpd00393	met	Lreu_seed
+cpd15087_c0		MNXM12593		C16371	cpd15087	met	Lreu_seed
+cpd00104_e0	['M_btn', 'btn']	MNXM304	BIOTIN	['D00029', 'C00120']	cpd00104	met	Lreu_seed
+cpd01301_c0		MNXM4489	CPD-574	C01893	cpd01301	met	Lreu_seed
+cpd02103_c0	['sucarg', 'M_sucarg']	MNXM1756	CPD-421	C03296	cpd02103	met	Lreu_seed
+cpd02160_c0	['M_sucorn', 'sucorn']	MNXM1152	N2-SUCCINYLORNITHINE	C03415	cpd02160	met	Lreu_seed
+cpd11498_c0		MNXM8149			cpd11498	met	Lreu_seed
+cpd11590_c0	['met_L_ala__L', 'M_met_L_ala__L']	MNXM8868			cpd11590	met	Lreu_seed
+cpd04810_c0	['5flura', 'M_5flura']	MNXM1993	CPD0-1327	['D00584', 'C07649']	cpd04810	met	Lreu_seed
+cpd16438_c0	['M_5flurimp', '5flurimp']	MNXM6123		C16634	cpd16438	met	Lreu_seed
+cpd15475_c0	['ggagicolipa', 'M_ggagicolipa']	MNXM55192	CPD0-2261		cpd15475	met	Lreu_seed
+cpd15477_c0	['gggagicolipa', 'M_gggagicolipa']	MNXM55193	CPD0-2259		cpd15477	met	Lreu_seed
+cpd11551_c0		MNXM10367			cpd11551	met	Lreu_seed
+cpd11520_c0		MNXM11926			cpd11520	met	Lreu_seed
+cpd00400_c0	['acryl', 'M_acryl']	MNXM1368	ACRYLATE	C00511	cpd00400	met	Lreu_seed
+cpd01150_c0	['aa', 'M_aa']	MNXM3208	ACRYLAMIDE	C01659	cpd01150	met	Lreu_seed
+cpd03245_c0		MNXM8677	GLYCODEOXYCHOLIC_ACID	C05464	cpd03245	met	Lreu_seed
+cpd16439_c0		MNXM6115		C16635	cpd16439	met	Lreu_seed
+cpd16329_c0		MNXM6908		['D01309', 'C12739']	cpd16329	met	Lreu_seed
+cpd06713_c0	['6occhcoa', 'M_6occhcoa']	MNXM5572	6-OXOCYCLOHEX-1-ENE-1-CARBONYL-COA	C09821	cpd06713	met	Lreu_seed
+cpd04103_c0	['3hpimcoa', 'M_3hpimcoa']	MNXM2188	3-HYDROXYPIMELYL-COA	C06714	cpd04103	met	Lreu_seed
+cpd00007_e0	['o2', 'M_o2']	MNXM4	OXYGEN-MOLECULE	['C00007', 'D00003']	cpd00007	met	Lreu_seed
+cpd02229_c0	['dtpcudcpp', 'M_dtpcudcpp']	MNXM326	UNDECAPRENYL-DIPHOSPHATE	C04574	['cpd02229', 'cpd29584']	met	Lreu_seed
+cpd11556_c0		MNXM8221			cpd11556	met	Lreu_seed
+cpd11557_c0		MNXM8219			cpd11557	met	Lreu_seed
+cpd00078_c0	['M_succoa', 'succoa']	MNXM92	SUC-COA	C00091	cpd00078	met	Lreu_seed
+cpd00227_c0	['hom__L', 'M_hom__L']	MNXM353	HOMO-SER	C00263	cpd00227	met	Lreu_seed
+cpd00822_c0	['M_suchms', 'suchms']	MNXM820	O-SUCCINYL-L-HOMOSERINE	C01118	cpd00822	met	Lreu_seed
+cpd03496_c0	['M_uaagtmda', 'uaagtmda']	MNXM88508			cpd03496	met	Lreu_seed
+cpd00186_c0	['M_glu__D', 'glu__D']	MNXM331	D-GLT	C00217	cpd00186	met	Lreu_seed
+cpd00890_c0	['uama', 'M_uama']	MNXM722770		C01212	['cpd29609', 'cpd00890']	met	Lreu_seed
+cpd02968_c0		MNXM88443		C04882	['cpd02932', 'cpd02968']	met	Lreu_seed
+cpd09433_c0		MNXM2498	CPD-7424	C13431	cpd09433	met	Lreu_seed
+cpd09434_c0		MNXM2798	CPD-7196	C13433	cpd09434	met	Lreu_seed
+cpd15131_c0		MNXM2845	CPD-4203	C16426	cpd15131	met	Lreu_seed
+cpd15666_c0		MNXM5258			cpd15666	met	Lreu_seed
+cpd15665_c0		MNXM7630			cpd15665	met	Lreu_seed
+cpd00945_c0	['M_2dh3dgal6p', '2dh3dgal6p']	MNXM90136	DEHYDRO-DEOXY-GALACTONATE-PHOSPHATE	C01286	cpd00945	met	Lreu_seed
+cpd01772_c0	['M_sucbz', 'sucbz']	MNXM1212	O-SUCCINYLBENZOATE	C02730	cpd01772	met	Lreu_seed
+cpd08238_c0		MNXM6560	CPD-7986	C11384	cpd08238	met	Lreu_seed
+cpd03591_c0		MNXM162727	METHYLOXALO-ACETATE	C06030	cpd03591	met	Lreu_seed
+cpd15340_c0		MNXM146495			cpd15340	met	Lreu_seed
+cpd00156_e0	['val__L', 'M_val__L']	MNXM199	VAL	['C16436', 'D00039', 'C00183']	['cpd15141', 'cpd00156']	met	Lreu_seed
+cpd00156_c0	['val__L', 'M_val__L']	MNXM199	VAL	['C16436', 'D00039', 'C00183']	['cpd15141', 'cpd00156']	met	Lreu_seed
+cpd00620_c0	['M_ptth', 'ptth']	MNXM1154	CPD-511	C00831	cpd00620	met	Lreu_seed
+cpd03279_c0	['M_din', 'din']	MNXM935	DEOXYINOSINE	C05512	cpd03279	met	Lreu_seed
+cpd00421_c0	['M_pppi', 'pppi']	MNXM332	P3I	C00536	cpd00421	met	Lreu_seed
+cpd15066_c0		MNXM11217		C16350	cpd15066	met	Lreu_seed
+cpd01092_c0	['alltn', 'M_alltn']	MNXM612	ALLANTOIN	['D00121', 'C01551']	cpd01092	met	Lreu_seed
+cpd11473_c0	['M_thex2eACP', 'thex2eACP']	MNXM24502	Hex-2-enoyl-ACPs	C05748	cpd11473	met	Lreu_seed
+cpd00092_e0	['ura', 'M_ura']	MNXM158	URACIL	['D00027', 'C00106']	cpd00092	met	Lreu_seed
+cpd00053_e0	['M_gln__L', 'gln__L']	MNXM37	GLN	['C00064', 'C00303', 'D00015']	['cpd00253', 'cpd00053']	met	Lreu_seed
+cpd11827_c0		MNXM92585		C01229	cpd11827	met	Lreu_seed
+cpd12496_c0		MNXM93816		C04215	cpd12496	met	Lreu_seed
+cpd15326_c0	['M_1hdec9eg3p', '1hdec9eg3p']	MNXM91047			cpd15326	met	Lreu_seed
+cpd00667_c0		MNXM870	CPD-882	C00899	cpd00667	met	Lreu_seed
+cpd02184_c0	['M_retpalm_11_cis', 'retpalm_11_cis']	MNXM2590	CPD-523	C03455	cpd02184	met	Lreu_seed
+cpd02135_c0	['M_HC01104', 'HC01104']	MNXM3867	CPD-194	C03360	cpd02135	met	Lreu_seed
+cpd00646_c0		MNXM526	P-NITROPHENOL	C00870	cpd00646	met	Lreu_seed
+cpd03047_c0	['tchola', 'M_tchola']	MNXM2288	CPD-3743	C05122	cpd03047	met	Lreu_seed
+cpd02039_c0	['M_appl', 'appl']	MNXM18844		C05771	['cpd02039', 'cpd19039']	met	Lreu_seed
+cpd11505_c0		MNXM10446			cpd11505	met	Lreu_seed
+cpd00831_c0	['M_rml1p', 'rml1p']	MNXM1675	RHAMNULOSE-1P	C01131	cpd00831	met	Lreu_seed
+cpd00334_c0	['lald__L', 'M_lald__L']	MNXM2387	LACTALD	C00424	cpd00334	met	Lreu_seed
+cpd03734_c0	['ad', 'M_ad']	MNXM4428	ACETAMIDE	C06244	cpd03734	met	Lreu_seed
+cpd11497_c0		MNXM10217			cpd11497	met	Lreu_seed
+cpd01747_c0	['M_iad', 'iad']	MNXM2239	CPD-237	C02693	cpd01747	met	Lreu_seed
+cpd00703_c0	['ind3ac', 'M_ind3ac']	MNXM383	INDOLE_ACETATE_AUXIN	C00954	cpd00703	met	Lreu_seed
+cpd03559_c0	['M_ppoh', 'ppoh']	MNXM6396	PROPANOL	C05979	cpd03559	met	Lreu_seed
+cpd15748_c0		MNXM5933			cpd15748	met	Lreu_seed
+cpd15757_c0		MNXM9121			cpd15757	met	Lreu_seed
+cpd03306_c0	['M_34dhoxpeg', '34dhoxpeg']	MNXM2931	CPD-11878	C05576	cpd03306	met	Lreu_seed
+cpd03307_c0	['34dhmald', 'M_34dhmald']	MNXM1633	DIHYDROXYPHENYLGLYCOLALDEHYDE	C05577	cpd03307	met	Lreu_seed
+cpd00485_c0	['man1p', 'M_man1p']	MNXM836		C00636	cpd00485	met	Lreu_seed
+cpd11572_c0		MNXM9168			cpd11572	met	Lreu_seed
+cpd15718_c0		MNXM11398			cpd15718	met	Lreu_seed
+cpd15324_c0		MNXM6608			cpd15324	met	Lreu_seed
+cpd02345_c0	['glu1sa', 'M_glu1sa']	MNXM1453	GLUTAMATE-1-SEMIALDEHYDE	C03741	cpd02345	met	Lreu_seed
+cpd00238_c0	['s7p', 'M_s7p']	MNXM271	D-SEDOHEPTULOSE-7-P	C05382	cpd00238	met	Lreu_seed
+cpd00145_c0	['M_hpyr', 'hpyr']	MNXM392	OH-PYR	C00168	cpd00145	met	Lreu_seed
+cpd15703_c0		MNXM7961			cpd15703	met	Lreu_seed
+cpd15331_c0	['1tdecg3p', 'M_1tdecg3p']	MNXM3426	CPD-18379		cpd15331	met	Lreu_seed
+cpd12640_c0		MNXM1225		['C04911', 'G00110', 'G01438']	cpd12640	met	Lreu_seed
+cpd03661_c0	['M_gd1b_cho', 'gd1b_cho']	MNXM44096	Ganglioside-GD1b	['C06141', 'G04395', 'G04443', 'G00115', 'G02755']	cpd03661	met	Lreu_seed
+cpd15542_c0		MNXM91685			cpd15542	met	Lreu_seed
+cpd01476_c0	['M_ppp9', 'ppp9']	MNXM346	PROTOPORPHYRIN_IX	C02191	cpd01476	met	Lreu_seed
+cpd00028_c0		MNXM526203		C00032	cpd00028	met	Lreu_seed
+cpd11509_c0		MNXM9653			cpd11509	met	Lreu_seed
+cpd01260_c0	['M_ddcacoa', 'ddcacoa']	MNXM363	LAUROYLCOA-CPD	C01832	cpd01260	met	Lreu_seed
+cpd15522_c0	['M_pa140', 'pa140']	MNXM51017			cpd15522	met	Lreu_seed
+cpd00305_e0	['thm', 'M_thm']	MNXM161565		D08580	cpd00305	met	Lreu_seed
+cpd11562_c0		MNXM9685			cpd11562	met	Lreu_seed
+cpd11563_c0		MNXM9683			cpd11563	met	Lreu_seed
+cpd00478_c0	['pdx5p', 'M_pdx5p']	MNXM454	PYRIDOXINE-5P	C00627	cpd00478	met	Lreu_seed
+cpd02720_c0	['5aprbu', 'M_5aprbu']	MNXM1178	CPD-1086	C04454	cpd02720	met	Lreu_seed
+cpd03120_c0	['3hocoa', 'M_3hocoa']	MNXM766		C05266	cpd03120	met	Lreu_seed
+cpd11581_c0	['M_gly_asn__L', 'gly_asn__L']	MNXM8664			cpd11581	met	Lreu_seed
+cpd00158_e0		MNXM722749			cpd00158	met	Lreu_seed
+cpd02760_c0	['cellb6p', 'M_cellb6p']	MNXM4419	CPD-507	['G10518', 'C04534']	cpd02760	met	Lreu_seed
+cpd15347_c0		MNXM146499			cpd15347	met	Lreu_seed
+cpd08372_c0	['M_copre6', 'copre6']	MNXM91523		C11542	cpd08372	met	Lreu_seed
+cpd08373_c0	['M_codhpre6', 'codhpre6']	MNXM2653	CPD-9044	C11543	cpd08373	met	Lreu_seed
+cpd11523_c0		MNXM8176			cpd11523	met	Lreu_seed
+cpd15307_c0		MNXM2902			cpd15307	met	Lreu_seed
+cpd15777_c0		MNXM8306			cpd15777	met	Lreu_seed
+cpd01644_c0	['M_2hmc', '2hmc']	MNXM162276	CPD-13339	C02501	['cpd23837', 'cpd01644']	met	Lreu_seed
+cpd02183_c0	['oxalc', 'M_oxalc']	MNXM6068	['CPD-13337', 'CPD-246']	C03453	['cpd02183', 'cpd24380']	met	Lreu_seed
+cpd03158_c0		MNXM2055	CPD-463	C05324	cpd03158	met	Lreu_seed
+cpd11441_c0		MNXM5746			cpd11441	met	Lreu_seed
+cpd00709_c0	['gal_bD', 'M_gal_bD']	MNXM112	GALACTOSE	C00962	cpd00709	met	Lreu_seed
+cpd15546_c0	['pgp161', 'M_pgp161']	MNXM75103	CPD0-2230		['cpd15546', 'cpd26451']	met	Lreu_seed
+cpd06227_c0		MNXM317	CPD-17108	C09332	['cpd06227', 'cpd19097']	met	Lreu_seed
+cpd00011_e0	['M_co2', 'co2']	MNXM13	CARBON-DIOXIDE	['C00011', 'D00004']	cpd00011	met	Lreu_seed
+cpd03861_c0	['M_xu1p__D', 'xu1p__D']	MNXM59594	CPD0-1115	C06441	cpd03861	met	Lreu_seed
+cpd15775_c0		MNXM9120			cpd15775	met	Lreu_seed
+cpd00502_c0	['5forthf', 'M_5forthf']	MNXM915	CPD-671	C00664	cpd00502	met	Lreu_seed
+cpd15310_c0		MNXM146746			cpd15310	met	Lreu_seed
+cpd00651_c0		MNXM2654	CPD-1114	C00878	cpd00651	met	Lreu_seed
+cpd02386_c0		MNXM1261	2-DH-3-DO-D-ARABINONATE	C03826	cpd02386	met	Lreu_seed
+cpd01882_c0	['ivcoa', 'M_ivcoa']	MNXM471	ISOVALERYL-COA	C02939	cpd01882	met	Lreu_seed
+cpd03561_c0	['2hb', 'M_2hb', '2hbut', 'M_2hbut']	MNXM4968			cpd03561	met	Lreu_seed
+cpd03200_c0	['M_mnt', 'mnt']	MNXM61111	CPD-8249	['G00501', 'C05404']	cpd03200	met	Lreu_seed
+cpd00557_c0	['M_sheme', 'sheme']	MNXM82173	SIROHEME	C00748	cpd00557	met	Lreu_seed
+cpd15794_c0		MNXM6297			cpd15794	met	Lreu_seed
+cpd15668_c0		MNXM8673			cpd15668	met	Lreu_seed
+cpd15533_c0	['pe180', 'M_pe180']	MNXM31536	CPD-12818		['cpd15533', 'cpd23596']	met	Lreu_seed
+cpd15667_c0		MNXM8675			cpd15667	met	Lreu_seed
+cpd15723_c0		MNXM5124			cpd15723	met	Lreu_seed
+cpd11416_c0		BIOMASS			cpd11416	met	Lreu_seed
+cpd15695_c0		MNXM7305			cpd15695	met	Lreu_seed
+cpd00063_c0	['M_ca2', 'ca2']	MNXM128	CA+2	C00076	['cpd00063', 'cpd29674']	met	Lreu_seed
+cpd15795_c0		MNXM6175			cpd15795	met	Lreu_seed
+cpd11459_c0	['tcam', 'M_tcam']	MNXM5305			cpd11459	met	Lreu_seed
+cpd15669_c0		MNXM8674			cpd15669	met	Lreu_seed
+cpd00345_c0	['5mthf', 'M_5mthf']	MNXM318		C00440	cpd00345	met	Lreu_seed
+cpd00264_c0	['M_spmd', 'spmd']	MNXM124	SPERMIDINE	C00315	cpd00264	met	Lreu_seed
+cpd15696_c0		MNXM7294			cpd15696	met	Lreu_seed
+cpd15540_c0	['M_pg180', 'pg180']	MNXM75102	CPD-12822		['cpd23600', 'cpd15540']	met	Lreu_seed
+cpd15722_c0		MNXM5129			cpd15722	met	Lreu_seed
+cpd15767_c0		MNXM8761			cpd15767	met	Lreu_seed
+cpd03422_c0		MNXM90619			cpd03422	met	Lreu_seed
+cpd15793_c0		MNXM6440			cpd15793	met	Lreu_seed
+cpd00048_c0	['so4', 'M_so4']	MNXM58	['HSO4', 'SULFATE']	['C00059', 'D05963']	['cpd00048', 'cpd29301']	met	Lreu_seed
+cpd15768_c0		MNXM8308			cpd15768	met	Lreu_seed
+cpd15766_c0		MNXM9122			cpd15766	met	Lreu_seed
+cpd12370_c0	['M_apoACP', 'apoACP', 'HC01161', 'M_HC01161']	MNXM2214			['cpd12370', 'cpd29672']	met	Lreu_seed
+cpd00508_c0	['3mop', 'M_3mop']	MNXM439	2-KETO-3-METHYL-VALERATE	C00671	cpd00508	met	Lreu_seed
+cpd15671_c0		MNXM9620			cpd15671	met	Lreu_seed
+cpd03448_c0	['2ommb', 'M_2ommb']	MNXM90440	CPD-15153	C05814	cpd03448	met	Lreu_seed
+cpd03449_c0		MNXM91072		C05815	cpd03449	met	Lreu_seed
+cpd15689_c0		MNXM11393			cpd15689	met	Lreu_seed
+cpd00402_c0	['cdpglyc', 'M_cdpglyc']	MNXM775	CPD-606	C00513	cpd00402	met	Lreu_seed
+cpd15732_c0		MNXM6240			cpd15732	met	Lreu_seed
+cpd11425_c0		MNXM90597			cpd11425	met	Lreu_seed
+cpd11606_c0	['M_mqn7', 'mqn7']	MNXM12236	CPD-9718		cpd11606	met	Lreu_seed
+cpd02964_c0	['ugmd', 'M_ugmd']	MNXM1446	UDP-AAGM-DIAMINOHEPTANEDIOATE	C04877	cpd02964	met	Lreu_seed
+cpd00048_e0	['so4', 'M_so4']	MNXM58	['SULFATE', 'HSO4']	['C00059', 'D05963']	['cpd29301', 'cpd00048']	met	Lreu_seed
+cpd00066_e0	['M_phe__L', 'phe__L']	MNXM97	PHE	['D00021', 'C00079', 'C02057']	['cpd00066', 'cpd01400']	met	Lreu_seed
+cpd00136_c0	['M_4hbz', '4hbz']	MNXM164	4-hydroxybenzoate	C00156	cpd00136	met	Lreu_seed
+cpd02557_c0	['M_octdp', 'octdp']	MNXM811	['OCTAPRENYL-DIPHOSPHATE', 'FARNESYLFARNESYLGERANIOL']	C04146	['cpd02557', 'cpd30761']	met	Lreu_seed
+cpd03443_c0	['M_3ophb', '3ophb']	MNXM2195	3-OCTAPRENYL-4-HYDROXYBENZOATE	C05809	cpd03443	met	Lreu_seed
+cpd00393_e0	['M_fol', 'fol']	MNXM617	CPD-12826	['D00070', 'C00504']	cpd00393	met	Lreu_seed
+cpd15672_c0		MNXM9603			cpd15672	met	Lreu_seed
+cpd15740_c0		MNXM7537			cpd15740	met	Lreu_seed
+cpd15731_c0		MNXM6242			cpd15731	met	Lreu_seed
+cpd00946_c0	['unaga', 'M_unaga']	MNXM1333	ACETYL-D-GLUCOSAMINYLDIPHOSPHO-UNDECAPRE	C01289	cpd00946	met	Lreu_seed
+cpd02967_c0		MNXM2843	ACETYL-ETCETERA-GLUCOSAMINYLDIPHOSPHOUND	['G00177', 'C04881']	cpd02967	met	Lreu_seed
+cpd02590_c0	['hepdp', 'M_hepdp']	MNXM1722	ALL-TRANS-HEPTAPRENYL-DIPHOSPHATE	C04216	cpd02590	met	Lreu_seed
+cpd00200_c0	['4mop', 'M_4mop']	MNXM404	2K-4CH3-PENTANOATE	C00233	cpd00200	met	Lreu_seed
+cpd00791_c0	['pppg9', 'M_pppg9']	MNXM351	PROTOPORPHYRINOGEN	C01079	cpd00791	met	Lreu_seed
+cpd00906_c0	['hexdp', 'M_hexdp']	MNXM1067	ALL-TRANS-HEXAPRENYL-DIPHOSPHATE	C01230	cpd00906	met	Lreu_seed
+cpd15730_c0		MNXM6248			cpd15730	met	Lreu_seed
+cpd03446_c0	['M_2omph', '2omph']	MNXM1707	2-OCTAPRENYL-6-METHOXYPHENOL	C05812	cpd03446	met	Lreu_seed
+cpd03447_c0	['M_2ombz', '2ombz']	MNXM1903	CPD-15152	C05813	cpd03447	met	Lreu_seed
+cpd02083_c0	['M_cpppg3', 'cpppg3']	MNXM410	COPROPORPHYRINOGEN_III	C03263	cpd02083	met	Lreu_seed
+cpd15741_c0		MNXM7535			cpd15741	met	Lreu_seed
+cpd00065_e0	['M_trp__L', 'trp__L']	MNXM94	TRP	['C00078', 'C00806', 'D00020']	['cpd19007', 'cpd00065']	met	Lreu_seed
+cpd01080_e0	['ocdca', 'M_ocdca']	MNXM236	STEARIC_ACID	['D00119', 'C01530']	cpd01080	met	Lreu_seed
+cpd02125_c0	['2mb2coa', 'M_2mb2coa']	MNXM609	CPD-1083	C03345	['cpd02125', 'cpd29594']	met	Lreu_seed
+cpd11606_e0	['mqn7', 'M_mqn7']	MNXM12236	CPD-9718		cpd11606	met	Lreu_seed
+cpd00028_e0		MNXM526203		C00032	cpd00028	met	Lreu_seed
+cpd03445_c0	['M_2ohph', '2ohph']	MNXM1635	2-OCTAPRENYL-6-HYDROXYPHENOL	C05811	cpd03445	met	Lreu_seed
+cpd00069_e0	['M_tyr__L', 'tyr__L']	MNXM76	TYR	['C00082', 'D00022', 'C01536']	['cpd00069', 'cpd30745']	met	Lreu_seed
+cpd00264_e0	['spmd', 'M_spmd']	MNXM124	SPERMIDINE	C00315	cpd00264	met	Lreu_seed
+cpd03444_c0	['M_2oph', '2oph']	MNXM1886	2-OCTAPRENYLPHENOL	C05810	cpd03444	met	Lreu_seed
+cpd00119_e0	['M_his__L', 'his__L']	MNXM134	HIS	['C00135', 'D00032', 'C00768']	['cpd00572', 'cpd00119']	met	Lreu_seed
+cpd15739_c0		MNXM7543			cpd15739	met	Lreu_seed
+cpd00731_c0	['alaala', 'M_alaala']	MNXM669	D-ALA-D-ALA	C00993	cpd00731	met	Lreu_seed
+cpd00355_e0	['nmn', 'M_nmn']	MNXM355	NICOTINAMIDE_NUCLEOTIDE	C00455	cpd00355	met	Lreu_seed
+cpd15690_c0		MNXM11359			cpd15690	met	Lreu_seed
+cpd00111_e0	['gthox', 'M_gthox']	MNXM151	OXIDIZED-GLUTATHIONE	['D00031', 'C00127']	cpd00111	met	Lreu_seed
+cpd00084_e0	['cys__L', 'M_cys__L']	MNXM55	CYS	['C00097', 'D00026', 'C00736']	['cpd00084', 'cpd00547']	met	Lreu_seed
+cpd00136_e0	['M_4hbz', '4hbz']	MNXM164	4-hydroxybenzoate	C00156	cpd00136	met	Lreu_seed
+cpd00063_e0	['ca2', 'M_ca2']	MNXM128	CA+2	C00076	['cpd29674', 'cpd00063']	met	Lreu_seed
+cpd00655_e0	['M_dpcoa', 'dpcoa']	MNXM481	DEPHOSPHO-COA	C00882	cpd00655	met	Lreu_seed
+rxn02201_c0	['R_FOLD3', 'R_FOLD3m', 'FOLD3m', 'FOLD3', 'R_FOLD3_1', 'FOLD3_1']	MNXR138353			rxn02201	rea	Lreu_seed
+rxn00836_c0	['R_HXPRT', 'HXPRT']	MNXR100752	HYPOXANPRIBOSYLTRAN-RXN	R01132	rxn00836	rea	Lreu_seed
+rxn00390_c0		MNXR106577	ASPARTOACYLASE-RXN	R00546	rxn00390	rea	Lreu_seed
+rxn00062_c0	['R_NTP1', 'NTP1', 'R_ATPM', 'ATPPHm', 'R_ATPPHm', 'ATPS', 'ATPM', 'R_ATPS']	MNXR96131	ATPASE-RXN	R00086	['rxn00062', 'rxn09694', 'rxn11300']	rea	Lreu_seed
+rxn11567_c0		MNXR108115		['R06099', 'R03355']	rxn11567	rea	Lreu_seed
+rxn10298_c0		MNXR136294			rxn10298	rea	Lreu_seed
+rxn00364_c0	['CYTK1', 'R_CYTK1', 'CYTK1m', 'R_CYTK1m', 'CYTK1n', 'R_CYTK1n']	MNXR97047	RXN-11832	R00512	rxn00364	rea	Lreu_seed
+rxn03408_c0	['R_UAGPT3', 'UAGPT3']	MNXR105037			rxn03408	rea	Lreu_seed
+rxn02177_c0	['R_ICHORT', 'ICHORT']	MNXR100785	ISOCHORMAT-RXN	R03037	rxn02177	rea	Lreu_seed
+rxn00646_c0		MNXR141849			rxn00646	rea	Lreu_seed
+rxn05440_c0		MNXR134937			rxn05440	rea	Lreu_seed
+rxn01673_c0	['R_NDPK7m', 'NDPK7', 'NDPK7m', 'R_NDPK7', 'R_NDPK7n', 'NDPK7n']	MNXR101939	DCDPKIN-RXN	R02326	rxn01673	rea	Lreu_seed
+rxn00247_c0	['R_PPCKm', 'PPCK', 'PPCKm', 'R_PPCK']	MNXR103099	PEPCARBOXYKIN-RXN	R00341	rxn00247	rea	Lreu_seed
+rxn05625_c0	['R_NO2t2r', 'NO2t2r', 'NO2t2rpp', 'R_NO2t2rpp']	MNXR101984			['rxn05625', 'rxn08998']	rea	Lreu_seed
+rxn02342_c0	['PDHam2hi', 'PDHam2mi', 'R_PDHam2hi', 'R_PDHam2mi']	MNXR102429			rxn02342	rea	Lreu_seed
+rxn01452_c0	['R_HBCO_nadp', 'HBCO_nadp', 'R_HBCO_nadp_m', 'HBCO_nadp_m']	MNXR100565	3-HYDROXYBUTYRYL-COA-DEHYDROGENASE-RXN	R01976	rxn01452	rea	Lreu_seed
+rxn00022_c0	['R_MALTly', 'MALTe', 'R_MALTe', 'MALT', 'MALTly', 'R_MALT']	MNXR101350		R00028	rxn00022	rea	Lreu_seed
+rxn03239_c0	['HACD7', 'R_HACD7p', 'R_HACD7m', 'R_HACD7', 'HACD7_1', 'R_HACD7_1', 'HACD7i', 'HACD7p', 'R_HACD7i', 'HACD7m']	MNXR100548	RXN-14271	R04737	rxn03239	rea	Lreu_seed
+rxn03120_c0		MNXR139285		R04526	rxn03120	rea	Lreu_seed
+rxn05457_c0		MNXR123649	RXN3O-8214		rxn05457	rea	Lreu_seed
+rxn04271_c0		MNXR110225		R06408	rxn04271	rea	Lreu_seed
+rxn13783_c0		MNXR137716			rxn13783	rea	Lreu_seed
+rxn10118_c0	['HYD1', 'R_HYD1', 'R_HYD1pp', 'HYD1pp']	MNXR100753			['rxn10118', 'rxn08734']	rea	Lreu_seed
+rxn00557_c0		MNXR138990		R00770	rxn00557	rea	Lreu_seed
+rxn05392_c0		MNXR134889			rxn05392	rea	Lreu_seed
+rxn08934_c0	['R_MLTG3', 'RE0926E', 'R_RE0926E', 'MLTG3']	MNXR138616			rxn08934	rea	Lreu_seed
+rxn01358_c0	['R_PUNP5', 'PUNP5']	MNXR103347	INOPHOSPHOR-RXN	R01863	rxn01358	rea	Lreu_seed
+rxn03086_c0	['R_ADAPAT', 'ADAPAT']	MNXR95434	RXN-4822	R04467	rxn03086	rea	Lreu_seed
+rxn12637_c0		MNXR123354			rxn12637	rea	Lreu_seed
+rxn03046_c0		MNXR108859	OPHELINE-KINASE-RXN	R04388	rxn03046	rea	Lreu_seed
+rxn01219_c0	['CYTK2', 'R_CYTK2', 'R_CYTK2n', 'CYTK2m', 'R_CYTK2m', 'CYTK2n']	MNXR97053	RXN-7913	R01665	rxn01219	rea	Lreu_seed
+rxn05958_c0		MNXR104026			rxn05958	rea	Lreu_seed
+rxn00519_c0		MNXR106653	RXN-12481	R00726	rxn00519	rea	Lreu_seed
+rxn00258_c0		MNXR106487		R00353	rxn00258	rea	Lreu_seed
+rxn00800_c0		MNXR140008	AMPSYN-RXN		rxn00800	rea	Lreu_seed
+rxn01705_c0	['R_DCTCP', 'DCTCP']	MNXR97200		R02371	rxn01705	rea	Lreu_seed
+rxn09177_c0	['R_PPNCL2', 'PPNCL2']	MNXR103119	P-PANTOCYSLIG-RXN	R04231	rxn09177	rea	Lreu_seed
+rxn00179_c0	['GLU5K', 'R_GLU5K', 'GLU5Km', 'R_GLU5Km']	MNXR100277	GLUTKIN-RXN	R00239	rxn00179	rea	Lreu_seed
+rxn01210_c0		MNXR141897			rxn01210	rea	Lreu_seed
+rxn01218_c0	['NTD3', 'NTD3pp', 'R_NTD3pp', 'R_NTD3', 'NTD3l', 'R_NTD3l']	MNXR102033	RXN0-5292	R01664	rxn01218	rea	Lreu_seed
+rxn05367_c0		MNXR134864			rxn05367	rea	Lreu_seed
+rxn00509_c0	['R_SSALy', 'R_r0179', 'r0179', 'SSALy']	MNXR104541	SUCCSEMIALDDEHYDROG-RXN	R00714	rxn00509	rea	Lreu_seed
+rxn02898_c0		MNXR142018			rxn02898	rea	Lreu_seed
+rxn01199_c0	['XYLK', 'R_XYLK']	MNXR105255	XYLULOKIN-RXN	R01639	rxn01199	rea	Lreu_seed
+rxn00545_c0	['R_PFK', 'PFK']	MNXR138694		R00756	rxn00545	rea	Lreu_seed
+rxn00771_c0		MNXR106803			rxn00771	rea	Lreu_seed
+rxn08807_c0		MNXR142314			rxn08807	rea	Lreu_seed
+rxn05614_c0	['METSRabc', 'R_METSRabc']	MNXR101487			rxn05614	rea	Lreu_seed
+rxn10304_c0		MNXR136300			rxn10304	rea	Lreu_seed
+rxn02316_c0		MNXR108040		R03238	rxn02316	rea	Lreu_seed
+rxn10344_c0		MNXR136339			rxn10344	rea	Lreu_seed
+rxn02504_c0	['R_DHNPA2r', 'DHNPA2r']	MNXR125603	H2NEOPTERINALDOL-RXN	R03504	rxn02504	rea	Lreu_seed
+rxn04082_c0	['RBP4E', 'R_RBP4E']	MNXR103434	RIBULPEPIM-RXN	R05850	rxn04082	rea	Lreu_seed
+rxn05404_c0		MNXR134901			rxn05404	rea	Lreu_seed
+rxn02796_c0		MNXR108563	CHENODEOXYCHOLOYLTAURINE-HYDROLASE-RXN	R03977	rxn02796	rea	Lreu_seed
+rxn10262_c0		MNXR136258			rxn10262	rea	Lreu_seed
+rxn10225_c0		MNXR136221			rxn10225	rea	Lreu_seed
+rxn03463_c0		MNXR109325		['R05113', 'R05995']	rxn03463	rea	Lreu_seed
+rxn05444_c0		MNXR134941			rxn05444	rea	Lreu_seed
+rxn05040_c0	['DB4PS', 'R_DB4PS']	MNXR97178	DIOHBUTANONEPSYN-RXN	R07281	rxn05040	rea	Lreu_seed
+rxn05400_c0		MNXR134897			rxn05400	rea	Lreu_seed
+rxn03030_c0		MNXR95864	2.3.1.89-RXN		rxn03030	rea	Lreu_seed
+rxn05235_c0	['RNTR3', 'R_RNTR3']	MNXR104076		R02022	rxn05235	rea	Lreu_seed
+rxn02090_c0		MNXR107828	CREATININE-DEAMINASE-RXN	R02922	rxn02090	rea	Lreu_seed
+rxn05582_c0	['GLYt2pp', 'GLYt2rL', 'R_GLYth', 'R_GLYt2r', 'GLYtx', 'R_GLYtx', 'GLYt2r', 'R_GLYt2pp', 'GLYth', 'R_GLYt2rL', 'R_GLYt2m', 'GLYt2m']	MNXR100368	TRANS-RXN-62B		['rxn08660', 'rxn05582', 'rxn09748']	rea	Lreu_seed
+rxn01843_c0		MNXR141951			rxn01843	rea	Lreu_seed
+rxn00816_c0	['LACZ', 'R_LACZ', 'LACZpp', 'R_LACZly', 'R_LACZpp', 'LACZly', 'R_LACZe', 'LACZe']	MNXR101000		['R01100', 'R06114']	['rxn00816', 'rxn11244']	rea	Lreu_seed
+rxn01021_c0	['MTAN', 'R_MTAN']	MNXR138642		R01401	rxn01021	rea	Lreu_seed
+rxn00165_c0	['SER_AL', 'THRAL', 'R_THRAL', 'R_SERD_L', 'SERD_L', 'R_SER_AL']	MNXR104339	4.3.1.17-RXN	['R00220', 'R00223']	rxn00165	rea	Lreu_seed
+rxn05814_c0		MNXR106480		R00334	rxn05814	rea	Lreu_seed
+rxn00539_c0	['R_ETHAAL', 'ETHAAL']	MNXR97968	ETHAMLY-RXN	R00749	rxn00539	rea	Lreu_seed
+rxn00678_c0		MNXR106756	2.1.3.1-RXN	R00930	rxn00678	rea	Lreu_seed
+rxn03667_c0		MNXR109517		R05366	rxn03667	rea	Lreu_seed
+rxn00001_c0	['R_PPA', 'IDPh', 'R_IDPh', 'IDPm', 'R_IDPm', 'PPA', 'PPA_1', 'R_PPA_1', 'PPA_1pp', 'R_PPA_1pp', 'R_PPAer', 'PPAm', 'PPAer', 'PPAn', 'R_PPAn', 'R_r0009', 'R_PPAm', 'r0009']	MNXR100808	INORGPYROPHOSPHAT-RXN	R00004	['rxn00001', 'rxn11226']	rea	Lreu_seed
+rxn01331_c0	['E4PD', 'R_E4PD']	MNXR97842	ERYTH4PDEHYDROG-RXN	R01825	rxn01331	rea	Lreu_seed
+rxn00710_c0	['R_OMPDC', 'OMPDC']	MNXR102190	OROTPDECARB-RXN	R00965	rxn00710	rea	Lreu_seed
+rxn10317_c0		MNXR136313			rxn10317	rea	Lreu_seed
+rxn01114_c0	['R_RBK_Dr', 'RBK_Dr']	MNXR103432	D-RIBULOKIN-RXN	R01526	rxn01114	rea	Lreu_seed
+rxn02305_c0	['R_TMPPP', 'TMPPP']	MNXR104908	THI-P-SYN-RXN	R03223	rxn02305	rea	Lreu_seed
+rxn00470_c0	['R_ORDCh', 'R_ORNDC', 'ORNDC', 'ORDCh']	MNXR102209	ORNDECARBOX-RXN	R00670	rxn00470	rea	Lreu_seed
+rxn08817_c0		MNXR135861			rxn08817	rea	Lreu_seed
+rxn00953_c0		MNXR106903			rxn00953	rea	Lreu_seed
+rxn01129_c0	['R_DATUP', 'DATUP']	MNXR97177		R01549	rxn01129	rea	Lreu_seed
+rxn08296_c0		MNXR135767			rxn08296	rea	Lreu_seed
+rxn00717_c0	['R_CSND', 'CSND']	MNXR96927	CYTDEAM-RXN	R00974	rxn00717	rea	Lreu_seed
+rxn05647_c0	['R_SALCptspp', 'SALCptspp', 'R_SALCpts', 'SALCpts']	MNXR104266			rxn05647	rea	Lreu_seed
+rxn10254_c0		MNXR136250			rxn10254	rea	Lreu_seed
+rxn05459_c0		MNXR134954			rxn05459	rea	Lreu_seed
+rxn05453_c0		MNXR134950			rxn05453	rea	Lreu_seed
+rxn01682_c0	['TRPS3', 'R_TRPS3', 'R_G3PL', 'G3PL']	MNXR99889	RXN0-2381	R02340	rxn01682	rea	Lreu_seed
+rxn08796_c0		MNXR135842			rxn08796	rea	Lreu_seed
+rxn06493_c0	['R_GCCc', 'GCCc', 'GCCcm', 'R_GCCcm']	MNXR100069		R03815	rxn06493	rea	Lreu_seed
+rxn12846_c0	['R_GLYPHEHYc', 'GLYPHEHYc']	MNXR100357			rxn12846	rea	Lreu_seed
+rxn00337_c0	['R_ASPK', 'ASPK_1', 'R_ASPK_1', 'ASPK']	MNXR96085	ASPARTATEKIN-RXN	R00480	rxn00337	rea	Lreu_seed
+rxn08308_c0	['R_DASYN141', 'DASYN141']	MNXR97156			rxn08308	rea	Lreu_seed
+rxn00208_c0	['R_PYAM5PO', 'PYAM5PO']	MNXR103355	PMPOXI-RXN	R00277	rxn00208	rea	Lreu_seed
+rxn08823_c0		MNXR135865			rxn08823	rea	Lreu_seed
+rxn05434_c0		MNXR134931			rxn05434	rea	Lreu_seed
+rxn05346_c0		MNXR109245	RXN-9516	R04952	rxn05346	rea	Lreu_seed
+rxn07680_c0		MNXR111473		R07890	rxn07680	rea	Lreu_seed
+rxn00452_c0		MNXR100577			rxn00452	rea	Lreu_seed
+rxn03248_c0		MNXR109092	RXN-14277	R04747	rxn03248	rea	Lreu_seed
+rxn05516_c0		MNXR96495	['3.6.3.3-RXN', '3.6.3.46-RXN']		['rxn08195', 'rxn05516']	rea	Lreu_seed
+rxn05142_c0		MNXR111076		R07441	rxn05142	rea	Lreu_seed
+rxn05733_c0	['R_AHSERL4', 'AHSERL4', 'CYSS_trdrd', 'R_CYSS_trdrd']	MNXR95636		R04859	rxn05733	rea	Lreu_seed
+rxn12512_c0	['PPNCL3', 'R_PPNCL3']	MNXR103120	RXN66-555	R04230	rxn12512	rea	Lreu_seed
+rxn08669_c0	['GPDDA4pp', 'R_GPDDA4pp', 'GPDDA4', 'R_GPDDA4']	MNXR100413	RXN-14073		rxn08669	rea	Lreu_seed
+rxn06672_c0	['BTNC', 'R_BTNC']	MNXR96330		R04385	rxn06672	rea	Lreu_seed
+rxn02961_c0		MNXR108756		R04247	rxn02961	rea	Lreu_seed
+rxn00649_c0	['R_CYSS_2', 'CYSS_2', 'R_CYSS_1', 'CYSS_1', 'R_CYSS', 'CYSS']	MNXR97007	ACSERLY-RXN	R00897	rxn00649	rea	Lreu_seed
+rxn02400_c0	['R_NT5C', 'NT5C']	MNXR102027	RXN-14227	R03346	rxn02400	rea	Lreu_seed
+rxn01974_c0	['DAPE', 'R_DAPE']	MNXR97143	DIAMINOPIMEPIM-RXN	R02735	rxn01974	rea	Lreu_seed
+rxn00242_c0	['PPGPPDP', 'R_PPGPPDP']	MNXR103109	PPGPPSYN-RXN	R00336	rxn00242	rea	Lreu_seed
+rxn12641_c0		MNXR123346	RXN0-6977		rxn12641	rea	Lreu_seed
+rxn00762_c0	['GLYCDx', 'R_GLYCDx']	MNXR100326	GLYCDEH-RXN	R01034	rxn00762	rea	Lreu_seed
+rxn08971_c0	['R_NADH10', 'NADH10']	MNXR101863			rxn08971	rea	Lreu_seed
+rxn01635_c0		MNXR107426	3.5.4.22-RXN	R02280	rxn01635	rea	Lreu_seed
+rxn04384_c0	['R_ADCPS2', 'ADCPS2']	MNXR95439	RXN-6261	R06529	rxn04384	rea	Lreu_seed
+rxn03887_c0	['R_GALCTD', 'GALCTD_1', 'R_GALCTD_1', 'GALCTD']	MNXR99955	GALACTARDEHYDRA-RXN	R05608	rxn03887	rea	Lreu_seed
+rxn00060_c0	['R_PPBNGD', 'HMBS', 'R_HMBS', 'PPBNGD']	MNXR100658	OHMETHYLBILANESYN-RXN	R00084	rxn00060	rea	Lreu_seed
+rxn00225_c0	['ACKrm', 'R_ACKrm', 'R_ACKr', 'ACKr', 'ACKrh', 'R_ACKrh']	MNXR95269	ACETATEKIN-RXN	R00315	rxn00225	rea	Lreu_seed
+rxn05350_c0		MNXR109248	RXN-9523	R04957	rxn05350	rea	Lreu_seed
+rxn08838_c0		MNXR142324			rxn08838	rea	Lreu_seed
+rxn00780_c0	['TRIOK', 'R_TRIOK']	MNXR104940	TRIOKINASE-RXN	R01059	rxn00780	rea	Lreu_seed
+rxn00148_c0	['R_PYKf', 'PYKf', 'PYKm', 'R_PYKm', 'R_PYK', 'PYK']	MNXR103371	PEPDEPHOS-RXN	R00200	rxn00148	rea	Lreu_seed
+rxn01102_c0		MNXR141891			rxn01102	rea	Lreu_seed
+rxn05569_c0	['R_GAMptspp', 'GAMptspp', 'GAMpts', 'R_GAMpts']	MNXR100034			['rxn05569', 'rxn08592']	rea	Lreu_seed
+rxn05358_c0		MNXR134855			rxn05358	rea	Lreu_seed
+rxn00100_c0	['R_DPCOAKm', 'DPCOAK', 'R_DPCOAK', 'DPCOAKm']	MNXR97762	DEPHOSPHOCOAKIN-RXN	R00130	rxn00100	rea	Lreu_seed
+rxn02374_c0	['G5SADrm', 'R_G5SADrm', 'G5SADs', 'R_G5SADs']	MNXR99897			['rxn11220', 'rxn02374']	rea	Lreu_seed
+rxn05560_c0	['FRUptspp', 'FRUpts', 'R_FRUptspp', 'R_FRUpts']	MNXR138359			['rxn08536', 'rxn05560']	rea	Lreu_seed
+rxn05437_c0		MNXR134934			rxn05437	rea	Lreu_seed
+rxn00837_c0	['GMPR', 'R_GMPR']	MNXR100382	GMP-REDUCT-RXN	R01134	rxn00837	rea	Lreu_seed
+rxn08976_c0	['NADH9', 'R_NADH9']	MNXR101876			rxn08976	rea	Lreu_seed
+rxn00781_c0	['R_GAPD', 'R_GAPDHi', 'GAPDHm', 'GAPDHi', 'R_GAPDHh', 'R_GAPDHf', 'GAPDHh', 'GAPD', 'GAPDHf', 'R_GAPDHm']	MNXR100040	GAPOXNPHOSPHN-RXN	R01061	rxn00781	rea	Lreu_seed
+rxn05319_c0	['H2Otly', 'R_H2Othu', 'H2Othu', 'R_H2Otf', 'R_H2Oth', 'H2Oth', 'R_H2Otg', 'R_H2Otly', 'H2Otg', 'H2Otm', 'H2Ot', 'R_EX_oh1_e', 'EX_h2o_e', 'R_EX_h2o_e', 'EX_oh1_e', 'R_H2Otex', 'H2Otex', 'R_H2Otm', 'H2Oter', 'R_H2Ot', 'H2Otf', 'H2Otn', 'R_H2Oter', 'H2Otn_1', 'R_H2Otn', 'R_H2Otv', 'H2Otv', 'R_H2Otu_syn', 'R_H2Ots', 'H2Otu_syn', 'R_H2Otpp', 'H2Otpp', 'R_H2Otp', 'H2Otp', 'R_H2Otn_1', 'H2Ots']	MNXR98641	['TRANS-RXN-145', 'TRANS-RXN0-547']		['rxn09874', 'rxn09838', 'rxn09812', 'rxn09643', 'rxn08687', 'rxn08686', 'rxn05319', 'rxn09745']	rea	Lreu_seed
+rxn00881_c0	['R_MI1PP', 'MI1PP']	MNXR101570	RXN0-5408	R01185	rxn00881	rea	Lreu_seed
+rxn05298_c0	['GLUNA1th', 'R_GLUNA1th', 'GLUNA1tm', 'R_GLUt4pp', 'GLUt4', 'R_GLUt4', 'GLUt4pp', 'R_GLUNA1tm']	MNXR100285			['rxn08632', 'rxn05298']	rea	Lreu_seed
+rxn05408_c0		MNXR134905			rxn05408	rea	Lreu_seed
+rxn00292_c0	['UAG2EMA', 'r0113', 'R_r0113', 'R_UAG2EMA']	MNXR105025		R00414	rxn00292	rea	Lreu_seed
+rxn05401_c0		MNXR134898			rxn05401	rea	Lreu_seed
+rxn01709_c0		MNXR107474		R02376	rxn01709	rea	Lreu_seed
+rxn02264_c0	['UPP3S', 'R_UPP3S', 'UPP3S_1', 'R_UPP3S_1']	MNXR105139	UROGENIIISYN-RXN	R03165	rxn02264	rea	Lreu_seed
+rxn03185_c0		MNXR109030		['R04661', 'R06000']	rxn03185	rea	Lreu_seed
+rxn01451_c0	['HACD1', 'R_HACD1', 'R_HACD1m', 'HACD1x', 'R_HACD1x', 'R_HACD1_2', 'R_HBCOm', 'HACD1m', 'HACD1i', 'HACD1_1', 'HACD1_2', 'HBCOm', 'R_HACD1i', 'R_HACD1_1']	MNXR100541	RXN-11662	R01975	rxn01451	rea	Lreu_seed
+rxn02687_c0		MNXR108426	RXN-15840	R03790	rxn02687	rea	Lreu_seed
+rxn03903_c0		MNXR132731			rxn03903	rea	Lreu_seed
+rxn00097_c0	['R_ATAMh', 'ATAMh', 'R_ADK1m', 'ADK1m', 'R_ADK1', 'ADK1']	MNXR95450	ADENYL-KIN-RXN	R00127	rxn00097	rea	Lreu_seed
+rxn01217_c0	['DCMPDA', 'R_DCMPDA']	MNXR97185	DCMP-DEAMINASE-RXN	R01663	rxn01217	rea	Lreu_seed
+rxn07670_c0		MNXR111463		R07880	rxn07670	rea	Lreu_seed
+rxn05324_c0		MNXR109080	RXN-9661	R04724	rxn05324	rea	Lreu_seed
+rxn10481_c0	['R_Cuabc', 'CUabcpp', 'R_CUabcpp', 'Cuabc']	MNXR96952			rxn10481	rea	Lreu_seed
+rxn00655_c0		MNXR106741	BETA-ALANOPINE-DEHYDROGENASE-RXN	R00906	rxn00655	rea	Lreu_seed
+rxn00692_c0		MNXR141852			rxn00692	rea	Lreu_seed
+rxn01492_c0	['R_FRUK', 'FRUK']	MNXR99652			rxn01492	rea	Lreu_seed
+rxn00802_c0		MNXR95948	ARGSUCCINLYA-RXN	R01086	rxn00802	rea	Lreu_seed
+rxn08802_c0		MNXR135846			rxn08802	rea	Lreu_seed
+rxn02315_c0		MNXR108039		R03237	rxn02315	rea	Lreu_seed
+rxn00556_c0	['r0191', 'R_r0191']	MNXR138936		R00769	rxn00556	rea	Lreu_seed
+rxn03509_c0		MNXR109374	4.1.1.76-RXN	R05173	rxn03509	rea	Lreu_seed
+rxn05413_c0		MNXR134910			rxn05413	rea	Lreu_seed
+rxn02703_c0		MNXR108451		R03819	rxn02703	rea	Lreu_seed
+rxn00913_c0	['R_NTD9e', 'NTD9l', 'NTD9e', 'R_NTD9l', 'R_NTD9', 'NTD9pp', 'GMP5N', 'R_GMP5N', 'NTD9', 'R_NTD9pp']	MNXR100381	RXN-7609	R01227	rxn00913	rea	Lreu_seed
+rxn01997_c0	['TDPGDH', 'R_TDPGDH']	MNXR104761	DTDPGLUCDEHYDRAT-RXN	R06513	rxn01997	rea	Lreu_seed
+rxn08521_c0	['FLVRx', 'R_FLVRx']	MNXR99602		R09750	rxn08521	rea	Lreu_seed
+rxn08809_c0		MNXR142316			rxn08809	rea	Lreu_seed
+rxn00171_c0	['ACALD', 'R_ACALD', 'ACALDh', 'R_ACALDh']	MNXR95210	ACETALD-DEHYDROG-RXN	R00228	rxn00171	rea	Lreu_seed
+rxn00345_c0	['R_NACASPAH', 'NACASPAH']	MNXR106555	RXN-13680	R00488	rxn00345	rea	Lreu_seed
+rxn00178_c0	['ACACT1m', 'ACACT1', 'R_ACACT1', 'R_ACACT1m', 'ACACT1r', 'R_ACACT1r', 'ACACT1x', 'R_ACACT1x', 'KAT1', 'R_KAT1']	MNXR95194	ACETYL-COA-ACETYLTRANSFER-RXN	R00238	rxn00178	rea	Lreu_seed
+rxn01362_c0	['R_ORPT', 'ORPT']	MNXR102231	OROPRIBTRANS-RXN	R01870	rxn01362	rea	Lreu_seed
+rxn03174_c0		MNXR105370		R04639	rxn03174	rea	Lreu_seed
+rxn04779_c0		MNXR110690	RXN-8018	R06970	rxn04779	rea	Lreu_seed
+rxn07875_c0		MNXR111665	RXN-11970	R08086	rxn07875	rea	Lreu_seed
+rxn05418_c0		MNXR134915			rxn05418	rea	Lreu_seed
+rxn02113_c0		MNXR134335			rxn02113	rea	Lreu_seed
+rxn00340_c0	['R_ASNS2', 'ASNS2']	MNXR96060	ASNSYNA-RXN	R00483	rxn00340	rea	Lreu_seed
+rxn10060_c0		MNXR142368			rxn10060	rea	Lreu_seed
+rxn02933_c0	['R_HACD9', 'HACD9', 'HACD9m', 'R_HACD9m']	MNXR100550	1.1.1.178-RXN	R04203	rxn02933	rea	Lreu_seed
+rxn05500_c0	['R_ARBt2rpp', 'ARBt2rpp', 'R_ARBt2r', 'ARBt2r']	MNXR126356	TRANS-RXN-10		['rxn08140', 'rxn05500']	rea	Lreu_seed
+rxn05617_c0	['R_MNLptspp', 'MNLptspp', 'MNLpts', 'R_MNLpts']	MNXR101677			['rxn13944', 'rxn08949', 'rxn13934', 'rxn05617']	rea	Lreu_seed
+rxn00465_c0		MNXR141844			rxn00465	rea	Lreu_seed
+rxn12638_c0		MNXR137142			rxn12638	rea	Lreu_seed
+rxn05243_c0	['LEUth', 'R_LEUth', 'LEUtm', 'R_LEUtm', 'LEUt7', 'R_LEUt2rpp', 'LEUt2rpp', 'R_LEUt2r', 'LEUt2r', 'R_LEUt7']	MNXR101055			['rxn13340', 'rxn08785', 'rxn11119', 'rxn05243']	rea	Lreu_seed
+rxn05127_c0	['R_GGGABADr', 'GGGABADr']	MNXR100113		R07418	rxn05127	rea	Lreu_seed
+rxn00305_c0	['PEPCK_re', 'R_PEPCK_re', 'R_PEPCKm', 'PEPCKm']	MNXR102487	4.1.1.32-RXN	R00431	rxn00305	rea	Lreu_seed
+rxn01445_c0	['R_NTD8pp', 'NTD8pp', 'R_NTD8l', 'NTD8', 'R_NTD8', 'NTD8l']	MNXR102038	RXN-14142	R01968	rxn01445	rea	Lreu_seed
+rxn00612_c0	['G3PD2_1', 'G3PD2', 'R_G3PD2_2', 'G3PD2_2', 'R_G3PD2_1', 'R_G3PD2']	MNXR99877		R00844	rxn00612	rea	Lreu_seed
+rxn08841_c0		MNXR142327			rxn08841	rea	Lreu_seed
+rxn05461_c0		MNXR134956			rxn05461	rea	Lreu_seed
+rxn07312_c0	['CYARTMT', 'R_CYARTMT']	MNXR96958	RXN-4021	R07481	rxn07312	rea	Lreu_seed
+rxn01701_c0	['TRETINOLPMTACT', 'R_TRETINOLPMTACT']	MNXR104929	RXN-12547	R02367	rxn01701	rea	Lreu_seed
+rxn05571_c0	['R_GLCNt2rpp', 'GLCNt2rpp', 'R_GLCNt2r', 'GLCNt2r', 'GLCNt2ir', 'R_GLCNt2ir']	MNXR100209	TRANS-RXN0-209		['rxn05571', 'rxn08609']	rea	Lreu_seed
+rxn10222_c0		MNXR136218			rxn10222	rea	Lreu_seed
+rxn01966_c0		MNXR107696		['R06053', 'R02727']	rxn01966	rea	Lreu_seed
+rxn10263_c0		MNXR136259			rxn10263	rea	Lreu_seed
+rxn05466_c0	['NH4t', 'R_NH4tp', 'R_NH4tpp', 'R_NH4t', 'R_NH4tm', 'R_NH4tex', 'NH4tpp', 'NH4ti', 'R_NH4ti', 'NH4tp', 'R_NH4tn', 'NH4tm', 'NH4tn', 'NH4tex']	MNXR101950	['TRANS-RXN0-544', 'TRANS-RXN0-206', 'RXN-9615']		['rxn05466', 'rxn08987', 'rxn13364', 'rxn08986', 'rxn09835', 'rxn09736']	rea	Lreu_seed
+rxn08814_c0		MNXR135858			rxn08814	rea	Lreu_seed
+rxn08845_c0		MNXR135885			rxn08845	rea	Lreu_seed
+rxn00395_c0		MNXR141840			rxn00395	rea	Lreu_seed
+rxn01292_c0	['R_ARAI', 'ARAI']	MNXR107160		R01761	rxn01292	rea	Lreu_seed
+rxn00300_c0		MNXR141834			rxn00300	rea	Lreu_seed
+rxn02380_c0	['R_G6PI3', 'G6PI3']	MNXR138461			rxn02380	rea	Lreu_seed
+rxn08792_c0	['L_LACD2', 'R_L_LACD2']	MNXR101273			rxn08792	rea	Lreu_seed
+rxn10131_c0	['ARGORNt7', 'R_ARGORNt7', 'ARGORNt7pp', 'R_ARGORNt7pp', 'R_ORNtm', 'ORNtm']	MNXR95946			['rxn08153', 'rxn10131']	rea	Lreu_seed
+rxn05417_c0		MNXR134914			rxn05417	rea	Lreu_seed
+rxn08799_c0	['R_LPLIPAL1A160pp', 'LPLIPAL1A160pp']	MNXR101144			rxn08799	rea	Lreu_seed
+rxn05234_c0	['RNTR2', 'R_RNTR2']	MNXR104073		R02020	rxn05234	rea	Lreu_seed
+rxn03419_c0	['r0775', 'R_r0775']	MNXR138945		R05046	rxn03419	rea	Lreu_seed
+rxn11610_c0		MNXR108920		R04488	rxn11610	rea	Lreu_seed
+rxn10256_c0		MNXR136252			rxn10256	rea	Lreu_seed
+rxn04781_c0		MNXR139491	RXN-8020	R06972	rxn04781	rea	Lreu_seed
+rxn01516_c0		MNXR141920			rxn01516	rea	Lreu_seed
+rxn00758_c0		MNXR141159			rxn00758	rea	Lreu_seed
+rxn02975_c0		MNXR142028			rxn02975	rea	Lreu_seed
+rxn05555_c0	['FE2abcpp', 'R_FE2abc', 'FE2abc', 'R_FE2abcpp']	MNXR99504			['rxn05555', 'rxn08472']	rea	Lreu_seed
+rxn09111_c0	['R_PGSA160', 'PGSA160']	MNXR102592			rxn09111	rea	Lreu_seed
+rxn05607_c0	['MALTpts', 'MALTptspp', 'R_MALTptspp', 'R_MALTpts']	MNXR101363			['rxn05607', 'rxn08872']	rea	Lreu_seed
+rxn03848_c0		MNXR134580			rxn03848	rea	Lreu_seed
+rxn05348_c0		MNXR109254	RXN-9531	R04963	rxn05348	rea	Lreu_seed
+rxn05435_c0		MNXR134932			rxn05435	rea	Lreu_seed
+rxn00907_c0		MNXR141865			rxn00907	rea	Lreu_seed
+rxn05458_c0		MNXR114020	RXN3O-9780	R10700	rxn05458	rea	Lreu_seed
+rxn08300_c0		MNXR135771			rxn08300	rea	Lreu_seed
+rxn08297_c0		MNXR135768			rxn08297	rea	Lreu_seed
+rxn00012_c0		MNXR106339		['R00015', 'R06135']	rxn00012	rea	Lreu_seed
+rxn05581_c0	['GLYCtex', 'GLYCtpp', 'R_GLYCtm', 'GLYCtm', 'R_GLYCtex', 'GLYCt1', 'R_GLYCt1', 'R_GLYCtpp', 'R_GLYCt', 'GLYCt']	MNXR100343	TRANS-RXN-131		['rxn05581', 'rxn08658', 'rxn08654']	rea	Lreu_seed
+rxn07721_c0		MNXR111514		R07931	rxn07721	rea	Lreu_seed
+rxn10322_c0		MNXR136318			rxn10322	rea	Lreu_seed
+rxn05450_c0		MNXR134947			rxn05450	rea	Lreu_seed
+rxn12847_c0		MNXR129847			rxn12847	rea	Lreu_seed
+rxn05410_c0		MNXR134907			rxn05410	rea	Lreu_seed
+rxn05443_c0		MNXR134940			rxn05443	rea	Lreu_seed
+rxn09320_c0	['R_TPRDCOAS', 'TPRDCOAS']	MNXR104920	2.7.8.25-RXN	R09675	rxn09320	rea	Lreu_seed
+rxn09114_c0		MNXR135940			rxn09114	rea	Lreu_seed
+rxn08822_c0	['LPLIPAL2A180', 'R_LPLIPAL2A180']	MNXR101167			rxn08822	rea	Lreu_seed
+rxn05345_c0		MNXR109082	RXN-9535	R04726	rxn05345	rea	Lreu_seed
+rxn04068_c0		MNXR109872	CHOLOYLGLYCINE-HYDROLASE-RXN	R05835	rxn04068	rea	Lreu_seed
+rxn05422_c0		MNXR134919			rxn05422	rea	Lreu_seed
+rxn01465_c0	['DHORTS', 'R_DHORTS', 'DHORTSn', 'R_DHORTSn', 'DHR', 'R_DHR']	MNXR97428	DIHYDROOROT-RXN	R01993	rxn01465	rea	Lreu_seed
+rxn05145_c0	['R_PIuabcpp', 'PIuabcpp', 'R_PIabc', 'PIabc']	MNXR102870	ABC-27-RXN		['rxn05145', 'rxn09122']	rea	Lreu_seed
+rxn01643_c0	['ASADi', 'R_ASADH', 'R_ASAD', 'ASADH', 'ASAD', 'R_ASADi']	MNXR96039	ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	R02291	rxn01643	rea	Lreu_seed
+rxn04457_c0		MNXR110387		R06605	rxn04457	rea	Lreu_seed
+rxn00295_c0	['UAG4E', 'R_UAG4E', 'UAG4Ei', 'R_UAG4Ei']	MNXR105027		R00418	rxn00295	rea	Lreu_seed
+rxn00499_c0	['R_LLDHh', 'r0173', 'LLDHh', 'R_LDH_Lm', 'R_LDH_L', 'LDH_L', 'R_r0173', 'LDH_Lm']	MNXR101040	L-LACTATE-DEHYDROGENASE-RXN	R00703	rxn00499	rea	Lreu_seed
+rxn08844_c0		MNXR142330			rxn08844	rea	Lreu_seed
+rxn05385_c0		MNXR134882			rxn05385	rea	Lreu_seed
+rxn00707_c0	['ITCY', 'R_ITCY']	MNXR100885		R00962	rxn00707	rea	Lreu_seed
+rxn00369_c0	['CYTDK2', 'R_CYTDK2']	MNXR97042	CYTIDINEKIN-RXN	R00517	rxn00369	rea	Lreu_seed
+rxn06937_c0	['GLUTRS', 'GLUTRSm', 'R_GLUTRS_1', 'GLUTRS_1', 'R_GLUTRSm', 'R_GLUTRS']	MNXR100295		R05578	rxn06937	rea	Lreu_seed
+rxn03095_c0		MNXR108919		R04487	rxn03095	rea	Lreu_seed
+rxn00566_c0	['R_CYSDS', 'CYSDS', 'R_CYSTBL', 'TRPAS1', 'R_TRPAS1', 'CYSTBL']	MNXR96994	LCYSDESULF-RXN	R00782	rxn00566	rea	Lreu_seed
+rxn00708_c0	['R_NTD2m', 'NTD2pp', 'R_NTD2pp', 'NTD2m', 'R_NTD2', 'NTD2l', 'R_NTD2e', 'NTD2e', 'R_NTD2l', 'NTD2']	MNXR102032	RXN-14025	R00963	rxn00708	rea	Lreu_seed
+rxn03762_c0		MNXR109607	2.5.1.66-RXN	R05465	rxn03762	rea	Lreu_seed
+rxn00392_c0	['RBFK', 'RBFKm', 'R_RBFKm', 'R_RBFK']	MNXR103429	RIBOFLAVINKIN-RXN	R00549	rxn00392	rea	Lreu_seed
+rxn00747_c0	['TPI', 'R_TPIh', 'TPIh', 'R_TPI']	MNXR104918	TRIOSEPISOMERIZATION-RXN	R01015	rxn00747	rea	Lreu_seed
+rxn01334_c0	['R_FBA3hi', 'FBA3', 'R_FBA3', 'FBA3hi']	MNXR99461	SEDOBISALDOL-RXN	R01829	rxn01334	rea	Lreu_seed
+rxn00830_c0	['IDIh', 'R_IDIh', 'IPDDI', 'R_IPDDI', 'IPDDIx', 'R_IPDDIx']	MNXR100796	IPPISOM-RXN	R01123	rxn00830	rea	Lreu_seed
+rxn05219_c0	['METabcpp', 'R_METabc', 'R_METabcpp', 'METabc']	MNXR101489	RXN0-4522		['rxn08909', 'rxn05219', 'rxn11151']	rea	Lreu_seed
+rxn10113_c0	['CYTBO3', 'R_CYTBO3']	MNXR97035			rxn10113	rea	Lreu_seed
+rxn03406_c0	['GLNSP1', 'R_GLNSP1']	MNXR100252			rxn03406	rea	Lreu_seed
+rxn00029_c0	['R_PPBNGS', 'PPBNGS_1', 'PPBNGS', 'R_PPBNGS_1']	MNXR103095	PORPHOBILSYNTH-RXN	R00036	rxn00029	rea	Lreu_seed
+rxn06673_c0	['R_ACCOAC_1', 'ACCOAC_1']	MNXR95220		R04386	rxn06673	rea	Lreu_seed
+rxn07734_c0		MNXR111527		R07944	rxn07734	rea	Lreu_seed
+rxn12646_c0		MNXR123351	RXN0-6983		rxn12646	rea	Lreu_seed
+rxn06777_c0	['R_HACD6p', 'HACD6m', 'R_HACD6i', 'HACD6', 'HACD6i', 'R_HACD6m', 'HACD6p', 'R_HACD6', 'HACD6_1', 'R_HACD6_1']	MNXR100547	RXN-12507	R04739	rxn06777	rea	Lreu_seed
+rxn03869_c0		MNXR109702		R05590	rxn03869	rea	Lreu_seed
+rxn05448_c0		MNXR134945			rxn05448	rea	Lreu_seed
+rxn05446_c0		MNXR134943			rxn05446	rea	Lreu_seed
+rxn02175_c0		MNXR141973			rxn02175	rea	Lreu_seed
+rxn04385_c0	['R_THRPD', 'R_THRPDC', 'THRPD', 'THRPDC']	MNXR104843	4.1.1.81-RXN	R06530	rxn04385	rea	Lreu_seed
+rxn03861_c0		MNXR109694		R05576	rxn03861	rea	Lreu_seed
+rxn02353_c0		MNXR141987			rxn02353	rea	Lreu_seed
+rxn00146_c0		MNXR138960	1.1.2.5-RXN	['R00198', 'R00197']	rxn00146	rea	Lreu_seed
+rxn08839_c0		MNXR142325			rxn08839	rea	Lreu_seed
+rxn03289_c0		MNXR109136		R04812	rxn03289	rea	Lreu_seed
+rxn03536_c0	['ADOCBIK', 'R_ADOCBIK']	MNXR95465	COBINAMIDEKIN-RXN	R05221	rxn03536	rea	Lreu_seed
+rxn01454_c0		MNXR107257	HYDROXYMETHYLGLUTARYL-COA-SYNTHASE-RXN	R01978	rxn01454	rea	Lreu_seed
+rxn05150_c0	['ZNabcpp', 'R_ZNabcpp', 'ZNabc', 'R_ZNabc']	MNXR105281	ABC-63-RXN		['rxn05150', 'rxn09392']	rea	Lreu_seed
+rxn02009_c0	['R_UAAGLS1', 'UAAGLS1']	MNXR138891			['rxn02009', 'rxn11253']	rea	Lreu_seed
+rxn09562_c0	['R_GK2', 'GK2']	MNXR100145			rxn09562	rea	Lreu_seed
+rxn05359_c0		MNXR134856			rxn05359	rea	Lreu_seed
+rxn03282_c0		MNXR109129		R04805	rxn03282	rea	Lreu_seed
+rxn03080_c0	['R_RBFSa', 'RBFSa', 'R_DLDLBT', 'DLDLBT']	MNXR97501	LUMAZINESYN-RXN	R04457	rxn03080	rea	Lreu_seed
+rxn01044_c0		MNXR141878			rxn01044	rea	Lreu_seed
+rxn00143_c0	['R_AHCYSNS', 'AHCYSNS']	MNXR95625	ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN	R00194	rxn00143	rea	Lreu_seed
+rxn12644_c0		MNXR137144			rxn12644	rea	Lreu_seed
+rxn01505_c0	['ACGAMPM', 'R_ACGAMPM']	MNXR137995			rxn01505	rea	Lreu_seed
+rxn01259_c0	['R_MLTG7', 'r0390', 'MLTG7', 'R_r0390']	MNXR101625			rxn01259	rea	Lreu_seed
+rxn08843_c0		MNXR142329			rxn08843	rea	Lreu_seed
+rxn04723_c0		MNXR110639		R06914	rxn04723	rea	Lreu_seed
+rxn00213_c0	['R_GALUi', 'GALUi']	MNXR100022		R00289	rxn00213	rea	Lreu_seed
+rxn00777_c0		MNXR106809	RIB5PISOM-RXN	R01056	rxn00777	rea	Lreu_seed
+rxn13784_c0		MNXR137717			rxn13784	rea	Lreu_seed
+rxn05573_c0	['R_GLCt2pp', 'GLCt2pp', 'R_GLCt2', 'GLCt2']	MNXR100238			['rxn08616', 'rxn05573']	rea	Lreu_seed
+rxn05327_c0		MNXR109252		R04961	rxn05327	rea	Lreu_seed
+rxn01444_c0	['DGNSK', 'R_DGNSK', 'DGNSKm', 'R_DGNSKm']	MNXR97323	DEOXYGUANOSINE-KINASE-RXN	R01967	rxn01444	rea	Lreu_seed
+rxn05655_c0		MNXR104643			['rxn09274', 'rxn05655']	rea	Lreu_seed
+rxn10302_c0		MNXR136298			rxn10302	rea	Lreu_seed
+rxn02314_c0	['R_PFK_2', 'PFK_2']	MNXR102509	TAGAKIN-RXN	R03236	rxn02314	rea	Lreu_seed
+rxn08801_c0	['LPLIPAL1A180pp', 'R_LPLIPAL1A180pp']	MNXR101146			rxn08801	rea	Lreu_seed
+rxn02275_c0	['AMID', 'R_AMID']	MNXR95812	GUANIDINOBUTANAMIDE-NH3-RXN	R03180	rxn02275	rea	Lreu_seed
+rxn05244_c0	['R_ILEt2r', 'ILEt2r', 'ILEt7', 'R_ILEt7', 'ILEth', 'R_ILEth', 'ILEtm', 'R_ILEtm', 'ILEt2rpp', 'R_ILEt2rpp']	MNXR100822			['rxn05244', 'rxn13322', 'rxn08746']	rea	Lreu_seed
+rxn00927_c0	['R_ADNUC', 'ADNUC']	MNXR95459	ADENOSINE-NUCLEOSIDASE-RXN	R01245	rxn00927	rea	Lreu_seed
+rxn01545_c0	['XTSNH', 'R_XTSNH']	MNXR105245	RXN0-363	R02143	rxn01545	rea	Lreu_seed
+rxn04043_c0	['PFK_adp', 'R_PFK_adp']	MNXR138696		R05805	rxn04043	rea	Lreu_seed
+rxn07261_c0		MNXR111041		R07384	rxn07261	rea	Lreu_seed
+rxn00790_c0	['R_GLUPRT', 'PRDPARh', 'GLUPRT', 'R_PRDPARh']	MNXR100287	PRPPAMIDOTRANS-RXN	R01072	rxn00790	rea	Lreu_seed
+rxn00237_c0	['ATGDm', 'R_NDPK1n', 'NDPK1n', 'R_NDPK1m', 'NDPK1m', 'R_NDPK1', 'NDPK1', 'R_ATGDm']	MNXR96119	GDPKIN-RXN	R00330	rxn00237	rea	Lreu_seed
+rxn07100_c0		MNXR110181		R06364	rxn07100	rea	Lreu_seed
+rxn03540_c0	['ADCYRS', 'R_ADCYRS']	MNXR95441			rxn03540	rea	Lreu_seed
+rxn08311_c0	['R_DASYN180', 'DASYN180']	MNXR97160			rxn08311	rea	Lreu_seed
+rxn10264_c0		MNXR136260			rxn10264	rea	Lreu_seed
+rxn03421_c0	['R_r0777', 'r0777']	MNXR105383		R05048	rxn03421	rea	Lreu_seed
+rxn05336_c0	['3OAR160', 'R_3OAR160_1', '3OAR160_1', 'R_3OAR160']	MNXR94946		R04543	rxn05336	rea	Lreu_seed
+rxn02112_c0		MNXR134334			rxn02112	rea	Lreu_seed
+rxn00162_c0	['OAADC', 'R_OAADC']	MNXR102097	OXALODECARB-RXN	R00217	rxn00162	rea	Lreu_seed
+rxn05371_c0		MNXR134868			rxn05371	rea	Lreu_seed
+rxn07584_c0		MNXR142270			rxn07584	rea	Lreu_seed
+rxn01717_c0	['R_RE2124C', 'RE2124C']	MNXR103613	TYRAMINE-N-METHYLTRANSFERASE-RXN	R02384	rxn01717	rea	Lreu_seed
+rxn03211_c0		MNXR109054	1.5.1.27-RXN	R04695	rxn03211	rea	Lreu_seed
+rxn05567_c0	['R_GALTptspp', 'GALTptspp', 'R_GALTpts', 'GALTpts']	MNXR100018			['rxn05567', 'rxn08586']	rea	Lreu_seed
+rxn01119_c0		MNXR141896			rxn01119	rea	Lreu_seed
+rxn00532_c0		MNXR106663	RXN-8963	R00740	rxn00532	rea	Lreu_seed
+rxn00132_c0	['R_r0047', 'R_NTD7l', 'R_NTD7', 'NTD7e', 'R_NTD7e', 'NTD7l', 'NTD7pp', 'R_NTD7pp', 'r0047', 'NTD7']	MNXR102037	AMP-DEPHOSPHORYLATION-RXN	R00183	rxn00132	rea	Lreu_seed
+rxn07622_c0		MNXR139564	R6-RXN	R07831	rxn07622	rea	Lreu_seed
+rxn00712_c0	['R_UTUP', 'UTUP']	MNXR105177		R00967	rxn00712	rea	Lreu_seed
+rxn01479_c0	['PETHCT', 'R_PETHCT']	MNXR102498	2.7.7.14-RXN	R02038	rxn01479	rea	Lreu_seed
+rxn08815_c0		MNXR135859			rxn08815	rea	Lreu_seed
+rxn00126_c0	['METAT', 'R_METAT', 'R_MATm', 'MATm']	MNXR101407	S-ADENMETSYN-RXN	R00177	rxn00126	rea	Lreu_seed
+rxn01518_c0	['R_DURIK1', 'DURIK1', 'R_DURIK1m', 'DURIK1m']	MNXR97817	DURIDKI-RXN	R02099	rxn01518	rea	Lreu_seed
+rxn05649_c0	['R_DSERt2', 'DSERt2', 'R_DSERt2pp', 'DSERt2pp']	MNXR97798	RXN0-5130		['rxn08372', 'rxn05649']	rea	Lreu_seed
+rxn12844_c0		MNXR137157			rxn12844	rea	Lreu_seed
+rxn08798_c0		MNXR135844			rxn08798	rea	Lreu_seed
+rxn06905_c0		MNXR109514		R05363	rxn06905	rea	Lreu_seed
+rxn09244_c0	['R_SELCYSS', 'R_SLCS', 'SELCYSS', 'SLCS']	MNXR104314		R08219	rxn09244	rea	Lreu_seed
+rxn02584_c0		MNXR108301	ALKYLAMIDASE-RXN	R03620	rxn02584	rea	Lreu_seed
+rxn08306_c0	['R_DASYN120', 'DASYN120']	MNXR97154			rxn08306	rea	Lreu_seed
+rxn08821_c0		MNXR135864			rxn08821	rea	Lreu_seed
+rxn01871_c0	['PDHe2r', 'PDHbr', 'R_PDHbr', 'PDHe2hr', 'r0555', 'R_PDHe2r', 'R_PDHe2hr', 'R_r0555']	MNXR102430	DIHYDLIPACETRANS-RXN		rxn01871	rea	Lreu_seed
+rxn05340_c0	['3OAR120', 'R_3OAR120', '3OAR120_1', 'R_3OAR120_1']	MNXR94942		R04964	rxn05340	rea	Lreu_seed
+rxn05307_c0	['SERth', 'R_SERt2rpp', 'R_SERth', 'R_SERt2r', 'SERt2r', 'SERt2m', 'SERt2rpp', 'R_SERt2m']	MNXR104352	TRANS-RXN-71		['rxn05307', 'rxn09714', 'rxn09246']	rea	Lreu_seed
+rxn01169_c0		MNXR107081		R01600	rxn01169	rea	Lreu_seed
+rxn00299_c0		MNXR100453	GTP-CYCLOHYDRO-I-RXN	R00424	['rxn11232', 'rxn00299']	rea	Lreu_seed
+rxn05389_c0		MNXR134886			rxn05389	rea	Lreu_seed
+rxn01132_c0	['MPL', 'R_MPL']	MNXR101717		['R01555', 'R06040']	rxn01132	rea	Lreu_seed
+rxn04737_c0		MNXR110653		R06928	rxn04737	rea	Lreu_seed
+rxn02379_c0		MNXR108091		R03319	rxn02379	rea	Lreu_seed
+rxn03921_c0		MNXR109735		R05649	rxn03921	rea	Lreu_seed
+rxn02484_c0	['R_HMPK1', 'HMPK1']	MNXR100664	OHMETPYRKIN-RXN	R03471	rxn02484	rea	Lreu_seed
+rxn05671_c0		MNXR142141			['rxn09384', 'rxn05671']	rea	Lreu_seed
+rxn02916_c0	['PPD2CSPp', 'AOXHEXCYCL', 'R_AOXHEXCYCL', 'R_PPD2CSPp']	MNXR95853	RXN-8172	R04175	rxn02916	rea	Lreu_seed
+rxn03618_c0		MNXR109469		R05307	rxn03618	rea	Lreu_seed
+rxn01133_c0	['R_MALTATr', 'MALTATr']	MNXR101351	MALTACETYLTRAN-RXN	['R06251', 'R01556']	rxn01133	rea	Lreu_seed
+rxn12639_c0		MNXR123345	RXN0-6976		rxn12639	rea	Lreu_seed
+rxn10321_c0		MNXR136317			rxn10321	rea	Lreu_seed
+rxn00363_c0	['NTD4l', 'NTD4', 'R_NTD4', 'NTD4e', 'R_NTD4e', 'R_NTD4l', 'R_NTD4pp', 'NTD4pp']	MNXR102034	RXN-14026	R00511	rxn00363	rea	Lreu_seed
+rxn01462_c0	['GUDBUTNAH', 'R_GUDBUTNAH']	MNXR100467	GUANIDINOBUTYRASE-RXN	R01990	rxn01462	rea	Lreu_seed
+rxn01972_c0	['R_DAPDA', 'DAPDA']	MNXR97140	N-ACETYLDIAMINOPIMELATE-DEACETYLASE-RXN	R02733	rxn01972	rea	Lreu_seed
+rxn01670_c0	['R_NMNR', 'NMNR', 'R_NMNHYD', 'NMNHYD']	MNXR101970	RXN-5841	R02323	rxn01670	rea	Lreu_seed
+rxn12643_c0		MNXR123348	RXN0-6979		rxn12643	rea	Lreu_seed
+rxn05183_c0	['R_METDabcpp', 'METDabcpp', 'METDabc', 'R_METDabc']	MNXR101472	TRANS-RXN0-202		['rxn05183', 'rxn08910']	rea	Lreu_seed
+rxn01706_c0	['DUTCP', 'R_DUTCP']	MNXR97821		R02372	rxn01706	rea	Lreu_seed
+rxn00786_c0	['FBA', 'R_FBA']	MNXR99459		R01068	rxn00786	rea	Lreu_seed
+rxn14054_c0		MNXR109409		R05233	rxn14054	rea	Lreu_seed
+rxn03012_c0		MNXR108820	RXN-4821		rxn03012	rea	Lreu_seed
+rxn01100_c0		MNXR141087			rxn01100	rea	Lreu_seed
+rxn00838_c0		MNXR140004	ADENYLOSUCCINATE-SYNTHASE-RXN		rxn00838	rea	Lreu_seed
+rxn02283_c0		MNXR139182		R03189	rxn02283	rea	Lreu_seed
+rxn03287_c0		MNXR109134		R04810	rxn03287	rea	Lreu_seed
+rxn05396_c0		MNXR134893			rxn05396	rea	Lreu_seed
+rxn00831_c0	['NTD11pp', 'NTD11', 'R_NTD11', 'R_NTD11pp']	MNXR102030	RXN-7607	R01126	rxn00831	rea	Lreu_seed
+rxn12634_c0		MNXR137140			rxn12634	rea	Lreu_seed
+rxn00883_c0	['MI3PP', 'R_MI3PP']	MNXR101574	MYO-INOSITOL-1OR-4-MONOPHOSPHATASE-RXN	R01187	rxn00883	rea	Lreu_seed
+rxn05872_c0		MNXR106608	RXN-12448	R00624	['rxn14386', 'rxn05872']	rea	Lreu_seed
+rxn10299_c0		MNXR136295			rxn10299	rea	Lreu_seed
+rxn04727_c0		MNXR110643		R06918	rxn04727	rea	Lreu_seed
+rxn00776_c0		MNXR106808	RXN0-5398	R01055	rxn00776	rea	Lreu_seed
+rxn05485_c0	['ACGApts', 'R_ACGAptspp', 'ACGAptspp', 'R_ACGApts']	MNXR95253			['rxn08041', 'rxn05485']	rea	Lreu_seed
+rxn14089_c0		MNXR109410		R05234	rxn14089	rea	Lreu_seed
+rxn00214_c0	['UDPG4E', 'R_UDPG4E']	MNXR138907			rxn00214	rea	Lreu_seed
+rxn01895_c0		MNXR100654		R02603	rxn01895	rea	Lreu_seed
+rxn01211_c0	['R_MTHFC_1', 'MTHFCx', 'R_MTHFCx', 'MTHFC', 'MTHFCm_1', 'R_MTHFCm', 'MTHFCm', 'MTHFC_1', 'R_MTHFC', 'R_MTHFCm_1']	MNXR101748		R01655	rxn01211	rea	Lreu_seed
+rxn00527_c0	['R_TYRTAim', 'TYRTAim', 'TYRTAp', 'R_TYRTAm', 'TYRTAm', 'R_TYRTAip', 'TYRTAip', 'R_TYRTAp', 'R_TYRTA', 'TYRTAh', 'R_TYRTAh', 'TYRTAi', 'R_TYRTAi', 'TYRTA']	MNXR105000	TYROSINE-AMINOTRANSFERASE-RXN	R00734	rxn00527	rea	Lreu_seed
+rxn05322_c0		MNXR108883		R04429	rxn05322	rea	Lreu_seed
+rxn08804_c0		MNXR142311			rxn08804	rea	Lreu_seed
+rxn13782_c0		MNXR137715			rxn13782	rea	Lreu_seed
+rxn04270_c0		MNXR110224		R06407	rxn04270	rea	Lreu_seed
+rxn05430_c0		MNXR134927			rxn05430	rea	Lreu_seed
+rxn00554_c0		MNXR138989		R00767	rxn00554	rea	Lreu_seed
+rxn11838_c0		MNXR111862		R08310	rxn11838	rea	Lreu_seed
+rxn08527_c0	['FRD2', 'R_FRD2']	MNXR99637			rxn08527	rea	Lreu_seed
+rxn05501_c0	['R_ARBTpts', 'R_ARBTptspp', 'ARBTptspp', 'ARBTpts']	MNXR95932			rxn05501	rea	Lreu_seed
+rxn01509_c0	['R_DGK1', 'DGK1']	MNXR97320	GMKALT-RXN	R02090	rxn01509	rea	Lreu_seed
+rxn00173_c0	['R_PTArm', 'PTArm', 'R_PTAr', 'PTAr', 'R_PTArh', 'PTArh']	MNXR103319	PHOSACETYLTRANS-RXN	R00230	rxn00173	rea	Lreu_seed
+rxn01548_c0	['R_PUNP3m', 'PUNP3m', 'R_PUNP3', 'PUNP3']	MNXR103345	RXN0-5199	R02147	rxn01548	rea	Lreu_seed
+rxn08528_c0	['FRD3', 'R_FRD3']	MNXR99639			rxn08528	rea	Lreu_seed
+rxn01145_c0	['R_NTD5l', 'NTD5m', 'R_NTD5m', 'NTD5pp', 'R_NTD5pp', 'NTD5', 'NTD5l', 'R_NTD5']	MNXR102035	THYMIDYLATE-5-PHOSPHATASE-RXN	R01569	rxn01145	rea	Lreu_seed
+rxn02548_c0		MNXR139206	APIGENIN-4-O-METHYLTRANSFERASE-RXN	R03571	rxn02548	rea	Lreu_seed
+rxn05364_c0		MNXR134861			rxn05364	rea	Lreu_seed
+rxn05202_c0	['XANt2', 'R_XANt2pp', 'R_XANt2', 'XANt2pp']	MNXR105227	['RXN-5076', 'TRANS-RXN-206']		['rxn09377', 'rxn05202']	rea	Lreu_seed
+rxn00508_c0	['R_SSNOh', 'SSNOh', 'R_SSALxm', 'SSALxm', 'R_SSALx', 'SSALx']	MNXR104540	SUCCINATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	R00713	rxn00508	rea	Lreu_seed
+rxn02115_c0		MNXR134336			rxn02115	rea	Lreu_seed
+rxn00187_c0	['GALh', 'R_GALh', 'GALm', 'R_GALm', 'R_GLNS', 'GLNS']	MNXR100024	GLUTAMINESYN-RXN	R00253	rxn00187	rea	Lreu_seed
+rxn00376_c0		MNXR106562	FORMYLASPARTATE-DEFORMYLASE-RXN	R00526	rxn00376	rea	Lreu_seed
+rxn08850_c0		MNXR135890			rxn08850	rea	Lreu_seed
+rxn00500_c0	['R_LDHm', 'LDHm', 'R_LDH_D', 'LDH_D']	MNXR101037	DLACTDEHYDROGNAD-RXN	R00704	rxn00500	rea	Lreu_seed
+rxn00772_c0		MNXR106804		R01051	rxn00772	rea	Lreu_seed
+rxn08812_c0		MNXR135856			rxn08812	rea	Lreu_seed
+rxn02503_c0		MNXR141999			rxn02503	rea	Lreu_seed
+rxn05338_c0	['3OAR100', 'R_3OAR100', '3OAR100_1', 'R_3OAR100_1']	MNXR94941	RXN-9528	R04534	rxn05338	rea	Lreu_seed
+rxn00627_c0	['R_KHK', 'KHK']	MNXR138536		R00866	rxn00627	rea	Lreu_seed
+rxn05429_c0		MNXR134926			rxn05429	rea	Lreu_seed
+rxn05645_c0	['RIBFLVt2', 'R_RIBFLVt2']	MNXR104030			rxn05645	rea	Lreu_seed
+rxn08310_c0	['DASYN161', 'R_DASYN161']	MNXR97159			rxn08310	rea	Lreu_seed
+rxn00915_c0	['R_GUAPRT', 'GUAPRT', 'GPAR', 'R_GPAR']	MNXR100409	GUANPRIBOSYLTRAN-RXN	R01229	rxn00915	rea	Lreu_seed
+rxn01967_c0	['R_PGMT_B', 'PGMT_B']	MNXR102549	BETA-PHOSPHOGLUCOMUTASE-RXN	R02728	rxn01967	rea	Lreu_seed
+rxn01515_c0		MNXR141919			rxn01515	rea	Lreu_seed
+rxn03462_c0		MNXR109324		['R05112', 'R05994']	rxn03462	rea	Lreu_seed
+rxn10224_c0		MNXR136220			rxn10224	rea	Lreu_seed
+rxn05337_c0	['R_3OAR60', '3OAR60_1', 'R_3OAR60_1', '3OAR60']	MNXR94952		R04953	rxn05337	rea	Lreu_seed
+rxn01593_c0		MNXR107388	STREPTOMYCIN-6-KINASE-RXN	R02225	rxn01593	rea	Lreu_seed
+rxn01135_c0	['R_OXACOAL', 'OXACOAL']	MNXR102232	OXALATE--COA-LIGASE-RXN	R01558	rxn01135	rea	Lreu_seed
+rxn01653_c0	['FTHFCL', 'FTCL', 'FTHFCLm', 'R_FTHFCLm', 'R_FTHFCL', 'R_FTCL']	MNXR99668		R02301	rxn01653	rea	Lreu_seed
+rxn00474_c0	['TRPS2', 'R_TRPS2', 'R_TRPS2h', 'TRPS2h']	MNXR104946	RXN0-2382	R00674	rxn00474	rea	Lreu_seed
+rxn03147_c0		MNXR103158			rxn03147	rea	Lreu_seed
+rxn03843_c0		MNXR109677	RXN0-5180	R05555	rxn03843	rea	Lreu_seed
+rxn05376_c0		MNXR134873			rxn05376	rea	Lreu_seed
+rxn01123_c0	['R_DDGLK', 'DDGLK']	MNXR138209	DEOXYGLUCONOKIN-RXN	R01541	rxn01123	rea	Lreu_seed
+rxn02317_c0		MNXR108041		R03239	rxn02317	rea	Lreu_seed
+rxn11809_c0		MNXR111836		R08281	rxn11809	rea	Lreu_seed
+rxn01116_c0	['RPE', 'R_RPE', 'RPEh', 'R_RPEh']	MNXR104083	RIBULP3EPIM-RXN	R01529	rxn01116	rea	Lreu_seed
+rxn02182_c0		MNXR107909	BETA-ALANYL-COA-AMMONIA-LYASE-RXN		rxn02182	rea	Lreu_seed
+rxn10258_c0		MNXR136254			rxn10258	rea	Lreu_seed
+rxn00829_c0	['R_DPMVDx', 'DPMVDx', 'DPMVD', 'R_DPMVD']	MNXR97776	DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN	R01121	rxn00829	rea	Lreu_seed
+rxn08847_c0		MNXR135887			rxn08847	rea	Lreu_seed
+rxn00572_c0		MNXR106690	NITRATE-REDUCTASE-NADPH-RXN	R00796	rxn00572	rea	Lreu_seed
+rxn00670_c0	['PCPPTh', 'R_PCPPTh', 'PTA2', 'R_PTA2', 'PCPPTm', 'R_PCPPTm']	MNXR102416	PTAALT-RXN	R00921	rxn00670	rea	Lreu_seed
+rxn01544_c0		MNXR105243	XANPRIBOSYLTRAN-RXN		rxn01544	rea	Lreu_seed
+rxn09113_c0	['R_PGSA180', 'PGSA180']	MNXR102595			rxn09113	rea	Lreu_seed
+rxn00711_c0	['R_UPRT', 'UPPRT', 'R_UPPRT', 'UPRT']	MNXR105142	URACIL-PRIBOSYLTRANS-RXN	R00966	rxn00711	rea	Lreu_seed
+rxn10316_c0		MNXR136312			rxn10316	rea	Lreu_seed
+rxn10184_c0	['SBTptspp', 'SBTpts', 'R_SBTpts', 'R_SBTptspp']	MNXR104290			['rxn09242', 'rxn10184']	rea	Lreu_seed
+rxn01763_c0	['R_RBK_L1', 'RBK_L1']	MNXR103433	RXN0-5116	R02439	rxn01763	rea	Lreu_seed
+rxn00751_c0	['CHOLK', 'R_CHOLK']	MNXR96702	CHOLINE-KINASE-RXN	R01021	rxn00751	rea	Lreu_seed
+rxn00908_c0		MNXR141866			rxn00908	rea	Lreu_seed
+rxn08299_c0		MNXR135770			rxn08299	rea	Lreu_seed
+rxn00795_c0		MNXR106815	RXN-16474	R01077	rxn00795	rea	Lreu_seed
+rxn01138_c0	['PUNP1', 'R_PUNP1m', 'R_PUNP1', 'PUNP1m']	MNXR103343	ADENPHOSPHOR-RXN	R01561	rxn01138	rea	Lreu_seed
+rxn14090_c0		MNXR112442	2.5.1.71-RXN	R08952	rxn14090	rea	Lreu_seed
+rxn01685_c0		MNXR107452	ACETOINDEHYDROG-RXN	R02343	rxn01685	rea	Lreu_seed
+rxn02402_c0	['NNDPR', 'R_NNDPR', 'NNDPRm', 'R_NNDPRm']	MNXR101980	QUINOPRIBOTRANS-RXN	R03348	rxn02402	rea	Lreu_seed
+rxn10324_c0		MNXR136320			rxn10324	rea	Lreu_seed
+rxn05452_c0		MNXR134949			rxn05452	rea	Lreu_seed
+rxn01607_c0		MNXR141925			rxn01607	rea	Lreu_seed
+rxn05465_c0	['MCOATA', 'MCOATA_1', 'MCOATAm', 'R_MCOATAm', 'R_MCOATA', 'R_MCOATA_1']	MNXR101421	MALONYL-COA-ACP-TRANSACYL-RXN	R01626	rxn05465	rea	Lreu_seed
+rxn12845_c0	['GLYLEUHYDROc', 'R_GLYLEUHYDROc']	MNXR100349			rxn12845	rea	Lreu_seed
+rxn08820_c0	['LPLIPAL2A160', 'R_LPLIPAL2A160']	MNXR101165			rxn08820	rea	Lreu_seed
+rxn05494_c0	['R_DALAt2pp', 'R_DALAt2r', 'DALAt2rL', 'R_DALAt2rL', 'DALAt2pp', 'DALAt2r']	MNXR97135	TRANS-RXN-62A		['rxn05494', 'rxn08301']	rea	Lreu_seed
+rxn05380_c0		MNXR134877			rxn05380	rea	Lreu_seed
+rxn05347_c0	['R_KAS14_1', 'KAS14_1', 'R_KAS14', 'KAS14']	MNXR100912	3-OXOACYL-ACP-SYNTH-BASE-RXN	R04355	rxn05347	rea	Lreu_seed
+rxn04413_c0		MNXR110348	RXN-14063	R06558	rxn04413	rea	Lreu_seed
+rxn00145_c0		MNXR138959		R00196	rxn00145	rea	Lreu_seed
+rxn03407_c0	['GLNSP2', 'R_GLNSP2']	MNXR100253		R05030	rxn03407	rea	Lreu_seed
+rxn05143_c0		MNXR111077	RXN-8014	R07442	rxn05143	rea	Lreu_seed
+rxn05388_c0		MNXR134885			rxn05388	rea	Lreu_seed
+rxn01870_c0	['R_FBA2', 'R_FPGPL', 'FPGPL', 'FBA2']	MNXR99460		R02568	rxn01870	rea	Lreu_seed
+rxn00113_c0	['CPS', 'R_CPS']	MNXR96884		R00149	rxn00113	rea	Lreu_seed
+rxn04736_c0		MNXR110652		R06927	rxn04736	rea	Lreu_seed
+rxn07579_c0		MNXR111353	RXN-9635	R07765	rxn07579	rea	Lreu_seed
+rxn00297_c0	['UAG2E', 'R_UAG2E']	MNXR105024		R00420	rxn00297	rea	Lreu_seed
+rxn05566_c0	['R_GALth', 'GALth', 'GALt2', 'R_GALt2pp', 'R_GALt2', 'GALt2pp']	MNXR100026	TRANS-RXN-21		['rxn11099', 'rxn08584', 'rxn05566']	rea	Lreu_seed
+rxn00611_c0	['R_r0202', 'G3PD1', 'G3PD1_1', 'R_G3PD1', 'G3PD1ir', 'R_G3PD1ir', 'G3PD1irm', 'R_G3PD1irm', 'r0202', 'R_G3PD1_1']	MNXR99876	1.1.1.8-RXN	R00842	rxn00611	rea	Lreu_seed
+rxn05746_c0		MNXR142145			rxn05746	rea	Lreu_seed
+rxn01678_c0	['R_NDPK6n', 'NDPK6n', 'R_NDPK6m', 'NDPK6m', 'NDPK6', 'R_NDPK6']	MNXR101938	DUDPKIN-RXN	R02331	rxn01678	rea	Lreu_seed
+rxn05919_c0		MNXR106789		R01013	rxn05919	rea	Lreu_seed
+rxn00832_c0	['IMPC', 'R_ICH', 'R_IMPC', 'ICH']	MNXR100783	IMPCYCLOHYDROLASE-RXN	R01127	rxn00832	rea	Lreu_seed
+rxn05871_c0		MNXR106607	ALCOHOL-DEHYDROG-GENERIC-RXN	R00623	rxn05871	rea	Lreu_seed
+rxn01106_c0		MNXR133115			rxn01106	rea	Lreu_seed
+rxn10193_c0	['R_PGPAGT', 'PGPAGT']	MNXR102559			rxn10193	rea	Lreu_seed
+rxn12640_c0		MNXR137143			rxn12640	rea	Lreu_seed
+rxn00690_c0		MNXR139016		R00943	rxn00690	rea	Lreu_seed
+rxn00931_c0	['P5CR', 'R_P5CR', 'P5CRm', 'R_P5CRm', 'PRO1y', 'R_PRO1y']	MNXR102302			rxn00931	rea	Lreu_seed
+rxn00938_c0	['NNAMrm', 'R_NNAMrm', 'NNAM', 'R_NNAM']	MNXR101977	NICOTINAMID-RXN	R01268	rxn00938	rea	Lreu_seed
+rxn05527_c0	['CSNt2pp', 'R_CSNt2', 'CSNt2', 'R_CSNt2pp']	MNXR96929	['TRANS-RXN-116', 'TRANS-RXN-199']		['rxn05527', 'rxn08266']	rea	Lreu_seed
+rxn00412_c0	['CTPS2', 'R_CTPS2']	MNXR96945	CTPSYN-RXN	R00573	['rxn11276', 'rxn00412']	rea	Lreu_seed
+rxn02339_c0		MNXR108060		R03266	rxn02339	rea	Lreu_seed
+rxn00650_c0	['R_AMPTASECGe', 'AMPTASECG', 'R_AMPTASECG', 'AMPTASECGe']	MNXR95828	RXN-6622	R00899	rxn00650	rea	Lreu_seed
+rxn03167_c0		MNXR139295		R04620	rxn03167	rea	Lreu_seed
+rxn09989_c0		MNXR136140			rxn09989	rea	Lreu_seed
+rxn10305_c0		MNXR136301			rxn10305	rea	Lreu_seed
+rxn02737_c0		MNXR108499	UDP-GLUCOSAMINE-EPIMERASE-RXN	R03881	rxn02737	rea	Lreu_seed
+rxn04604_c0		MNXR100655		R06789	rxn04604	rea	Lreu_seed
+rxn00515_c0	['NDPK9', 'R_NDPK9', 'NDPK9m', 'R_NDPK9m', 'NDPK9n', 'R_NDPK9n']	MNXR101941	RXN-14120	R00722	rxn00515	rea	Lreu_seed
+rxn08846_c0		MNXR135886			rxn08846	rea	Lreu_seed
+rxn05397_c0		MNXR134894			rxn05397	rea	Lreu_seed
+rxn03005_c0		MNXR139269		R04326	rxn03005	rea	Lreu_seed
+rxn01353_c0	['ATDGDm', 'R_ATDGDm', 'NDPK5', 'NDPK5m', 'R_NDPK5m', 'NDPK5n', 'R_NDPK5n', 'R_NDPK5']	MNXR96118	DGDPKIN-RXN	R01857	rxn01353	rea	Lreu_seed
+rxn12633_c0		MNXR123344	RXN0-6975		rxn12633	rea	Lreu_seed
+rxn00882_c0	['R_MI4PP', 'MI4PP']	MNXR101579	RXN-10952	R01186	rxn00882	rea	Lreu_seed
+rxn03244_c0	['R_HACD4', 'HACD4_1', 'R_HACD4p', 'HACD4i', 'R_HACD4m', 'HACD4m', 'HACD4', 'R_HACD4_1', 'R_HACD4i', 'HACD4p']	MNXR100545	RXN-12490	R04743	rxn03244	rea	Lreu_seed
+rxn00552_c0	['G6PDA', 'R_G6PDA']	MNXR138459		R00765	rxn00552	rea	Lreu_seed
+rxn01639_c0	['NFLGLNH', 'R_NFLGLNH']	MNXR138654	FORMIMINOGLUTAMASE-RXN	R02285	rxn01639	rea	Lreu_seed
+rxn05409_c0		MNXR134906			rxn05409	rea	Lreu_seed
+rxn00313_c0	['R_DAPDC', 'DAPDC']	MNXR97141	DIAMINOPIMDECARB-RXN	R00451	rxn00313	rea	Lreu_seed
+rxn00775_c0		MNXR106807	RXN0-1441	R01054	['rxn14038', 'rxn00775']	rea	Lreu_seed
+rxn02680_c0	['ACACT4m', 'R_ACACT4m', 'R_ACACT4p', 'ACACT4p', 'ACACT4r', 'KAT4', 'R_KAT4', 'R_ACACT4r']	MNXR95198	RXN-13617	R03778	rxn02680	rea	Lreu_seed
+rxn05405_c0		MNXR134902			rxn05405	rea	Lreu_seed
+rxn10571_c0	['R_MG2uabcpp', 'MG2uabcpp', 'R_MG2abc', 'MG2abc']	MNXR101505	['3.6.3.2-RXN', 'TRANS-RXN-250']		['rxn10571', 'rxn08924']	rea	Lreu_seed
+rxn05363_c0		MNXR134860			rxn05363	rea	Lreu_seed
+rxn00547_c0	['HEX7', 'R_HEX7']	MNXR138514		R00760	rxn00547	rea	Lreu_seed
+rxn04750_c0	['R_HADPCOADH3', 'HADPCOADH3']	MNXR100555	RXN0-2044	R06941	rxn04750	rea	Lreu_seed
+rxn05325_c0		MNXR109249	RXN-9659	R04958	rxn05325	rea	Lreu_seed
+rxn05207_c0	['MAL_na_th', 'R_MAL_na_tm', 'R_MAL_na_th', 'R_MALt4', 'MALt5', 'R_MALt5', 'MAL_na_tm', 'MALt4']	MNXR101368			rxn05207	rea	Lreu_seed
+rxn11040_c0		MNXR113581	RXN-3341	R10221	rxn11040	rea	Lreu_seed
+rxn05610_c0	['R_MANptspp', 'MANptspp', 'R_MANpts', 'MANpts']	MNXR138580			['rxn08885', 'rxn05610']	rea	Lreu_seed
+rxn03366_c0		MNXR109217		R04917	rxn03366	rea	Lreu_seed
+rxn10042_c0	['R_ATPS4m', 'ATPasel', 'ATPS4m', 'R_ATPSh', 'ATPSh', 'R_ATPS4rpp', 'ATPS4rpp', 'R_ATPS4r', 'ATPS4r', 'R_ATPS4m_cho', 'ATPS4m_cho', 'R_ATPasel']	MNXR96136	ATPSYN-RXN		['rxn10042', 'rxn08173']	rea	Lreu_seed
+rxn08803_c0		MNXR142310			rxn08803	rea	Lreu_seed
+rxn06062_c0		MNXR142168			rxn06062	rea	Lreu_seed
+rxn02895_c0	['R_PRAGSr', 'PRAGSr', 'R_PPRGLh', 'PPRGLh', 'R_PPRGL', 'PPRGL']	MNXR103139	GLYRIBONUCSYN-RXN	R04144	rxn02895	rea	Lreu_seed
+rxn07688_c0		MNXR111481		R07898	rxn07688	rea	Lreu_seed
+rxn00189_c0	['R_GAM', 'GLUNpp', 'R_GLUNpp', 'R_GLUNm', 'GAM', 'GLUNm', 'R_GLUN', 'GLUN']	MNXR100030	GLUTAMIN-RXN	R00256	rxn00189	rea	Lreu_seed
+rxn01508_c0	['R_DADNKn', 'DADNKn', 'R_DADNK', 'DADNK']	MNXR97079	DEOXYADENOSINE-KINASE-RXN	R02089	rxn01508	rea	Lreu_seed
+rxn05442_c0		MNXR134939			rxn05442	rea	Lreu_seed
+rxn00543_c0	['R_ALCD2m', 'ALCD2m', 'R_ALCD2irm', 'ALCD2irm', 'R_ALCD2x', 'ALCD2ir', 'ALCD2x', 'R_ALCD2ir']	MNXR95725	ALCOHOL-DEHYDROG-RXN	R00754	rxn00543	rea	Lreu_seed
+rxn01500_c0		MNXR141916			rxn01500	rea	Lreu_seed
+rxn06205_c0		MNXR107640	URATE-RIBONUCLEOTIDE-PHOSPHORYLASE-RXN	R02646	rxn06205	rea	Lreu_seed
+rxn04045_c0		MNXR134594			rxn04045	rea	Lreu_seed
+rxn10253_c0		MNXR136249			rxn10253	rea	Lreu_seed
+rxn10221_c0		MNXR136217			rxn10221	rea	Lreu_seed
+rxn05451_c0		MNXR134948			rxn05451	rea	Lreu_seed
+rxn08935_c0	['R_MLTG4', 'R_RE0935E', 'RE0935E', 'MLTG4']	MNXR138617			rxn08935	rea	Lreu_seed
+rxn00469_c0	['R_ACODA_1', 'ACODA', 'R_ACODA', 'ACODA_1']	MNXR95377	ACETYLORNDEACET-RXN	R00669	rxn00469	rea	Lreu_seed
+rxn02804_c0	['ACACT7r', 'R_ACACT7p', 'R_ACACT7m', 'R_ACACT7r', 'ACACT7p', 'KAT7', 'ACACT7m', 'R_r0653', 'r0653', 'R_KAT7']	MNXR95203	['2.3.1.155-RXN', 'RXN-16560']	R03991	rxn02804	rea	Lreu_seed
+rxn05005_c0		MNXR110922	UROPORIIIMETHYLTRANSA-RXN	R07237	rxn05005	rea	Lreu_seed
+rxn00548_c0		MNXR138987		R00761	rxn00548	rea	Lreu_seed
+rxn02795_c0		MNXR108562	RXN-17388	R03975	rxn02795	rea	Lreu_seed
+rxn00048_c0	['R_RBFSb', 'RBFSb', 'R_RIBFS', 'RIBFS']	MNXR103430	RIBOFLAVIN-SYN-RXN	R00066	rxn00048	rea	Lreu_seed
+rxn07876_c0		MNXR111666		R08087	rxn07876	rea	Lreu_seed
+rxn12191_c0		MNXR112092	RXN-12582	R08558	rxn12191	rea	Lreu_seed
+rxn05231_c0	['RNDR1', 'RNDR1n', 'R_RNDR1', 'R_RNDR1n']	MNXR104060	ADPREDUCT-RXN	R02017	rxn05231	rea	Lreu_seed
+rxn00283_c0	['R_ALAR', 'ALAR']	MNXR95693	ALARACECAT-RXN	R00401	rxn00283	rea	Lreu_seed
+rxn01025_c0	['R_MCSNAH', 'MCSNAH']	MNXR101425	RXN-14197	R01411	rxn01025	rea	Lreu_seed
+rxn08851_c0		MNXR135891			rxn08851	rea	Lreu_seed
+rxn02155_c0	['R_NNATm', 'NNATn', 'NNATr', 'R_NNATn', 'NNATm', 'R_NNATr']	MNXR101978	NICONUCADENYLYLTRAN-RXN	R03005	rxn02155	rea	Lreu_seed
+rxn02228_c0		MNXR107949		R03104	rxn02228	rea	Lreu_seed
+rxn01754_c0		MNXR107502	ERYTHRITOL-KINASE-RXN	R02430	rxn01754	rea	Lreu_seed
+rxn02475_c0		MNXR141996			rxn02475	rea	Lreu_seed
+rxn00575_c0	['SUCR', 'R_SUCR', 'R_SUCRe', 'SUCRe']	MNXR138841		['R06087', 'R00801']	rxn00575	rea	Lreu_seed
+rxn05339_c0	['3OAR40_1', 'R_3OAR40_1']	MNXR94951	RXN-9514	R04533	rxn05339	rea	Lreu_seed
+rxn05460_c0		MNXR134955			rxn05460	rea	Lreu_seed
+rxn03108_c0	['PMPK', 'R_PMPK']	MNXR103045	PYRIMSYN3-RXN	R04509	rxn03108	rea	Lreu_seed
+rxn01018_c0	['ASPCTn', 'R_ASPCTn', 'ASPCTm', 'R_ASPCT_1', 'ASPCT_1', 'ASPCT', 'R_ASPCT', 'R_ASPCTm']	MNXR96080	ASPCARBTRANS-RXN	R01397	rxn01018	rea	Lreu_seed
+rxn04132_c0		MNXR110012		R06063	rxn04132	rea	Lreu_seed
+rxn05236_c0	['RNTR4', 'R_RNTR4']	MNXR104079		R02023	rxn05236	rea	Lreu_seed
+rxn08813_c0		MNXR135857			rxn08813	rea	Lreu_seed
+rxn00634_c0	['R_SBTD_D2', 'SBTD_D2']	MNXR138822	RXN-7644	R00875	rxn00634	rea	Lreu_seed
+rxn08793_c0	['R_L_LACD3', 'L_LACD3']	MNXR101275			rxn08793	rea	Lreu_seed
+rxn01476_c0	['R_PGLh', 'PGLer', 'R_PGL', 'PGL', 'R_PGLer', 'PGLh']	MNXR102539	6PGLUCONOLACT-RXN	R02035	rxn01476	rea	Lreu_seed
+rxn00440_c0	['R_TMDPK', 'TMDPK']	MNXR138867			rxn00440	rea	Lreu_seed
+rxn02576_c0		MNXR108289	VIOMYCIN-KINASE-RXN	R03607	rxn02576	rea	Lreu_seed
+rxn03666_c0		MNXR139362		R05365	rxn03666	rea	Lreu_seed
+rxn01370_c0	['R_DGTUP', 'DGTUP']	MNXR97351		R01880	rxn01370	rea	Lreu_seed
+rxn05455_c0		MNXR134952			rxn05455	rea	Lreu_seed
+rxn00410_c0	['R_CTPS1', 'CTPS1']	MNXR96944	RXN-14325	R00571	rxn00410	rea	Lreu_seed
+rxn03063_c0	['R_SAM24MT', 'SAM24MT']	MNXR104270	RXN3O-178	R04427	rxn03063	rea	Lreu_seed
+rxn10257_c0		MNXR136253			rxn10257	rea	Lreu_seed
+rxn12510_c0	['R_PNTK', 'PNTKm', 'PNTK', 'R_PNTKm']	MNXR103050	PANTOTHENATE-KIN-RXN		rxn12510	rea	Lreu_seed
+rxn03933_c0	['UAGPT2', 'R_UAGPT2']	MNXR105036		['R05662', 'R06173']	rxn03933	rea	Lreu_seed
+rxn04780_c0		MNXR139490	RXN-8019	R06971	rxn04780	rea	Lreu_seed
+rxn07684_c0		MNXR111477		R07894	rxn07684	rea	Lreu_seed
+rxn05342_c0	['R_3OAR140', 'R_3OAR140_1', '3OAR140_1', '3OAR140']	MNXR94944	RXN-9536	R04566	rxn05342	rea	Lreu_seed
+rxn00414_c0	['R_CBPS', 'CBPS', 'CBPSn', 'R_CBPSn', 'HCGALm', 'R_HCGALm']	MNXR96485	CARBPSYN-RXN	R00575	rxn00414	rea	Lreu_seed
+rxn09110_c0		MNXR135939			rxn09110	rea	Lreu_seed
+rxn03970_c0	['COALDDH', 'R_COALDDH']	MNXR96813		R05700	rxn03970	rea	Lreu_seed
+rxn00159_c0	['ME1m', 'ME1', 'R_ME1', 'R_ME1m']	MNXR101446	1.1.1.39-RXN	R00214	rxn00159	rea	Lreu_seed
+rxn05349_c0	['ACOATAm', 'R_ACOATA_1', 'ACOATA_1', 'R_ACOATA', 'R_ACOATAm', 'ACOATA']	MNXR95376	ACP-S-ACETYLTRANSFER-RXN	R01624	rxn05349	rea	Lreu_seed
+rxn00303_c0	['GTPDPK', 'R_GTPDPK_1', 'GTPDPK_1', 'R_GTPDPK']	MNXR100457	GTPPYPHOSKIN-RXN	R00429	rxn00303	rea	Lreu_seed
+rxn00799_c0	['FUM', 'R_FUMm', 'FUMm', 'R_FUM']	MNXR99705	FUMHYDR-RXN	R01082	rxn00799	rea	Lreu_seed
+rxn01977_c0	['R_G6PI', 'G6PI']	MNXR99909			rxn01977	rea	Lreu_seed
+rxn01073_c0		MNXR141883			rxn01073	rea	Lreu_seed
+rxn02405_c0		MNXR108111		R03351	rxn02405	rea	Lreu_seed
+rxn00011_c0	['R_PDHam1hi', 'R_PDHam1mi', 'PDHam1mi', 'PDHam1hi']	MNXR102428	RXN-12583	R00014	rxn00011	rea	Lreu_seed
+rxn01986_c0		MNXR141960			rxn01986	rea	Lreu_seed
+rxn02200_c0		MNXR139168		R03066	rxn02200	rea	Lreu_seed
+rxn10323_c0		MNXR136319			rxn10323	rea	Lreu_seed
+rxn05528_c0	['Cut1', 'R_CU2abcu_syn', 'CU2abcu_syn', 'R_CU2abcpp', 'CU2abcpp', 'R_Cut1']	MNXR96950	['TRANS-RXN-178', '3.6.3.4-RXN']		['rxn08271', 'rxn05528']	rea	Lreu_seed
+rxn03150_c0	['R_RZ5PP', 'RZ5PP']	MNXR104116	['RXN-16788', 'RIBAZOLEPHOSPHAT-RXN']	R04594	rxn03150	rea	Lreu_seed
+rxn05108_c0	['ARAT', 'UNK3', 'R_ARAT', 'R_UNK3']	MNXR95923	RXN-14147	R07396	rxn05108	rea	Lreu_seed
+rxn00365_c0	['R_CYTDK2m', 'CYTDK2m', 'R_CYTDK1', 'CYTDK1']	MNXR97041	CYTIKIN-RXN	R00513	rxn00365	rea	Lreu_seed
+rxn08783_c0	['R_LDH_D2', 'LDH_D2']	MNXR101039			rxn08783	rea	Lreu_seed
+rxn00358_c0	['UDPGALM', 'R_UDPGALM']	MNXR138908			rxn00358	rea	Lreu_seed
+rxn02321_c0	['X5PL3E', 'R_X5PL3E']	MNXR105224	LXULRU5P-RXN	R03244	rxn02321	rea	Lreu_seed
+rxn09674_c0	['LYSt2m', 'R_LYSt2r', 'LYSt2r', 'LYSt2pp', 'R_LYSt2pp', 'R_LYSt2m']	MNXR101266	TRANS-RXN-58		['rxn08854', 'rxn09674', 'rxn09740']	rea	Lreu_seed
+rxn08975_c0	['R_NADHOR', 'NADHOR', 'NADH5', 'R_NADH5']	MNXR101872			rxn08975	rea	Lreu_seed
+rxn01646_c0	['PNP', 'R_PNP']	MNXR103048	RXN0-7092	R02294	rxn01646	rea	Lreu_seed
+rxn03378_c0		MNXR109233		R04936	rxn03378	rea	Lreu_seed
+rxn00105_c0	['R_ANNATn', 'ANNATn', 'R_ANNAT', 'ANNAT', 'NMNATm', 'R_NMNATm', 'R_NMNAT', 'NMNATn', 'R_NMNATn', 'NMNAT']	MNXR95841	2.7.7.1-RXN	R00137	rxn00105	rea	Lreu_seed
+rxn03243_c0	['ACACT5r_1', 'R_ACACT5r_1']	MNXR95200	RXN-14274	R04742	rxn03243	rea	Lreu_seed
+rxn00230_c0		MNXR106471	ACETATE-KINASE-PYROPHOSPHATE-RXN	R00320	rxn00230	rea	Lreu_seed
+rxn08933_c0		MNXR142333			rxn08933	rea	Lreu_seed
+rxn03486_c0		MNXR100673		R05138	rxn03486	rea	Lreu_seed
+rxn05060_c0		MNXR110983	RXN-624	R07311	rxn05060	rea	Lreu_seed
+rxn00223_c0	['XYLI2i', 'R_XYLI2', 'XYLI2', 'R_XYLI2i']	MNXR138924		R00307	rxn00223	rea	Lreu_seed
+rxn00784_c0		MNXR141859			rxn00784	rea	Lreu_seed
+rxn00368_c0	['UTCY', 'R_UTCY']	MNXR105173		R00516	rxn00368	rea	Lreu_seed
+rxn03273_c0		MNXR109113		['R06144', 'R04783']	rxn03273	rea	Lreu_seed
+rxn05393_c0		MNXR134890			rxn05393	rea	Lreu_seed
+rxn01537_c0	['TMN', 'R_TMN']	MNXR138876			rxn01537	rea	Lreu_seed
+rxn02285_c0		MNXR141983			rxn02285	rea	Lreu_seed
+rxn08936_c0	['RE0944E', 'R_RE0944E', 'MLTG5', 'R_MLTG5']	MNXR138618			rxn08936	rea	Lreu_seed
+rxn05315_c0	['ZN2t4pp', 'ZN2t4', 'R_ZN2t4', 'R_ZN2t4pp']	MNXR105279			rxn05315	rea	Lreu_seed
+rxn03047_c0	['r0680', 'APCPT', 'R_r0680', 'R_APCPT', 'r0679', 'R_r0679']	MNXR95866		R04391	rxn03047	rea	Lreu_seed
+rxn00559_c0	['MAN6PI', 'R_MAN6PI']	MNXR138575		R00772	rxn00559	rea	Lreu_seed
+rxn08848_c0		MNXR135888			rxn08848	rea	Lreu_seed
+rxn07883_c0		MNXR111673		R08094	rxn07883	rea	Lreu_seed
+rxn08840_c0		MNXR142326			rxn08840	rea	Lreu_seed
+rxn07609_c0		MNXR111387		R07802	rxn07609	rea	Lreu_seed
+rxn01987_c0		MNXR141961			rxn01987	rea	Lreu_seed
+rxn03538_c0	['R_ADOCBLS', 'ADOCBLS']	MNXR125857	COBALAMINSYN-RXN	R05223	rxn03538	rea	Lreu_seed
+rxn09310_c0	['THZPSN', 'R_THZPSN']	MNXR104858			rxn09310	rea	Lreu_seed
+rxn01213_c0	['R_GPPSh', 'R_DMATT', 'R_DMATTx', 'DMATTx', 'DMATT', 'GPPSh']	MNXR97512	GPPSYN-RXN	R01658	rxn01213	rea	Lreu_seed
+rxn03860_c0		MNXR109693		R05575	rxn03860	rea	Lreu_seed
+rxn00459_c0	['R_ENO', 'ENO', 'ENOm', 'R_ENOm', 'R_ENOf', 'ENOf']	MNXR97932	2PGADEHYDRAT-RXN	R00658	rxn00459	rea	Lreu_seed
+rxn00770_c0		MNXR106802	PRPPSYN-RXN	R01049	rxn00770	rea	Lreu_seed
+rxn02318_c0	['R_GAL6PI', 'GAL6PI']	MNXR108042	LACTOSE-6-PHOSPHATE-ISOMERASE-RXN	R03240	rxn02318	rea	Lreu_seed
+rxn08806_c0		MNXR142313			rxn08806	rea	Lreu_seed
+rxn05436_c0		MNXR134933			rxn05436	rea	Lreu_seed
+rxn05195_c0	['FE3abcpp', 'FE3abc', 'R_FE3abc', 'R_FE3abcpp']	MNXR99525	3.6.3.30-RXN		['rxn08477', 'rxn05195']	rea	Lreu_seed
+rxn05209_c0	['R_NAt3_1g', 'NAt3pp', 'R_NA1Htm', 'NA1Htm', 'NAt3_1g', 'NAt3_1', 'R_NA1Hth', 'R_NAt3pp', 'R_NAt3_1', 'NA1Hth']	MNXR101803	TRANS-RXN-101		['rxn05209', 'rxn08984']	rea	Lreu_seed
+rxn04238_c0		MNXR110188		R06371	rxn04238	rea	Lreu_seed
+rxn01366_c0	['PYNP2r', 'R_PYNP2r']	MNXR103377	URPHOS-RXN	R01876	rxn01366	rea	Lreu_seed
+rxn10121_c0	['R_NO3R2', 'NO3R2pp', 'R_NO3R2pp', 'NO3R2']	MNXR101988			['rxn10121', 'rxn09003']	rea	Lreu_seed
+rxn06197_c0		MNXR107626		R02625	rxn06197	rea	Lreu_seed
+rxn01143_c0	['TMDK1m', 'R_TMDK1', 'TMDK1', 'R_TMDK1m']	MNXR104885	THYKI-RXN	R01567	rxn01143	rea	Lreu_seed
+rxn01647_c0	['NP1', 'R_NP1']	MNXR102011		R02295	rxn01647	rea	Lreu_seed
+rxn05618_c0	['R_MNt2', 'MNt2pp', 'R_MNt2pp', 'MNt2']	MNXR101681	TRANS-RXN-241		['rxn08951', 'rxn05618']	rea	Lreu_seed
+rxn10474_c0	['COBALT2tex', 'R_COBALTt5', 'COBALTt5', 'R_COBALT2tpp', 'COBALT2tpp', 'R_COBALT2tex']	MNXR96821	TRANS-RXN-141A		['rxn10474', 'rxn08242', 'rxn08241']	rea	Lreu_seed
+rxn00260_c0	['ASPTA', 'R_ASPATh', 'R_ASPTAp', 'ASPTAp', 'R_ASPTAm', 'ASPTAm', 'R_ASPTA', 'ASPATh']	MNXR96079	['ASPAMINOTRANS-RXN', 'RXN-13697']	R00355	rxn00260	rea	Lreu_seed
+rxn04757_c0	['NEOXANS', 'R_NEOXANS']	MNXR101942	RXN1F-155	R06948	rxn04757	rea	Lreu_seed
+rxn10120_c0	['NO3R1', 'R_NO3R1', 'NO3R1pp', 'R_NO3R1pp']	MNXR101986			['rxn10120', 'rxn09001']	rea	Lreu_seed
+rxn03380_c0	['SELCYSTS', 'R_SELCYSTS']	MNXR104317		R04942	rxn03380	rea	Lreu_seed
+rxn07454_c0		MNXR111239	4.99.1.7-RXN	R07638	rxn07454	rea	Lreu_seed
+rxn00461_c0		MNXR105032	UDPNACETYLGLUCOSAMENOLPYRTRANS-RXN	R00660	rxn00461	rea	Lreu_seed
+rxn05613_c0	['METSabc', 'R_METSOX1abcpp', 'METSOX1abcpp', 'R_METSabc']	MNXR101482	TRANS-RXN0-511		['rxn05613', 'rxn08914']	rea	Lreu_seed
+rxn10473_c0	['R_Clt', 'Clt', 'R_CLtex', 'CLtex']	MNXR96797	TRANS-RXN-139		['rxn10473', 'rxn08234']	rea	Lreu_seed
+rxn06037_c0	['HACDp', 'R_HACDp']	MNXR100551	['RXN-16133', 'OHACYL-COA-DEHYDROG-RXN']	R01778	rxn06037	rea	Lreu_seed
+rxn00817_c0	['DGGH', 'R_DGGH']	MNXR97317		['R01101', 'R06091']	rxn00817	rea	Lreu_seed
+rxn00181_c0		MNXR106438	GLUTAMATE-1-KINASE-RXN	R00241	rxn00181	rea	Lreu_seed
+rxn10303_c0		MNXR136299			rxn10303	rea	Lreu_seed
+rxn03136_c0		MNXR95494			rxn03136	rea	Lreu_seed
+rxn00818_c0	['R_RGH', 'RAFGH', 'R_RAFGH', 'RGH']	MNXR103419	RXN-11502	['R06070', 'R01103']	rxn00818	rea	Lreu_seed
+rxn02937_c0		MNXR108734			rxn02937	rea	Lreu_seed
+rxn08810_c0		MNXR135854			rxn08810	rea	Lreu_seed
+rxn01652_c0	['R_THFATm', 'THFATm', 'MTAM', 'THFAT', 'R_MTAM', 'R_FOMETRi', 'FOMETRi', 'R_THFAT']	MNXR99614		R02300	rxn01652	rea	Lreu_seed
+rxn05493_c0	['AKGt2rpp', 'AKGt2n', 'R_AKGt2n', 'AKGt2r', 'R_AKGt2rpp', 'R_AKGt2r']	MNXR95661	TRANS-RXN-23		['rxn09827', 'rxn05493', 'rxn08095']	rea	Lreu_seed
+rxn03137_c0		MNXR139287		R04560	rxn03137	rea	Lreu_seed
+rxn10343_c0	['R_HG2abcpp', 'HG2abcpp']	MNXR100623			['rxn08715', 'rxn10343']	rea	Lreu_seed
+rxn01115_c0	['GND', 'R_GND', 'GNDer', 'R_GNDer', 'PGDHh', 'R_PGDHh']	MNXR100389	RXN-9952	R01528	rxn01115	rea	Lreu_seed
+rxn08818_c0		MNXR135862			rxn08818	rea	Lreu_seed
+rxn01128_c0	['R_DATCY', 'DATCY']	MNXR97172		R01548	rxn01128	rea	Lreu_seed
+rxn08312_c0	['R_DASYN181', 'DASYN181']	MNXR97161			rxn08312	rea	Lreu_seed
+rxn01961_c0		MNXR102029	XMPXAN-RXN		rxn01961	rea	Lreu_seed
+rxn01517_c0	['URIDK2rn', 'R_URIDK2rn', 'URIDK2r', 'URIDK2m', 'R_URIDK2r', 'R_URIDK2m']	MNXR105160	RXN-14122	R02098	rxn01517	rea	Lreu_seed
+rxn06750_c0		MNXR109011		['R06009', 'R04632']	rxn06750	rea	Lreu_seed
+rxn05006_c0		MNXR110923	RXN-8675	R07238	rxn05006	rea	Lreu_seed
+rxn01299_c0	['R_INSH', 'INSH']	MNXR100844	INOSINE-NUCLEOSIDASE-RXN	R01770	rxn01299	rea	Lreu_seed
+rxn01800_c0	['R_DCYTD', 'DCYTDn', 'R_DCYTDn', 'DCYTD']	MNXR97207	CYTIDEAM-RXN	R02485	rxn01800	rea	Lreu_seed
+rxn02107_c0		MNXR107840	1.2.1.65-RXN	R02941	rxn02107	rea	Lreu_seed
+rxn08309_c0	['DASYN160', 'R_DASYN160']	MNXR97157			rxn08309	rea	Lreu_seed
+rxn05379_c0		MNXR134876			rxn05379	rea	Lreu_seed
+rxn01512_c0		MNXR141917			rxn01512	rea	Lreu_seed
+rxn05517_c0		MNXR96498			rxn05517	rea	Lreu_seed
+rxn03249_c0	['HACD2', 'R_HACD2', 'R_HACD2m', 'HACD2m', 'R_HACD2i', 'HACD2i', 'R_HACD2_1', 'HACD2_1']	MNXR100543	RXN-12570	R04748	rxn03249	rea	Lreu_seed
+rxn00676_c0	['ACACT10m', 'R_ACACT10m', 'R_MACCOAT', 'MACCOAT']	MNXR95195	METHYLACETOACETYLCOATHIOL-RXN	R00927	rxn00676	rea	Lreu_seed
+rxn00713_c0	['URIK2', 'R_URIK2']	MNXR105163	URKI-RXN	R00968	rxn00713	rea	Lreu_seed
+rxn05909_c0	['CYS', 'R_CYS']	MNXR96986		R00891	rxn05909	rea	Lreu_seed
+rxn09272_c0	['SUCDH_q8_m', 'FRD7', 'R_FRD7', 'R_SUCDH_q8_m', 'SUCDi', 'R_SUCDi']	MNXR99641			rxn09272	rea	Lreu_seed
+rxn01648_c0	['PYNP1', 'R_PYNP1']	MNXR103376		R02296	rxn01648	rea	Lreu_seed
+rxn01216_c0	['R_DPGM', 'DPGM']	MNXR107112	BISPHOSPHOGLYCERATE-MUTASE-RXN	R01662	rxn01216	rea	Lreu_seed
+rxn05441_c0		MNXR134938			rxn05441	rea	Lreu_seed
+rxn03365_c0		MNXR109216		R04916	rxn03365	rea	Lreu_seed
+rxn05454_c0		MNXR134951			rxn05454	rea	Lreu_seed
+rxn01127_c0	['DADK', 'R_ATDAMh', 'ATDAMh', 'R_ATDAMm', 'ATDAMm', 'R_DADK']	MNXR96117	DEOXYADENYLATE-KINASE-RXN	R01547	rxn01127	rea	Lreu_seed
+rxn04908_c0		MNXR110813		R07105	rxn04908	rea	Lreu_seed
+rxn05226_c0	['GLCpts', 'R_GLCptspp', 'R_GLCpts', 'GLCptspp']	MNXR100237			['rxn05226', 'rxn08612']	rea	Lreu_seed
+rxn00615_c0	['R_GLYKm', 'GLYKm', 'GLYK', 'R_GLYK']	MNXR100348	GLYCEROL-KIN-RXN	R00847	rxn00615	rea	Lreu_seed
+rxn06160_c0		MNXR107468	RETINOL-O-FATTY-ACYLTRANSFERASE-RXN	R02366	rxn06160	rea	Lreu_seed
+rxn05445_c0		MNXR134942			rxn05445	rea	Lreu_seed
+rxn07493_c0		MNXR141528			rxn07493	rea	Lreu_seed
+rxn05341_c0	['R_3OAR80', '3OAR80_1', 'R_3OAR80_1', '3OAR80']	MNXR94953	RXN-9524	R04536	rxn05341	rea	Lreu_seed
+rxn05449_c0		MNXR134946			rxn05449	rea	Lreu_seed
+rxn03971_c0		MNXR109771		R05701	rxn03971	rea	Lreu_seed
+rxn06870_c0		MNXR109376	5.1.1.16-RXN	R05175	rxn06870	rea	Lreu_seed
+rxn00743_c0	['R_r0242', 'ALKP', 'R_ALKP', 'r0242']	MNXR95764	RXN0-7249	R01010	rxn00743	rea	Lreu_seed
+rxn06735_c0		MNXR108981		['R05940', 'R04583']	rxn06735	rea	Lreu_seed
+rxn02483_c0	['R_4CMLCL_kt', 'CMLDC', 'R_CMLDC', '4CMLCL_kt']	MNXR94999		R03470	rxn02483	rea	Lreu_seed
+rxn10191_c0		MNXR136193			rxn10191	rea	Lreu_seed
+rxn01265_c0	['R_NAPRT', 'NCTPPRT', 'R_NAPRTm', 'NAPRTm', 'NAPRT', 'R_NCTPPRT']	MNXR101910			rxn01265	rea	Lreu_seed
+rxn00874_c0	['ACACT2m', 'R_ACACT2m', 'R_ACACT2', 'ACACT2', 'ACACT2r', 'R_ACACT2r', 'KAT2', 'R_KAT2']	MNXR95196	RXN-12565	R01177	rxn00874	rea	Lreu_seed
+rxn00834_c0		MNXR100830	IMP-DEHYDROG-RXN		rxn00834	rea	Lreu_seed
+rxn01187_c0		MNXR107093	PHOSPHOKETOLASE-RXN	R01621	rxn01187	rea	Lreu_seed
+rxn00704_c0	['PGMT', 'R_PGMT']	MNXR102548		R08639	rxn00704	rea	Lreu_seed
+rxn08703_c0		MNXR100578			rxn08703	rea	Lreu_seed
+rxn01671_c0	['R_RNMK', 'RNMK']	MNXR104069	RIBOSYLNICOTINAMIDE-KINASE-RXN	R02324	rxn01671	rea	Lreu_seed
+rxn02322_c0	['PMEVK', 'R_PMEVK', 'R_PMEVKx', 'PMEVKx']	MNXR103043	PHOSPHOMEVALONATE-KINASE-RXN	R03245	rxn02322	rea	Lreu_seed
+rxn05627_c0	['R_NO3t2', 'NO3t2', 'R_NO3t2pp', 'NO3t2pp']	MNXR101993			rxn05627	rea	Lreu_seed
+rxn12642_c0		MNXR142490			rxn12642	rea	Lreu_seed
+rxn07673_c0		MNXR111466		R07883	rxn07673	rea	Lreu_seed
+rxn01510_c0	['R_DGTCY', 'DGTCY']	MNXR97326		R02091	rxn01510	rea	Lreu_seed
+rxn02045_c0		MNXR107777	D-LYSINE-56-AMINOMUTASE-RXN	R02852	rxn02045	rea	Lreu_seed
+rxn01530_c0	['R_RDH1', 'RDH1', 'TRETINOLOR1', 'R_TRETINOLOR1']	MNXR103439	RETINOL-DEHYDROGENASE-RXN	R02124	rxn01530	rea	Lreu_seed
+rxn03909_c0	['R_DXS', 'DXS', 'R_DXPS', 'DXPS']	MNXR97831	DXS-RXN	R05636	rxn03909	rea	Lreu_seed
+rxn10806_c0	['R_CYTBD2', 'CYTBD2', 'R_CYTBD2pp', 'CYTBD2pp']	MNXR97032			['rxn10806', 'rxn08287']	rea	Lreu_seed
+rxn00355_c0	['R_GALT', 'GALT']	MNXR138471			rxn00355	rea	Lreu_seed
+rxn03084_c0		MNXR108904			rxn03084	rea	Lreu_seed
+rxn06600_c0		MNXR142211			rxn06600	rea	Lreu_seed
+rxn00216_c0	['HEX1', 'R_HEX1']	MNXR100612		R00299	rxn00216	rea	Lreu_seed
+rxn06728_c0		MNXR108969		R04564	rxn06728	rea	Lreu_seed
+rxn02005_c0		MNXR104931			['rxn02005', 'rxn09322']	rea	Lreu_seed
+rxn08808_c0		MNXR142315			rxn08808	rea	Lreu_seed
+rxn00558_c0	['R_PGI', 'PGI']	MNXR138699		R00771	rxn00558	rea	Lreu_seed
+rxn12635_c0		MNXR123343	RXN0-6974		rxn12635	rea	Lreu_seed
+rxn04726_c0		MNXR110642		R06917	rxn04726	rea	Lreu_seed
+rxn00550_c0	['R_FBP26', 'FBP26']	MNXR138347		R00763	rxn00550	rea	Lreu_seed
+rxn07841_c0		MNXR111632	RXN-4303	R08051	rxn07841	rea	Lreu_seed
+rxn01859_c0	['PUNP2', 'R_PUNP2']	MNXR138728		R02557	rxn01859	rea	Lreu_seed
+rxn05328_c0		MNXR109258	RXN-9663	R04969	rxn05328	rea	Lreu_seed
+rxn05024_c0		MNXR142124			rxn05024	rea	Lreu_seed
+rxn01851_c0	['R_ABUTDm', 'ABUTDm', 'R_ABUTD', 'ABUTD']	MNXR95191	AMINOBUTDEHYDROG-RXN	R02549	rxn01851	rea	Lreu_seed
+rxn11834_c0		MNXR111858		R08306	rxn11834	rea	Lreu_seed
+rxn05201_c0	['R_HXANt2pp', 'HXANt2r', 'HXANt2pp', 'R_HXANt2r']	MNXR100748			rxn05201	rea	Lreu_seed
+rxn05323_c0		MNXR109255	RXN-9662	R04966	rxn05323	rea	Lreu_seed
+rxn00314_c0		MNXR106537	D-LYSOPINE-DEHYDROGENASE-RXN	R00452	rxn00314	rea	Lreu_seed
+rxn05616_c0	['R_MG2tu', 'R_MGt5', 'MG2tex', 'MGt5', 'MG2th', 'R_MG2th', 'R_MG2t', 'MG2tpp', 'R_MG2tpp', 'MG2tu', 'R_MG2tex', 'MG2t']	MNXR101507	TRANS-RXN-141		['rxn08922', 'rxn05616', 'rxn08923']	rea	Lreu_seed
+rxn10306_c0		MNXR136302			rxn10306	rea	Lreu_seed
+rxn08805_c0		MNXR142312			rxn08805	rea	Lreu_seed
+rxn01507_c0	['NTD6l', 'NTD6', 'R_NTD6', 'R_NTD6l', 'NTD6pp', 'R_NTD6pp']	MNXR102036	RXN-14161	R02088	['rxn13134', 'rxn01507']	rea	Lreu_seed
+rxn01790_c0		MNXR141943			rxn01790	rea	Lreu_seed
+rxn00077_c0	['R_NADKm', 'NADK', 'R_NADK', 'NADKm']	MNXR101882	NAD-KIN-RXN	R00104	rxn00077	rea	Lreu_seed
+rxn02391_c0		MNXR108102	LYSOLECITHIN-ACYLMUTASE-RXN	R03334	rxn02391	rea	Lreu_seed
+rxn03638_c0	['G1PACT', 'R_G1PACT']	MNXR138455			rxn03638	rea	Lreu_seed
+rxn05438_c0		MNXR134935			rxn05438	rea	Lreu_seed
+rxn02897_c0		MNXR139254		R04148	rxn02897	rea	Lreu_seed
+rxn10301_c0		MNXR136297			rxn10301	rea	Lreu_seed
+rxn05126_c0		MNXR111060		R07417	rxn05126	rea	Lreu_seed
+rxn01446_c0	['PUNP4', 'R_PUNP4']	MNXR138729		R01969	rxn01446	rea	Lreu_seed
+rxn10223_c0		MNXR136219			rxn10223	rea	Lreu_seed
+rxn00742_c0		MNXR134246			['rxn00742', 'rxn11079']	rea	Lreu_seed
+rxn04658_c0		MNXR134754			rxn04658	rea	Lreu_seed
+rxn02596_c0	['STACHGALACT', 'R_STACHGALACT', 'SYGH', 'R_SYGH', 'GALS4', 'R_GALS4']	MNXR100010	RXN-11501	['R03634', 'R06152']	rxn02596	rea	Lreu_seed
+rxn10260_c0		MNXR136256			rxn10260	rea	Lreu_seed
+rxn10319_c0		MNXR136315			rxn10319	rea	Lreu_seed
+rxn03915_c0		MNXR109731	RXN-11184	R05643	rxn03915	rea	Lreu_seed
+rxn03242_c0	['HACD5m', 'R_HACD5m', 'HACD5p', 'R_HACD5', 'HACD5_1', 'HACD5', 'HACD5i', 'R_HACD5i', 'R_HACD5_1', 'R_HACD5p']	MNXR100546		R04741	rxn03242	rea	Lreu_seed
+rxn03075_c0	['HETZK', 'R_HETZK']	MNXR100611	THIAZOLSYN3-RXN	R04448	rxn03075	rea	Lreu_seed
+rxn01368_c0	['R_CYTD', 'CYTDn', 'CYTD', 'R_CYTDn']	MNXR97039	CYTIDEAM2-RXN	R01878	rxn01368	rea	Lreu_seed
+rxn00134_c0	['ADNK1', 'R_ADNK1', 'ADNK1m', 'R_ADNK1m', 'ADNK1n', 'R_ADNK1n']	MNXR95456	ADENOSINE-KINASE-RXN	R00185	rxn00134	rea	Lreu_seed
+rxn01480_c0	['R_HIBDm', 'HIBDm']	MNXR100634		R02047	rxn01480	rea	Lreu_seed
+rxn05233_c0	['RNDR2', 'R_RNDR2', 'RNDR2n', 'R_RNDR2n']	MNXR104062	GDPREDUCT-RXN	R02019	rxn05233	rea	Lreu_seed
+rxn09109_c0		MNXR135938			rxn09109	rea	Lreu_seed
+rxn00141_c0		MNXR95492			rxn00141	rea	Lreu_seed
+rxn02003_c0		MNXR141963			rxn02003	rea	Lreu_seed
+rxn07056_c0		MNXR110034		R06134	rxn07056	rea	Lreu_seed
+rxn05375_c0		MNXR134872			rxn05375	rea	Lreu_seed
+rxn01241_c0	['PDHe3hr', 'R_PDHcr', 'PDHcr', 'R_PDHe3hr', 'GCC2cm', 'R_GCC2cm']	MNXR100066	RXN-18331	R01698	rxn01241	rea	Lreu_seed
+rxn00438_c0	['R_TMPK', 'TMPK']	MNXR104907	THI-P-KIN-RXN	R00617	rxn00438	rea	Lreu_seed
+rxn07346_c0		MNXR111136	R181-RXN	R07515	rxn07346	rea	Lreu_seed
+rxn04744_c0		MNXR110660		R06935	rxn04744	rea	Lreu_seed
+rxn00288_c0	['FRD', 'R_SUCDHh', 'SUCDHh', 'R_SUCD1m', 'SUCD1m', 'R_FRD', 'SUCD1', 'R_FRDm', 'FRDm', 'R_SUCD1']	MNXR99636		R00408	rxn00288	rea	Lreu_seed
+rxn02185_c0		MNXR107912		R03050	rxn02185	rea	Lreu_seed
+rxn00763_c0	['ALCD19', 'R_ALCD19']	MNXR95709		R01036	rxn00763	rea	Lreu_seed
+rxn08811_c0		MNXR135855			rxn08811	rea	Lreu_seed
+rxn02473_c0	['R_IGPDh', 'R_IGPDH_1', 'IGPDH_1', 'R_IGPDH', 'IGPDH', 'IGPDh']	MNXR100813	IMIDPHOSDEHYD-RXN	R03457	rxn02473	rea	Lreu_seed
+rxn01275_c0	['R_GNKh', 'R_GNKr', 'GNKh', 'R_GNK', 'GNK', 'GNKr']	MNXR100390	GLUCONOKIN-RXN	R01737	rxn01275	rea	Lreu_seed
+rxn00577_c0		MNXR138992		['R00803', 'R06034']	rxn00577	rea	Lreu_seed
+rxn03665_c0		MNXR139361		R05364	rxn03665	rea	Lreu_seed
+rxn06060_c0	['R_TSULR3e', 'TSULR3e']	MNXR104963	THIOSULFATE--THIOL-SULFURTRANSFERASE-RXN	R01875	rxn06060	rea	Lreu_seed
+rxn01434_c0		MNXR141914			rxn01434	rea	Lreu_seed
+rxn00912_c0		MNXR141870			rxn00912	rea	Lreu_seed
+rxn12147_c0		MNXR139624	RXN-14149	R08603	rxn12147	rea	Lreu_seed
+rxn08819_c0		MNXR135863			rxn08819	rea	Lreu_seed
+rxn03849_c0		MNXR109682	RXN-8930	R05563	rxn03849	rea	Lreu_seed
+rxn01291_c0	['ARABR', 'R_ARABR', 'ARABRr', 'R_ARABRr']	MNXR107158		R01759	rxn01291	rea	Lreu_seed
+rxn00122_c0	['FMNATm', 'FMNAT', 'R_FMNAT', 'R_AFAT', 'AFAT', 'R_FMNATm']	MNXR95501	FADSYN-RXN	R00161	rxn00122	rea	Lreu_seed
+rxn02235_c0	['13PPDH', 'R_13PPDH']	MNXR94691	13-PROPANEDIOL-DEHYDROGENASE-RXN	R03119	rxn02235	rea	Lreu_seed
+rxn06076_c0	['RNDR3', 'R_RNDR3', 'RNDR3n', 'R_RNDR3n']	MNXR104064	CDPREDUCT-RXN	R02024	rxn06076	rea	Lreu_seed
+rxn00985_c0		MNXR106946	PROPKIN-RXN	R01353	rxn00985	rea	Lreu_seed
+rxn08294_c0		MNXR135765			rxn08294	rea	Lreu_seed
+rxn03492_c0	['PC6AR', 'R_PC6AR']	MNXR138688	1.3.1.54-RXN	R05150	rxn03492	rea	Lreu_seed
+rxn10259_c0		MNXR136255			rxn10259	rea	Lreu_seed
+rxn01602_c0	['FOLR2_1', 'R_FOLR2', 'FOLR2', 'R_DHFOR2', 'DHFOR2', 'R_FOLR2_1', 'r0514', 'R_r0514']	MNXR97400		R02236	rxn01602	rea	Lreu_seed
+rxn07720_c0		MNXR111513		R07930	rxn07720	rea	Lreu_seed
+rxn05223_c0		MNXR134811			rxn05223	rea	Lreu_seed
+rxn00794_c0		MNXR106814	BIOTINIDASE-RXN	R01076	rxn00794	rea	Lreu_seed
+rxn02927_c0	['SADH', 'R_SADH']	MNXR104239	SUCCARGDIHYDRO-RXN	R04189	rxn02927	rea	Lreu_seed
+rxn05433_c0		MNXR134930			rxn05433	rea	Lreu_seed
+rxn05344_c0		MNXR109257	RXN-9539	R04968	rxn05344	rea	Lreu_seed
+rxn00114_c0	['CBMKr', 'R_CBMKr']	MNXR96482	CARBAMATE-KINASE-RXN	R00150	rxn00114	rea	Lreu_seed
+rxn01521_c0	['R_NTD1pp', 'R_NTD1m', 'NTD1pp', 'NTD1', 'R_NTD1', 'NTD1m']	MNXR102028	RXN-14143	R02102	rxn01521	rea	Lreu_seed
+rxn12636_c0		MNXR137141			rxn12636	rea	Lreu_seed
+rxn11759_c0	['R_5FLURAPRT', '5FLURAPRT']	MNXR95071		R08231	rxn11759	rea	Lreu_seed
+rxn08620_c0	['GLCTR3', 'R_GLCTR3']	MNXR100228			rxn08620	rea	Lreu_seed
+rxn05414_c0		MNXR134911			rxn05414	rea	Lreu_seed
+rxn05384_c0		MNXR134881			rxn05384	rea	Lreu_seed
+rxn01975_c0	['G6PBDHh', 'R_G6PBDHh', 'R_G6PBDH', 'G6PBDH']	MNXR99903		R02736	rxn01975	rea	Lreu_seed
+rxn02373_c0	['G5SD', 'R_G5DHx', 'G5SDym', 'R_G5SDym', 'R_G5SD', 'G5DHx']	MNXR99896	GLUTSEMIALDEHYDROG-RXN	R03313	rxn02373	rea	Lreu_seed
+rxn01649_c0	['R_PUNP7', 'PUNP7']	MNXR103349	XANTHOSINEPHOSPHORY-RXN	R02297	rxn01649	rea	Lreu_seed
+rxn03839_c0	['R_AMID5', 'AMID5']	MNXR95816	R311-RXN	R05551	rxn03839	rea	Lreu_seed
+rxn03094_c0		MNXR108918		R04486	rxn03094	rea	Lreu_seed
+rxn00119_c0	['UMPKn', 'R_UMPKm', 'UMPKm', 'R_UMPK', 'UMPK', 'R_UMPKn']	MNXR105118	RXN-12002	R00158	rxn00119	rea	Lreu_seed
+rxn00709_c0	['R_URIK1', 'URIK1']	MNXR105162	URIDINEKIN-RXN	R00964	rxn00709	rea	Lreu_seed
+rxn11749_c0		MNXR111785		R08221	rxn11749	rea	Lreu_seed
+rxn03873_c0	['OCHCCH', 'R_OCHCCH']	MNXR102147	OAHTHAUERA-RXN	R05594	rxn03873	rea	Lreu_seed
+rxn04453_c0	['R_HURH', 'R_HIUH', 'HIUH', 'HURH']	MNXR100652	3.5.2.17-RXN	R06601	rxn04453	rea	Lreu_seed
+rxn05468_c0	['O2trhu', 'R_O2tu', 'O2ter', 'O2t', 'R_O2tm', 'O2tn', 'R_O2tn', 'O2tp', 'R_O2tp', 'R_O2thr', 'O2tpp', 'O2thr', 'R_O2tex', 'O2tex', 'R_O2trhu', 'O2tu', 'R_O2ter', 'R_O2t', 'R_O2tpp', 'O2tm']	MNXR102090	TRANS-RXN0-474		['rxn09734', 'rxn09641', 'rxn05468', 'rxn09031', 'rxn09032']	rea	Lreu_seed
+rxn09345_c0		MNXR110252	RXN-8999	R06447	rxn09345	rea	Lreu_seed
+rxn05447_c0		MNXR134944			rxn05447	rea	Lreu_seed
+rxn01466_c0	['R_GRTT', 'GRTT', 'R_FPPSh', 'FPPSh', 'R_GRTTx', 'GRTTx']	MNXR99634	FPPSYN-RXN	R02003	rxn01466	rea	Lreu_seed
+rxn01304_c0	['HSST', 'R_HSST']	MNXR100741	HOMSUCTRAN-RXN	R01777	rxn01304	rea	Lreu_seed
+rxn03409_c0	['R_GLNSP3', 'GLNSP3']	MNXR100254			rxn03409	rea	Lreu_seed
+rxn01674_c0	['DCTUP', 'R_DCTUP']	MNXR97206		R02327	rxn01674	rea	Lreu_seed
+rxn02008_c0	['R_UAMAGS', 'UAMAGS']	MNXR138900		R02783	['rxn02008', 'rxn11252']	rea	Lreu_seed
+rxn03904_c0		MNXR142080			rxn03904	rea	Lreu_seed
+rxn01679_c0	['R_DUTUP', 'DUTUP']	MNXR97823		R02332	rxn01679	rea	Lreu_seed
+rxn04760_c0		MNXR110674		R06951	rxn04760	rea	Lreu_seed
+rxn07842_c0		MNXR111633	RXN-4305	R08052	rxn07842	rea	Lreu_seed
+rxn01171_c0		MNXR134274			rxn01171	rea	Lreu_seed
+rxn10199_c0		MNXR136199			rxn10199	rea	Lreu_seed
+rxn00783_c0	['DDPGALA', 'R_DDPGALA']	MNXR97220	DEHYDDEOXPHOSGALACT-ALDOL-RXN	R01064	rxn00783	rea	Lreu_seed
+rxn00409_c0	['NDPK3', 'R_NDPK3', 'NDPK3m', 'R_NDPK3m', 'R_NDPK3n', 'NDPK3n']	MNXR101936	CDPKIN-RXN	R00570	rxn00409	rea	Lreu_seed
+rxn02831_c0		MNXR142014			rxn02831	rea	Lreu_seed
+rxn07885_c0		MNXR111675		R08096	rxn07885	rea	Lreu_seed
+rxn00736_c0		MNXR106780	RXN-7746	R00995	rxn00736	rea	Lreu_seed
+rxn08842_c0		MNXR142328			rxn08842	rea	Lreu_seed
+rxn05669_c0	['VALt2m', 'R_VALt2m', 'VALt2r', 'R_VALt2r', 'VALt2rpp', 'R_VALt2rpp', 'VALth', 'R_VALth']	MNXR105188			['rxn09374', 'rxn05669', 'rxn11190', 'rxn09707']	rea	Lreu_seed
+rxn02128_c0		MNXR141971			rxn02128	rea	Lreu_seed
+rxn00778_c0		MNXR106810	PPENTOMUT-RXN	R01057	rxn00778	rea	Lreu_seed
+rxn01985_c0	['PUNP6', 'R_PUNP6']	MNXR138730		R02748	rxn01985	rea	Lreu_seed
+rxn00808_c0	['GALKr', 'R_GALKr', 'R_GALKh', 'GALKh']	MNXR99985	GALACTOKIN-RXN	R01092	rxn00808	rea	Lreu_seed
+rxn10052_c0	['R_ADK2', 'ADK2']	MNXR95451			rxn10052	rea	Lreu_seed
+rxn07672_c0		MNXR111465		R07882	rxn07672	rea	Lreu_seed
+rxn04133_c0		MNXR134600			rxn04133	rea	Lreu_seed
+rxn00193_c0	['GLUR', 'R_GLUR']	MNXR100288	GLUTRACE-RXN	R00260	rxn00193	rea	Lreu_seed
+rxn05326_c0		MNXR109246	RXN-9658	R04955	rxn05326	rea	Lreu_seed
+rxn05197_c0	['R_URAt2pp', 'URAt2pp', 'URAt2', 'R_URAt2']	MNXR105148	TRANS-RXN-132		['rxn09365', 'rxn05197']	rea	Lreu_seed
+rxn05155_c0	['R_GLNabcpp', 'GLNabcpp', 'R_GLNabc', 'GLNabc']	MNXR100258	ABC-12-RXN		['rxn08624', 'rxn05155', 'rxn11233', 'rxn11101', 'rxn05196']	rea	Lreu_seed
+rxn06372_c0		MNXR108153		R03410	rxn06372	rea	Lreu_seed
+rxn00929_c0	['P5CRx', 'R_P5CRx', 'P5CRxm', 'PRO1x', 'R_PRO1x', 'PRO1xm', 'R_PRO1xm', 'R_P5CRxm']	MNXR102303			rxn00929	rea	Lreu_seed
+rxn08800_c0		MNXR135845			rxn08800	rea	Lreu_seed
+rxn11892_c0		MNXR111926		R08381	rxn11892	rea	Lreu_seed
+rxn02166_c0		MNXR107896	4-NITROPHENYLPHOSPHATASE-RXN	R03024	rxn02166	rea	Lreu_seed
+rxn03004_c0		MNXR139268		R04325	rxn03004	rea	Lreu_seed
+rxn00138_c0	['NADS1', 'R_NADS1n', 'NADS1n', 'NADS1m', 'R_NADS1', 'R_NADS1m']	MNXR101897	NAD-SYNTH-NH3-RXN	R00189	rxn00138	rea	Lreu_seed
+rxn02015_c0		MNXR107729	RXN-17385	R02797	rxn02015	rea	Lreu_seed
+rxn05054_c0	['ADCPS1', 'R_ADCPS1']	MNXR138015			rxn05054	rea	Lreu_seed
+rxn05368_c0		MNXR134865			rxn05368	rea	Lreu_seed
+rxn01621_c0	['R_RMPA', 'RMPA']	MNXR104043	RHAMNULPALDOL-RXN	R02263	rxn01621	rea	Lreu_seed
+rxn10770_c0	['CHOLD', 'R_CHOLD']	MNXR96697	RXN-6021	R08557	rxn10770	rea	Lreu_seed
+rxn00231_c0	['AMID4', 'R_AMID4', 'AMID_1', 'R_AMID_1']	MNXR95815	RXN-14728	R00321	rxn00231	rea	Lreu_seed
+rxn05360_c0		MNXR134857			rxn05360	rea	Lreu_seed
+rxn05421_c0		MNXR134918			rxn05421	rea	Lreu_seed
+rxn01799_c0	['R_DURIPP', 'DURIPP']	MNXR138258		R02484	rxn01799	rea	Lreu_seed
+rxn01485_c0	['PGAMT', 'R_PGAMT', 'PGAMTi', 'R_PGAMTi']	MNXR102526	5.4.2.10-RXN	R02060	rxn01485	rea	Lreu_seed
+rxn05206_c0	['r1492', 'R_r1492', 'Kt1', 'R_Ktex', 'Ktex', 'R_Kt1']	MNXR100950	['TRANS-RXN-143', 'TRANS-RXN-190', 'TRANS-RXN-187', 'TRANS-RXN-186', 'TRANS-RXN-185']		['rxn08771', 'rxn05206']	rea	Lreu_seed
+rxn09296_c0	['THIORDXp', 'R_THIORDXni', 'THIORDXni', 'R_THIORDXp', 'R_THIORDXm', 'R_THIORDXi', 'THIORDXi', 'THIORDXm']	MNXR104815	RXN0-267		rxn09296	rea	Lreu_seed
+rxn00239_c0	['GK1m', 'GK1', 'R_GK1m', 'R_GK1']	MNXR100144	GUANYL-KIN-RXN	R00332	rxn00239	rea	Lreu_seed
+rxn00302_c0	['R_r0120', 'r0120']	MNXR138935		R00428	rxn00302	rea	Lreu_seed
+rxn02222_c0	['AMID3', 'R_AMID3']	MNXR95814	RXNN-404	R03096	rxn02222	rea	Lreu_seed
+rxn01710_c0	['R_ALCD3ir', 'ALCD3ir', 'R_ALCD3', 'ALCD3']	MNXR95727	RXN-13198	R02377	rxn01710	rea	Lreu_seed
+rxn10300_c0		MNXR136296			rxn10300	rea	Lreu_seed
+rxn03333_c0	['34DHOXPEGOX', 'R_34DHOXPEGOX']	MNXR94833	RXN-10911	R04880	rxn03333	rea	Lreu_seed
+rxn01329_c0	['R_MPPM', 'MPPM', 'R_PMANM', 'PMANM']	MNXR138640		R01818	rxn01329	rea	Lreu_seed
+rxn00542_c0		MNXR106665	LACTATE-ALDOLASE-RXN	R00753	rxn00542	rea	Lreu_seed
+rxn10220_c0		MNXR136216			rxn10220	rea	Lreu_seed
+rxn05464_c0		MNXR134959			rxn05464	rea	Lreu_seed
+rxn10261_c0		MNXR136257			rxn10261	rea	Lreu_seed
+rxn01964_c0	['R_SERH', 'SERH', 'R_TRPS1', 'TRPS1']	MNXR104343	TRYPSYN-RXN	R02722	rxn01964	rea	Lreu_seed
+rxn08816_c0		MNXR135860			rxn08816	rea	Lreu_seed
+rxn02341_c0		MNXR141985			rxn02341	rea	Lreu_seed
+rxn06591_c0	['GLUTRR', 'GLUTRR_1', 'R_GLUTRR_1', 'R_GLUTRR']	MNXR100294		R04109	rxn06591	rea	Lreu_seed
+rxn01519_c0	['R_DUTPDPm', 'DUTPDPn', 'R_DUTPDPn', 'DUTPDP', 'DUTPDPm', 'R_DUTPDP']	MNXR97822	DUTP-PYROP-RXN	R02100	rxn01519	rea	Lreu_seed
+rxn01343_c0	['PFK_3', 'R_PFK_3']	MNXR102510	RXN0-6541	R01843	rxn01343	rea	Lreu_seed
+rxn01014_c0	['R_HPYRDC', 'HPYRDCm', 'R_HPYRDCm', 'HPYRDC']	MNXR100700	HYDROXYPYRUVATE-DECARBOXYLASE-RXN	R01393	rxn01014	rea	Lreu_seed
+rxn10255_c0		MNXR136251			rxn10255	rea	Lreu_seed
+rxn08797_c0		MNXR135843			rxn08797	rea	Lreu_seed
+rxn05232_c0	['R_RNTR1', 'RNTR1']	MNXR104070		R02014	rxn05232	rea	Lreu_seed
+rxn06759_c0		MNXR109024		['R04649', 'R06005']	rxn06759	rea	Lreu_seed
+rxn09108_c0		MNXR135937			rxn09108	rea	Lreu_seed
+rxn00224_c0		MNXR138966		R00310	rxn00224	rea	Lreu_seed
+rxn01513_c0	['R_DTMPKm', 'DTMPKm', 'R_DTMPK', 'DTMPK']	MNXR97804	DTMPKI-RXN	R02094	rxn01513	rea	Lreu_seed
+rxn05372_c0		MNXR134869			rxn05372	rea	Lreu_seed
+rxn06510_c0	['R_KAT6', 'R_ACACT6p', 'R_ACACT6r', 'ACACT6r', 'KAT6', 'ACACT6m', 'R_ACACT6m', 'ACACT6p']	MNXR95201	RXN-14268	R03858	rxn06510	rea	Lreu_seed
+rxn08307_c0	['R_DASYN140', 'DASYN140']	MNXR97155			rxn08307	rea	Lreu_seed
+rxn11612_c0		MNXR109012		['R06010', 'R04633']	['rxn11612', 'rxn06751']	rea	Lreu_seed
+rxn05177_c0	['THMabcpp', 'R_THMabc', 'R_THMabcpp', 'THMabc']	MNXR138862			['rxn09297', 'rxn05177']	rea	Lreu_seed
+rxn05426_c0		MNXR134923			rxn05426	rea	Lreu_seed
+rxn00209_c0	['R_PDX5POi', 'PDX5POi']	MNXR102438	PNPOXI-RXN	R00278	rxn00209	rea	Lreu_seed
+rxn02474_c0	['R_APRAUR', 'APRAUR', 'R_AUNOR', 'AUNOR']	MNXR95898	RIBOFLAVINSYNREDUC-RXN	R03458	rxn02474	rea	Lreu_seed
+rxn03246_c0	['R_HACD3_1', 'HACD3i', 'R_HACD3i', 'HACD3m', 'R_HACD3m', 'HACD3', 'R_HACD3', 'HACD3_1']	MNXR100544		R04745	rxn03246	rea	Lreu_seed
+rxn00604_c0	['R_G6PDH2r', 'G6PDH2r', 'R_G6PDH2er', 'G6PDH2er']	MNXR99907	GLU6PDEHYDROG-RXN	R00835	rxn00604	rea	Lreu_seed
+rxn12645_c0		MNXR137145			rxn12645	rea	Lreu_seed
+rxn05605_c0	['MALtpp', 'R_MALtpp', 'R_MALt2r', 'MALt2r']	MNXR101372			rxn05605	rea	Lreu_seed
+rxn00715_c0	['R_URIK3', 'URIK3']	MNXR105164		R00970	rxn00715	rea	Lreu_seed
+rxn01019_c0		MNXR141874			rxn01019	rea	Lreu_seed
+rxn05518_c0		MNXR142136			rxn05518	rea	Lreu_seed
+rxn08849_c0		MNXR135889			rxn08849	rea	Lreu_seed
+rxn04050_c0	['CODSCL6ARED', 'R_CODSCL6ARED', 'CPC6R', 'R_CPC6R']	MNXR96837			rxn04050	rea	Lreu_seed
+rxn05439_c0		MNXR134936			rxn05439	rea	Lreu_seed
+rxn08295_c0		MNXR135766			rxn08295	rea	Lreu_seed
+rxn01603_c0	['DHFS_1', 'R_DHFS_1', 'DHFS', 'R_DHFS']	MNXR138234		R02237	rxn01603	rea	Lreu_seed
+rxn10320_c0		MNXR136316			rxn10320	rea	Lreu_seed
+rxn09944_c0	['MMSAD2', 'R_MMSAD2']	MNXR101664	RXN-12736	R09097	rxn09944	rea	Lreu_seed
+rxn02788_c0	['R_4OT', '4OT']	MNXR126540	RXN-12354	R03966	rxn02788	rea	Lreu_seed
+rxn00055_c0		MNXR106376	2.5.1.43-RXN	R00075	rxn00055	rea	Lreu_seed
+rxn00686_c0		MNXR139012	DIHYDROFOLATEREDUCT-RXN	R00939	rxn00686	rea	Lreu_seed
+rxn00905_c0	['2DHPFALDL', 'R_2DHPFALDL']	MNXR94792	KETOPANTOALDOLASE-RXN	R01216	rxn00905	rea	Lreu_seed
+rxn05456_c0		MNXR134953			rxn05456	rea	Lreu_seed
+rxn02409_c0		MNXR134360			rxn02409	rea	Lreu_seed
+rxn09112_c0	['PGSA161', 'R_PGSA161']	MNXR102594			rxn09112	rea	Lreu_seed
+rxn06075_c0	['R_RNDR4n', 'RNDR4n', 'R_RNDR4', 'RNDR4']	MNXR104066	UDPREDUCT-RXN	R02018	rxn06075	rea	Lreu_seed
+rxn00689_c0		MNXR139015		R00942	rxn00689	rea	Lreu_seed
+rxn05289_c0	['R_TDSRh', 'TRDR', 'R_TRDR', 'TDSRh', 'R_TRDRm', 'TRDRm']	MNXR104766	THIOREDOXIN-REDUCT-NADPH-RXN	R02016	rxn05289	rea	Lreu_seed
+rxn05467_c0	['R_CO2tv', 'CO2tpp', 'R_CO2tpp_1', 'CO2tpp_1', 'R_CO2tp', 'CO2tv', 'R_CO2tpp', 'CO2tp', 'CO2tm', 'CO2tn', 'R_CO2tm', 'CO2t', 'R_CO2th', 'CO2th', 'R_CO2tg', 'CO2tg', 'R_CO2t', 'CO2ter', 'R_CO2ter', 'R_CO2tex', 'R_CO2tn', 'CO2tex']	MNXR96810	TRANS-RXN0-545		['rxn09821', 'rxn08238', 'rxn09876', 'rxn09860', 'rxn05467', 'rxn09775', 'rxn09706', 'rxn08237']	rea	Lreu_seed
+rxn00117_c0	['NDPK2m', 'R_NDPK2n', 'NDPK2n', 'R_NDPK2m', 'R_NDPK2', 'NDPK2']	MNXR101935	UDPKIN-RXN	R00156	rxn00117	rea	Lreu_seed
+rxn01308_c0	['FBA4', 'R_FBA4']	MNXR99462		R01785	rxn01308	rea	Lreu_seed
+rxn05343_c0		MNXR109251	RXN-9527	R04960	rxn05343	rea	Lreu_seed
+rxn01520_c0		MNXR141921			rxn01520	rea	Lreu_seed
+rxn05425_c0		MNXR134922			rxn05425	rea	Lreu_seed
+rxn10318_c0		MNXR136314			rxn10318	rea	Lreu_seed
+rxn01641_c0		MNXR139093	GLUTAMATE-FORMIMINOTRANSFERASE-RXN	R02287	rxn01641	rea	Lreu_seed
+rxn01226_c0	['GNNUC', 'R_GNNUC']	MNXR100392	RXN0-366	R01677	rxn01226	rea	Lreu_seed
+rxn08298_c0		MNXR135769			rxn08298	rea	Lreu_seed
+rxn02172_c0		MNXR107901	ARABINONATE-DEHYDRATASE-RXN	R03032	rxn02172	rea	Lreu_seed
+rxn00293_c0	['R_UAGDP', 'UAGDP']	MNXR138899			rxn00293	rea	Lreu_seed
+rxn05383_c0		MNXR134880			rxn05383	rea	Lreu_seed
+rxn00741_c0	['2HBO', 'LDH2', 'R_LDH2', 'R_2HBO']	MNXR94796			rxn00741	rea	Lreu_seed
+rxn00839_c0	['NDPK8', 'R_NDPK8', 'NDPK8m', 'R_NDPK8m', 'NDPK8n', 'R_NDPK8n']	MNXR101940	DADPKIN-RXN	R01137	rxn00839	rea	Lreu_seed
+rxn03838_c0		MNXR101747		['R05549', 'R06096']	rxn03838	rea	Lreu_seed
+rxn01575_c0	['R_BCTA', 'BCTAh', 'R_BCTAh', 'R_ILETAm', 'ILETAm', 'R_ILETA', 'ILETA', 'BCTA']	MNXR96228	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	R02199	rxn01575	rea	Lreu_seed
+rxn09149_c0	['R_PLIPA2A180pp', 'PLIPA2A180pp']	MNXR102994			rxn09149	rea	Lreu_seed
+rxn10205_c0		MNXR136202			rxn10205	rea	Lreu_seed
+rxn04139_c0		MNXR110037		R06146	rxn04139	rea	Lreu_seed
+rxn10226_c0		MNXR136222			rxn10226	rea	Lreu_seed
+rxn10293_c0		MNXR136289			rxn10293	rea	Lreu_seed
+rxn13661_c0		MNXR137618			rxn13661	rea	Lreu_seed
+rxn10311_c0		MNXR136307			rxn10311	rea	Lreu_seed
+rxn05361_c0		MNXR134858			rxn05361	rea	Lreu_seed
+rxn10214_c0		MNXR136210			rxn10214	rea	Lreu_seed
+rxn02011_c0	['R_UAAGDS', 'UAAGDS']	MNXR138890		R02788	rxn02011	rea	Lreu_seed
+rxn05651_c0	['SO4t2', 'R_SO4t2', 'SO4t2pp', 'R_SO4t2pp']	MNXR104466			['rxn13116', 'rxn05651']	rea	Lreu_seed
+rxn05402_c0		MNXR134899			rxn05402	rea	Lreu_seed
+rxn05306_c0	['R_PHEt2rpp', 'r1455', 'PHEt2rpp', 'R_PHEt2r', 'PHEt2r', 'R_PHEt2m', 'PHEt2m', 'R_r1455']	MNXR102635	TRANS-RXN-56		['rxn05306', 'rxn11337', 'rxn09724', 'rxn09117']	rea	Lreu_seed
+rxn03893_c0	['R_HBZOPT', 'HBZOPT']	MNXR100566	4OHBENZOATE-OCTAPRENYLTRANSFER-RXN	R05615	rxn03893	rea	Lreu_seed
+rxn05255_c0	['FOLt', 'R_FOLt']	MNXR99612			rxn05255	rea	Lreu_seed
+rxn10215_c0		MNXR136211			rxn10215	rea	Lreu_seed
+rxn05386_c0		MNXR134883			rxn05386	rea	Lreu_seed
+rxn10274_c0		MNXR136270			rxn10274	rea	Lreu_seed
+rxn03852_c0		MNXR109685		['R06129', 'R05566']	rxn03852	rea	Lreu_seed
+rxn00917_c0		MNXR100384	GMP-SYN-GLUT-RXN		rxn00917	rea	Lreu_seed
+rxn00086_c0	['R_GTHOm', 'GTHOm', 'GDR_nadp_h', 'R_GDR_nadp_h', 'GTHOr', 'R_GTHOr']	MNXR100098	GLUTATHIONE-REDUCT-NADPH-RXN	R00115	rxn00086	rea	Lreu_seed
+rxn02774_c0	['SHCHD2_1', 'R_SHCHD2', 'SHCHD2', 'R_SHCHD2_1']	MNXR104373	DIMETHUROPORDEHYDROG-RXN	R03947	rxn02774	rea	Lreu_seed
+rxn12008_c0		MNXR109713		R05611	rxn12008	rea	Lreu_seed
+rxn10206_c0		MNXR136203			rxn10206	rea	Lreu_seed
+rxn00806_c0	['BCTA_glu_h', 'LEUTA', 'R_LEUTA', 'R_BCTA_glu_h', 'LEUTAm', 'R_LEUTAi', 'LEUTAi', 'R_LEUTAm']	MNXR96229	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	R01090	rxn00806	rea	Lreu_seed
+rxn02304_c0	['R_PPPGO', 'PPPGOm', 'R_PPPGOm', 'PPPGO']	MNXR103128			['rxn02304', 'rxn09179']	rea	Lreu_seed
+rxn13477_c0		MNXR112682	TRANS-PENTAPRENYLTRANSFERASE-RXN	R09245	rxn13477	rea	Lreu_seed
+rxn10197_c0	['R_TECA4S', 'TECA4S']	MNXR104773			['rxn10197', 'rxn05263']	rea	Lreu_seed
+rxn10291_c0		MNXR136287			rxn10291	rea	Lreu_seed
+rxn12224_c0		MNXR136820			rxn12224	rea	Lreu_seed
+rxn00621_c0	['R_G3PCT', 'G3PCT']	MNXR99872	2.7.7.39-RXN	R00856	rxn00621	rea	Lreu_seed
+rxn02288_c0	['R_UPPDC1_1', 'UPPDC1_1', 'R_UPPDC1', 'UPPDC1']	MNXR105140	UROGENDECARBOX-RXN	R03197	rxn02288	rea	Lreu_seed
+rxn05390_c0		MNXR134887			rxn05390	rea	Lreu_seed
+rxn00467_c0	['R_ORNTArm', 'ORNTA_1', 'R_ORNTA_1', 'R_ORNTA', 'ORNTA', 'ORNTArm']	MNXR102220	ORNITHINE-GLU-AMINOTRANSFERASE-RXN	R00667	rxn00467	rea	Lreu_seed
+rxn09142_c0		MNXR135958			rxn09142	rea	Lreu_seed
+rxn05394_c0		MNXR134891			rxn05394	rea	Lreu_seed
+rxn10284_c0		MNXR136280			rxn10284	rea	Lreu_seed
+rxn10094_c0	['AMMQT8_2', 'R_AMMQT8_2']	MNXR95823			rxn10094	rea	Lreu_seed
+rxn05377_c0		MNXR134874			rxn05377	rea	Lreu_seed
+rxn11946_c0		MNXR109714		R05614	rxn11946	rea	Lreu_seed
+rxn06022_c0		MNXR142163			rxn06022	rea	Lreu_seed
+rxn10310_c0		MNXR136306			rxn10310	rea	Lreu_seed
+rxn05663_c0	['TRPth', 'TRPt2r', 'R_TRPt2rpp', 'TRPt2rpp', 'R_TRPt2r', 'R_TRPt2m', 'TRPt2m', 'R_TRPth']	MNXR104950	TRANS-RXN-76		['rxn09326', 'rxn09709', 'rxn05663']	rea	Lreu_seed
+rxn10161_c0	['R_OCDCAt2pp', 'OCDCAt2pp', 'R_OCDCAt2', 'OCDCAt2']	MNXR102142			rxn10161	rea	Lreu_seed
+rxn03537_c0	['R_ACBIPGT', 'ACBIPGT']	MNXR95216	COBINPGUANYLYLTRANS-RXN	R05222	rxn03537	rea	Lreu_seed
+rxn02268_c0	['ACOAD20', 'R_ACOAD20']	MNXR95309			rxn02268	rea	Lreu_seed
+rxn10338_c0		MNXR136334			rxn10338	rea	Lreu_seed
+rxn05373_c0		MNXR134870			rxn05373	rea	Lreu_seed
+rxn12664_c0		MNXR137148			rxn12664	rea	Lreu_seed
+rxn10266_c0		MNXR136262			rxn10266	rea	Lreu_seed
+rxn04794_c0	['PCFPTh', 'R_PCFPTh', 'PCFPTm', 'R_PCFPTm', 'R_OBTFL', 'OBTFL']	MNXR102135	KETOBUTFORMLY-RXN	R06987	rxn04794	rea	Lreu_seed
+rxn05148_c0		MNXR142131			rxn05148	rea	Lreu_seed
+rxn05381_c0		MNXR134878			rxn05381	rea	Lreu_seed
+rxn00693_c0		MNXR141853			rxn00693	rea	Lreu_seed
+rxn03395_c0	['OHPHM', 'R_OHPHM']	MNXR102170	2-OCTAPRENYL-6-OHPHENOL-METHY-RXN	R04988	rxn03395	rea	Lreu_seed
+rxn08333_c0	['DHNAOT4', 'R_DHNAOT4']	MNXR97408	DMK-RXN		rxn08333	rea	Lreu_seed
+rxn05267_c0		MNXR134831			rxn05267	rea	Lreu_seed
+rxn05369_c0		MNXR134866			rxn05369	rea	Lreu_seed
+rxn03891_c0	['R_HEXTT', 'HEXTT']	MNXR100621		R05612	rxn03891	rea	Lreu_seed
+rxn10194_c0		MNXR136195			rxn10194	rea	Lreu_seed
+rxn02269_c0	['R_OIVD3', 'R_OIVD3m', 'OIVD3m', 'OIVD3']	MNXR102174	2KETO-3METHYLVALERATE-RXN		rxn02269	rea	Lreu_seed
+rxn10192_c0		MNXR136194			rxn10192	rea	Lreu_seed
+rxn05301_c0	['TYRt2m', 'R_TYRt2p', 'TYRt2p', 'R_TYRth', 'R_TYRt2m', 'R_TYRt7', 'TYRt7', 'R_TYRt2rpp', 'TYRt2rpp', 'R_TYRt2r', 'TYRt2r', 'TYRth']	MNXR105003	TRANS-RXN-77		['rxn05301', 'rxn09338', 'rxn13412', 'rxn09708', 'rxn09831']	rea	Lreu_seed
+rxn05365_c0		MNXR134862			rxn05365	rea	Lreu_seed
+rxn10196_c0		MNXR136197			rxn10196	rea	Lreu_seed
+rxn02303_c0	['R_CPPPGO', 'CPPPGO']	MNXR96880	RXN0-1461	R03220	rxn02303	rea	Lreu_seed
+rxn05175_c0	['SPMDabc', 'R_SPMDabc', 'SPMDabcpp', 'R_SPMDabcpp']	MNXR104494	ABC-24-RXN		['rxn05175', 'rxn11262', 'rxn09263']	rea	Lreu_seed
+rxn12225_c0	['R_OPHHX', 'OPHHX']	MNXR102203			['rxn09044', 'rxn12225']	rea	Lreu_seed
+rxn02286_c0		MNXR141984			['rxn11251', 'rxn02286']	rea	Lreu_seed
+rxn05299_c0	['HISt2r', 'HIShPTtc', 'R_HIShPTtc', 'R_HISt2m', 'r1427', 'R_r1427', 'R_HISth', 'HISth', 'R_HISt2rpp', 'HISt2rpp', 'R_HISt2r', 'HISt2m']	MNXR100645			['rxn11327', 'rxn05299', 'rxn08719', 'rxn09744']	rea	Lreu_seed
+rxn05144_c0	['R_PYDXS', 'PYDXS']	MNXR103369		R07456	rxn05144	rea	Lreu_seed
+rxn10273_c0		MNXR136269			rxn10273	rea	Lreu_seed
+rxn10232_c0		MNXR136228			rxn10232	rea	Lreu_seed
+rxn00851_c0	['R_ALAALAr', 'ALAALAr']	MNXR95678	DALADALALIG-RXN	R01150	['rxn00851', 'rxn13802']	rea	Lreu_seed
+rxn10181_c0	['R_NMNtn', 'NMNtn', 'NMNtex', 'R_NMNtex', 'NMNPtpp', 'R_NMNP', 'NMNP', 'R_NMNPtpp']	MNXR101972			['rxn10181', 'rxn08997', 'rxn08995']	rea	Lreu_seed
+rxn03901_c0		MNXR134586			rxn03901	rea	Lreu_seed
+rxn03397_c0	['R_URFGTT', 'URFGTT']	MNXR105158	RXN-14177	R04990	rxn03397	rea	Lreu_seed
+rxn10265_c0		MNXR136261			rxn10265	rea	Lreu_seed
+rxn03393_c0	['R_OPHBDC', 'OPHBDC']	MNXR102201	3-OCTAPRENYL-4-OHBENZOATE-DECARBOX-RXN	R04986	rxn03393	rea	Lreu_seed
+rxn10227_c0		MNXR136223			rxn10227	rea	Lreu_seed
+rxn02056_c0	['R_SHCHF_2', 'SHCHF_2', 'R_SHCHF_1', 'SHCHF_1', 'R_SHCHF', 'SHCHF']	MNXR104375	SIROHEME-FERROCHELAT-RXN	R02864	rxn02056	rea	Lreu_seed
+rxn10336_c0		MNXR136332			rxn10336	rea	Lreu_seed
+rxn02934_c0	['ECOAH9ir', 'R_ECOAH9ir', 'ECOAH9m', 'R_ECOAH9m']	MNXR97894	TIGLYLCOA-HYDROXY-RXN	R04204	rxn02934	rea	Lreu_seed
+rxn05406_c0		MNXR134903			rxn05406	rea	Lreu_seed
+rxn10233_c0		MNXR136229			rxn10233	rea	Lreu_seed
+rxn01207_c0	['OIVD1m', 'R_OIVD1r', 'R_OIVD1m', 'OIVD1r']	MNXR102172	2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN	R01651	rxn01207	rea	Lreu_seed
+rxn10292_c0		MNXR136288			rxn10292	rea	Lreu_seed
+rxn09677_c0	['R_GTHOXtex', 'GTHOXtex', 'R_GTHOXti', 'R_gthox_export', 'GTHOXtu', 'R_GTHOXtu', 'GTHOXti', 'gthox_export']	MNXR100443			['rxn08674', 'rxn09677']	rea	Lreu_seed
+rxn10275_c0		MNXR136271			rxn10275	rea	Lreu_seed
+rxn10337_c0		MNXR136333			rxn10337	rea	Lreu_seed
+rxn10309_c0		MNXR136305			rxn10309	rea	Lreu_seed
+rxn05237_c0	['CYSabc', 'R_CYSabc', 'R_CYSabcpp', 'CYSabcpp']	MNXR97025	TRANS-RXN-265		['rxn05237', 'rxn08281']	rea	Lreu_seed
+rxn05029_c0		MNXR134792			rxn05029	rea	Lreu_seed
+rxn08040_c0	['ACGAMT', 'R_ACGAMT']	MNXR95251			rxn08040	rea	Lreu_seed
+rxn10282_c0		MNXR136278			rxn10282	rea	Lreu_seed
+rxn09135_c0	['R_PLIPA1E180pp', 'R_PLIPA1E180', 'PLIPA1E180', 'PLIPA1E180pp']	MNXR102979			rxn09135	rea	Lreu_seed
+rxn10283_c0		MNXR136279			rxn10283	rea	Lreu_seed
+rxn12549_c0	['UHBZ1t_pp', 'R_UHBZ1t_pp']	MNXR105109			['rxn12549', 'rxn12680']	rea	Lreu_seed
+rxn03164_c0		MNXR139294		R04617	['rxn13914', 'rxn03164']	rea	Lreu_seed
+rxn05398_c0		MNXR134895			rxn05398	rea	Lreu_seed
+rxn05514_c0	['CA2t3pp', 'R_CA2t3pp', 'CAt4', 'R_CAt4']	MNXR96437			['rxn05514', 'rxn08185']	rea	Lreu_seed
+rxn13781_c0		MNXR137714			rxn13781	rea	Lreu_seed
+rxn10195_c0		MNXR136196			rxn10195	rea	Lreu_seed
+rxn00541_c0	['R_THRA', 'THRA_1', 'R_THRA_1', 'THRAi', 'R_THRAi', 'THRA']	MNXR104833	THREONINE-ALDOLASE-RXN	R00751	rxn00541	rea	Lreu_seed
+bio1						rea	Lreu_seed
+EX_cpd00067_e0						rea	Lreu_seed
+EX_cpd00075_e0						rea	Lreu_seed
+EX_cpd08636_c0						rea	Lreu_seed
+EX_cpd11576_e0						rea	Lreu_seed
+EX_cpd04097_e0						rea	Lreu_seed
+EX_cpd00033_e0						rea	Lreu_seed
+EX_cpd01030_e0						rea	Lreu_seed
+EX_cpd01012_e0						rea	Lreu_seed
+EX_cpd00276_e0						rea	Lreu_seed
+EX_cpd00082_e0						rea	Lreu_seed
+EX_cpd00001_e0						rea	Lreu_seed
+EX_cpd00023_e0						rea	Lreu_seed
+EX_cpd00971_e0						rea	Lreu_seed
+EX_cpd00058_e0						rea	Lreu_seed
+EX_cpd00224_e0						rea	Lreu_seed
+EX_cpd00314_e0						rea	Lreu_seed
+EX_cpd00107_e0						rea	Lreu_seed
+EX_cpd00222_e0						rea	Lreu_seed
+EX_cpd00013_e0						rea	Lreu_seed
+EX_cpd00051_e0						rea	Lreu_seed
+EX_cpd00064_e0						rea	Lreu_seed
+EX_cpd10515_e0						rea	Lreu_seed
+EX_cpd00179_e0						rea	Lreu_seed
+EX_cpd00100_e0						rea	Lreu_seed
+EX_cpd00009_e0						rea	Lreu_seed
+EX_cpd00060_e0						rea	Lreu_seed
+EX_cpd00034_e0						rea	Lreu_seed
+EX_cpd00027_e0						rea	Lreu_seed
+EX_cpd00076_e0						rea	Lreu_seed
+EX_cpd00322_e0						rea	Lreu_seed
+EX_cpd01171_e0						rea	Lreu_seed
+EX_cpd00550_e0						rea	Lreu_seed
+EX_cpd00054_e0						rea	Lreu_seed
+EX_cpd00154_e0						rea	Lreu_seed
+EX_cpd00637_e0						rea	Lreu_seed
+EX_cpd00122_e0						rea	Lreu_seed
+EX_cpd03696_e0						rea	Lreu_seed
+EX_cpd00309_e0						rea	Lreu_seed
+EX_cpd00220_e0						rea	Lreu_seed
+EX_cpd00588_e0						rea	Lreu_seed
+EX_cpd00117_e0						rea	Lreu_seed
+EX_cpd00108_e0						rea	Lreu_seed
+EX_cpd00307_e0						rea	Lreu_seed
+EX_cpd00254_e0						rea	Lreu_seed
+EX_cpd00130_e0						rea	Lreu_seed
+EX_cpd00138_e0						rea	Lreu_seed
+EX_cpd00039_e0						rea	Lreu_seed
+EX_cpd00205_e0						rea	Lreu_seed
+EX_cpd10516_e0						rea	Lreu_seed
+EX_cpd00030_e0						rea	Lreu_seed
+EX_cpd00149_e0						rea	Lreu_seed
+EX_cpd01914_e0						rea	Lreu_seed
+EX_cpd00099_e0						rea	Lreu_seed
+EX_cpd00024_e0						rea	Lreu_seed
+EX_cpd00531_e0						rea	Lreu_seed
+EX_cpd00209_e0						rea	Lreu_seed
+EX_cpd00794_e0						rea	Lreu_seed
+EX_cpd00226_e0						rea	Lreu_seed
+EX_cpd00104_e0						rea	Lreu_seed
+EX_cpd00007_e0						rea	Lreu_seed
+EX_cpd00156_e0						rea	Lreu_seed
+EX_cpd00092_e0						rea	Lreu_seed
+EX_cpd00053_e0						rea	Lreu_seed
+EX_cpd00305_e0						rea	Lreu_seed
+EX_cpd00158_e0						rea	Lreu_seed
+EX_cpd00011_e0						rea	Lreu_seed
+EX_cpd11416_c0						rea	Lreu_seed
+EX_cpd00048_e0						rea	Lreu_seed
+EX_cpd00066_e0						rea	Lreu_seed
+EX_cpd00393_e0						rea	Lreu_seed
+EX_cpd00065_e0						rea	Lreu_seed
+EX_cpd01080_e0						rea	Lreu_seed
+EX_cpd11606_e0						rea	Lreu_seed
+EX_cpd00028_e0						rea	Lreu_seed
+EX_cpd00069_e0						rea	Lreu_seed
+EX_cpd00264_e0						rea	Lreu_seed
+EX_cpd00119_e0						rea	Lreu_seed
+EX_cpd00355_e0						rea	Lreu_seed
+EX_cpd00111_e0						rea	Lreu_seed
+EX_cpd00084_e0						rea	Lreu_seed
+EX_cpd00136_e0						rea	Lreu_seed
+EX_cpd00063_e0						rea	Lreu_seed
+EX_cpd00655_e0						rea	Lreu_seed
