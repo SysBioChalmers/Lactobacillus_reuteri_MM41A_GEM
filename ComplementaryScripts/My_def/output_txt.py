@@ -3,7 +3,7 @@
 # Created by lhao at 2019-04-23
 import cobra
 
-def output_txt(solution,outfile):
+def output_txt(solution,model,outfile):
     need_fluxes =solution.fluxes[abs(solution.fluxes)>1e-10]
     with open(outfile,'w') as outf:
         for need_id in need_fluxes.index:

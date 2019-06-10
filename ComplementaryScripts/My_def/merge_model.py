@@ -102,12 +102,14 @@ def merge_draftmodels(model1, model2, inplace = False):
                 rowlist[3] = rea1.gene_reaction_rule
                 rowlist[4] = rea2.gene_reaction_rule
                 model.reactions.get_by_id(rea2.id).gene_reaction_rule = gpr
-                model.reactions.get_by_id(rea2.id).notes['from'].update(rea2.notes['from'])
+                model.reactions.get_by_id(rea2.id).notes['from'].extend(rea2.notes['from'])
+                model.reactions.get_by_id(rea2.id).notes['from'] = list(set(model.reactions.get_by_id(rea2.id).notes['from']))
 
             elif notes[1] == 'bounds different':
                 rowlist[3] = str(rea1.bounds)
                 rowlist[4] = str(rea2.bounds)
-                model.reactions.get_by_id(rea2.id).notes['from'].update(rea2.notes['from'])
+                model.reactions.get_by_id(rea2.id).notes['from'].extend(rea2.notes['from'])
+                model.reactions.get_by_id(rea2.id).notes['from'] = list(set(model.reactions.get_by_id(rea2.id).notes['from']))
         data.append(rowlist)
     report_df = pd.DataFrame(data,index=None,columns = ['rea_id', 'add_skip','describ','fea1','fea2','dif'])
 
@@ -128,7 +130,7 @@ def merge_metabolitesid(model1, new_id, old_id):
         for rea in model.metabolites.get_by_id(old_id).reactions:
             # rea.reaction = re.sub(r'(^|\b)'+id_in_tp+'(\b|$)', id_in_bigg, rea.reaction)
             rea_equ = rea.reaction
-            model.reactions.get_by_id(rea.id).reaction = re.sub('(^| )' + old_id + '( |$)', new_id, rea.reaction)
+            model.reactions.get_by_id(rea.id).reaction = re.sub(r'\b%s\b'%old_id, new_id, rea.reaction)
 
         model.metabolites.get_by_id(old_id).remove_from_model()
         print(new_id + ' already in model!!!')
@@ -156,20 +158,22 @@ def judge(model1,old_id,model2,new_id):
         print(old_id + 'not in model!!! skiped')
         return False
 
+
 def note_rea_from(rea,notes):
     if 'from' not in rea.notes:
-        rea.notes['from'] = {notes}
+        rea.notes['from'] = [notes]
     else:
-        if type(rea.notes['from']) == list:
-            rea.notes['from'] = set(rea.notes['from'])
+        if type(rea.notes['from']) == set:
+            rea.notes['from'] = list(rea.notes['from'])
         elif type(rea.notes['from']) == str:
-            rea.notes['from'] = {rea.notes['from']}
-        rea.notes['from'].add(notes)
+            rea.notes['from'] = [rea.notes['from']]
+        rea.notes['from'].append(notes)
+
+    rea.notes['from'] = list(set(rea.notes['from']))
 
 def note_model_from(model,notes):
     for rea in model.reactions:
         rea = note_rea_from(rea, notes)
-
 
 if __name__=='__main__':
     os.chdir('../../ComplementaryData/Step_02_DraftModels/')
