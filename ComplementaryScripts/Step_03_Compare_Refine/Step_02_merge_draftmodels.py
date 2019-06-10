@@ -15,168 +15,8 @@ import re
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
 pd.set_option('display.width', 1000)
+from My_def.merge_model import *
 
-
-def dir_rea_metabolites(rea_metbolites):
-    '''
-    convert reaction.metabolites to str
-
-    :param rea_metbolites: reaction.metabolites a special dictionary
-    :return: a str of rea_metbolites
-    eval(str_rea_metabolites(rea_metbolites)) could be a normal dictionary
-    '''
-    temp_dic = {}
-    for k, v in rea_metbolites.items():
-        temp_dic[k.id] = v
-    return temp_dic
-
-def dir_rea_revers_metabolites(rea_metbolites):
-
-    temp_dic = {}
-    for k, v in rea_metbolites.items():
-        temp_dic[k.id] = -v
-    return temp_dic
-
-def compare_euqations(rea1,rea2):
-    gpr = rea1.gene_reaction_rule
-    notes = ['mets different','bounds different','gpr different']
-
-    if dir_rea_metabolites(rea1.metabolites) == dir_rea_metabolites(rea2.metabolites) :
-        notes[0] = 'mets same'
-        if rea1.bounds == rea2.bounds:
-            notes[1] = 'bounds same'
-        if rea1.gene_reaction_rule == rea2.gene_reaction_rule:
-            notes[2] = 'gpr same'
-        else:
-            gpr = merge_gprule(rea1.gene_reaction_rule, rea2.gene_reaction_rule)
-    elif dir_rea_metabolites(rea1.metabolites) == dir_rea_revers_metabolites(rea2.metabolites):
-        notes[0] = 'mets same'
-        if rea1.upper_bound == -rea2.lower_bound and rea1.lower_bound == -rea2.upper_bound:
-            notes[1] = 'bounds same'
-        if rea1.gene_reaction_rule == rea2.gene_reaction_rule:
-            notes[2] = 'gpr same'
-        else:
-            gpr = merge_gprule(rea1.gene_reaction_rule, rea2.gene_reaction_rule)
-
-    return gpr,notes
-
-def merge_gprule(gpr1,gpr2):
-    genset1 = cobra.core.gene.parse_gpr(gpr1)[1]
-    genset2 = cobra.core.gene.parse_gpr(gpr2)[1]
-    if genset2.issubset(genset1):
-        gpr = gpr1
-    elif genset1.issubset(genset2):
-        gpr = gpr2
-    else:
-        gpr = '( %s ) or ( %s )'% (gpr1,gpr2)
-    return gpr
-
-def merge_draftmodels(model1, model2, inplace = False):
-
-    if inplace:
-        model = model1
-    else:
-        model = model1.copy()
-
-    #model = model1
-    reaset = set([i.id for i in model.reactions])
-    data = []
-
-    for rea2 in model2.reactions:
-        rowlist = ['']*6
-        rowlist[0] = rea2.id
-        rowlist[1] = 'add'
-        if rea2.id not in reaset:
-            model.add_reaction(rea2)
-            reaset.add(rea2.id)
-            rowlist[2] = 'new'
-        else:
-            rea1 = model1.reactions.get_by_id(rea2.id)
-            gpr,notes = compare_euqations(rea1, rea2)
-            rowlist[2] = ','.join(notes)
-
-            if notes[0] == 'mets different':
-                rowlist[1] = 'skip'
-
-                rowlist[3] = rea1.reaction
-                rowlist[4] = rea2.reaction
-
-                dif = [i for i in dir_rea_metabolites(rea1.metabolites).keys() if i not in dir_rea_metabolites(rea2.metabolites).keys()]
-                if len(dif)==0:
-                    dif = 'coefficient dif'
-                rowlist[5] = dif
-
-            elif notes[2] == 'gpr different':
-                rowlist[3] = rea1.gene_reaction_rule
-                rowlist[4] = rea2.gene_reaction_rule
-                model.reactions.get_by_id(rea2.id).gene_reaction_rule = gpr
-                model.reactions.get_by_id(rea2.id).notes['from'].update(rea2.notes['from'])
-
-            elif notes[1] == 'bounds different':
-                rowlist[3] = str(rea1.bounds)
-                rowlist[4] = str(rea2.bounds)
-                model.reactions.get_by_id(rea2.id).notes['from'].update(rea2.notes['from'])
-        data.append(rowlist)
-    report_df = pd.DataFrame(data,index=None,columns = ['rea_id', 'add_skip','describ','fea1','fea2','dif'])
-
-    print('\033[0;31;47m')
-    print('mets different reaction list')
-    print(report_df[report_df['describ'].str.contains('mets different')])
-    #display(report_df[report_df['describ'].str.contains('mets different')])
-
-    return model.copy(),report_df
-
-def merge_metabolitesid(model, new_id, old_id):
-    model = model.copy()
-    try:
-        model.metabolites.get_by_id(old_id).id = new_id
-
-    except ValueError:
-
-        for rea in model.metabolites.get_by_id(old_id).reactions:
-            # rea.reaction = re.sub(r'(^|\b)'+id_in_tp+'(\b|$)', id_in_bigg, rea.reaction)
-            rea_equ = rea.reaction
-            model.reactions.get_by_id(rea.id).reaction = re.sub('(^| )' + old_id + '( |$)', new_id, rea.reaction)
-
-        model.metabolites.get_by_id(old_id).remove_from_model()
-        print(new_id + ' already in model!!!')
-
-    except KeyError:
-        print(old_id + ' not in model!!! skiped')
-
-    return model
-
-def judge(model1,old_id,model2,new_id):
-
-    try:
-        print(model1.metabolites.get_by_id(old_id).name)
-        print(model2.metabolites.get_by_id(new_id).name)
-
-        if model1.metabolites.get_by_id(old_id).formula == '' or model2.metabolites.get_by_id(new_id).formula=='':
-            print('Manual handling!!! no formula')
-        elif model1.metabolites.get_by_id(old_id).formula == model2.metabolites.get_by_id(new_id).formula:
-            #merge_metabolitesid(model1, new_id, old_id)
-            return True
-        else:
-            print('%s and %s not same'%old_id, new_id)
-            return False
-    except KeyError:
-        print(old_id + 'not in model!!! skiped')
-        return False
-
-def note_rea_from(rea,notes):
-    if 'from' not in rea.notes:
-        rea.notes['from'] = {notes}
-    else:
-        if type(rea.notes['from']) == list:
-            rea.notes['from'] = set(rea.notes['from'])
-        elif type(rea.notes['from']) == str:
-            rea.notes['from'] = {rea.notes['from']}
-        rea.notes['from'].add(notes)
-
-def note_model_from(model,notes):
-    for rea in model.reactions:
-        rea = note_rea_from(rea, notes)
 
 if __name__=='__main__':
     os.chdir('../../ComplementaryData/Step_02_DraftModels/')
@@ -187,12 +27,18 @@ if __name__=='__main__':
     Lreu_from_iML1515 = cobra.io.load_json_model('Template/Lreu_from_iML1515.json')
     Lreu_from_iNF517 = cobra.io.load_json_model('Template/Lreu_from_iNF517.json')
     Lreu_from_iBT721 = cobra.io.load_json_model('Template/Lreu_from_iBT721.json')
+    iNF517 = cobra.io.load_json_model('Template/template_models//iNF517_standlized.json')
+    iBT721 = cobra.io.load_json_model('Template/template_models//iBT721_standlized.json')
+    iML1515 = cobra.io.load_json_model('Template/template_models//iML1515_standlized.json')
 
     Lreu_ca.id = 'Lreu_ca'
     Lreu_ca_gp.id = 'Lreu_ca_gp'
     Lreu_from_iML1515.id = 'Lreu_from_iML1515'
     Lreu_from_iNF517.id = 'Lreu_from_iNF517'
     Lreu_from_iBT721.id = 'Lreu_from_iBT721'
+    iML1515.id = 'iML1515'
+    iNF517.id = 'iNF517'
+    iBT721.id = 'iBT721'
 
     note_model_from(Lreu_ca,Lreu_ca.id)
     note_model_from(Lreu_ca_gp,Lreu_ca_gp.id)
@@ -216,7 +62,7 @@ if __name__=='__main__':
 
     # %% Manual handling
 
-    modellist = ['Lreu_from_iNF517','Lreu_from_iBT721','Lreu_ca','Lreu_ca_gp','model_2']
+    modellist = ['iNF517','iBT721','iML1515','Lreu_from_iNF517','Lreu_from_iBT721','Lreu_ca','Lreu_ca_gp','model_2','Lreu_from_iML1515']
     #according to report 1
     # replace_list = ['isobut_e','isobut_c', 'isoval_c', '2mpal_c', '3mbal_c', 'orn__L_c', 'btd__RR_c', 'cysth__L_c',
     #                 'ribflvRD_c', '5fothf_c', 'g6p__B_c', 'glcn__D_c', 'MCOOH_c', 'orn__L_c', 'g6p__B_c',
@@ -229,48 +75,176 @@ if __name__=='__main__':
                   'glcn_c':'glcn__D_c',
                   'orn_c':'orn__L_c',
                   'dtdprmn_c':'dtdp6dm_c',
-                  'dtdpglu_c':'dtdpglu_c',
+                  'dtdpglu_c':'dtdpglc_c',
                   'mpt_c':'MPT_c',
+                  'acgal_e':'acgala_e',
+                  'cyst__L_c':'cysth__L_c',
+                  'moco_c':'Moco_c',
+                  'btd_RR_c':'btd__RR_c',
+                  '2mpa_c':'isobut_c',
+                  '2mpa_e':'isobut_e',
+                  '3mba_e':'isoval_e',
+                  'rbflvrd_c':'ribflvRD_c'
                   }
 
-    if judge(model_2, 'g6p_B_c', Lreu_from_iBT721, 'g6p__B_c'):
-        for model in modellist:
-            locals()[model] = merge_metabolitesid(locals()[model], 'g6p_B_c', 'g6p__B_c')
+    for model in modellist:
+        for k,v in manual_dic.items():
+            locals()[model] = merge_metabolitesid(locals()[model], k, v)
 
-    if judge(model_2, 'g1p_B_c', Lreu_from_iBT721, 'g1p__B_c'):
-        for model in modellist:
-            locals()[model] = merge_metabolitesid(locals()[model], 'g1p_B_c', 'g1p__B_c')
-
-    #according to report2
-    if judge(model_2, '5fothf_c', Lreu_ca_gp, '5fthf_c'):
-        for model in modellist:
-            locals()[model] = merge_metabolitesid(locals()[model], '5fthf_c', '5fothf_c')
-
-    if judge(model_2, 'glcn__D_c', Lreu_ca_gp, 'glcn_c'):
-        for model in modellist:
-            locals()[model] = merge_metabolitesid(locals()[model], 'glcn_c', 'glcn__D_c')
-
-    if judge(model_2, 'orn__L_c', Lreu_ca_gp, 'orn_c'):
-        for model in modellist:
-            locals()[model] = merge_metabolitesid(locals()[model], 'orn_c', 'orn__L_c')
-
-    if judge(model_2, 'dtdp6dm_c', Lreu_ca_gp, 'dtdprmn_c'):
-        for model in modellist:
-            locals()[model] = merge_metabolitesid(locals()[model], 'dtdprmn_c', 'dtdp6dm_c')
-
-    #judge(model2, 'glcn__D_e', Lreu_ca_gp, 'dtdprmn_c')
 
     # %% check again
 
-    #model_2, report_df1 = merge_draftmodels(Lreu_from_iNF517, Lreu_from_iBT721)
-    #model_2, report_df2 = merge_draftmodels(model_2, Lreu_ca_gp)
+    model_2, report_df = merge_draftmodels(Lreu_from_iNF517,Lreu_from_iML1515)
+    model_2, report_df1 = merge_draftmodels(model_2, Lreu_from_iBT721)
 
-    # cobra.io.save_json_model(Lreu_ca,'CarveMe/Lreu_ca_0531.json')
-    # cobra.io.save_json_model(Lreu_ca_gp, 'CarveMe/Lreu_ca_gp_0531.json')
-    # cobra.io.save_json_model(Lreu_from_iNF517, 'Template/Lreu_from_iNF517_0531.json')
-    # cobra.io.save_json_model(Lreu_from_iBT721, 'Template/Lreu_from_iBT721_0531.json')
+
+    #case _1 or _2 in reaid
+    for rea in model_2.reactions:
+
+        if rea.id.endswith('_1') or rea.id.endswith('_2'):
+            try:
+                rea2 = model_2.reactions.get_by_id(re.sub('_.$','',rea.id))
+                try:
+                    rea3 = iNF517.reactions.get_by_id(re.sub('_.$','',rea.id))
+                    rea4  =iML1515.reactions.get_by_id(re.sub('_.$','',rea.id))
+                    print(rea3)
+                    print(rea4)
+                except :
+                    pass
+                print(rea)
+                print(rea2)
+
+
+                rea2.reaction = rea.reaction
+                rea2.gene_reaction_rule = merge_gprule(rea.gene_reaction_rule, rea2.gene_reaction_rule)
+                rea2.notes['from'] = rea2.notes['from']+rea.notes['from']
+                rea2.notes['from'] = list(set(rea2.notes['from']))
+                if rea.bounds!=(0,0):
+                    rea2.bounds = rea.bounds
+                rea.remove_from_model()
+
+                iNF517.reactions.get_by_id(rea.id).remove_from_model()
+                try:
+                    iNF517.reactions.get_by_id(rea2.id).remove_from_model()
+                except :
+                    pass
+                iNF517.add_reaction(rea2)
+            except  KeyError:
+                pass
+    #case _LLA sepcial met or id
+    for model in [iNF517,model_2,Lreu_from_iNF517]:
+        for rea in model.reactions:
+            if '_LLA' in rea.id:
+                rea.id = rea.id.replace('_LLA','_LRE')
+                rea.name = rea.name.replace('_LLA','_LRE')
+        for met in model.metabolites:
+            if '_LLA' in met.id:
+                met.id = met.id.replace('_LLA', '_LRE')
+                met.name = met.name.replace('_LLA', '_LRE')
+
+# %% change someting wrong:
+    iNF517.reactions.get_by_id('CBMKr').lower_bound = -1000
+    Lreu_from_iNF517.reactions.get_by_id('CBMKr').lower_bound = -1000
+    model_2.reactions.get_by_id('CBMKr').lower_bound = -1000
+
+
+    iNF517_initial = cobra.io.read_sbml_model('/Users/lhao/Box Sync/Projects/Project_Lreuteri/Lactobacillus_reuteri_MM41A_GEM/ComplementaryData/Step_02_DraftModels/Template/template_models/iNF517.xml')
+    iNF517_initial.objective = 'BIOMASS_LLA'
+    iNF517.objective = 'BIOMASS_LRE'
+
+    solution1 = iNF517.optimize()
+    solution2 = iNF517_initial.optimize()
+    if solution1.objective_value == solution2.objective_value:
+        print('same')
+    else:
+        print('check')
+
+# %% check duplaction
+
+    rea_id = []
+    rea_mets = []
+
+    for rea in model_2.reactions:
+        rea_id.append(rea.id)
+        rea_me  =set()
+        for  i in rea.metabolites:
+            rea_me.add(i.id)
+        rea_mets.append(str(rea_me))
+
+    rea_pd = pd.DataFrame(zip(rea_id,rea_mets),columns=['id','mets']).sort_values(by = ['mets'])
+
+    check_id = rea_pd[rea_pd['mets'].duplicated(keep = False)]['id']
+    check_id = list(check_id)
+
+    #Manual Check:
+    for i in list(check_id):
+        rea = model_2.reactions.get_by_id(i)
+        print(rea,rea.bounds,rea.gene_reaction_rule)
+    keep_move_dic = {'APATi':'APAT',
+                 'GNKr':'GNK',
+                 'FOLD3':'DHPS3',
+                 'MPL':'MLTP4',
+                 'TDPGDH':'TDPGDH_1',
+                 'G3PD1ir':'G3PD1',
+                 'P5CR':'P5CRr',
+                 'PROTRS_1':'PROTRS',
+                 'TYRTRS_1':'TYRTRS',
+                 'PSUDS':'YUMPS'}
+
+    for k,v in keep_move_dic.items():
+        rea1 = model_2.reactions.get_by_id(k)
+        rea2 = model_2.reactions.get_by_id(v)
+        rea1.gene_reaction_rule = merge_gprule(rea1.gene_reaction_rule, rea2.gene_reaction_rule)
+        rea1.notes['from'] = list(set(rea1.notes['from']+rea2.notes['from']))
+        model_2.reactions.get_by_id(v).remove_from_model()
+
+
+
+    # for i in range(0,len(a),2):
+    #     rea1 = model_2.reactions.get_by_id(a[i])
+    #     rea2 = model_2.reactions.get_by_id(a[i+1])
+    #     if rea1.metabolites == rea2.metabolites:
     #
-    # cobra.io.save_json_model(model_2,'../../ModelFiles/Lreu_0531.json')
+    #         if rea1.bounds == rea2.bounds:
+    #             bounds = rea2.bounds
+    #         else:
+    #             lbound = min(rea1.bounds[0],rea2.bounds[0])
+    #             ubound = max(rea1.bounds[1],rea2.bounds[1])
+    #             bounds = (lbound,ubound)
+    #
+    #         gpr = merge_gprule(rea1.gene_reaction_rule, rea2.gene_reaction_rule)
+    #         from_note = list(set(rea1.notes['from'].expend(rea2.notes['from'])))
+    #
+    #         if '_' in rea1.id:
+    #             remove = 1
+    #         else:
+    #             remove = 2
+    #
+    #
+    #     else:
+    #         print('check', rea1)
+    #         print('check', rea2)
+    #
+    #
+    #
+    #     rea = model_2.reactions.get_by_id(a[i])
+    #     print(rea,rea.bounds,rea.gene_reaction_rule)
+
+
+
+
+
+
+
+
+    #%% save models
+    cobra.io.save_json_model(model_2,'../Step_03_Compare_Refine/Lreu_merged.json')
+    cobra.io.save_json_model(Lreu_from_iML1515,'../Step_03_Compare_Refine/Lreu_from_iML1515.json')
+    cobra.io.save_json_model(Lreu_from_iNF517,'../Step_03_Compare_Refine/Lreu_from_iNF517.json')
+    cobra.io.save_json_model(Lreu_from_iBT721,'../Step_03_Compare_Refine/Lreu_from_iBT721.json')
+    cobra.io.save_json_model(iNF517,'../Step_03_Compare_Refine/iNF517.json')
+    cobra.io.save_json_model(iBT721,'../Step_03_Compare_Refine/iBT721.json')
+    cobra.io.save_json_model(iML1515,'../Step_03_Compare_Refine/iML1515.json')
 
 
 
