@@ -85,6 +85,72 @@
 "formula":"C21H32N7O16P3S"
 },
 {
+"id":"adp_c",
+"name":"ADP",
+"compartment":"default",
+"formula":"C10H12N5O10P2"
+},
+{
+"id":"atp_c",
+"name":"ATP(4-)",
+"compartment":"default",
+"formula":"C10H12N5O13P3"
+},
+{
+"id":"hco3_c",
+"name":"Bicarbonate",
+"compartment":"default",
+"formula":"CHO3"
+},
+{
+"id":"malcoa_c",
+"name":"Malonyl-CoA",
+"compartment":"default",
+"formula":"C24H33N7O19P3S"
+},
+{
+"id":"pi_c",
+"name":"hydrogenphosphate",
+"compartment":"default",
+"formula":"HO4P"
+},
+{
+"id":"acgal6p_c",
+"name":"N-Acetyl-D-galactosamine 6-phosphate",
+"compartment":"default",
+"formula":"C8H14NO9P"
+},
+{
+"id":"acgal_e",
+"name":"N_Acetyl_D_galactosamine",
+"compartment":"default",
+"formula":"C8H15NO6"
+},
+{
+"id":"pep_c",
+"name":"Phosphoenolpyruvate",
+"compartment":"default",
+"formula":"C3H2O6P"
+},
+{
+"id":"pyr_c",
+"name":"pyruvate",
+"compartment":"default",
+"formula":"C3H3O3"
+},
+{
+"id":"acgam6p_c",
+"name":"N-Acetyl-D-glucosamine 6-phosphate",
+"compartment":"default",
+"formula":"C8H14NO9P"
+},
+{
+"id":"acgam_e",
+"name":"N-Acetyl-D-glucosamine",
+"compartment":"default",
+"formula":"C8H15NO6"
+},
+{
 "id":"2ahbut_c",
 "name":"(S)-2-Aceto-2-hydroxybutanoate",
 "compartment":"default",
@@ -103,12 +169,6 @@
 "formula":"CO2"
 },
 {
-"id":"pyr_c",
-"name":"pyruvate",
-"compartment":"default",
-"formula":"C3H3O3"
-},
-{
 "id":"ac_c",
 "name":"Acetate",
 "compartment":"default",
@@ -119,18 +179,6 @@
 "name":"Acetyl phosphate",
 "compartment":"default",
 "formula":"C2H3O5P"
-},
-{
-"id":"adp_c",
-"name":"ADP",
-"compartment":"default",
-"formula":"C10H12N5O10P2"
-},
-{
-"id":"atp_c",
-"name":"ATP(4-)",
-"compartment":"default",
-"formula":"C10H12N5O13P3"
 },
 {
 "id":"actn__R_c",
@@ -304,12 +352,6 @@
 "name":"IMP",
 "compartment":"default",
 "formula":"C10H11N4O8P"
-},
-{
-"id":"pi_c",
-"name":"hydrogenphosphate",
-"compartment":"default",
-"formula":"HO4P"
 },
 {
 "id":"2chdeacp_c",
@@ -624,12 +666,6 @@
 "formula":"C4H6OX"
 },
 {
-"id":"hco3_c",
-"name":"Bicarbonate",
-"compartment":"default",
-"formula":"CHO3"
-},
-{
 "id":"2p4c2me_c",
 "name":"2-phospho-4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol",
 "compartment":"default",
@@ -654,16 +690,22 @@
 "formula":"C12H22O11"
 },
 {
-"id":"pep_c",
-"name":"Phosphoenolpyruvate",
-"compartment":"default",
-"formula":"C3H2O6P"
-},
-{
 "id":"amet_c",
 "name":"S-Adenosyl-L-methionine",
 "compartment":"default",
 "formula":"C15H23N6O5S"
+},
+{
+"id":"chol_c",
+"name":"Choline",
+"compartment":"default",
+"formula":"C5H14NO"
+},
+{
+"id":"chol_e",
+"name":"Choline",
+"compartment":"default",
+"formula":"C5H14NO"
 },
 {
 "id":"clpn_LPL_c",
@@ -693,6 +735,54 @@
 "name":"5-Oxo-4,5-dihydrofuran-2-acetate",
 "compartment":"default",
 "formula":"C6H5O4"
+},
+{
+"id":"CPS_LPL_c",
+"name":"capsular_polysaccharide_linkage_unit__LPL_specific",
+"compartment":"default",
+"formula":"X"
+},
+{
+"id":"dtdp6dm_c",
+"name":"dTDP_6_deoxy_L_mannose",
+"compartment":"default",
+"formula":"C16H24N2O15P2"
+},
+{
+"id":"dtdp_c",
+"name":"dTDP",
+"compartment":"default",
+"formula":"C10H13N2O11P2"
+},
+{
+"id":"udp_c",
+"name":"UDP",
+"compartment":"default",
+"formula":"C9H11N2O12P2"
+},
+{
+"id":"udpg_c",
+"name":"UDPglucose",
+"compartment":"default",
+"formula":"C15H22N2O17P2"
+},
+{
+"id":"udpgal_c",
+"name":"UDPgalactose",
+"compartment":"default",
+"formula":"C15H22N2O17P2"
+},
+{
+"id":"ump_c",
+"name":"UMP",
+"compartment":"default",
+"formula":"C9H11N2O9P"
+},
+{
+"id":"CPS_LPL2_c",
+"name":"capsular_polysaccharide_linkage_unit__LPL_specific",
+"compartment":"default",
+"formula":"X"
 },
 {
 "id":"csn_c",
@@ -850,16 +940,16 @@
 "formula":"X"
 },
 {
-"id":"udp_c",
-"name":"UDP",
+"id":"LTA_LPL_c",
+"name":"lipoteichoic_acid__n25__LPL_specific_",
 "compartment":"default",
-"formula":"C9H11N2O12P2"
+"formula":"X"
 },
 {
-"id":"udpg_c",
-"name":"UDPglucose",
+"id":"LTAala_LPL_c",
+"name":"Lipoteichoic_acid__n25__with_100_D_Ala_substitutions__LPL_specific_",
 "compartment":"default",
-"formula":"C15H22N2O17P2"
+"formula":"X"
 },
 {
 "id":"26dap__M_c",
@@ -872,6 +962,18 @@
 "name":"L-Lysine",
 "compartment":"default",
 "formula":"C6H15N2O2"
+},
+{
+"id":"RTA_c",
+"name":"teichoic_acid_containing_ribitol_P",
+"compartment":"default",
+"formula":"C144H283N2O193P27"
+},
+{
+"id":"RTAala_c",
+"name":"ribitol_teichoic_acid__n25__with_D_Ala_substitutions",
+"compartment":"default",
+"formula":"X"
 },
 {
 "id":"cdpdag_LPL_c",
@@ -938,6 +1040,12 @@
 "name":"Dihydroxyacetone",
 "compartment":"default",
 "formula":"C3H6O3"
+},
+{
+"id":"dhap_c",
+"name":"Dihydroxyacetone phosphate",
+"compartment":"default",
+"formula":"C3H5O6P"
 },
 {
 "id":"dha_e",
@@ -1090,12 +1198,6 @@
 "formula":"C3H5O6P"
 },
 {
-"id":"dtdp_c",
-"name":"dTDP",
-"compartment":"default",
-"formula":"C10H13N2O11P2"
-},
-{
 "id":"dtmp_c",
 "name":"dTMP",
 "compartment":"default",
@@ -1138,12 +1240,6 @@
 "formula":"X"
 },
 {
-"id":"dhap_c",
-"name":"Dihydroxyacetone phosphate",
-"compartment":"default",
-"formula":"C3H5O6P"
-},
-{
 "id":"fdp_c",
 "name":"D-Fructose 1,6-bisphosphate",
 "compartment":"default",
@@ -1184,6 +1280,18 @@
 "name":"FMN",
 "compartment":"default",
 "formula":"C17H19N4O9P"
+},
+{
+"id":"f1p_c",
+"name":"D-Fructose 1-phosphate",
+"compartment":"default",
+"formula":"C6H11O9P"
+},
+{
+"id":"fru_e",
+"name":"D-Fructose",
+"compartment":"default",
+"formula":"C6H12O6"
 },
 {
 "id":"5fothf_c",
@@ -1306,10 +1414,16 @@
 "formula":"C12H22O11"
 },
 {
-"id":"udpgal_c",
-"name":"UDPgalactose",
+"id":"galt1p_c",
+"name":"Galactitol 1-phosphate",
 "compartment":"default",
-"formula":"C15H22N2O17P2"
+"formula":"C6H13O9P"
+},
+{
+"id":"galt_e",
+"name":"Galactitol",
+"compartment":"default",
+"formula":"C6H14O6"
 },
 {
 "id":"g1p_c",
@@ -1384,6 +1498,12 @@
 "formula":"X"
 },
 {
+"id":"glc__D_e",
+"name":"D-Glucose",
+"compartment":"default",
+"formula":"C6H12O6"
+},
+{
 "id":"glntrna_c",
 "name":"L-Glutaminyl-tRNA(Gln)",
 "compartment":"default",
@@ -1400,12 +1520,6 @@
 "name":"L-Glutamine",
 "compartment":"default",
 "formula":"C5H10N2O3"
-},
-{
-"id":"LTA_LPL_c",
-"name":"lipoteichoic_acid__n25__LPL_specific_",
-"compartment":"default",
-"formula":"X"
 },
 {
 "id":"LTAglc_LPL_c",
@@ -1448,6 +1562,18 @@
 "name":"L-Glutamate",
 "compartment":"default",
 "formula":"C5H8NO4"
+},
+{
+"id":"glyb_c",
+"name":"Glycine betaine",
+"compartment":"default",
+"formula":"C5H11NO2"
+},
+{
+"id":"glyb_e",
+"name":"Glycine betaine",
+"compartment":"default",
+"formula":"C5H11NO2"
 },
 {
 "id":"3pg_c",
@@ -1498,12 +1624,6 @@
 "formula":"C5H5N5O"
 },
 {
-"id":"chol_c",
-"name":"Choline",
-"compartment":"default",
-"formula":"C5H14NO"
-},
-{
 "id":"g3pc_c",
 "name":"sn-Glycero-3-phosphocholine",
 "compartment":"default",
@@ -1544,12 +1664,6 @@
 "name":"myo-Inositol",
 "compartment":"default",
 "formula":"C6H12O6"
-},
-{
-"id":"RTA_c",
-"name":"teichoic_acid_containing_ribitol_P",
-"compartment":"default",
-"formula":"C144H283N2O193P27"
 },
 {
 "id":"RTAglc_c",
@@ -1888,12 +2002,6 @@
 "formula":"C14H22N2O10PRS"
 },
 {
-"id":"malcoa_c",
-"name":"Malonyl-CoA",
-"compartment":"default",
-"formula":"C24H33N7O19P3S"
-},
-{
 "id":"acmalt_c",
 "name":"Acetyl-maltose",
 "compartment":"default",
@@ -1922,6 +2030,12 @@
 "name":"D-Mannose 6-phosphate",
 "compartment":"default",
 "formula":"C6H11O9P"
+},
+{
+"id":"man_e",
+"name":"D-Mannose",
+"compartment":"default",
+"formula":"C6H12O6"
 },
 {
 "id":"octacp_c",
@@ -1990,10 +2104,28 @@
 "formula":"C6H14O6"
 },
 {
+"id":"MCOOH_c",
+"name":"MPT_synthase_small_subunit_MoaD",
+"compartment":"default",
+"formula":"MCO2"
+},
+{
+"id":"MCOSH_c",
+"name":"MPT_synthase_sulfurylated_small_subunit__MoaD_SH_",
+"compartment":"default",
+"formula":"MCHOS"
+},
+{
 "id":"MPT_c",
 "name":"molybdopterin",
 "compartment":"default",
 "formula":"X"
+},
+{
+"id":"PreZ_c",
+"name":"Precursor_Z_in_molybdenum_cofactor_biosynthesis",
+"compartment":"default",
+"formula":"C10H11N5O7P"
 },
 {
 "id":"5mta_c",
@@ -2110,12 +2242,6 @@
 "formula":"C10H10N2O11P"
 },
 {
-"id":"ump_c",
-"name":"UMP",
-"compartment":"default",
-"formula":"C9H11N2O9P"
-},
-{
 "id":"1pyr5c_c",
 "name":"1-Pyrroline-5-carboxylate",
 "compartment":"default",
@@ -2192,6 +2318,18 @@
 "name":"tRNA(Phe)",
 "compartment":"default",
 "formula":"R"
+},
+{
+"id":"pi_e",
+"name":"hydrogenphosphate",
+"compartment":"default",
+"formula":"HO4P"
+},
+{
+"id":"xu5p__D_c",
+"name":"D-Xylulose 5-phosphate",
+"compartment":"default",
+"formula":"C5H9O8P"
 },
 {
 "id":"man1p_c",
@@ -2308,12 +2446,6 @@
 "formula":"C5H12O5"
 },
 {
-"id":"xu5p__D_c",
-"name":"D-Xylulose 5-phosphate",
-"compartment":"default",
-"formula":"C5H9O8P"
-},
-{
 "id":"trdox_c",
 "name":"Oxidized thioredoxin",
 "compartment":"default",
@@ -2354,6 +2486,18 @@
 "name":"L_Sorbitol",
 "compartment":"default",
 "formula":"X"
+},
+{
+"id":"sbt6p_c",
+"name":"D-Sorbitol 6-phosphate",
+"compartment":"default",
+"formula":"C6H13O9P"
+},
+{
+"id":"sbt__D_e",
+"name":"D-Sorbitol",
+"compartment":"default",
+"formula":"C6H14O6"
 },
 {
 "id":"sl26da_c",
@@ -2398,6 +2542,18 @@
 "formula":"C7H22N3"
 },
 {
+"id":"suc6p_c",
+"name":"Sucrose 6-phosphate",
+"compartment":"default",
+"formula":"C12H21O14P"
+},
+{
+"id":"sucr_e",
+"name":"Sucrose",
+"compartment":"default",
+"formula":"C12H22O11"
+},
+{
 "id":"dtdp4d6dm_c",
 "name":"dTDP_4_dehydro_6_deoxy_L_mannose",
 "compartment":"default",
@@ -2407,12 +2563,6 @@
 "dtdpddm_c"
 ]
 }
-},
-{
-"id":"dtdp6dm_c",
-"name":"dTDP_6_deoxy_L_mannose",
-"compartment":"default",
-"formula":"C16H24N2O15P2"
 },
 {
 "id":"dtdp4d6dg_c",
@@ -2490,6 +2640,18 @@
 "name":"Thiamin monophosphate",
 "compartment":"default",
 "formula":"C12H16N4O4PS"
+},
+{
+"id":"tre6p_c",
+"name":"alpha,alpha'-Trehalose 6-phosphate",
+"compartment":"default",
+"formula":"C12H21O14P"
+},
+{
+"id":"tre_e",
+"name":"Trehalose",
+"compartment":"default",
+"formula":"C12H22O11"
 },
 {
 "id":"indpyr_c",
@@ -2655,7 +2817,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00210",
+"gene_reaction_rule":"MBLCLPDI_00210 or lp_2349_missing or lp_0350_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -2712,7 +2874,64 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00350",
+"gene_reaction_rule":"MBLCLPDI_00350 or lp_0329_missing",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"ACCOAC",
+"name":"acetyl CoA carboxylase",
+"metabolites":{
+"accoa_c":-1.0,
+"adp_c":1.0,
+"atp_c":-1.0,
+"h_c":1.0,
+"hco3_c":-1.0,
+"malcoa_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(lp_0592_missing and (lp_0362_missing or lp_0589_missing) and lp_0590_missing and lp_0591_missing and (MBLCLPDI_00822 or lp_0854_missing)) or (MBLCLPDI_01078 and (lp_1676_missing or lp_0362_missing) and MBLCLPDI_01080 and MBLCLPDI_01079 and (MBLCLPDI_00822 or lp_0854_missing))",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"ACGALpts",
+"name":"N acetylgalactosamine PTS",
+"metabolites":{
+"acgal6p_c":1.0,
+"acgal_e":-1.0,
+"pep_c":-1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(lp_2647_missing and lp_2648_missing and lp_2649_missing and lp_2650_missing) and MBLCLPDI_01476 and MBLCLPDI_00506",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"ACGApts",
+"name":"N Acetyl D glucosamine transport via PEPPyr PTS",
+"metabolites":{
+"acgam6p_c":1.0,
+"acgam_e":-1.0,
+"pep_c":-1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(lp_2531_missing and MBLCLPDI_01476 and MBLCLPDI_00506) or (lp_2969_missing and MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
 "iBT721"
@@ -2749,7 +2968,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00611",
+"gene_reaction_rule":"MBLCLPDI_00611 or lp_0210_missing or lp_0310_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -2804,7 +3023,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01292 and MBLCLPDI_00272",
+"gene_reaction_rule":"(MBLCLPDI_01292 and MBLCLPDI_00272) or (lp_1672_missing and MBLCLPDI_00272)",
 "notes":{
 "from":[
 "iBT721"
@@ -2894,7 +3113,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01814 or MBLCLPDI_00108",
+"gene_reaction_rule":"MBLCLPDI_01814 or lp_2825_missing or MBLCLPDI_00108",
 "notes":{
 "from":[
 "iBT721"
@@ -2932,7 +3151,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00682",
+"gene_reaction_rule":"lp_1790_missing or lp_2762_missing or MBLCLPDI_00682",
 "notes":{
 "from":[
 "iBT721"
@@ -3054,7 +3273,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00098",
+"gene_reaction_rule":"lp_3492_missing or lp_1072_missing or MBLCLPDI_00098",
 "notes":{
 "from":[
 "iBT721"
@@ -3169,7 +3388,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01747",
+"gene_reaction_rule":"MBLCLPDI_01747 or lp_1665_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -3188,7 +3407,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01747 or MBLCLPDI_00350",
+"gene_reaction_rule":"MBLCLPDI_01747 or lp_1665_missing or MBLCLPDI_00350",
 "notes":{
 "from":[
 "iBT721"
@@ -3318,7 +3537,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00700",
+"gene_reaction_rule":"MBLCLPDI_00700 or lp_1346_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -3359,7 +3578,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_02103",
+"gene_reaction_rule":"MBLCLPDI_02103 or lp_3085_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -3401,7 +3620,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_02051",
+"gene_reaction_rule":"MBLCLPDI_02051 or lp_0956_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -3438,7 +3657,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00693",
+"gene_reaction_rule":"lp_0979_missing or MBLCLPDI_00693",
 "notes":{
 "from":[
 "iBT721"
@@ -3483,6 +3702,26 @@
 }
 },
 {
+"id":"ATPS3r",
+"name":"ATP synthase three protons for one ATP",
+"metabolites":{
+"adp_c":-1.0,
+"atp_c":1.0,
+"h2o_c":1.0,
+"h_c":2.0,
+"h_e":-3.0,
+"pi_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"MBLCLPDI_00517 and MBLCLPDI_00516 and MBLCLPDI_00515 and MBLCLPDI_00514 and MBLCLPDI_00513 and MBLCLPDI_00512 and lp_2369_missing and MBLCLPDI_00510",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
 "id":"BTMAT1",
 "name":"Butyryl acyl carrier proteinmalonyl CoA C acyltransferase",
 "metabolites":{
@@ -3517,7 +3756,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00090 and MBLCLPDI_00091",
+"gene_reaction_rule":"(MBLCLPDI_00090 and MBLCLPDI_00091) or (lp_0526_missing and lp_0527_missing)",
 "notes":{
 "from":[
 "iBT721"
@@ -3554,7 +3793,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01476 and MBLCLPDI_00506",
+"gene_reaction_rule":"(((lp_3008_missing and lp_3009_missing and lp_3010_missing) or (lp_2780_missing and lp_2781_missing)) and MBLCLPDI_01476 and MBLCLPDI_00506) or (MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
 "iBT721"
@@ -3573,7 +3812,28 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00135",
+"gene_reaction_rule":"MBLCLPDI_00135 or lp_1696_missing",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"CHLabc",
+"name":"choline transport via ABC system",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"chol_c":1.0,
+"chol_e":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(lp_0367_missing and MBLCLPDI_00202) or (lp_1607_missing and MBLCLPDI_00201 and lp_1609_missing and lp_1610_missing)",
 "notes":{
 "from":[
 "iBT721"
@@ -3609,6 +3869,52 @@
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"MBLCLPDI_02076",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"CPSS_LPL",
+"name":"CPS synthase complex LPL specific",
+"metabolites":{
+"CPS_LPL_c":1.0,
+"dtdp6dm_c":-1.0,
+"dtdp_c":1.0,
+"h2o_c":-5.0,
+"h_c":6.0,
+"udp_c":3.0,
+"udpg_c":-2.0,
+"udpgal_c":-2.0,
+"ump_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(lp_1177_missing and lp_1178_missing and MBLCLPDI_01521 and MBLCLPDI_01527 and lp_1181_missing and lp_1182_missing and lp_1183_missing and lp_1184_missing and lp_1185_missing) or (lp_1197_missing and lp_1198_missing and MBLCLPDI_01162 and lp_1201_missing and lp_1202_missing and lp_1203_missing and lp_1204_missing and lp_1205_missing and lp_1206_missing) or (lp_1215_missing and lp_1216_missing and lp_1220_missing and lp_1221_missing and lp_1222_missing and lp_1224_missing and lp_1225_missing and lp_1226_missing and lp_1227_missing) or (lp_2099_missing and lp_2100_missing and lp_2101_missing and lp_2102_missing and lp_2103_missing and lp_2104_missing and lp_2106_missing and lp_2107_missing and lp_2108_missing)",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"CPSS_LPL2",
+"name":"CPS synthase complex LPL specific",
+"metabolites":{
+"CPS_LPL2_c":1.0,
+"dtdp6dm_c":-2.0,
+"dtdp_c":2.0,
+"h2o_c":-4.0,
+"h_c":5.0,
+"udp_c":1.0,
+"udpg_c":-1.0,
+"udpgal_c":-1.0,
+"ump_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(lp_1177_missing and lp_1178_missing and MBLCLPDI_01521 and MBLCLPDI_01527 and lp_1181_missing and lp_1182_missing and lp_1183_missing and lp_1184_missing and lp_1185_missing) or (lp_1197_missing and lp_1198_missing and MBLCLPDI_01162 and lp_1201_missing and lp_1202_missing and lp_1203_missing and lp_1204_missing and lp_1205_missing and lp_1206_missing) or (lp_1215_missing and lp_1216_missing and lp_1220_missing and lp_1221_missing and lp_1222_missing and lp_1224_missing and lp_1225_missing and lp_1226_missing and lp_1227_missing) or (lp_2099_missing and lp_2100_missing and lp_2101_missing and lp_2102_missing and lp_2103_missing and lp_2104_missing and lp_2106_missing and lp_2107_missing and lp_2108_missing)",
 "notes":{
 "from":[
 "iBT721"
@@ -3727,7 +4033,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00320",
+"gene_reaction_rule":"lp_3517_missing or MBLCLPDI_00320",
 "notes":{
 "from":[
 "iBT721"
@@ -3746,7 +4052,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00320",
+"gene_reaction_rule":"MBLCLPDI_00320 or lp_3517_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -3929,6 +4235,26 @@
 }
 },
 {
+"id":"DALTAL",
+"name":"D Alanine lipoteichoic acid ligase",
+"metabolites":{
+"LTA_LPL_c":-0.01,
+"LTAala_LPL_c":0.01,
+"adp_c":25.0,
+"ala__D_c":-25.0,
+"atp_c":-25.0,
+"pi_c":25.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(MBLCLPDI_00270 and MBLCLPDI_00269 and lp_2017_missing and MBLCLPDI_00267) or (MBLCLPDI_00270 and MBLCLPDI_00269 and lp_1406_missing and MBLCLPDI_00267)",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
 "id":"DAPDC",
 "name":"diaminopimelate decarboxylase",
 "metabolites":{
@@ -3956,6 +4282,26 @@
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"MBLCLPDI_00692",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"DARTAL",
+"name":"D Alanine ribitol teichoic acid ligase",
+"metabolites":{
+"RTA_c":-1.0,
+"RTAala_c":1.0,
+"adp_c":25.0,
+"ala__D_c":-25.0,
+"atp_c":-25.0,
+"pi_c":25.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(MBLCLPDI_00270 and MBLCLPDI_00269 and lp_2017_missing and MBLCLPDI_00267) or (MBLCLPDI_00270 and MBLCLPDI_00269 and lp_1406_missing and MBLCLPDI_00267)",
 "notes":{
 "from":[
 "iBT721"
@@ -4057,6 +4403,24 @@
 }
 },
 {
+"id":"DHAPT",
+"name":"Dihydroxyacetone phosphotransferase",
+"metabolites":{
+"dha_c":-1.0,
+"dhap_c":1.0,
+"pep_c":-1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"((lp_0166_missing and lp_0169_missing) and lp_0170_missing and MBLCLPDI_01476 and MBLCLPDI_00506) or ((lp_0168_missing and lp_0169_missing) and lp_0170_missing and MBLCLPDI_01476 and MBLCLPDI_00506)",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
 "id":"DHAt",
 "name":"Dihydroxyacetone transport via facilitated diffusion",
 "metabolites":{
@@ -4103,7 +4467,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00697",
+"gene_reaction_rule":"lp_2123_missing or MBLCLPDI_00697",
 "notes":{
 "from":[
 "iBT721"
@@ -4327,7 +4691,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_02031",
+"gene_reaction_rule":"lp_2532_missing or MBLCLPDI_02031",
 "notes":{
 "from":[
 "iBT721"
@@ -4346,7 +4710,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01422",
+"gene_reaction_rule":"lp_0500_missing or lp_2251_missing or MBLCLPDI_01422",
 "notes":{
 "from":[
 "iBT721"
@@ -4473,7 +4837,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00429",
+"gene_reaction_rule":"MBLCLPDI_00429 or lp_1920_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -4491,7 +4855,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00222 or MBLCLPDI_00365",
+"gene_reaction_rule":"lp_0841_missing or MBLCLPDI_00222 or MBLCLPDI_00365",
 "notes":{
 "from":[
 "iBT721"
@@ -4564,7 +4928,25 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00787",
+"gene_reaction_rule":"MBLCLPDI_00787 or lp_0850_missing",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"FRUpts",
+"name":"D fructose transport via PEPPyr PTS",
+"metabolites":{
+"f1p_c":1.0,
+"fru_e":-1.0,
+"pep_c":-1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"lp_2097_missing and MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
 "iBT721"
@@ -4787,7 +5169,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01697",
+"gene_reaction_rule":"lp_1731_missing or MBLCLPDI_01697 or lp_0826_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -4825,6 +5207,24 @@
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"MBLCLPDI_01932",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"GALTpts",
+"name":"Galactitol transport via PEPPyr PTS",
+"metabolites":{
+"galt1p_c":1.0,
+"galt_e":-1.0,
+"pep_c":-1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"((lp_3599_missing and lp_3600_missing and lp_3601_missing) or (MBLCLPDI_01827 and lp_3547_missing and lp_3548_missing)) and MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
 "iBT721"
@@ -4987,6 +5387,24 @@
 }
 },
 {
+"id":"GLCpts",
+"name":"D glucose transport via PEPPyr PTS",
+"metabolites":{
+"g6p_c":1.0,
+"glc__D_e":-1.0,
+"pep_c":-1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(lp_2531_missing and MBLCLPDI_01476 and MBLCLPDI_00506) or ((lp_3520_missing and lp_3522_missing) and MBLCLPDI_01476 and MBLCLPDI_00506)",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
 "id":"GLNS",
 "name":"glutamine synthetase",
 "metabolites":{
@@ -5063,7 +5481,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01391 or MBLCLPDI_00086 or MBLCLPDI_00085",
+"gene_reaction_rule":"MBLCLPDI_01391 or MBLCLPDI_00086 or MBLCLPDI_00085 or lp_1312_missing or lp_1311_missing or lp_1299_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -5102,7 +5520,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00066",
+"gene_reaction_rule":"MBLCLPDI_00066 or lp_2324_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -5188,6 +5606,27 @@
 }
 },
 {
+"id":"GLYBabc",
+"name":"glycine betaine transport via ABC system",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"glyb_c":1.0,
+"glyb_e":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(lp_0367_missing and MBLCLPDI_00202) or (lp_1607_missing and MBLCLPDI_00201 and lp_1609_missing and lp_1610_missing)",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
 "id":"GLYCK",
 "name":"glycerate kinase",
 "metabolites":{
@@ -5218,7 +5657,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01192",
+"gene_reaction_rule":"lp_0834_missing or MBLCLPDI_01192",
 "notes":{
 "from":[
 "iBT721"
@@ -5301,7 +5740,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01922",
+"gene_reaction_rule":"MBLCLPDI_01922 or lp_1251_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -5338,7 +5777,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01814 or MBLCLPDI_00108",
+"gene_reaction_rule":"MBLCLPDI_01814 or lp_2825_missing or MBLCLPDI_00108",
 "notes":{
 "from":[
 "iBT721"
@@ -5357,7 +5796,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00070",
+"gene_reaction_rule":"lp_2344_missing or lp_1328_missing or MBLCLPDI_00070 or lp_1578_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -5376,7 +5815,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00070",
+"gene_reaction_rule":"lp_2344_missing or lp_1328_missing or MBLCLPDI_00070 or lp_1578_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -5395,7 +5834,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00070",
+"gene_reaction_rule":"lp_2344_missing or lp_1328_missing or MBLCLPDI_00070 or lp_1578_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -5414,7 +5853,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00070",
+"gene_reaction_rule":"lp_2344_missing or lp_1328_missing or MBLCLPDI_00070 or lp_1578_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -5433,7 +5872,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00070",
+"gene_reaction_rule":"lp_2344_missing or lp_1328_missing or MBLCLPDI_00070 or lp_1578_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -5452,7 +5891,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01537",
+"gene_reaction_rule":"lp_1372_missing or MBLCLPDI_01537 or lp_2989_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -5489,7 +5928,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01561",
+"gene_reaction_rule":"lp_0369_missing or lp_3267_missing or lp_1253_missing or MBLCLPDI_01561",
 "notes":{
 "from":[
 "iBT721"
@@ -5551,7 +5990,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00648 or MBLCLPDI_00809",
+"gene_reaction_rule":"lp_0293_missing or MBLCLPDI_00648 or MBLCLPDI_00809",
 "notes":{
 "from":[
 "iBT721"
@@ -5607,7 +6046,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01089",
+"gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
 "iBT721"
@@ -5662,7 +6101,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01089",
+"gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
 "iBT721"
@@ -5698,7 +6137,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01089",
+"gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
 "iBT721"
@@ -5810,7 +6249,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01089",
+"gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
 "iBT721"
@@ -5846,7 +6285,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01089",
+"gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
 "iBT721"
@@ -5886,7 +6325,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_02010",
+"gene_reaction_rule":"lp_2561_missing or MBLCLPDI_02010",
 "notes":{
 "from":[
 "iBT721"
@@ -5962,7 +6401,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01089",
+"gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
 "iBT721"
@@ -5998,7 +6437,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01089",
+"gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
 "iBT721"
@@ -6071,7 +6510,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01089",
+"gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
 "iBT721"
@@ -6168,7 +6607,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00125 or MBLCLPDI_01967",
+"gene_reaction_rule":"MBLCLPDI_00125 or lp_0399_missing or lp_2213_missing or MBLCLPDI_01967",
 "notes":{
 "from":[
 "iBT721"
@@ -6223,7 +6662,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01814 or MBLCLPDI_00108",
+"gene_reaction_rule":"MBLCLPDI_01814 or lp_2825_missing or MBLCLPDI_00108",
 "notes":{
 "from":[
 "iBT721"
@@ -6334,7 +6773,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00125 or MBLCLPDI_01967",
+"gene_reaction_rule":"MBLCLPDI_00125 or lp_0399_missing or lp_2213_missing or MBLCLPDI_01967",
 "notes":{
 "from":[
 "iBT721"
@@ -6445,7 +6884,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00533",
+"gene_reaction_rule":"lp_2550_missing or lp_2878_missing or MBLCLPDI_00533",
 "notes":{
 "from":[
 "iBT721"
@@ -6484,7 +6923,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_02079",
+"gene_reaction_rule":"MBLCLPDI_02079 or lp_1119_missing or lp_0594_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -6501,6 +6940,24 @@
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"MBLCLPDI_01733",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"MANpts",
+"name":"D mannose transport via PEPPyr PTS",
+"metabolites":{
+"man6p_c":1.0,
+"man_e":-1.0,
+"pep_c":-1.0,
+"pyr_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"((lp_0576_missing and lp_0577_missing and lp_0586_missing and lp_0587_missing) or (lp_0575_missing and lp_0576_missing and lp_0577_missing)) and MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
 "iBT721"
@@ -6774,7 +7231,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00059",
+"gene_reaction_rule":"lp_0181_missing or lp_0028_missing or MBLCLPDI_00059 or lp_3530_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -6792,7 +7249,29 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01476 and MBLCLPDI_00506",
+"gene_reaction_rule":"((lp_0230_missing and lp_0232_missing) and MBLCLPDI_01476 and MBLCLPDI_00506) or (MBLCLPDI_01476 and MBLCLPDI_00506)",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"MOADCST",
+"name":"MoaDcysteine sulfur transferase",
+"metabolites":{
+"MCOOH_c":-1.0,
+"MCOSH_c":1.0,
+"amp_c":1.0,
+"atp_c":-1.0,
+"cys__L_c":-1.0,
+"h2o_c":-1.0,
+"ppi_c":1.0,
+"ser__L_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(lp_1479_missing and MBLCLPDI_01104 and (MBLCLPDI_00553 and MBLCLPDI_00552)) or ((MBLCLPDI_00686 and MBLCLPDI_00685) and lp_1479_missing and MBLCLPDI_01104)",
 "notes":{
 "from":[
 "iBT721"
@@ -6809,6 +7288,26 @@
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"MBLCLPDI_01106",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"MPTS",
+"name":"molybdopterin synthase",
+"metabolites":{
+"MCOOH_c":2.0,
+"MCOSH_c":-2.0,
+"MPT_c":1.0,
+"PreZ_c":-1.0,
+"h2o_c":-1.0,
+"h_c":3.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"lp_1479_missing and MBLCLPDI_01117",
 "notes":{
 "from":[
 "iBT721"
@@ -6881,7 +7380,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00559",
+"gene_reaction_rule":"MBLCLPDI_00559 or lp_1069_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -7198,7 +7697,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00072",
+"gene_reaction_rule":"lp_0760_missing or lp_0766_missing or lp_1925_missing or lp_1941_missing or MBLCLPDI_00072 or lp_1350_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -7220,7 +7719,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00072",
+"gene_reaction_rule":"lp_0760_missing or lp_0766_missing or lp_1925_missing or lp_1941_missing or MBLCLPDI_00072 or lp_1350_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -7511,7 +8010,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01886 or MBLCLPDI_01997 or MBLCLPDI_00688 or MBLCLPDI_00152 or MBLCLPDI_00318",
+"gene_reaction_rule":"MBLCLPDI_01886 or lp_0900_missing or MBLCLPDI_01997 or lp_1785_missing or MBLCLPDI_00688 or lp_2785_missing or lp_2868_missing or MBLCLPDI_00152 or MBLCLPDI_00318",
 "notes":{
 "from":[
 "iBT721"
@@ -7543,7 +8042,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00060",
+"gene_reaction_rule":"MBLCLPDI_00060 or lp_0066_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -7580,7 +8079,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00048 or MBLCLPDI_00699",
+"gene_reaction_rule":"MBLCLPDI_00048 or MBLCLPDI_00699 or lp_1739_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -7602,6 +8101,45 @@
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"MBLCLPDI_01353 and MBLCLPDI_01352",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"PIabc",
+"name":"phosphate transport via ABC system",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"h2o_c":-1.0,
+"h_c":1.0,
+"pi_c":2.0,
+"pi_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"lp_0733_missing and MBLCLPDI_01726 and MBLCLPDI_01725 and MBLCLPDI_01724 and MBLCLPDI_01723 and lp_0750_missing and MBLCLPDI_01722",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"PKL",
+"name":"phosphoketolase",
+"metabolites":{
+"actp_c":1.0,
+"g3p_c":1.0,
+"h2o_c":1.0,
+"pi_c":-1.0,
+"xu5p__D_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"MBLCLPDI_01842 and lp_3551_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -7842,6 +8380,29 @@
 }
 },
 {
+"id":"PRFGS",
+"name":"phosphoribosylformylglycinamidine synthase",
+"metabolites":{
+"adp_c":1.0,
+"atp_c":-1.0,
+"fgam_c":-1.0,
+"fpram_c":1.0,
+"gln__L_c":-1.0,
+"glu__L_c":1.0,
+"h2o_c":-1.0,
+"h_c":2.0,
+"pi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"MBLCLPDI_00146 and MBLCLPDI_00145 and lp_2726_missing",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
 "id":"PROTRS",
 "name":"Prolyl tRNA synthetase",
 "metabolites":{
@@ -7892,7 +8453,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_01678 or MBLCLPDI_00786 or MBLCLPDI_00650",
+"gene_reaction_rule":"MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_01678 or lp_1319_missing or MBLCLPDI_00786 or MBLCLPDI_00650",
 "notes":{
 "from":[
 "iBT721"
@@ -7980,6 +8541,23 @@
 }
 },
 {
+"id":"PZS",
+"name":"precursor Z synthase",
+"metabolites":{
+"PreZ_c":1.0,
+"gtp_c":-1.0,
+"ppi_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"lp_1480_missing and lp_1492_missing and MBLCLPDI_01105",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
 "id":"RAFGH",
 "name":"Raffinose galactohydrolase",
 "metabolites":{
@@ -8009,7 +8587,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00787",
+"gene_reaction_rule":"lp_0850_missing or MBLCLPDI_00787",
 "notes":{
 "from":[
 "iBT721"
@@ -8028,7 +8606,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01422",
+"gene_reaction_rule":"MBLCLPDI_01422 or lp_0500_missing or lp_2251_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -8266,7 +8844,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00325",
+"gene_reaction_rule":"lp_0354_missing or MBLCLPDI_00325",
 "notes":{
 "from":[
 "iBT721"
@@ -8334,6 +8912,24 @@
 }
 },
 {
+"id":"SBTpts",
+"name":"D sorbitol transport via PEPPyr PTS",
+"metabolites":{
+"pep_c":-1.0,
+"pyr_c":1.0,
+"sbt6p_c":1.0,
+"sbt__D_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"((lp_3652_missing and lp_3653_missing and lp_3654_missing) or (lp_3618_missing and lp_3619_missing and lp_3620_missing)) and MBLCLPDI_01476 and MBLCLPDI_00506",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
 "id":"SDPDS",
 "name":"succinyl diaminopimelate desuccinylase",
 "metabolites":{
@@ -8344,7 +8940,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00408",
+"gene_reaction_rule":"MBLCLPDI_00408 or lp_1923_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -8400,7 +8996,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00103",
+"gene_reaction_rule":"MBLCLPDI_00103 or lp_0501_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -8462,6 +9058,24 @@
 "lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"MBLCLPDI_00036",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
+"id":"SUCpts",
+"name":"sucrose transport via PEPPyr PTS",
+"metabolites":{
+"pep_c":-1.0,
+"pyr_c":1.0,
+"suc6p_c":1.0,
+"sucr_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"((lp_0185_missing or lp_3219_missing) and MBLCLPDI_01476 and MBLCLPDI_00506) or ((lp_3520_missing and lp_3522_missing) and MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
 "iBT721"
@@ -8732,6 +9346,24 @@
 }
 },
 {
+"id":"TREpts",
+"name":"trehalose transport via PEPPyr PTS",
+"metabolites":{
+"pep_c":-1.0,
+"pyr_c":1.0,
+"tre6p_c":1.0,
+"tre_e":-1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(lp_0264_missing and lp_0265_missing) and MBLCLPDI_01476 and MBLCLPDI_00506",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
 "id":"TRPTA",
 "name":"tryptophan transaminase",
 "metabolites":{
@@ -8781,7 +9413,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00048 or MBLCLPDI_00699",
+"gene_reaction_rule":"MBLCLPDI_00048 or MBLCLPDI_00699 or lp_1739_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -8985,6 +9617,24 @@
 }
 },
 {
+"id":"UDCPDPS",
+"name":"Undecaprenyl diphosphate synthase",
+"metabolites":{
+"frdp_c":-1.0,
+"ipdp_c":-8.0,
+"ppi_c":8.0,
+"udcpdp_c":1.0
+},
+"lower_bound":0.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"MBLCLPDI_01211 and lp_1134_missing and MBLCLPDI_00775",
+"notes":{
+"from":[
+"iBT721"
+]
+}
+},
+{
 "id":"UDPG4E",
 "name":"UDPglucose 4 epimerase",
 "metabolites":{
@@ -8993,7 +9643,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_00368",
+"gene_reaction_rule":"MBLCLPDI_00368 or lp_1200_missing or lp_2105_missing or lp_3481_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -9009,7 +9659,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01524",
+"gene_reaction_rule":"MBLCLPDI_01524 or lp_1219_missing",
 "notes":{
 "from":[
 "iBT721"
@@ -9258,7 +9908,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01814 or MBLCLPDI_00108",
+"gene_reaction_rule":"MBLCLPDI_01814 or lp_2825_missing or MBLCLPDI_00108",
 "notes":{
 "from":[
 "iBT721"
@@ -9276,7 +9926,7 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_01678 or MBLCLPDI_00786 or MBLCLPDI_00650",
+"gene_reaction_rule":"MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_01678 or lp_1319_missing or MBLCLPDI_00786 or MBLCLPDI_00650",
 "notes":{
 "from":[
 "iBT721"
@@ -9296,7 +9946,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"MBLCLPDI_01087",
+"gene_reaction_rule":"lp_0588_missing or MBLCLPDI_01087",
 "notes":{
 "from":[
 "iBT721"
@@ -9319,6 +9969,30 @@
 },
 {
 "id":"MBLCLPDI_00350",
+"name":""
+},
+{
+"id":"MBLCLPDI_01080",
+"name":""
+},
+{
+"id":"MBLCLPDI_01079",
+"name":""
+},
+{
+"id":"MBLCLPDI_00822",
+"name":""
+},
+{
+"id":"MBLCLPDI_01078",
+"name":""
+},
+{
+"id":"MBLCLPDI_00506",
+"name":""
+},
+{
+"id":"MBLCLPDI_01476",
 "name":""
 },
 {
@@ -9394,15 +10068,15 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01598",
-"name":""
-},
-{
 "id":"MBLCLPDI_00140",
 "name":""
 },
 {
 "id":"MBLCLPDI_00141",
+"name":""
+},
+{
+"id":"MBLCLPDI_01598",
 "name":""
 },
 {
@@ -9482,11 +10156,35 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01077",
+"id":"MBLCLPDI_00516",
 "name":""
 },
 {
-"id":"MBLCLPDI_00091",
+"id":"MBLCLPDI_00510",
+"name":""
+},
+{
+"id":"MBLCLPDI_00513",
+"name":""
+},
+{
+"id":"MBLCLPDI_00514",
+"name":""
+},
+{
+"id":"MBLCLPDI_00515",
+"name":""
+},
+{
+"id":"MBLCLPDI_00512",
+"name":""
+},
+{
+"id":"MBLCLPDI_00517",
+"name":""
+},
+{
+"id":"MBLCLPDI_01077",
 "name":""
 },
 {
@@ -9494,19 +10192,23 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_00091",
+"name":""
+},
+{
 "id":"MBLCLPDI_00233",
 "name":""
 },
 {
-"id":"MBLCLPDI_00506",
-"name":""
-},
-{
-"id":"MBLCLPDI_01476",
-"name":""
-},
-{
 "id":"MBLCLPDI_00135",
+"name":""
+},
+{
+"id":"MBLCLPDI_00202",
+"name":""
+},
+{
+"id":"MBLCLPDI_00201",
 "name":""
 },
 {
@@ -9515,6 +10217,18 @@
 },
 {
 "id":"MBLCLPDI_02076",
+"name":""
+},
+{
+"id":"MBLCLPDI_01162",
+"name":""
+},
+{
+"id":"MBLCLPDI_01521",
+"name":""
+},
+{
+"id":"MBLCLPDI_01527",
 "name":""
 },
 {
@@ -9534,11 +10248,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00556",
+"id":"MBLCLPDI_00558",
 "name":""
 },
 {
-"id":"MBLCLPDI_00558",
+"id":"MBLCLPDI_00557",
 "name":""
 },
 {
@@ -9546,7 +10260,7 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00557",
+"id":"MBLCLPDI_00556",
 "name":""
 },
 {
@@ -9558,11 +10272,15 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_01425",
+"name":""
+},
+{
 "id":"MBLCLPDI_01655",
 "name":""
 },
 {
-"id":"MBLCLPDI_01425",
+"id":"MBLCLPDI_01474",
 "name":""
 },
 {
@@ -9570,7 +10288,15 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01474",
+"id":"MBLCLPDI_00269",
+"name":""
+},
+{
+"id":"MBLCLPDI_00270",
+"name":""
+},
+{
+"id":"MBLCLPDI_00267",
 "name":""
 },
 {
@@ -9682,11 +10408,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00365",
+"id":"MBLCLPDI_00222",
 "name":""
 },
 {
-"id":"MBLCLPDI_00222",
+"id":"MBLCLPDI_00365",
 "name":""
 },
 {
@@ -9698,11 +10424,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01359",
+"id":"MBLCLPDI_00712",
 "name":""
 },
 {
-"id":"MBLCLPDI_00712",
+"id":"MBLCLPDI_01359",
 "name":""
 },
 {
@@ -9762,6 +10488,10 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_01827",
+"name":""
+},
+{
 "id":"MBLCLPDI_00403",
 "name":""
 },
@@ -9798,6 +10528,10 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_01592",
+"name":""
+},
+{
 "id":"MBLCLPDI_01593",
 "name":""
 },
@@ -9806,7 +10540,23 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01592",
+"id":"MBLCLPDI_00565",
+"name":""
+},
+{
+"id":"MBLCLPDI_00104",
+"name":""
+},
+{
+"id":"MBLCLPDI_01670",
+"name":""
+},
+{
+"id":"MBLCLPDI_01671",
+"name":""
+},
+{
+"id":"MBLCLPDI_00105",
 "name":""
 },
 {
@@ -9818,31 +10568,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00104",
-"name":""
-},
-{
-"id":"MBLCLPDI_00565",
-"name":""
-},
-{
-"id":"MBLCLPDI_00105",
-"name":""
-},
-{
-"id":"MBLCLPDI_01669",
-"name":""
-},
-{
 "id":"MBLCLPDI_01668",
 "name":""
 },
 {
-"id":"MBLCLPDI_01671",
-"name":""
-},
-{
-"id":"MBLCLPDI_01670",
+"id":"MBLCLPDI_01669",
 "name":""
 },
 {
@@ -9938,11 +10668,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00648",
+"id":"MBLCLPDI_00809",
 "name":""
 },
 {
-"id":"MBLCLPDI_00809",
+"id":"MBLCLPDI_00648",
 "name":""
 },
 {
@@ -10098,11 +10828,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01107",
+"id":"MBLCLPDI_01108",
 "name":""
 },
 {
-"id":"MBLCLPDI_01108",
+"id":"MBLCLPDI_01107",
 "name":""
 },
 {
@@ -10114,7 +10844,31 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_01104",
+"name":""
+},
+{
+"id":"MBLCLPDI_00685",
+"name":""
+},
+{
+"id":"MBLCLPDI_00552",
+"name":""
+},
+{
+"id":"MBLCLPDI_00553",
+"name":""
+},
+{
+"id":"MBLCLPDI_00686",
+"name":""
+},
+{
 "id":"MBLCLPDI_01106",
+"name":""
+},
+{
+"id":"MBLCLPDI_01117",
 "name":""
 },
 {
@@ -10134,11 +10888,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00168",
+"id":"MBLCLPDI_00310",
 "name":""
 },
 {
-"id":"MBLCLPDI_00310",
+"id":"MBLCLPDI_00168",
 "name":""
 },
 {
@@ -10166,6 +10920,10 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_01102",
+"name":""
+},
+{
 "id":"MBLCLPDI_01103",
 "name":""
 },
@@ -10175,10 +10933,6 @@
 },
 {
 "id":"MBLCLPDI_01101",
-"name":""
-},
-{
-"id":"MBLCLPDI_01102",
 "name":""
 },
 {
@@ -10222,11 +10976,7 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00669",
-"name":""
-},
-{
-"id":"MBLCLPDI_01007",
+"id":"MBLCLPDI_01346",
 "name":""
 },
 {
@@ -10234,7 +10984,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01346",
+"id":"MBLCLPDI_01007",
+"name":""
+},
+{
+"id":"MBLCLPDI_00669",
 "name":""
 },
 {
@@ -10250,19 +11004,19 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00688",
-"name":""
-},
-{
 "id":"MBLCLPDI_00152",
 "name":""
 },
 {
-"id":"MBLCLPDI_01997",
+"id":"MBLCLPDI_01886",
 "name":""
 },
 {
-"id":"MBLCLPDI_01886",
+"id":"MBLCLPDI_00688",
+"name":""
+},
+{
+"id":"MBLCLPDI_01997",
 "name":""
 },
 {
@@ -10291,6 +11045,30 @@
 },
 {
 "id":"MBLCLPDI_01352",
+"name":""
+},
+{
+"id":"MBLCLPDI_01722",
+"name":""
+},
+{
+"id":"MBLCLPDI_01723",
+"name":""
+},
+{
+"id":"MBLCLPDI_01725",
+"name":""
+},
+{
+"id":"MBLCLPDI_01724",
+"name":""
+},
+{
+"id":"MBLCLPDI_01726",
+"name":""
+},
+{
+"id":"MBLCLPDI_01842",
 "name":""
 },
 {
@@ -10330,6 +11108,14 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_00146",
+"name":""
+},
+{
+"id":"MBLCLPDI_00145",
+"name":""
+},
+{
 "id":"MBLCLPDI_00778",
 "name":""
 },
@@ -10346,11 +11132,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01678",
+"id":"MBLCLPDI_01985",
 "name":""
 },
 {
-"id":"MBLCLPDI_00786",
+"id":"MBLCLPDI_00845",
 "name":""
 },
 {
@@ -10358,15 +11144,15 @@
 "name":""
 },
 {
+"id":"MBLCLPDI_00786",
+"name":""
+},
+{
 "id":"MBLCLPDI_01016",
 "name":""
 },
 {
-"id":"MBLCLPDI_01985",
-"name":""
-},
-{
-"id":"MBLCLPDI_00845",
+"id":"MBLCLPDI_01678",
 "name":""
 },
 {
@@ -10378,11 +11164,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01799",
+"id":"MBLCLPDI_01800",
 "name":""
 },
 {
-"id":"MBLCLPDI_01800",
+"id":"MBLCLPDI_01799",
 "name":""
 },
 {
@@ -10395,6 +11181,10 @@
 },
 {
 "id":"MBLCLPDI_00839",
+"name":""
+},
+{
+"id":"MBLCLPDI_01105",
 "name":""
 },
 {
@@ -10414,11 +11204,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01454",
+"id":"MBLCLPDI_01918",
 "name":""
 },
 {
-"id":"MBLCLPDI_01918",
+"id":"MBLCLPDI_01454",
 "name":""
 },
 {
@@ -10442,11 +11232,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_01201",
+"id":"MBLCLPDI_01200",
 "name":""
 },
 {
-"id":"MBLCLPDI_01200",
+"id":"MBLCLPDI_01201",
 "name":""
 },
 {
@@ -10490,11 +11280,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00407",
+"id":"MBLCLPDI_01813",
 "name":""
 },
 {
-"id":"MBLCLPDI_01813",
+"id":"MBLCLPDI_00407",
 "name":""
 },
 {
@@ -10518,11 +11308,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00519",
+"id":"MBLCLPDI_00250",
 "name":""
 },
 {
-"id":"MBLCLPDI_00250",
+"id":"MBLCLPDI_00519",
 "name":""
 },
 {
@@ -10539,6 +11329,14 @@
 },
 {
 "id":"MBLCLPDI_00444",
+"name":""
+},
+{
+"id":"MBLCLPDI_00775",
+"name":""
+},
+{
+"id":"MBLCLPDI_01211",
 "name":""
 },
 {
@@ -10583,6 +11381,690 @@
 },
 {
 "id":"MBLCLPDI_01087",
+"name":""
+},
+{
+"id":"lp_0350_missing",
+"name":""
+},
+{
+"id":"lp_2349_missing",
+"name":""
+},
+{
+"id":"lp_0329_missing",
+"name":""
+},
+{
+"id":"lp_1676_missing",
+"name":""
+},
+{
+"id":"lp_0590_missing",
+"name":""
+},
+{
+"id":"lp_0592_missing",
+"name":""
+},
+{
+"id":"lp_0589_missing",
+"name":""
+},
+{
+"id":"lp_0591_missing",
+"name":""
+},
+{
+"id":"lp_0362_missing",
+"name":""
+},
+{
+"id":"lp_0854_missing",
+"name":""
+},
+{
+"id":"lp_2649_missing",
+"name":""
+},
+{
+"id":"lp_2650_missing",
+"name":""
+},
+{
+"id":"lp_2648_missing",
+"name":""
+},
+{
+"id":"lp_2647_missing",
+"name":""
+},
+{
+"id":"lp_2969_missing",
+"name":""
+},
+{
+"id":"lp_2531_missing",
+"name":""
+},
+{
+"id":"lp_0210_missing",
+"name":""
+},
+{
+"id":"lp_0310_missing",
+"name":""
+},
+{
+"id":"lp_1672_missing",
+"name":""
+},
+{
+"id":"lp_2825_missing",
+"name":""
+},
+{
+"id":"lp_2762_missing",
+"name":""
+},
+{
+"id":"lp_1790_missing",
+"name":""
+},
+{
+"id":"lp_3492_missing",
+"name":""
+},
+{
+"id":"lp_1072_missing",
+"name":""
+},
+{
+"id":"lp_1665_missing",
+"name":""
+},
+{
+"id":"lp_1346_missing",
+"name":""
+},
+{
+"id":"lp_3085_missing",
+"name":""
+},
+{
+"id":"lp_0956_missing",
+"name":""
+},
+{
+"id":"lp_0979_missing",
+"name":""
+},
+{
+"id":"lp_2369_missing",
+"name":""
+},
+{
+"id":"lp_0527_missing",
+"name":""
+},
+{
+"id":"lp_0526_missing",
+"name":""
+},
+{
+"id":"lp_2780_missing",
+"name":""
+},
+{
+"id":"lp_3010_missing",
+"name":""
+},
+{
+"id":"lp_2781_missing",
+"name":""
+},
+{
+"id":"lp_3008_missing",
+"name":""
+},
+{
+"id":"lp_3009_missing",
+"name":""
+},
+{
+"id":"lp_1696_missing",
+"name":""
+},
+{
+"id":"lp_1609_missing",
+"name":""
+},
+{
+"id":"lp_1607_missing",
+"name":""
+},
+{
+"id":"lp_0367_missing",
+"name":""
+},
+{
+"id":"lp_1610_missing",
+"name":""
+},
+{
+"id":"lp_1198_missing",
+"name":""
+},
+{
+"id":"lp_2102_missing",
+"name":""
+},
+{
+"id":"lp_2103_missing",
+"name":""
+},
+{
+"id":"lp_1185_missing",
+"name":""
+},
+{
+"id":"lp_2099_missing",
+"name":""
+},
+{
+"id":"lp_2101_missing",
+"name":""
+},
+{
+"id":"lp_2104_missing",
+"name":""
+},
+{
+"id":"lp_1181_missing",
+"name":""
+},
+{
+"id":"lp_1224_missing",
+"name":""
+},
+{
+"id":"lp_1178_missing",
+"name":""
+},
+{
+"id":"lp_1182_missing",
+"name":""
+},
+{
+"id":"lp_1215_missing",
+"name":""
+},
+{
+"id":"lp_1183_missing",
+"name":""
+},
+{
+"id":"lp_1184_missing",
+"name":""
+},
+{
+"id":"lp_2100_missing",
+"name":""
+},
+{
+"id":"lp_1177_missing",
+"name":""
+},
+{
+"id":"lp_1226_missing",
+"name":""
+},
+{
+"id":"lp_1227_missing",
+"name":""
+},
+{
+"id":"lp_1225_missing",
+"name":""
+},
+{
+"id":"lp_1222_missing",
+"name":""
+},
+{
+"id":"lp_1220_missing",
+"name":""
+},
+{
+"id":"lp_1216_missing",
+"name":""
+},
+{
+"id":"lp_1221_missing",
+"name":""
+},
+{
+"id":"lp_1206_missing",
+"name":""
+},
+{
+"id":"lp_1203_missing",
+"name":""
+},
+{
+"id":"lp_2107_missing",
+"name":""
+},
+{
+"id":"lp_1204_missing",
+"name":""
+},
+{
+"id":"lp_1201_missing",
+"name":""
+},
+{
+"id":"lp_1202_missing",
+"name":""
+},
+{
+"id":"lp_2106_missing",
+"name":""
+},
+{
+"id":"lp_1205_missing",
+"name":""
+},
+{
+"id":"lp_2108_missing",
+"name":""
+},
+{
+"id":"lp_1197_missing",
+"name":""
+},
+{
+"id":"lp_3517_missing",
+"name":""
+},
+{
+"id":"lp_2017_missing",
+"name":""
+},
+{
+"id":"lp_1406_missing",
+"name":""
+},
+{
+"id":"lp_0168_missing",
+"name":""
+},
+{
+"id":"lp_0166_missing",
+"name":""
+},
+{
+"id":"lp_0170_missing",
+"name":""
+},
+{
+"id":"lp_0169_missing",
+"name":""
+},
+{
+"id":"lp_2123_missing",
+"name":""
+},
+{
+"id":"lp_2532_missing",
+"name":""
+},
+{
+"id":"lp_0500_missing",
+"name":""
+},
+{
+"id":"lp_2251_missing",
+"name":""
+},
+{
+"id":"lp_1920_missing",
+"name":""
+},
+{
+"id":"lp_0841_missing",
+"name":""
+},
+{
+"id":"lp_0850_missing",
+"name":""
+},
+{
+"id":"lp_2097_missing",
+"name":""
+},
+{
+"id":"lp_0826_missing",
+"name":""
+},
+{
+"id":"lp_1731_missing",
+"name":""
+},
+{
+"id":"lp_3548_missing",
+"name":""
+},
+{
+"id":"lp_3601_missing",
+"name":""
+},
+{
+"id":"lp_3547_missing",
+"name":""
+},
+{
+"id":"lp_3599_missing",
+"name":""
+},
+{
+"id":"lp_3600_missing",
+"name":""
+},
+{
+"id":"lp_3522_missing",
+"name":""
+},
+{
+"id":"lp_3520_missing",
+"name":""
+},
+{
+"id":"lp_1299_missing",
+"name":""
+},
+{
+"id":"lp_1312_missing",
+"name":""
+},
+{
+"id":"lp_1311_missing",
+"name":""
+},
+{
+"id":"lp_2324_missing",
+"name":""
+},
+{
+"id":"lp_0834_missing",
+"name":""
+},
+{
+"id":"lp_1251_missing",
+"name":""
+},
+{
+"id":"lp_1578_missing",
+"name":""
+},
+{
+"id":"lp_2344_missing",
+"name":""
+},
+{
+"id":"lp_1328_missing",
+"name":""
+},
+{
+"id":"lp_1372_missing",
+"name":""
+},
+{
+"id":"lp_2989_missing",
+"name":""
+},
+{
+"id":"lp_3267_missing",
+"name":""
+},
+{
+"id":"lp_0369_missing",
+"name":""
+},
+{
+"id":"lp_1253_missing",
+"name":""
+},
+{
+"id":"lp_0293_missing",
+"name":""
+},
+{
+"id":"lp_1677_missing",
+"name":""
+},
+{
+"id":"lp_2561_missing",
+"name":""
+},
+{
+"id":"lp_0399_missing",
+"name":""
+},
+{
+"id":"lp_2213_missing",
+"name":""
+},
+{
+"id":"lp_2878_missing",
+"name":""
+},
+{
+"id":"lp_2550_missing",
+"name":""
+},
+{
+"id":"lp_1119_missing",
+"name":""
+},
+{
+"id":"lp_0594_missing",
+"name":""
+},
+{
+"id":"lp_0576_missing",
+"name":""
+},
+{
+"id":"lp_0577_missing",
+"name":""
+},
+{
+"id":"lp_0587_missing",
+"name":""
+},
+{
+"id":"lp_0586_missing",
+"name":""
+},
+{
+"id":"lp_0575_missing",
+"name":""
+},
+{
+"id":"lp_0181_missing",
+"name":""
+},
+{
+"id":"lp_0028_missing",
+"name":""
+},
+{
+"id":"lp_3530_missing",
+"name":""
+},
+{
+"id":"lp_0232_missing",
+"name":""
+},
+{
+"id":"lp_0230_missing",
+"name":""
+},
+{
+"id":"lp_1479_missing",
+"name":""
+},
+{
+"id":"lp_1069_missing",
+"name":""
+},
+{
+"id":"lp_1925_missing",
+"name":""
+},
+{
+"id":"lp_1350_missing",
+"name":""
+},
+{
+"id":"lp_0760_missing",
+"name":""
+},
+{
+"id":"lp_1941_missing",
+"name":""
+},
+{
+"id":"lp_0766_missing",
+"name":""
+},
+{
+"id":"lp_0900_missing",
+"name":""
+},
+{
+"id":"lp_1785_missing",
+"name":""
+},
+{
+"id":"lp_2868_missing",
+"name":""
+},
+{
+"id":"lp_2785_missing",
+"name":""
+},
+{
+"id":"lp_0066_missing",
+"name":""
+},
+{
+"id":"lp_1739_missing",
+"name":""
+},
+{
+"id":"lp_0733_missing",
+"name":""
+},
+{
+"id":"lp_0750_missing",
+"name":""
+},
+{
+"id":"lp_3551_missing",
+"name":""
+},
+{
+"id":"lp_2726_missing",
+"name":""
+},
+{
+"id":"lp_1319_missing",
+"name":""
+},
+{
+"id":"lp_1480_missing",
+"name":""
+},
+{
+"id":"lp_1492_missing",
+"name":""
+},
+{
+"id":"lp_0354_missing",
+"name":""
+},
+{
+"id":"lp_3618_missing",
+"name":""
+},
+{
+"id":"lp_3652_missing",
+"name":""
+},
+{
+"id":"lp_3619_missing",
+"name":""
+},
+{
+"id":"lp_3620_missing",
+"name":""
+},
+{
+"id":"lp_3653_missing",
+"name":""
+},
+{
+"id":"lp_3654_missing",
+"name":""
+},
+{
+"id":"lp_1923_missing",
+"name":""
+},
+{
+"id":"lp_0501_missing",
+"name":""
+},
+{
+"id":"lp_3219_missing",
+"name":""
+},
+{
+"id":"lp_0185_missing",
+"name":""
+},
+{
+"id":"lp_0265_missing",
+"name":""
+},
+{
+"id":"lp_0264_missing",
+"name":""
+},
+{
+"id":"lp_1134_missing",
+"name":""
+},
+{
+"id":"lp_1200_missing",
+"name":""
+},
+{
+"id":"lp_3481_missing",
+"name":""
+},
+{
+"id":"lp_2105_missing",
+"name":""
+},
+{
+"id":"lp_1219_missing",
+"name":""
+},
+{
+"id":"lp_0588_missing",
 "name":""
 }
 ],
