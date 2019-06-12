@@ -79,14 +79,13 @@ Lreu_merged2 = Lreu_merged.copy()
 iNF517.solver = 'cplex'
 Lreu_merged.solver = 'glpk'
 
-#gap for ATP
+# %% check ATP first, find gaps for ATP
 Lreu_merged.objective = "ATPM"
 print('ATPM:',Lreu_merged.optimize())
 # result  = 1.027 (no gaps)
 
 iNF517.objective = "ATPM"
 print('ATPM:',iNF517.optimize())
-
 
 # gapfill ATP
 #solution_atp = gapfill(Lreu_merged, iNF517, demand_reactions=False)
@@ -104,8 +103,6 @@ print('ATPM:',iNF517.optimize())
 # Lreu_merged.objective = "ATPM"
 # Lreu_merged.optimize()
 
-
-
 # %% whole biomass gapfill
 
 Lreu_merged.objective = "BIOMASS_LRE"
@@ -116,10 +113,10 @@ print('Biomass:',iNF517.optimize())
 #filed
 #solution_biomass = gapfill(Lreu_merged, iNF517, demand_reactions=True)
 
-solution_biomass = cobra.flux_analysis.gapfilling.GapFiller(Lreu_merged, iNF517, demand_reactions=False, integer_threshold=1e-10)
-solution_biomass = solution_biomass.fill(iterations=1)
+solution_biomass_f = cobra.flux_analysis.gapfilling.GapFiller(Lreu_merged, iNF517, demand_reactions=False, integer_threshold=1e-10)
+solution_biomass = solution_biomass_f.fill(iterations=1)[0]
+biomass_gaps_set = set([i.id for i in solution_biomass])
 print('biomass gaps:',solution_biomass)
-
 
 # for rea in solution_biomass[0]:
 #     print(rea)
@@ -127,13 +124,6 @@ print('biomass gaps:',solution_biomass)
 #         rea.notes['from'] = ['iNF517','gap','biomass']
 #         Lreu_merged.add_reaction(rea)
 #         reaset.add(rea.id)
-
-Lreu_merged.objective = "BIOMASS_LRE"
-Lreu_merged.optimize()
-
-# result need demand_reactions
-
-
 
 
 #%% gapfill partly
@@ -161,7 +151,7 @@ for rea in iNF517.reactions:
         biomass_reas.append(rea.id)
         print('biomass', rea)
 # %%
-biomass_part_1 = set()
+biomass_part_gaps_set = set()
 Lreu_merged = Lreu_merged.copy()
 for reaid in biomass_reas:
     Lreu_merged.objective = reaid
@@ -180,96 +170,80 @@ for reaid in biomass_reas:
     else:
         try:
             #solution_production = gapfill(Lreu_merged, iNF517, demand_reactions=True);
-            solution_production = cobra.flux_analysis.gapfilling.GapFiller(Lreu_merged, iNF517, demand_reactions=False, integer_threshold=1e-10)
+            solution_production = cobra.flux_analysis.gapfilling.GapFiller(Lreu_merged, iNF517, demand_reactions=False, integer_threshold=1e-13)
             solution_production = solution_production.fill(iterations=1)
             rea_set = set(i.id for i in solution_production[0])
-            biomass_part_1 = biomass_part_1|rea_set
+            biomass_part_gaps_set = biomass_part_gaps_set|rea_set
         except cobra.exceptions.Infeasible:
             print('gapfilling optimization failed (infeasible)')
         except RuntimeError:
-
             print('RuntimeError: failed to validate gapfilled model, try lowering the integer_threshold')
 
+# %% <option 2 >  get biomass composition filed
+# biomass_dic = dict()
+# for k,v in iNF517.reactions.get_by_id('BIOMASS_LRE').metabolites.items():
+#     biomass_dic[k.id] = v
+#
+# def producton_gap_reas(gap_model,all_model,procuction,type = 'met'):
+#
+#     objrea = cobra.Reaction('objrea')
+#     gap_model.add_reaction(objrea);
+#     gap_model.reactions.get_by_id('objrea').reaction = procuction + ' --> '
+#     gap_model.objective = "objrea"
+#
+#     f = gap_model.optimize()
+#     print(f)
+#     if f.objective_value > 0:
+#         print('no gap')
+#         rea_set = set()
+#     else:
+#
+#         objrea_all = cobra.Reaction('objrea')
+#         all_model.add_reaction(objrea_all);
+#         all_model.reactions.get_by_id('objrea').reaction = procuction + ' --> '
+#         all_model.objective = "objrea"
+#
+#         try:
+#             solution_production = gapfill(gap_model, all_model, demand_reactions=False,exchange_reactions = True);
+#             rea_set = set(i.id for i in solution_production[0])
+#         except cobra.exceptions.Infeasible:
+#             print('gapfilling optimization failed (infeasible)')
+#             #print('try fva')
+#             # f = flux_variability_analysis(all_model)
+#             # rea_set = set([i for i in nesf.index])
+#             rea_set = set()
+#
+#         #all_model.reactions.get_by_id('objrea').remove_from_model()
+#
+#     #gap_model.reactions.get_by_id('objrea').remove_from_model()
+#     return rea_set
+#
+# biomass_part_gaps_set_2 = set()
+#
+# for met in biomass_dic.keys():
+#
+#     print(met)
+#     met_rea_set = producton_gap_reas(Lreu_merged,iNF517,met)
+#     print(met_rea_set - reaset)
+#     biomass_part_gaps_set_2 = biomass_part_gaps_set_2|met_rea_set - reaset
+# Lreu_merged.reactions.get_by_id('objrea').remove_from_model()
+# iNF517.reactions.get_by_id('objrea').remove_from_model()
 
-# %% <option 1 >  get biomass composition
-biomass_dic = dict()
-for k,v in iNF517.reactions.get_by_id('BIOMASS_LRE').metabolites.items():
-    biomass_dic[k.id] = v
-
-def producton_gap_reas(gap_model,all_model,procuction,type = 'met'):
-
-
-    objrea = cobra.Reaction('objrea')
-    gap_model.add_reaction(objrea);
-    gap_model.reactions.get_by_id('objrea').reaction = procuction + ' --> '
-    gap_model.objective = "objrea"
-
-    f = gap_model.optimize()
-    print(f)
-    if f.objective_value > 0:
-        print('no gap')
-        rea_set = set()
-    else:
-
-        objrea_all = cobra.Reaction('objrea')
-        all_model.add_reaction(objrea_all);
-        all_model.reactions.get_by_id('objrea').reaction = procuction + ' --> '
-        all_model.objective = "objrea"
-
-        try:
-            solution_production = gapfill(gap_model, all_model, demand_reactions=False,exchange_reactions = True);
-            rea_set = set(i.id for i in solution_production[0])
-        except cobra.exceptions.Infeasible:
-            print('gapfilling optimization failed (infeasible)')
-            #print('try fva')
-            # f = flux_variability_analysis(all_model)
-            # rea_set = set([i for i in nesf.index])
-            rea_set = set()
-
-        #all_model.reactions.get_by_id('objrea').remove_from_model()
-
-    #gap_model.reactions.get_by_id('objrea').remove_from_model()
-    return rea_set
-
-
-
-
-met_rea_set_all = set()
-
-for met in biomass_dic.keys():
-
-    print(met)
-    met_rea_set = producton_gap_reas(Lreu_merged,iNF517,met)
-
-    print(met_rea_set - reaset)
-    met_rea_set_all = met_rea_set_all|met_rea_set - reaset
-
-for id in met_rea_set_all:
-    if 'filed' not in id:
-        rea = iNF517.reactions.get_by_id(id)
-        rea.notes['from'] = ['iNF517','gap']
-        if rea.id not in reaset:
-            Lreu_merged.add_reaction(rea)
-            reaset.add(rea.id)
-
-
-
-
-Lreu_merged.reactions.get_by_id('objrea').remove_from_model()
-#iNF517.reactions.get_by_id('objrea').remove_from_model()
-
-
-
-
-
-
+# for id in biomass_part_gaps_set_2:
+#     if 'filed' not in id:
+#         rea = iNF517.reactions.get_by_id(id)
+#         rea.notes['from'] = ['iNF517','gap']
+#         if rea.id not in reaset:
+#             Lreu_merged.add_reaction(rea)
+#             reaset.add(rea.id)
 
 
 
 #%% add fva result
-
+Lreu_merged.objective = "BIOMASS_LRE"
 f = flux_variability_analysis(iNF517)
 need_fva  = f[(f['minimum']>0.0001) | (f['maximum']< -0.0001)]
+fva_gaps_set = set(need_fva.index) - reaset
 
 # for need_id in need_fva.index:
 #     #if need_id not in myrealist:
@@ -291,6 +265,7 @@ iNF517.objective = "BIOMASS_LRE"
 solution_fba = iNF517.optimize()
 
 need_fba = solution_fba.fluxes[abs(solution_fba.fluxes) > 1e-10]
+fba_gaps_set = set(need_fba.index) - reaset
 
 # for need_id in need_fba.index:
 #     #if need_id not in myrealist:
@@ -302,34 +277,53 @@ need_fba = solution_fba.fluxes[abs(solution_fba.fluxes) > 1e-10]
 #         reaset.add(rea.id)
 
 
-
-
-
-#filed
-#solution_biomass = gapfill(Lreu_merged, iNF517, demand_reactions=False)
-
-
-#%%
-
-# My_def.output_txt(pfba_solution,iNF517_initial,'/Users/lhao/Box Sync/Projects/Project_Lreuteri/Lactobacillus_reuteri_MM41A_GEM/My_test/output.txt')
-# My_def.io_outtxt(iNF517,'/Users/lhao/Box Sync/Projects/Project_Lreuteri/Lactobacillus_reuteri_MM41A_GEM/My_test/inf517_changed.txt')
-# My_def.io_outtxt(iNF517_initial,'/Users/lhao/Box Sync/Projects/Project_Lreuteri/Lactobacillus_reuteri_MM41A_GEM/My_test/inf517_initial.txt')
-
-# %%
-
 # %% change biomass
 
-# #Lreu_merged.reactions.get_by_id('AGAT_LRE').reaction = '0.12 2chdeacp_c + 0.005 2ctdeacp_c + 0.32 2cocdacp_c + 0.01 agly3p_LRE_c + 0.25 cpocdacp_c + 0.26 hdeacp_c + 0.02 ocdacp_c + 0.03 tdeacp_c --> acp_c + 0.01 pa_LRE_c'
-# Lreu_merged.reactions.get_by_id('CPSS_LRE').reaction = 'dtdprmn_c + 5.0 h2o_c + 2.0 udpg_c + 2.0 udpgal_c <=> CPS_LRE_c + dtdp_c + 6.0 h_c + 3.0 udp_c + ump_c'
-# Lreu_merged.reactions.get_by_id('DALTAL_LRE').reaction = '0.01 LTA_LRE_c + 25.0 ala__D_c + 25.0 atp_c --> 0.01 LTAala_LRE_c + 25.0 adp_c + 25.0 pi_c'
-# #Lreu_merged.reactions.get_by_id('GAT1_LRE').reaction = '0.12 2chdeacp_c + 0.005 2ctdeacp_c + 0.32 2cocdacp_c + 0.25 cpocdacp_c + glyc3p_c + 0.295 hdeacp_c + 0.01 ocdacp_c + 0.09 tdeacp_c --> acp_c + 0.01 agly3p_LRE_c'
-# Lreu_merged.reactions.get_by_id('LTAS_LRE').reaction = 	'0.01 d12dg_LRE_c + 0.25 pg_LRE_c --> 0.01 12dgr_LRE_c + 0.25 LTA_LRE_c'
-# Lreu_merged.reactions.get_by_id('PROTS_LRE_v3').reaction = '0.125 alatrna_c + 0.04 argtrna_c + 0.06 asntrna_c + 0.06 asptrna_c + 0.306 atp_c + 0.011 cystrna_c + 0.083 glntrna_c + ' \
-#                                                        '0.023 glutrna_c + 0.084 glytrna_c + 2.0 gtp_c + 2.307 h2o_c + 0.017 histrna_c + 0.043 iletrna_c + 0.078 leutrna_c + 0.066 lystrna_c + ' \
-#                                                        '0.022 mettrna_c + 0.034 phetrna_c + 0.04 protrna_c + 0.056 sertrna_c + 0.064 thrtrna_c + 0.006 trptrna_c + 0.028 tyrtrna_c + 0.06 valtrna_c ' \
-#                                                        '--> 0.001 PROT_LRE_v3_c + 0.306 adp_c + 2.0 gdp_c + 2.306 h_c + 2.306 pi_c + 0.125 trnaala_c + 0.04 trnaarg_c + 0.06 trnaasn_c + 0.06 trnaasp_c + ' \
-#                                                        '0.011 trnacys_c + 0.083 trnagln_c + 0.023 trnaglu_c + 0.084 trnagly_c + 0.017 trnahis_c + 0.043 trnaile_c + 0.078 trnaleu_c + 0.066 trnalys_c + ' \
-#                                                        '0.022 trnamet_c + 0.034 trnaphe_c + 0.04 trnapro_c + 0.056 trnaser_c + 0.064 trnathr_c + 0.006 trnatrp_c + 0.028 trnatyr_c + 0.06 trnaval_c'
+#Lreu_merged.reactions.get_by_id('AGAT_LRE').reaction = '0.12 2chdeacp_c + 0.005 2ctdeacp_c + 0.32 2cocdacp_c + 0.01 agly3p_LRE_c + 0.25 cpocdacp_c + 0.26 hdeacp_c + 0.02 ocdacp_c + 0.03 tdeacp_c --> acp_c + 0.01 pa_LRE_c'
+Lreu_merged.reactions.get_by_id('CPSS_LRE').reaction = 'dtdprmn_c + 5.0 h2o_c + 2.0 udpg_c + 2.0 udpgal_c <=> CPS_LRE_c + dtdp_c + 6.0 h_c + 3.0 udp_c + ump_c'
+Lreu_merged.reactions.get_by_id('DALTAL_LRE').reaction = '0.01 LTA_LRE_c + 25.0 ala__D_c + 25.0 atp_c --> 0.01 LTAala_LRE_c + 25.0 adp_c + 25.0 pi_c'
+#Lreu_merged.reactions.get_by_id('GAT1_LRE').reaction = '0.12 2chdeacp_c + 0.005 2ctdeacp_c + 0.32 2cocdacp_c + 0.25 cpocdacp_c + glyc3p_c + 0.295 hdeacp_c + 0.01 ocdacp_c + 0.09 tdeacp_c --> acp_c + 0.01 agly3p_LRE_c'
+Lreu_merged.reactions.get_by_id('LTAS_LRE').reaction = 	'0.01 d12dg_LRE_c + 0.25 pg_LRE_c --> 0.01 12dgr_LRE_c + 0.25 LTA_LRE_c'
+Lreu_merged.reactions.get_by_id('PROTS_LRE_v3').reaction = '0.125 alatrna_c + 0.04 argtrna_c + 0.06 asntrna_c + 0.06 asptrna_c + 0.306 atp_c + 0.011 cystrna_c + 0.083 glntrna_c + ' \
+                                                       '0.023 glutrna_c + 0.084 glytrna_c + 2.0 gtp_c + 2.307 h2o_c + 0.017 histrna_c + 0.043 iletrna_c + 0.078 leutrna_c + 0.066 lystrna_c + ' \
+                                                       '0.022 mettrna_c + 0.034 phetrna_c + 0.04 protrna_c + 0.056 sertrna_c + 0.064 thrtrna_c + 0.006 trptrna_c + 0.028 tyrtrna_c + 0.06 valtrna_c ' \
+                                                       '--> 0.001 PROT_LRE_v3_c + 0.306 adp_c + 2.0 gdp_c + 2.306 h_c + 2.306 pi_c + 0.125 trnaala_c + 0.04 trnaarg_c + 0.06 trnaasn_c + 0.06 trnaasp_c + ' \
+                                                       '0.011 trnacys_c + 0.083 trnagln_c + 0.023 trnaglu_c + 0.084 trnagly_c + 0.017 trnahis_c + 0.043 trnaile_c + 0.078 trnaleu_c + 0.066 trnalys_c + ' \
+                                                       '0.022 trnamet_c + 0.034 trnaphe_c + 0.04 trnapro_c + 0.056 trnaser_c + 0.064 trnathr_c + 0.006 trnatrp_c + 0.028 trnatyr_c + 0.06 trnaval_c'
+
+
+
+# %% compare gaps add gap reactions:
+
+print( len(biomass_gaps_set))
+print( len(biomass_part_gaps_set))
+#print( len(biomass_part_gaps_set_2))
+print( len(fva_gaps_set))
+print( len(fba_gaps_set))
+
+# add reactions
+for i in biomass_gaps_set:
+    rea = iNF517.reactions.get_by_id(i)
+    rea.notes['from'] = ['iNF517','gap','biomass']
+    Lreu_merged.add_reaction(rea)
+    #reaset.add(rea.id)
+
+gset = set()
+for i in Lreu_merged.genes:
+    if 'MBLCL' in i.id:
+        gset.add(i.id)
+print(len(gset))
+
+
+Lreu_merged.objective = "BIOMASS_LRE"
+print(Lreu_merged.optimize())
+
+# %% <save models>
+Lreu_merged.objective = "BIOMASS_LRE"
+cobra.io.save_json_model(Lreu_merged,'../Step_03_Compare_Refine/Lreu_merged_gapfiled.json')
+
+
+
 
 
 

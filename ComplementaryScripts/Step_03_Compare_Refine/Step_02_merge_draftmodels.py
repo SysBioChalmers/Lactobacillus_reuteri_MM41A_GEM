@@ -199,6 +199,31 @@ if __name__=='__main__':
         model_2.reactions.get_by_id(v).remove_from_model()
 
 
+    # remove —— reactions
+    pset = set()
+
+    for i in model_2.metabolites:
+        if i.id.endswith('_p'):
+            for rea in i.reactions:
+                print(rea)
+                pset.add(rea.id)
+    for i in pset:
+        model_2.reactions.get_by_id(i).remove_from_model()
+
+
+    for met in model_2.metabolites:
+        if len(met.reactions) ==0:
+            print('onemet',met)
+            met.remove_from_model()
+
+    removegenlist = []
+    for gene in model_2.genes:
+        if len(gene.reactions) ==0:
+            print('onegene',gene)
+            removegenlist.append(gene)
+
+    cobra.manipulation.remove_genes(model_2,removegenlist)
+
 
     # for i in range(0,len(a),2):
     #     rea1 = model_2.reactions.get_by_id(a[i])

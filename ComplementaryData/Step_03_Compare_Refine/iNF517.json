@@ -31821,7 +31821,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"( LLMG_RS07320_missing or MBLCLPDI_00098 ) or ( lp_3492_missing or lp_1072_missing or MBLCLPDI_00098 )",
+"gene_reaction_rule":"(LLMG_RS07320_missing or MBLCLPDI_00098) or (lp_3492_missing or lp_1072_missing or MBLCLPDI_00098)",
 "notes":{
 "from":[
 "Lreu_from_iBT721",
@@ -32046,7 +32046,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"( MBLCLPDI_02010 or LLMG_RS06580_missing ) or ( lp_2561_missing or MBLCLPDI_02010 )",
+"gene_reaction_rule":"(MBLCLPDI_02010 or LLMG_RS06580_missing) or (lp_2561_missing or MBLCLPDI_02010)",
 "notes":{
 "from":[
 "Lreu_from_iBT721",
@@ -32164,15 +32164,15 @@
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"( MBLCLPDI_00468 or LLMG_RS08815_missing ) or ( b4254_missing or MBLCLPDI_00468 )",
+"gene_reaction_rule":"(MBLCLPDI_00468 or LLMG_RS08815_missing) or (b4254_missing or MBLCLPDI_00468)",
 "notes":{
 "from":[
-"iBT721",
 "Lreu_from_iBT721",
-"Lreu_from_iML1515",
-"Lreu_from_iNF517",
+"iNF517",
 "iML1515",
-"iNF517"
+"Lreu_from_iNF517",
+"iBT721",
+"Lreu_from_iML1515"
 ]
 },
 "annotation":{
@@ -32268,7 +32268,7 @@
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"( MBLCLPDI_00145 and LLMG_RS04955_missing and MBLCLPDI_00146 ) or ( MBLCLPDI_00146 and MBLCLPDI_00145 and lp_2726_missing )",
+"gene_reaction_rule":"(MBLCLPDI_00145 and LLMG_RS04955_missing and MBLCLPDI_00146) or (MBLCLPDI_00146 and MBLCLPDI_00145 and lp_2726_missing)",
 "notes":{
 "from":[
 "Lreu_from_iBT721",
@@ -32317,12 +32317,12 @@
 "gene_reaction_rule":"MBLCLPDI_01180",
 "notes":{
 "from":[
-"iBT721",
 "Lreu_from_iBT721",
-"Lreu_from_iML1515",
-"Lreu_from_iNF517",
+"iNF517",
 "iML1515",
-"iNF517"
+"Lreu_from_iNF517",
+"iBT721",
+"Lreu_from_iML1515"
 ]
 },
 "annotation":{
@@ -34507,15 +34507,15 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00098",
-"name":""
-},
-{
 "id":"LLMG_RS07320_missing",
 "name":""
 },
 {
 "id":"lp_3492_missing",
+"name":""
+},
+{
+"id":"MBLCLPDI_00098",
 "name":""
 },
 {
@@ -34527,11 +34527,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_02051",
+"id":"lp_0956_missing",
 "name":""
 },
 {
-"id":"lp_0956_missing",
+"id":"MBLCLPDI_02051",
 "name":""
 },
 {
@@ -34551,11 +34551,11 @@
 "name":""
 },
 {
-"id":"MBLCLPDI_00828",
+"id":"MBLCLPDI_00829",
 "name":""
 },
 {
-"id":"MBLCLPDI_00829",
+"id":"MBLCLPDI_00828",
 "name":""
 },
 {
@@ -34627,11 +34627,11 @@
 "name":""
 },
 {
-"id":"lp_0501_missing",
+"id":"MBLCLPDI_00103",
 "name":""
 },
 {
-"id":"MBLCLPDI_00103",
+"id":"lp_0501_missing",
 "name":""
 },
 {
