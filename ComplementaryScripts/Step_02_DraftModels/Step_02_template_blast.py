@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 # Created by lhao at 2019-02-27
-
+#balset pairwise and get bbh file
 
 import os
 import pandas as pd

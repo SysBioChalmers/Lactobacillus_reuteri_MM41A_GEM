@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 # Created by lhao at 2019-02-26
+# get models from template models and BBH file
 
 import os
 

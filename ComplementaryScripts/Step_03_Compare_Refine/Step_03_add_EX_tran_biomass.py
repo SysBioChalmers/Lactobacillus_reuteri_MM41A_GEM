@@ -4,8 +4,8 @@
 
 """Step_03_add_EX_tran_biomass.py
 :description : script
-:param : 
-:returns: 
+:param : draft model
+:returns: gap filed model
 :rtype: 
 """
 
@@ -33,19 +33,19 @@ metset = set([i.id for i in Lreu_merged.metabolites])
 
 for rea in iNF517.reactions:
     if ('EX_' in rea.id):
-        #exchange reactions
+        # case exchange reactions
         if rea.id not in reaset:
             rea.notes['from'] = ['iNF517','EX']
             Lreu_merged.add_reaction(rea)
             reaset.add(rea.id)
     elif ('_c' in rea.reaction) and ('_e' in rea.reaction):
-        #transport
+        # case transport
         if rea.id not in reaset:
             rea.notes['from'] = ['iNF517','transport']
             Lreu_merged.add_reaction(rea)
             reaset.add(rea.id)
     elif ('_LRE' in rea.id) or ('LRE_c' in rea.reaction):
-        # biomass
+        # case biomass
         #print(rea)
         if rea.functional:
             if rea.id not in reaset:
@@ -53,11 +53,12 @@ for rea in iNF517.reactions:
                 Lreu_merged.add_reaction(rea)
                 reaset.add(rea.id)
     elif rea.id in ['ATPM'] and rea.id not in reaset:
+        #case ATPM
         rea.notes['from'] = ['iNF517''atp']
         Lreu_merged.add_reaction(rea)
         reaset.add(rea.id)
 
-# %% change update reates
+# %% change update reates . avoide infeasible fab result
 for rea in Lreu_merged.reactions:
     if 'EX' in rea.id:
         if rea.lower_bound<=0 and rea.upper_bound <= 0:
@@ -79,7 +80,7 @@ Lreu_merged2 = Lreu_merged.copy()
 iNF517.solver = 'cplex'
 Lreu_merged.solver = 'glpk'
 
-# %% check ATP first, find gaps for ATP
+# %% case check ATP first, find gaps for ATP
 Lreu_merged.objective = "ATPM"
 print('ATPM:',Lreu_merged.optimize())
 # result  = 1.027 (no gaps)
@@ -103,7 +104,7 @@ print('ATPM:',iNF517.optimize())
 # Lreu_merged.objective = "ATPM"
 # Lreu_merged.optimize()
 
-# %% whole biomass gapfill
+# %% case whole biomass gapfill
 
 Lreu_merged.objective = "BIOMASS_LRE"
 print('Biomass:',Lreu_merged.optimize())
@@ -127,7 +128,7 @@ print('biomass gaps:',solution_biomass)
 
 
 
-#%% gapfill partly
+#%% case gapfill partly
 
 #check models
 for i in Lreu_merged.reactions:
@@ -240,7 +241,7 @@ for reaid in biomass_reas:
 
 
 
-#%% add fva result
+#%%  fva result
 Lreu_merged.objective = "BIOMASS_LRE"
 f = flux_variability_analysis(iNF517)
 need_fva  = f[(f['minimum']>0.0001) | (f['maximum']< -0.0001)]
@@ -260,7 +261,7 @@ fva_gaps_set = set(need_fva.index) - reaset
 
 
 
-# %% add fba result
+# %%  fba result
 
 iNF517.objective = "BIOMASS_LRE"
 solution_fba = iNF517.optimize()
@@ -278,7 +279,7 @@ fba_gaps_set = set(need_fba.index) - reaset
 #         reaset.add(rea.id)
 
 
-# %% change biomass
+# %% change biomass according to refmodel  (L. reuteri JCM1112 )
 
 #Lreu_merged.reactions.get_by_id('AGAT_LRE').reaction = '0.12 2chdeacp_c + 0.005 2ctdeacp_c + 0.32 2cocdacp_c + 0.01 agly3p_LRE_c + 0.25 cpocdacp_c + 0.26 hdeacp_c + 0.02 ocdacp_c + 0.03 tdeacp_c --> acp_c + 0.01 pa_LRE_c'
 Lreu_merged.reactions.get_by_id('CPSS_LRE').reaction = 'dtdprmn_c + 5.0 h2o_c + 2.0 udpg_c + 2.0 udpgal_c <=> CPS_LRE_c + dtdp_c + 6.0 h_c + 3.0 udp_c + ump_c'

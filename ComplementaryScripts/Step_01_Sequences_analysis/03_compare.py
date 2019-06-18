@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 # Created by lhao at 2019-05-16
+# compare seqs and output a fig
+
 
 import os
 import itertools
@@ -8,6 +10,8 @@ import My_def
 from matplotlib_venn import venn3, venn3_circles
 from matplotlib import pyplot as plt
 import pandas as pd
+
+
 
 os.chdir('../../ComplementaryData/Step_01_Sequences_analysis/blast/')
 

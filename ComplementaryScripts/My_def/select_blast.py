@@ -56,3 +56,4 @@ if __name__ == '__main__':
     result1 = 'Lreuteri_refseq_v01_in_Lreuteri_refseq_v02.csv'
     result2 = 'Lreuteri_refseq_v02_in_Lreuteri_refseq_v01.csv'
     result_df = select_blast(result1, result2, best_match=True,evalue = 10**-10, pident = 40, length = 0, bitscore = 0, ppos = 0)
+ 

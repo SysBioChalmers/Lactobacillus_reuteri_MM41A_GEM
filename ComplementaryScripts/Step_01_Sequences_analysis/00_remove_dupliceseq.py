@@ -1,6 +1,10 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 # Created by lhao at 2019-05-15
+# seq pre processing
+# remove duplicate seq
+# input : seq gbk
+# output : seq faa and fas
 
 import os
 from Bio import SeqIO
@@ -11,6 +15,7 @@ gbk_file = 'Lreuteri_refseq_v01/Lreuteri_refseq_v01.gbk'
 fna_file = "Lreuteri_refseq_v01/Lreuteri_refseq_v01.fna"
 faa_file = "Lreuteri_refseq_v01/Lreuteri_refseq_v01.faa"
 input = open(gbk_file, "r")
+
 geneNC = open(fna_file, "w")
 geneAA = open(faa_file, "w")
 id_set = set()

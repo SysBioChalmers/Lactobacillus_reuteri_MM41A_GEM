@@ -3,9 +3,9 @@
 # Created by Hao Luo at 2019-05-28
 
 """Step_02_merge_draftmodels.py
-:description : script
-:param : 
-:returns: 
+:description : script to merge Lre_ from iNF517 and iBT721 and iML1515
+:param : draft models
+:returns: merged model
 :rtype: 
 """
 import cobra
@@ -60,7 +60,7 @@ if __name__=='__main__':
     #model_2, report_df2  = merge_draftmodels(model_2,Lreu_ca_gp)
 
 
-    # %% Manual handling
+    # %% Manual handling change id according to printed reports (report_df and report_df1)
 
     modellist = ['iNF517','iBT721','iML1515','Lreu_from_iNF517','Lreu_from_iBT721','Lreu_ca','Lreu_ca_gp','model_2','Lreu_from_iML1515']
     #according to report 1
@@ -98,7 +98,8 @@ if __name__=='__main__':
     model_2, report_df1 = merge_draftmodels(model_2, Lreu_from_iBT721)
 
 
-    #case _1 or _2 in reaid
+    #case '_1' or '_2' in reaid compare and keep only one
+
     for rea in model_2.reactions:
 
         if rea.id.endswith('_1') or rea.id.endswith('_2'):
@@ -131,7 +132,8 @@ if __name__=='__main__':
                 iNF517.add_reaction(rea2)
             except  KeyError:
                 pass
-    #case _LLA sepcial met or id
+
+    #case _LLA sepcial mets(biomass composition) or id
     for model in [iNF517,model_2,Lreu_from_iNF517]:
         for rea in model.reactions:
             if '_LLA' in rea.id:
@@ -143,11 +145,12 @@ if __name__=='__main__':
                 met.name = met.name.replace('_LLA', '_LRE')
 
 # %% change someting wrong:
+    # CBMKr_copy1(0, 1000) and CBMKr_copy2(-1000,1000)  bounds different and removed wrong one
     iNF517.reactions.get_by_id('CBMKr').lower_bound = -1000
     Lreu_from_iNF517.reactions.get_by_id('CBMKr').lower_bound = -1000
     model_2.reactions.get_by_id('CBMKr').lower_bound = -1000
 
-
+    # standlized iNF517 is the same as initial iNF517
     iNF517_initial = cobra.io.read_sbml_model('/Users/lhao/Box Sync/Projects/Project_Lreuteri/Lactobacillus_reuteri_MM41A_GEM/ComplementaryData/Step_02_DraftModels/Template/template_models/iNF517.xml')
     iNF517_initial.objective = 'BIOMASS_LLA'
     iNF517.objective = 'BIOMASS_LRE'
@@ -198,7 +201,7 @@ if __name__=='__main__':
         rea1.notes['from'] = list(set(rea1.notes['from']+rea2.notes['from']))
         model_2.reactions.get_by_id(v).remove_from_model()
 
-
+    # case _p compartment removed
     # remove —— reactions
     pset = set()
 

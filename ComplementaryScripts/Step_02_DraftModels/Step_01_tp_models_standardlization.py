@@ -3,11 +3,21 @@
 # Created by Hao Luo at 2019-05-17
 
 """Step_01_tp_models_standardlization.py
-:description : script to process the template models (iBT517 & iNF517)
+:description : script to process the template models (iBT517 & iNF517 & iML1515)
 :param :  template models
 :returns:  standardlized models
 :rtype: model
+
+fixed cases:
+1. iBT721 mets id have 'LSQBKT' or '_RSQBKT' removed
+2. all models compared with bigg database if id not in current bigg(Apr 2019) but in old bigg, replace by current bigg id
+3. iNF517 reaid have '_copy1' or '_copy_2' substr, compared and keep remove one
+4. collect manuallist according reports
+
 """
+
+
+
 
 import os
 
