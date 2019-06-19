@@ -61,7 +61,7 @@ seq3 = 'Lreuteri_biogaia_v03/Lreuteri_biogaia_v03.faa'
 qseq_file = seq1
 sseq_file = seq2
 
-blast_result_s_in_q, blast_result_q_in_s = My_def.seq_ana.blastp_pairwise(qseq_file, sseq_file, out_dir='blast/')
+blast_result_s_in_q, blast_result_q_in_s = My_def.seq_ana.blastp_pairwise(qseq_file, sseq_file, out_dir='blast/',diamond=True)
 blast_result_df12 = My_def.seq_ana.select_blast(blast_result_s_in_q, blast_result_q_in_s, best_match=True, evalue=10 ** -10, pident=0, length=0,
                                       bitscore=100, ppos=45, qcovs=0)
 
@@ -73,7 +73,7 @@ os.system('rm ' + blast_result_q_in_s)
 qseq_file = seq1
 sseq_file = seq3
 
-blast_result_s_in_q, blast_result_q_in_s = My_def.seq_ana.blastp_pairwise(qseq_file, sseq_file, out_dir='')
+blast_result_s_in_q, blast_result_q_in_s = My_def.seq_ana.blastp_pairwise(qseq_file, sseq_file, out_dir='',diamond=True)
 blast_result_df13 = My_def.seq_ana.select_blast(blast_result_s_in_q, blast_result_q_in_s, best_match=True, evalue=10 ** -10,
                                       pident=0, length=0,
                                       bitscore=100, ppos=45, qcovs=0)
@@ -86,7 +86,7 @@ os.system('rm ' + blast_result_q_in_s)
 qseq_file = seq2
 sseq_file = seq3
 
-blast_result_s_in_q, blast_result_q_in_s = My_def.seq_ana.blastp_pairwise(qseq_file, sseq_file, out_dir='')
+blast_result_s_in_q, blast_result_q_in_s = My_def.seq_ana.blastp_pairwise(qseq_file, sseq_file, out_dir='',diamond=True)
 blast_result_df23 = My_def.seq_ana.select_blast(blast_result_s_in_q, blast_result_q_in_s, best_match=True, evalue=10 ** -10,
                                       pident=0, length=0,
                                       bitscore=100, ppos=45, qcovs=0)
@@ -166,6 +166,7 @@ for i in range(7):
 plt.savefig('Venn_of_Lreu_seqs.png')
 plt.show()
 
+#TODO: result is different when using dinomd to blast
 
 
 
