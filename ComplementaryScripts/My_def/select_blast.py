@@ -11,6 +11,9 @@ import pysnooper
 #@pysnooper.snoop()
 def select_blast(result1,result2,best_match=True,evalue = 10**-10, pident = 40, length = 200, bitscore = 0, ppos = 0 ,qcovs = 0):
     '''
+    #    find BBH(Bidirectional Best Hits) from blast results
+    #     balstcmd = 'blastp -db ' + db + ' -query ' + seq + ' -out ' + outfile +  ' -evalue 10e-5  -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"'
+
     selsect the result hits from blast result
     :param result1: blast result file -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"
     :param result2: last result file -outfmt "6 qseqid sseqid evalue pident length bitscore ppos"

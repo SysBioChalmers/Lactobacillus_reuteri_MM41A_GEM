@@ -67,7 +67,7 @@ for rea in Lreu_merged.reactions:
 
 print('exset',len(exset))
 print('transet',len(transet))
-print('init',len(Lreu_merged.reactions) - len(transet| transet))
+print('init',len(Lreu_merged.reactions) - len(transet| transet)-len(exset))
 print('biomassset',len(biomassset))
 
 

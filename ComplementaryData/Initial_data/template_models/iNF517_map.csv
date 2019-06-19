@@ -1,0 +1,1391 @@
+id_in_tp	bigg	metnetx	metacyc	kegg	seed	type	model
+10fthf_c	['10fthf', 'M_10fthf']	MNXM237	10-FORMYL-THF	C00234	cpd00201	met	iNF517
+12dgr_LLA_c						met	iNF517
+13dpg_c	['M_13dpg', '13dpg']	MNXM261	DPG	C00236	cpd00203	met	iNF517
+1pyr5c_c	['1pyr5c', 'M_1pyr5c']	MNXM1617		C04322	['cpd02651', 'cpd02431']	met	iNF517
+23dhdp_c	['23dhdp', 'M_23dhdp']	MNXM163139				met	iNF517
+23dhmb_c	['23dhmb', 'M_23dhmb']	MNXM114097	CPD-13357	C04272	cpd19030	met	iNF517
+23dhmp_c	['23dhmp', 'M_23dhmp']	MNXM1202	1-KETO-2-METHYLVALERATE	C06007	cpd19046	met	iNF517
+25aics_c	['25aics', 'M_25aics']	MNXM607	P-RIBOSYL-4-SUCCCARB-AMINOIMIDAZOLE	C04823	cpd19032	met	iNF517
+25dhpp_c	['25dhpp', 'M_25dhpp']	MNXM90906				met	iNF517
+26dap_LL_c	['26dap_LL', 'M_26dap_LL']	MNXM644	LL-DIAMINOPIMELATE	C00666	cpd00504	met	iNF517
+26dap__M_c	['26dap__M', 'M_26dap__M']	MNXM529	MESO-DIAMINOPIMELATE	C00680	cpd00516	met	iNF517
+2aeppn_c						met	iNF517
+2aeppn_e						met	iNF517
+2ahbut_c	['2ahbut', 'M_2ahbut']	MNXM114220	2-ACETO-2-HYDROXY-BUTYRATE	C06006	cpd19045	met	iNF517
+2ahhmd_c	['2ahhmd', 'M_2ahhmd']	MNXM91459			cpd02920	met	iNF517
+2ahhmp_c	['2ahhmp', 'M_2ahhmp']	MNXM146055				met	iNF517
+2beacp_c						met	iNF517
+4cml_c	['M_4cml', '4cml']	MNXM1521		C01278	cpd00938	met	iNF517
+2chdeacp_c						met	iNF517
+2cocdacp_c						met	iNF517
+2cpr5p_c	['2cpr5p', 'M_2cpr5p']	MNXM1455	CARBOXYPHENYLAMINO-DEOXYRIBULOSE-P	C01302	cpd00956	met	iNF517
+2ctdeacp_c						met	iNF517
+2dda7p_c	['2dda7p', 'M_2dda7p']	MNXM1219	3-DEOXY-D-ARABINO-HEPTULOSONATE-7-P	C04691	cpd02857	met	iNF517
+2ddg6p_c	['2ddg6p', 'M_2ddg6p']	MNXM649	2-KETO-3-DEOXY-6-P-GLUCONATE	C04442	cpd02711	met	iNF517
+2ddglcn_c	['M_2ddglcn', '2ddglcn']	MNXM440	2-DEHYDRO-3-DEOXY-D-GLUCONATE	C00204	cpd00176	met	iNF517
+2dhp_c	['M_2dhp', '2dhp']	MNXM959	2-DEHYDROPANTOATE	C00966	cpd00712	met	iNF517
+2dmmq8_c	['M_2dmmq8', '2dmmq8']	MNXM2178	DEMETHYLMENAQUINONE		cpd15352	met	iNF517
+2dr1p_c	['M_2dr1p', '2dr1p']	MNXM1063		C00672	['cpd00509', 'cpd26845']	met	iNF517
+2dr5p_c	['M_2dr5p', '2dr5p']	MNXM2179	DEOXY-RIBOSE-5P	C00673		met	iNF517
+2h3mb_c						met	iNF517
+2h3mb_e						met	iNF517
+2h3mp_c						met	iNF517
+2h3mp_e						met	iNF517
+2hxic__L_c						met	iNF517
+2hxic__L_e						met	iNF517
+2hxmp_c	['M_2hxmp', 'M_2hymeph', '2hymeph', '2hxmp']	MNXM1855	CPD-173	['C02323', 'D05790']	cpd01553	met	iNF517
+2ippm_c	['M_2ippm', '2ippm']	MNXM1706	CPD-9451	C02631	cpd01710	met	iNF517
+2mahmp_c	['M_2mahmp', '2mahmp']	MNXM1135	AMINO-HYDROXYMETHYL-METHYLPYRIMIDINE-PP	C04752	cpd02894	met	iNF517
+2mb_p_c						met	iNF517
+2mba_c						met	iNF517
+2mba_e						met	iNF517
+2mbald_c	['2mbald', 'M_2mbald']	MNXM2604	METHYLBUT-CPD	C02223	cpd01499	met	iNF517
+2mbald_e	['M_2mbald', '2mbald']	MNXM2604	METHYLBUT-CPD	C02223	cpd01499	met	iNF517
+2mbcoa_c	['2mbcoa', 'M_2mbcoa']	MNXM569	2-METHYL-BUTYRYL-COA	C01033	cpd00760	met	iNF517
+2mop_c	['2mop', 'M_2mop']	MNXM305	CPD-12179	C00349	['cpd00287', 'cpd23282']	met	iNF517
+2mpa_c						met	iNF517
+2mpa_e						met	iNF517
+2obut_c	['2obut', 'M_2obut']	MNXM159	2-OXOBUTANOATE	C00109	cpd00094	met	iNF517
+2pg_c	['M_2pg', '2pg']	MNXM275	2-PG	C00631	cpd00482	met	iNF517
+2shchc_c	['M_2shchc', '2shchc']	MNXM162721	SUCCINYL-OH-CYCLOHEXADIENE-COOH		cpd28162	met	iNF517
+2tddacp_c						met	iNF517
+2tdeacp_c						met	iNF517
+2thdeacp_c						met	iNF517
+2theacp_c						met	iNF517
+2tocdacp_c						met	iNF517
+2toceacp_c						met	iNF517
+2ttdeacp_c						met	iNF517
+34hpp_c	['M_34hpp', '34hpp']	MNXM153	P-HYDROXY-PHENYLPYRUVATE	C01179	cpd00868	met	iNF517
+3c2hmp_c	['M_3c2hmp', '3c2hmp']	MNXM891	2-D-THREO-HYDROXY-3-CARBOXY-ISOCAPROATE	C04411		met	iNF517
+3c3hmp_c	['M_3c3hmp', '3c3hmp']	MNXM985	3-CARBOXY-3-HYDROXY-ISOCAPROATE	C02504		met	iNF517
+3dhq_c	['M_3dhq', '3dhq']	MNXM478	DEHYDROQUINATE	C00944	cpd00699	met	iNF517
+3dhsk_c	['3dhsk', 'M_3dhsk']	MNXM611	3-DEHYDRO-SHIKIMATE	C02637	cpd01716	met	iNF517
+3hbacp_c						met	iNF517
+3hddacp_c						met	iNF517
+3hdeacp_c						met	iNF517
+3hhacp_c						met	iNF517
+3hmp_c	['3hmp', 'M_3hmp']	MNXM396	3-HYDROXY-ISOBUTYRATE	C01188	cpd00876	met	iNF517
+3hocacp_c						met	iNF517
+3hocdacp_c						met	iNF517
+3hpaacp_c						met	iNF517
+3htdacp_c						met	iNF517
+3ig3p_c	['3ig3p', 'M_3ig3p']	MNXM866	INDOLE-3-GLYCEROL-P	C03506	['cpd02210', 'cpd29667']	met	iNF517
+3mba_c						met	iNF517
+3mba_e						met	iNF517
+3mbal_c						met	iNF517
+3mbal_e						met	iNF517
+3mob_c	['3mob', 'M_3mob']	MNXM238	2-KETO-ISOVALERATE	C00141	cpd00123	met	iNF517
+3mop_c	['3mop', 'M_3mop']	MNXM439	2-KETO-3-METHYL-VALERATE	C00671	cpd00508	met	iNF517
+3oxddacp_c						met	iNF517
+3oxdeacp_c						met	iNF517
+3oxhacp_c						met	iNF517
+3oxhdacp_c						met	iNF517
+3oxocacp_c						met	iNF517
+3oxocdacp_c						met	iNF517
+3oxtdacp_c						met	iNF517
+3pg_c	['3pg', 'M_3pg']	MNXM126	G3P	C00197		met	iNF517
+3php_c	['M_3php', '3php']	MNXM541	3-P-HYDROXYPYRUVATE	C03232	cpd02069	met	iNF517
+3psme_c	['M_3psme', '3psme']	MNXM1365	3-ENOLPYRUVYL-SHIKIMATE-5P	C01269	cpd00932	met	iNF517
+4abut_c	['4abut', 'M_4abut']	MNXM192	4-AMINO-BUTYRATE	['C00334', 'D00058']	cpd00281	met	iNF517
+4abut_e	['4abut', 'M_4abut']	MNXM192	4-AMINO-BUTYRATE	['C00334', 'D00058']	cpd00281	met	iNF517
+4abz_c	['M_4abz', '4abz']	MNXM421	P-AMINO-BENZOATE	['D02456', 'C00568']	cpd00443	met	iNF517
+4abz_e	['4abz', 'M_4abz']	MNXM421	P-AMINO-BENZOATE	['D02456', 'C00568']	cpd00443	met	iNF517
+4adcho_c	['4adcho', 'M_4adcho']	MNXM1458	4-AMINO-4-DEOXYCHORISMATE	C11355	cpd08210	met	iNF517
+4ahmmp_c	['4ahmmp', 'M_4ahmmp']	MNXM874	HMP	C01279	cpd00939	met	iNF517
+4ampm_c	['M_4ampm', '4ampm']	MNXM790	AMINO-HYDROXYMETHYL-METHYL-PYR-P	C04556	cpd02775	met	iNF517
+4h2oxg_c						met	iNF517
+4hglu_c	['M_4hglu', '4hglu']	MNXM2489		C03079	cpd01974	met	iNF517
+4met2obut_c	['M_2kmb', '4met2obut', '2kmb', 'M_4met2obut']	MNXM276	CPD-479	C01180	cpd00869	met	iNF517
+4mhetz_c	['M_4mhetz', '4mhetz']	MNXM962	THZ	C04294	cpd02636	met	iNF517
+4mop_c	['4mop', 'M_4mop']	MNXM404	2K-4CH3-PENTANOATE	C00233	cpd00200	met	iNF517
+4mpetz_c	['4mpetz', 'M_4mpetz']	MNXM960	THZ-P	C04327	cpd02654	met	iNF517
+4pasp_c	['M_4pasp', '4pasp']	MNXM1177	L-BETA-ASPARTYL-P	C03082	cpd01977	met	iNF517
+4ppan_c	['4ppan', 'M_4ppan']	MNXM415	4-P-PANTOTHENATE	C03492	cpd02201	met	iNF517
+4ppcys_c	['4ppcys', 'M_4ppcys']	MNXM483	R-4-PHOSPHOPANTOTHENOYL-L-CYSTEINE	C04352	cpd02666	met	iNF517
+4r5au_c	['4r5au', 'M_4r5au']	MNXM791	AMINO-RIBOSYLAMINO-1H-3H-PYR-DIONE	C04732	['cpd02882', 'cpd29668']	met	iNF517
+5aizc_c	['M_5aizc', '5aizc']	MNXM507	PHOSPHORIBOSYL-CARBOXY-AMINOIMIDAZOLE	C04751	cpd02893	met	iNF517
+5aprbu_c	['M_5aprbu', '5aprbu']	MNXM1178	CPD-1086	C04454	cpd02720	met	iNF517
+5apru_c	['5apru', 'M_5apru']	MNXM1532	CPD-602	C01268	cpd00931	met	iNF517
+5dpmev_c	['5dpmev', 'M_5dpmev']	MNXM689	CPD-641	C01143	cpd00841	met	iNF517
+5fothf_c						met	iNF517
+5mta_c	['M_5mta', '5mta']	MNXM150	5-METHYLTHIOADENOSINE	C00170	cpd00147	met	iNF517
+5mthf_c	['M_5mthf', '5mthf']	MNXM318		C00440	cpd00345	met	iNF517
+mhpglu_c	['M_mhpglu', 'mhpglu']	MNXM2623	CPD-1302	C04489	cpd02738	met	iNF517
+5mtr_c	['5mtr', 'M_5mtr']	MNXM722742		C03089	cpd01981	met	iNF517
+5odhf2a_c	['5odhf2a', 'M_5odhf2a']	MNXM829	3-OXOADIPATE-ENOL-LACTONE	C03586	cpd02255	met	iNF517
+5pmev_c	['5pmev', 'M_5pmev']	MNXM567	CPD-499	C01107	cpd00812	met	iNF517
+6pgc_c	['6pgc', 'M_6pgc']	MNXM325	CPD-2961	C00345	cpd00284	met	iNF517
+6pgg_c	['M_6pgg', '6pgg']	MNXM147389				met	iNF517
+6pgl_c	['M_6pgl', '6pgl']	MNXM429	D-6-P-GLUCONO-DELTA-LACTONE	C01236	cpd00911	met	iNF517
+ACP_2_c						met	iNF517
+ACP_c	['ACP', 'M_ACP']	MNXM925	ACP	C00229	cpd11493	met	iNF517
+CPS_LLA_c						met	iNF517
+DNA_LLA_c						met	iNF517
+LTAAlaGal_LLA_c						met	iNF517
+LTA_LLA_c						met	iNF517
+LTAala_LLA_c						met	iNF517
+N1aspmd_c	['N1aspmd', 'M_N1aspmd']	MNXM501	CPD-568	C00612	cpd00470	met	iNF517
+n8aspmd_c	['M_n8aspmd', 'n8aspmd']	MNXM1679	CPD-3462	C01029	cpd00758	met	iNF517
+PG_c						met	iNF517
+PROT_LLA_c						met	iNF517
+PROT_LLA_v3_c						met	iNF517
+RNA_LLA_c						met	iNF517
+a_gal__D_c						met	iNF517
+aaacp_c						met	iNF517
+aacoa_c	['aacoa', 'M_aacoa']	MNXM133	ACETOACETYL-COA	C00332	cpd00279	met	iNF517
+acACP_c	['M_acACP', 'acACP']	MNXM1269	ACETYL-ACP	C03939	cpd11494	met	iNF517
+ac_c	['ac', 'M_ac']	MNXM26	ACET	['C00033', 'D00010']	cpd00029	met	iNF517
+ac_e	['ac', 'M_ac']	MNXM26	ACET	['D00010', 'C00033']	cpd00029	met	iNF517
+acald_c	['M_acald', 'acald']	MNXM75	ACETALD	C00084	cpd00071	met	iNF517
+acald_e	['acald', 'M_acald']	MNXM75	ACETALD	C00084	cpd00071	met	iNF517
+acamoxm_c	['acamoxm', 'M_acamoxm', 'nal2a6o', 'M_nal2a6o']	MNXM1872	N-ACETYL-L-2-AMINO-6-OXO-PIMELATE	C05539	cpd03289	met	iNF517
+acara_c						met	iNF517
+accoa_c	['accoa', 'M_accoa']	MNXM21	ACETYL-COA	C00024	cpd00022	met	iNF517
+acg5p_c	['acg5p', 'M_acg5p']	MNXM1384	N-ACETYL-GLUTAMYL-P	C04133	['cpd16822', 'cpd02552']	met	iNF517
+acg5sa_c	['acg5sa', 'M_acg5sa']	MNXM1062	CPD-469	C01250	cpd00918	met	iNF517
+acgal6p_c	['acgal6p', 'M_acgal6p']	MNXM6346	N-ACETYL-D-GALACTOSAMINE-6-PHOSPHATE	C06376	cpd03812	met	iNF517
+acgala_e						met	iNF517
+acgam1p_c	['M_acgam1p', 'acgam1p']	MNXM89939		C04256	cpd02611	met	iNF517
+acgam6p_c	['acgam6p', 'M_acgam6p']	MNXM63556	['CPD-16168', 'N-ACETYL-D-GLUCOSAMINE-6-P']	C00357	cpd00293	met	iNF517
+acgam_c	['M_acgam', 'acgam']	MNXM143	N-acetyl-D-glucosamine	C00140	['cpd00122', 'cpd27608']	met	iNF517
+acgam_e	['acgam', 'M_acgam']	MNXM143	N-acetyl-D-glucosamine	C00140	['cpd00122', 'cpd27608']	met	iNF517
+acglu_c	['acglu', 'M_acglu']	MNXM730	ACETYL-GLU	C00624	cpd00477	met	iNF517
+achms_c	['achms', 'M_achms']	MNXM699	CPD-667	C01077	cpd00790	met	iNF517
+acmalt_c	['acmalt', 'M_acmalt']	MNXM3135	CPD-18529	['C02130', 'G10592']	cpd01441	met	iNF517
+acmana_e	['M_acmana', 'acmana']	MNXM2403	N-acetyl-D-mannosamine	C00645	cpd00492	met	iNF517
+acmanap_c	['acmanap', 'M_acmanap']	MNXM4708	N-ACETYL-D-MANNOSAMINE-6P	C04257	cpd02612	met	iNF517
+acorn_c	['acorn', 'M_acorn']	MNXM817	N-ALPHA-ACETYLORNITHINE	C00437	cpd00342	met	iNF517
+acp_c						met	iNF517
+acser_c	['acser', 'M_acser']	MNXM418	ACETYLSERINE	C00979	cpd00722	met	iNF517
+actn__R_c	['actn__R', 'M_actn__R']	MNXM664	CPD-10353	C00810	cpd19008	met	iNF517
+actn__R_e	['actn__R', 'M_actn__R']	MNXM664	CPD-10353	C00810	cpd19008	met	iNF517
+actp_c	['actp', 'M_actp']	MNXM280	ACETYL-P	C00227	cpd00196	met	iNF517
+ade_c	['ade', 'M_ade']	MNXM168	['ADENINE', 'ADENINE-RING']	['D00034', 'C00147']	['cpd22238', 'cpd00128']	met	iNF517
+ade_e	['M_ade', 'ade']	MNXM168	['ADENINE', 'ADENINE-RING']	['D00034', 'C00147']	['cpd22238', 'cpd00128']	met	iNF517
+adn_c	['adn', 'M_adn']	MNXM212	ADENOSINE	['D00045', 'C00212']	cpd00182	met	iNF517
+adp_c	['M_adp', 'adp']	MNXM7	ADP	['C00008', 'G11113']	cpd00008	met	iNF517
+adpglc_c	['M_adpglc', 'adpglc']	MNXM561	ADP-D-GLUCOSE	['G11109', 'C00498']	cpd00387	met	iNF517
+adprib_c	['adprib', 'M_adprib']	MNXM48596	ADENOSINE_DIPHOSPHATE_RIBOSE	['C01882', 'C00301']	['cpd00251', 'cpd01296']	met	iNF517
+agly3p_LLA_c						met	iNF517
+ahcys_c	['ahcys', 'M_ahcys']	MNXM19	ADENOSYL-HOMO-CYS	C00021	cpd00019	met	iNF517
+ahdt_c	['ahdt', 'M_ahdt']	MNXM478513			cpd22178	met	iNF517
+aicar_c	['aicar', 'M_aicar']	MNXM365	AICAR	C04677	cpd02851	met	iNF517
+air_c	['M_air', 'air']	MNXM162266				met	iNF517
+akg_c	['akg', 'M_akg']	MNXM20	2-KETOGLUTARATE	C00026	cpd00024	met	iNF517
+akg_e	['akg', 'M_akg']	MNXM20	2-KETOGLUTARATE	C00026	cpd00024	met	iNF517
+al26da_c						met	iNF517
+ala__D_c	['M_ala__D', 'ala__D']	MNXM156	D-ALANINE	C00133	cpd00117	met	iNF517
+ala__D_e	['ala__D', 'M_ala__D']	MNXM156	D-ALANINE	C00133	cpd00117	met	iNF517
+ala__L_c	['ala__L', 'M_ala__L']	MNXM32	L-ALPHA-ALANINE	['C00041', 'D00012', 'C01401']	['cpd00035', 'cpd01003']	met	iNF517
+ala__L_e	['ala__L', 'M_ala__L']	MNXM32	L-ALPHA-ALANINE	['C00041', 'D00012', 'C01401']	['cpd01003', 'cpd00035']	met	iNF517
+alaala_c	['M_alaala', 'alaala']	MNXM669	D-ALA-D-ALA	C00993	cpd00731	met	iNF517
+alac__S_c	['alac__S', 'M_alac__S']	MNXM114079	2-ACETO-LACTATE	C06010	cpd19047	met	iNF517
+alatrna_c	['M_alatrna', 'alatrna']	MNXM89815			cpd16181	met	iNF517
+amet_c	['M_amet', 'amet']	MNXM16	S-ADENOSYLMETHIONINE	C00019	cpd00017	met	iNF517
+amp_c	['amp', 'M_amp']	MNXM14	AMP	['D02769', 'C00020']	cpd00018	met	iNF517
+anth_c	['anth', 'M_anth']	MNXM188	ANTHRANILATE	C00108	cpd00093	met	iNF517
+apoACP_c	['HC01161', 'M_HC01161', 'apoACP', 'M_apoACP']	MNXM2214			['cpd12370', 'cpd29672']	met	iNF517
+arbt6p_c	['M_arbt6p', 'arbt6p']	MNXM2806	CPD-1162	C06187	cpd03697	met	iNF517
+arg__L_c	['arg__L', 'M_arg__L']	MNXM70	ARG	['C02385', 'D02982', 'C00062']	['cpd19021', 'cpd00051']	met	iNF517
+arg__L_e	['arg__L', 'M_arg__L']	MNXM70	ARG	['C00062', 'D02982', 'C02385']	['cpd19021', 'cpd00051']	met	iNF517
+argsuc_c	['argsuc', 'M_argsuc']	MNXM722743			cpd29673	met	iNF517
+argtrna_c	['argtrna', 'M_argtrna']	MNXM89870		C02163	cpd12036	met	iNF517
+asn__L_c	['asn__L', 'M_asn__L']	MNXM147	ASN	['C00152', 'C16438']	['cpd00132', 'cpd15142']	met	iNF517
+asn__L_e	['M_asn__L', 'asn__L']	MNXM147	ASN	['C16438', 'C00152']	['cpd00132', 'cpd15142']	met	iNF517
+asntrna_c	['asntrna', 'M_asntrna']	MNXM89761		C03402	['cpd12313', 'cpd16182']	met	iNF517
+asp__D_c	['asp__D', 'M_asp__D']	MNXM974	CPD-302	C00402	cpd00320	met	iNF517
+asp__L_c	['asp__L', 'M_CE5868', 'CE5868', 'M_CE1787', 'CE1787', 'M_asp__L']	MNXM42	L-ASPARTATE	['C00049', 'C16433', 'D00013']	['cpd19181', 'cpd00041']	met	iNF517
+asp__L_e	['asp__L', 'M_CE1787', 'CE5868', 'M_CE5868', 'M_asp__L', 'CE1787']	MNXM42	L-ASPARTATE	['C16433', 'D00013', 'C00049']	['cpd00041', 'cpd19181']	met	iNF517
+aspsa_c	['aspsa', 'M_aspsa']	MNXM361	L-ASPARTATE-SEMIALDEHYDE	C00441	cpd00346	met	iNF517
+asptrna_c	['M_asptrna', 'asptrna']	MNXM90839		C02984	cpd12226	met	iNF517
+atp_c	['atp', 'M_atp']	MNXM3	ATP	['C00002', 'D08646']	cpd00002	met	iNF517
+btd_RR_c	['btd_RR', 'M_btd_RR']	MNXM163570				met	iNF517
+btd_RR_e	['M_btd_RR', 'btd_RR']	MNXM163570				met	iNF517
+butacp_c						met	iNF517
+bzal_c	['bzal', 'M_bzal']	MNXM371	BENZALDEHYDE	['D02314', 'C00261']	cpd00225	met	iNF517
+bzal_e	['M_bzal', 'bzal']	MNXM371	BENZALDEHYDE	['D02314', 'C00261']	cpd00225	met	iNF517
+carorn_c						met	iNF517
+cbasp_c	['cbasp', 'M_cbasp']	MNXM465	CARBAMYUL-L-ASPARTATE	C00438	cpd00343	met	iNF517
+cbp_c	['cbp', 'M_cbp']	MNXM138	CARBAMOYL-P	C00169	cpd00146	met	iNF517
+cdp_c	['cdp', 'M_cdp']	MNXM220	CDP	C00112	cpd00096	met	iNF517
+cdpdag_LLA_c						met	iNF517
+cdpglyc_c	['cdpglyc', 'M_cdpglyc']	MNXM775	CPD-606	C00513	cpd00402	met	iNF517
+cdprbtl_c						met	iNF517
+cellb_e	['M_cellb', 'cellb']	MNXM1142	CELLOBIOSE	['C06422', 'C00185', 'C06421', 'G00289']	cpd03845	met	iNF517
+ch4s_c	['ch4s', 'M_ch4s']	MNXM652	CPD-7671	C00409	cpd00324	met	iNF517
+ch4s_e	['ch4s', 'M_ch4s']	MNXM652	CPD-7671	C00409	cpd00324	met	iNF517
+chitin_c	['M_chitin', 'chitin']	MNXM92167				met	iNF517
+chol_c	['M_chol', 'chol']	MNXM90	CHOLINE	['C00114', 'D07690']	cpd00098	met	iNF517
+chol_e	['chol', 'M_chol']	MNXM90	CHOLINE	['D07690', 'C00114']	cpd00098	met	iNF517
+chor_c	['chor', 'M_chor']	MNXM337	CHORISMATE	C00251	cpd00216	met	iNF517
+cit_c	['cit', 'M_cit']	MNXM131	CIT	['C00158', 'D00037']	cpd00137	met	iNF517
+cit_e	['cit', 'M_cit']	MNXM131	CIT	['D00037', 'C00158']	cpd00137	met	iNF517
+citr__L_c	['citr__L', 'M_citr__L']	MNXM211	L-CITRULLINE	['C00327', 'D07706']		met	iNF517
+clpn_LLA_c						met	iNF517
+cmp_c	['M_cmp', 'cmp']	MNXM31	CMP	['C00055', 'G10621']	cpd00046	met	iNF517
+co2_c	['co2', 'M_co2']	MNXM13	CARBON-DIOXIDE	['D00004', 'C00011']	cpd00011	met	iNF517
+co2_e	['co2', 'M_co2']	MNXM13	CARBON-DIOXIDE	['D00004', 'C00011']	cpd00011	met	iNF517
+coa_c	['coa', 'M_coa']	MNXM12	['COA-GROUP', 'CO-A']	C00010	['cpd00010', 'cpd22528']	met	iNF517
+cpocdacp_c						met	iNF517
+cpppg3_c	['cpppg3', 'M_cpppg3']	MNXM410	COPROPORPHYRINOGEN_III	C03263	cpd02083	met	iNF517
+csn_c	['csn', 'M_csn']	MNXM761	CYTOSINE	C00380	cpd00307	met	iNF517
+ctp_c	['ctp', 'M_ctp']	MNXM63	CTP	C00063	cpd00052	met	iNF517
+cys__L_c	['M_cys__L', 'cys__L']	MNXM55	CYS	['C00097', 'D00026', 'C00736']	['cpd00084', 'cpd00547']	met	iNF517
+cys__L_e	['M_cys__L', 'cys__L']	MNXM55	CYS	['C00736', 'D00026', 'C00097']	['cpd00084', 'cpd00547']	met	iNF517
+cyst__L_c	['cyst__L', 'M_cyst__L']	MNXM319	L-CYSTATHIONINE	C02291	cpd19019	met	iNF517
+cystrna_c	['cystrna', 'M_cystrna']	MNXM155005		C03125	cpd12255	met	iNF517
+cytd_c	['cytd', 'M_cytd']	MNXM338	CYTIDINE	['C00475', 'D07769']	cpd00367	met	iNF517
+d12dg_LLA_c						met	iNF517
+dad_2_c	['M_dad_2', 'dad_2']	MNXM625	DEOXYADENOSINE	C00559	cpd00438	met	iNF517
+dadp_c	['M_dadp', 'dadp']	MNXM374	DADP	C00206	cpd00177	met	iNF517
+damp_c	['M_damp', 'damp']	MNXM432	DAMP	C00360	cpd00294	met	iNF517
+datp_c	['datp', 'M_datp']	MNXM286	DATP	C00131	cpd00115	met	iNF517
+db4p_c	['db4p', 'M_db4p']	MNXM2323	DIHYDROXY-BUTANONE-P	C15556	cpd11225	met	iNF517
+dcamp_c	['dcamp', 'M_dcamp']	MNXM565		C03794		met	iNF517
+dcdp_c	['dcdp', 'M_dcdp']	MNXM411	DCDP	C00705	cpd00533	met	iNF517
+dcmp_c	['dcmp', 'M_dcmp']	MNXM266	DCMP	C00239	cpd00206	met	iNF517
+dctp_c	['M_dctp', 'dctp']	MNXM360	DCTP	C00458	cpd00356	met	iNF517
+dcyt_c	['M_dcyt', 'dcyt']	MNXM704	DEOXYCYTIDINE	C00881	cpd00654	met	iNF517
+ddeacp_c						met	iNF517
+decacp_c						met	iNF517
+dgdp_c	['M_dgdp', 'dgdp']	MNXM436	DGDP	C00361	cpd00295	met	iNF517
+dgmp_c	['M_dgmp', 'dgmp']	MNXM546	DGMP	C00362	cpd00296	met	iNF517
+dgsn_c	['M_dgsn', 'dgsn']	MNXM647	DEOXYGUANOSINE	C00330	cpd00277	met	iNF517
+dgtp_c	['dgtp', 'M_dgtp']	MNXM344	DGTP	C00286	cpd00241	met	iNF517
+dha_c	['dha', 'M_dha']	MNXM460	DIHYDROXYACETONE	['C00184', 'D07841']	cpd00157	met	iNF517
+dha_e	['M_dha', 'dha']	MNXM460	DIHYDROXYACETONE	['D07841', 'C00184']	cpd00157	met	iNF517
+dhap_c	['dhap', 'M_dhap']	MNXM77	DIHYDROXY-ACETONE-PHOSPHATE	C00111	cpd00095	met	iNF517
+dhf_c	['M_dhf', 'dhf']	MNXM281	['DIHYDROFOLATE', 'DIHYDROFOLATE-GLU-N']	C00415	cpd00330	met	iNF517
+dhna_c	['M_dhna', 'dhna']	MNXM552	DIHYDROXYNAPHTHOATE	C03657	cpd02295	met	iNF517
+dhnpt_c	['HC01361', 'dhnpt', 'M_HC01361', 'M_dhnpt']	MNXM162359	DIHYDRO-NEO-PTERIN	C04874	cpd02961	met	iNF517
+dhor__S_c	['M_dhor__S', 'dhor__S']	MNXM252	DI-H-OROTATE	C00337	cpd00282	met	iNF517
+dhpt_c	['M_dhpt', 'dhpt']	MNXM965		C00921	cpd00683	met	iNF517
+diact_c	['M_diact', 'diact']	MNXM1467	DIACETYL	C00741	cpd00551	met	iNF517
+diact_e	['M_diact', 'diact']	MNXM1467	DIACETYL	C00741	cpd00551	met	iNF517
+dimp_c	['M_dimp', 'dimp']	MNXM1922	DIMP	C06196	cpd03704	met	iNF517
+din_c	['M_din', 'din']	MNXM935	DEOXYINOSINE	C05512	cpd03279	met	iNF517
+dmlz_c	['dmlz', 'M_dmlz']	MNXM1313	DIMETHYL-D-RIBITYL-LUMAZINE	C04332	cpd02656	met	iNF517
+dmpp_c	['M_dmpp', 'dmpp']	MNXM132	CPD-4211	C00235	cpd00202	met	iNF517
+dnad_c	['dnad', 'M_dnad']	MNXM309	DEAMIDO-NAD	C00857	cpd00638	met	iNF517
+dpcoa_c	['dpcoa', 'M_dpcoa']	MNXM481	DEPHOSPHO-COA	C00882	cpd00655	met	iNF517
+drib_c	['drib', 'M_drib']	MNXM2474		C01801	cpd01242	met	iNF517
+drib_e	['drib', 'M_drib']	MNXM2474		C01801	cpd01242	met	iNF517
+dtdp6dm_c						met	iNF517
+dtdp_c	['dtdp', 'M_dtdp']	MNXM152	TDP	C00363	cpd00297	met	iNF517
+dtdp4d6dg_c	['dtdp4d6dg', 'M_dtdp4d6dg']	MNXM451	DTDP-DEOH-DEOXY-GLUCOSE	C11907	cpd00521	met	iNF517
+dtdp4d6dm_c	['dtdp4d6dm', 'M_dtdp4d6dm']	MNXM722893				met	iNF517
+dtdpglc_c						met	iNF517
+dtmp_c	['dtmp', 'M_dtmp']	MNXM257	TMP	C00364	cpd00298	met	iNF517
+dttp_c	['M_dttp', 'dttp']	MNXM394	TTP	C00459	cpd29987	met	iNF517
+dudp_c	['dudp', 'M_dudp']	MNXM572	DUDP	C01346	cpd00978	met	iNF517
+dump_c	['dump', 'M_dump']	MNXM234	DUMP	C00365	cpd00299	met	iNF517
+duri_c	['duri', 'M_duri']	MNXM492	DEOXYURIDINE	C00526	cpd00412	met	iNF517
+dutp_c	['dutp', 'M_dutp']	MNXM452	DUTP	C00460	cpd00358	met	iNF517
+dxyl5p_c	['dxyl5p', 'M_dxyl5p']	MNXM622	DEOXYXYLULOSE-5P	C11437	cpd08289	met	iNF517
+e4p_c	['e4p', 'M_e4p']	MNXM258	ERYTHROSE-4P	C00279	cpd00236	met	iNF517
+eig3p_c	['M_eig3p', 'eig3p']	MNXM1422	D-ERYTHRO-IMIDAZOLE-GLYCEROL-P	C04666	cpd02843	met	iNF517
+etha_c	['etha', 'M_etha']	MNXM218	ETHANOL-AMINE	['C00189', 'D05074']	cpd00162	met	iNF517
+etoh_c	['etoh', 'M_etoh']	MNXM303	ETOH	['D06542', 'D04855', 'D02798', 'D00068', 'C00469']	cpd00363	met	iNF517
+etoh_e	['etoh', 'M_etoh']	MNXM303	ETOH	['D02798', 'D00068', 'C00469', 'D06542', 'D04855']	cpd00363	met	iNF517
+f1p_c	['f1p', 'M_f1p']	MNXM145568	['D-fructofuranose-1-phosphate', 'D-fructose-1-phosphate']	C01094	cpd00802	met	iNF517
+f6p_c	['f6p', 'M_f6p']	MNXM155029	CPD-15709	C00085	cpd00072	met	iNF517
+fad_c	['M_fad', 'fad']	MNXM33	FAD	['C00016', 'D00005']	cpd00015	met	iNF517
+fadh2_c	['fadh2', 'M_fadh2']	MNXM38	FADH2	C01352	cpd00982	met	iNF517
+fdp_c	['fdp', 'M_fdp']	MNXM417		C00354	cpd00290	met	iNF517
+fdxo_42_c	['fdxo_42', 'M_fdxo_42']	MNXM145541				met	iNF517
+fdxr_42_c	['fdxr_42', 'M_fdxr_42']	MNXM145542				met	iNF517
+fe2_c	['M_fe2', 'fe2']	MNXM111	FE+2	C14818	cpd10515	met	iNF517
+fe2_e	['fe2', 'M_fe2']	MNXM111	FE+2	C14818	cpd10515	met	iNF517
+fe3_c	['fe3', 'M_fe3']	MNXM196	FE+3	C14819	cpd10516	met	iNF517
+fe3_e	['fe3', 'M_fe3']	MNXM196	FE+3	C14819	cpd10516	met	iNF517
+fgam_c	['fgam', 'M_fgam']	MNXM453	5-P-RIBOSYL-N-FORMYLGLYCINEAMIDE	C04376	cpd02678	met	iNF517
+fmet_c	['fmet', 'M_fmet']	MNXM3316	N-FORMYLMETHIONINE	C03145	cpd02012	met	iNF517
+fmettrna_c	['fmettrna', 'M_fmettrna']	MNXM95381		C03294	cpd12285	met	iNF517
+fmn_c	['M_fmn', 'fmn']	MNXM119	FMN	C00061	cpd00050	met	iNF517
+fol_c	['fol', 'M_fol']	MNXM617	CPD-12826	['D00070', 'C00504']	cpd00393	met	iNF517
+fol_e	['fol', 'M_fol']	MNXM617	CPD-12826	['C00504', 'D00070']	cpd00393	met	iNF517
+for_c	['M_for', 'for']	MNXM39	FORMATE	C00058	cpd00047	met	iNF517
+for_e	['M_for', 'for']	MNXM39	FORMATE	C00058	cpd00047	met	iNF517
+fpram_c	['M_fpram', 'fpram']	MNXM479745				met	iNF517
+fprica_c	['M_fprica', 'fprica']	MNXM456	PHOSPHORIBOSYL-FORMAMIDO-CARBOXAMIDE	C04734	cpd02884	met	iNF517
+frdp_c	['frdp', 'M_frdp']	MNXM34	FARNESYL-PP	C00448	cpd00350	met	iNF517
+fru_c	['fru', 'M_fru']	MNXM1380	['CPD-15382', 'D-Fructopyranose', 'FRU']	['C10906', 'D00114', 'C05003', 'C01496', 'C00095']	['cpd00082', 'cpd19015', 'cpd27040']	met	iNF517
+fru_e	['fru', 'M_fru']	MNXM1380	['CPD-15382', 'D-Fructopyranose', 'FRU']	['C01496', 'C00095', 'C10906', 'D00114', 'C05003']	['cpd27040', 'cpd19015', 'cpd00082']	met	iNF517
+fruur_c	['fruur', 'M_fruur']	MNXM1660	FRUCTURONATE	C00905	cpd00672	met	iNF517
+fum_c	['M_fum', 'fum']	MNXM93	FUM	['C00122', 'D02308']	cpd00106	met	iNF517
+g1p_B_c	['g1p_B', 'M_g1p_B']	MNXM679	CPD-448	C00663	cpd00501	met	iNF517
+g1p_c	['g1p', 'M_g1p']	MNXM89588	D-glucose-1-phosphates	C00103	['cpd28817', 'cpd00089']	met	iNF517
+g3p_c	['M_g3p', 'g3p']	MNXM74	GAP	['C00661', 'C00118']	['cpd00102', 'cpd19005']	met	iNF517
+g3pc_c	['M_g3pc', 'g3pc']	MNXM367	L-1-GLYCERO-PHOSPHORYLCHOLINE	['C00670', 'D07349']	cpd29571	met	iNF517
+g3pe_c	['M_g3pe', 'g3pe']	MNXM368	L-1-GLYCEROPHOSPHORYLETHANOL-AMINE	C01233		met	iNF517
+g3pg_c	['g3pg', 'M_g3pg']	MNXM598	GLYCEROPHOSPHOGLYCEROL	C03274	cpd02090	met	iNF517
+g3pi_c	['M_g3pi', 'g3pi']	MNXM1517	CPD-541	C01225	cpd00902	met	iNF517
+g3ps_c	['M_g3ps', 'g3ps']	MNXM97117	CPD0-2030		cpd15468	met	iNF517
+g6p_B_c	['g6p_B', 'M_g6p_B']	MNXM508	GLC-6-P	C01172	cpd00863	met	iNF517
+g6p_c	['g6p', 'M_g6p']	MNXM160	D-glucopyranose-6-phosphate	C00092	['cpd26836', 'cpd00079']	met	iNF517
+gal1p_c	['M_gal1p', 'gal1p']	MNXM336	GALACTOSE-1P	['C03384', 'C00446']	['cpd19025', 'cpd00348']	met	iNF517
+gal_c	['M_gal', 'gal']	MNXM390	['ALPHA-D-GALACTOSE', 'D-Galactose', 'D-galactopyranose']	['C00124', 'C00984', 'D04291']	['cpd00108', 'cpd00724', 'cpd01112', 'cpd26818']	met	iNF517
+gal_e	['gal', 'M_gal']	MNXM390	['D-galactopyranose', 'D-Galactose', 'ALPHA-D-GALACTOSE']	['D04291', 'C00984', 'C00124']	['cpd00724', 'cpd26818', 'cpd00108', 'cpd01112']	met	iNF517
+galt1p_c	['galt1p', 'M_galt1p']	MNXM1667	GALACTITOL-1-PHOSPHATE	C06311	cpd03752	met	iNF517
+galt_e	['galt', 'M_galt']	MNXM1233	GALACTITOL	C01697	cpd01171	met	iNF517
+galur_c	['galur', 'M_galur']	MNXM48464	['D-Galactopyranuronate', 'D-GALACTURONATE']	C00333	cpd00280	met	iNF517
+gam1p_c	['M_gam1p', 'gam1p']	MNXM969	GLUCOSAMINE-1P	C06156	cpd03671	met	iNF517
+gam6p_c	['gam6p', 'M_gam6p']	MNXM370	D-GLUCOSAMINE-6-P	C00352	cpd00288	met	iNF517
+gar_c	['gar', 'M_gar']	MNXM463	5-PHOSPHO-RIBOSYL-GLYCINEAMIDE	C03838	cpd02394	met	iNF517
+gcald_c	['gcald', 'M_gcald']	MNXM349	GLYCOLALDEHYDE	C00266	cpd00229	met	iNF517
+gcald_e	['gcald', 'M_gcald']	MNXM349	GLYCOLALDEHYDE	C00266	cpd00229	met	iNF517
+gdp_c	['M_gdp', 'gdp']	MNXM30	GDP	['C00035', 'G10620']	cpd00031	met	iNF517
+gdptp_c	['gdptp', 'M_gdptp']	MNXM1561	GDP-TP	C04494	cpd02740	met	iNF517
+glc__D_c	['glc__D', 'M_glc__D']	MNXM41	D-Glucose	['D00009', 'C00031']	['cpd00027', 'cpd26821']	met	iNF517
+glc__D_e	['glc__D', 'M_glc__D']	MNXM41	D-Glucose	['D00009', 'C00031']	['cpd00027', 'cpd26821']	met	iNF517
+glcn__D_c	['glcn', 'M_glcn', 'glcn__D', 'M_glcn__D']	MNXM341	GLUCONATE	C00257	cpd00222	met	iNF517
+glcn__D_e	['glcn__D', 'glcn', 'M_glcn', 'M_glcn__D']	MNXM341	GLUCONATE	C00257	cpd00222	met	iNF517
+glcur_c	['glcur', 'M_glcur']	MNXM241	['D-Glucopyranuronate', 'GLUCURONATE']	['C16245', 'C00191']	cpd19178	met	iNF517
+gln__L_c	['gln__L', 'M_gln__L']	MNXM37	GLN	['C00064', 'D00015', 'C00303']	['cpd00253', 'cpd00053']	met	iNF517
+gln__L_e	['gln__L', 'M_gln__L']	MNXM37	GLN	['C00064', 'C00303', 'D00015']	['cpd00053', 'cpd00253']	met	iNF517
+glntrna_c	['M_glntrna', 'glntrna']	MNXM89810		C02282	cpd12060	met	iNF517
+glu5p_c	['M_glu5p', 'glu5p']	MNXM1280	L-GLUTAMATE-5-P	C03287	cpd02097	met	iNF517
+glu5sa_c	['glu5sa', 'M_glu5sa']	MNXM245	L-GLUTAMATE_GAMMA-SEMIALDEHYDE	C01165	cpd00858	met	iNF517
+glu__D_c	['glu__D', 'M_glu__D']	MNXM331	D-GLT	C00217	cpd00186	met	iNF517
+glu__L_c	['glu__L', 'M_glu__L']	MNXM89557	['GLT', 'Glutamates']	['D04341', 'C00302', 'D00007', 'C00025']	['cpd27177', 'cpd00023', 'cpd19002']	met	iNF517
+glu__L_e	['M_glu__L', 'glu__L']	MNXM89557	['GLT', 'Glutamates']	['C00302', 'D04341', 'D00007', 'C00025']	['cpd00023', 'cpd27177', 'cpd19002']	met	iNF517
+glutrna_c	['M_glutrna', 'glutrna']	MNXM89752		C02987	cpd12227	met	iNF517
+glutrnagln_c						met	iNF517
+gly_c	['gly', 'M_gly']	MNXM29	GLY	['D00011', 'C00037']	cpd00033	met	iNF517
+gly_e	['gly', 'M_gly']	MNXM29	GLY	['D00011', 'C00037']	cpd00033	met	iNF517
+glyald_c	['glyald', 'M_glyald']	MNXM435	GLYCERALD	C00577	cpd00448	met	iNF517
+glyb_c	['M_glyb', 'glyb']	MNXM289	BETAINE	['D07523', 'C00719']	cpd00540	met	iNF517
+glyb_e	['glyb', 'M_glyb']	MNXM289	BETAINE	['C00719', 'D07523']	cpd00540	met	iNF517
+glyc3p_c	['glyc3p', 'M_glyc3p']	MNXM66	GLYCEROL-3P	C00093	cpd00080	met	iNF517
+glyc3p_e	['M_glyc3p', 'glyc3p']	MNXM66	GLYCEROL-3P	C00093	cpd00080	met	iNF517
+glyc_c	['M_glyc', 'glyc']	MNXM89612	GLYCEROL	['C00116', 'D00028']	cpd00100	met	iNF517
+glyc_e	['M_glyc', 'glyc']	MNXM89612	GLYCEROL	['D00028', 'C00116']	cpd00100	met	iNF517
+glycogen_c	['M_glycogen', 'glycogen']	MNXM55375	Glycogens	['G11603', 'C00182']	['cpd27186', 'cpd00155']	met	iNF517
+glytrna_c	['M_glytrna', 'glytrna']	MNXM89763		C02412	cpd12100	met	iNF517
+gmh7p_c						met	iNF517
+gmp_c	['gmp', 'M_gmp']	MNXM113	GMP	C00144	cpd00126	met	iNF517
+grdp_c	['M_grdp', 'grdp']	MNXM100	GERANYL-PP	C00341	cpd00283	met	iNF517
+gsn_c	['gsn', 'M_gsn']	MNXM401	GUANOSINE	C00387	cpd00311	met	iNF517
+gthox_c	['M_gthox', 'gthox']	MNXM151	OXIDIZED-GLUTATHIONE	['D00031', 'C00127']	cpd00111	met	iNF517
+gthrd_c	['gthrd', 'M_gthrd']	MNXM57	GLUTATHIONE	['C00051', 'D00014']	cpd00042	met	iNF517
+gtp_c	['gtp', 'M_gtp']	MNXM51	GTP	C00044	cpd00038	met	iNF517
+gua_c	['gua', 'M_gua']	MNXM259	GUANINE	C00242	cpd00207	met	iNF517
+gua_e	['gua', 'M_gua']	MNXM259	GUANINE	C00242	cpd00207	met	iNF517
+h2o2_c	['h2o2', 'M_h2o2']	MNXM22	HYDROGEN-PEROXIDE	['C00027', 'D00008']	cpd00025	met	iNF517
+h2o_c	['M_oh1', 'oh1', 'M_h2o', 'h2o']	MNXM2	['WATER', 'OH', 'OXONIUM']	['C00001', 'D00001', 'C01328']	['cpd15275', 'cpd00001']	met	iNF517
+h2o_e	['M_oh1', 'oh1', 'h2o', 'M_h2o']	MNXM2	['OXONIUM', 'OH', 'WATER']	['C01328', 'C00001', 'D00001']	['cpd00001', 'cpd15275']	met	iNF517
+h2s_c	['M_h2s', 'h2s']	MNXM89582	['HS', 'CPD-846', 'CPD-7046']	C00283	['cpd00239', 'cpd24697']	met	iNF517
+h2s_e	['M_h2s', 'h2s']	MNXM89582	['CPD-7046', 'HS', 'CPD-846']	C00283	['cpd00239', 'cpd24697']	met	iNF517
+h_c	['M_h', 'h']	MNXM1	PROTON	C00080	cpd00067	met	iNF517
+h_e	['h', 'M_h']	MNXM1	PROTON	C00080	cpd00067	met	iNF517
+haram_c						met	iNF517
+hco3_c	['hco3', 'M_hco3']	MNXM60	HCO3	C00288	cpd00242	met	iNF517
+hcys__L_c	['hcys__L', 'M_hcys__L']	MNXM114070	HOMO-CYS	C00155		met	iNF517
+hdeacp_c						met	iNF517
+hepdp_c	['hepdp', 'M_hepdp']	MNXM1722	ALL-TRANS-HEPTAPRENYL-DIPHOSPHATE	C04216	cpd02590	met	iNF517
+hexacp_c						met	iNF517
+his__L_c	['M_his__L', 'his__L']	MNXM134	HIS	['D00032', 'C00768', 'C00135']	['cpd00572', 'cpd00119']	met	iNF517
+his__L_e	['his__L', 'M_his__L']	MNXM134	HIS	['C00135', 'D00032', 'C00768']	['cpd00572', 'cpd00119']	met	iNF517
+hisp_c	['M_hisp', 'hisp']	MNXM1482	L-HISTIDINOL-P	C01100	cpd00807	met	iNF517
+histd_c	['histd', 'M_histd']	MNXM1281	HISTIDINOL	C00860	cpd00641	met	iNF517
+histrna_c	['histrna', 'M_histrna']	MNXM89831		C02988	cpd12228	met	iNF517
+hmgcoa_c	['M_hmgcoa', 'hmgcoa']	MNXM36493				met	iNF517
+hom__L_c	['hom__L', 'M_hom__L']	MNXM353	HOMO-SER	C00263	cpd00227	met	iNF517
+hqn_c	['hqn', 'M_hqn']	MNXM376	['Reduced-Quinones', 'HYDROQUINONE']	['D00073', 'C00530']	cpd00415	met	iNF517
+hxan_c	['hxan', 'M_hxan']	MNXM213	HYPOXANTHINE	C00262	cpd00226	met	iNF517
+hxan_e	['hxan', 'M_hxan']	MNXM213	HYPOXANTHINE	C00262	cpd00226	met	iNF517
+ib_p_c						met	iNF517
+ibcoa_c	['M_ibcoa', 'ibcoa']	MNXM470	ISOBUTYRYL-COA	C00630	cpd00481	met	iNF517
+ichor_c	['ichor', 'M_ichor']	MNXM799	ISOCHORISMATE	C00885	cpd00658	met	iNF517
+icit_c	['M_icit', 'icit']	MNXM89661		C00311	cpd00260	met	iNF517
+idp_c	['M_idp', 'idp']	MNXM495	IDP	C00104	cpd00090	met	iNF517
+ile__L_c	['ile__L', 'M_ile__L']	MNXM231	ILE	['D00065', 'C00407']	cpd00322	met	iNF517
+ile__L_e	['ile__L', 'M_ile__L']	MNXM231	ILE	['C00407', 'D00065']	cpd00322	met	iNF517
+iletrna_c	['iletrna', 'M_iletrna']	MNXM89832		C03127	cpd12256	met	iNF517
+imacp_c	['imacp', 'M_imacp']	MNXM1456	IMIDAZOLE-ACETOL-P	C01267	cpd00930	met	iNF517
+imp_c	['imp', 'M_imp']	MNXM125	IMP	C00130	cpd00114	met	iNF517
+indole_c	['indole', 'M_indole']	MNXM377	INDOLE	C00463	cpd00359	met	iNF517
+indpyr_c	['indpyr', 'M_indpyr']	MNXM315	INDOLE_PYRUVATE	C00331	cpd00278	met	iNF517
+inost_c	['M_inost', 'inost']	MNXM127	MYO-INOSITOL	['D08079', 'C00137']	cpd00121	met	iNF517
+ins_c	['ins', 'M_ins']	MNXM334	INOSINE	['D00054', 'C00294']	cpd00246	met	iNF517
+ins_e	['ins', 'M_ins']	MNXM334	INOSINE	['D00054', 'C00294']	cpd00246	met	iNF517
+ipdp_c	['M_ipdp', 'ipdp']	MNXM83	DELTA3-ISOPENTENYL-PP	C00129	cpd00113	met	iNF517
+itp_c	['itp', 'M_itp']	MNXM423	ITP	C00081	cpd00068	met	iNF517
+iv_p_c						met	iNF517
+ivcoa_c	['ivcoa', 'M_ivcoa']	MNXM471	ISOVALERYL-COA	C02939	cpd01882	met	iNF517
+lac__L_c	['lac__L', 'M_lac__L']	MNXM179	L-LACTATE	C00186	cpd00159	met	iNF517
+lac__L_e	['lac__L', 'M_lac__L']	MNXM179	L-LACTATE	C00186	cpd00159	met	iNF517
+lcts_c	['M_lcts', 'lcts']	MNXM362	CPD-15972	['G10504', 'C00243', 'D00046']	cpd00208	met	iNF517
+lcts_e	['M_lcts', 'lcts']	MNXM362	CPD-15972	['C00243', 'D00046', 'G10504']	cpd00208	met	iNF517
+leu__L_c	['leu__L', 'M_leu__L']	MNXM140	LEU	['C00123', 'C16439', 'D00030']	['cpd15143', 'cpd00107']	met	iNF517
+leu__L_e	['leu__L', 'M_leu__L']	MNXM140	LEU	['D00030', 'C00123', 'C16439']	['cpd00107', 'cpd15143']	met	iNF517
+leutrna_c	['leutrna', 'M_leutrna']	MNXM697		C02047	cpd12003	met	iNF517
+lys__L_c	['M_lys__L', 'lys__L']	MNXM78	LYS	['D02304', 'C16440', 'C00047']	['cpd19182', 'cpd00039']	met	iNF517
+lys__L_e	['M_lys__L', 'lys__L']	MNXM78	LYS	['C16440', 'C00047', 'D02304']	['cpd19182', 'cpd00039']	met	iNF517
+lyspg_LLA_c						met	iNF517
+lystrna_c	['lystrna', 'M_lystrna']	MNXM89922		C01931	['cpd15249', 'cpd01326']	met	iNF517
+m12dg_LLA_c						met	iNF517
+mal__L_c	['mal__L', 'M_mal__L']	MNXM98	MAL	C00149	cpd00130	met	iNF517
+mal__L_e	['mal__L', 'M_mal__L']	MNXM98	MAL	C00149	cpd00130	met	iNF517
+malacp_c						met	iNF517
+malcoa_c	['M_malcoa', 'malcoa']	MNXM40	MALONYL-COA	C00083	cpd00070	met	iNF517
+malt_c	['M_malt', 'malt']	MNXM165	['MALTOSE', 'ALPHA-MALTOSE']	['C00897', 'C00208', 'G00275', 'D00044']	['cpd00665', 'cpd00179']	met	iNF517
+malt_e	['malt', 'M_malt']	MNXM165	['ALPHA-MALTOSE', 'MALTOSE']	['G00275', 'D00044', 'C00208', 'C00897']	['cpd00665', 'cpd00179']	met	iNF517
+malthp_c	['malthp', 'M_malthp']	MNXM61025	CPD0-1133	G00689	cpd15494	met	iNF517
+malthx_c	['malthx', 'M_malthx']	MNXM61028	MALTOHEXAOSE	['C01936', 'G00755']	cpd01329	met	iNF517
+maltpt_c	['maltpt', 'M_maltpt']	MNXM61032	MALTOPENTAOSE	G00343	cpd15495	met	iNF517
+malttr_c	['M_malttr', 'malttr']	MNXM61038	MALTOTRIOSE			met	iNF517
+maltttr_c	['maltttr', 'M_maltttr']	MNXM5663	['MALTOTETRAOSE', 'CPD0-2595', 'CPD-13205']	['C02013', 'G00459']	['cpd01376', 'cpd01399']	met	iNF517
+man6p_c	['man6p', 'M_man6p']	MNXM40579	['Mannose-6-phosphate', 'CPD-15980']	C00275	cpd00235	met	iNF517
+man_e	['man', 'M_man']	MNXM182	MANNOSE	C00159	['cpd00138', 'cpd27437']	met	iNF517
+mana_c	['M_mana', 'mana']	MNXM1045	D-MANNONATE	C00514	cpd00403	met	iNF517
+mercppyr_c	['mercppyr', 'M_mercppyr']	MNXM1214	3-MERCAPTO-PYRUVATE	C00957	cpd00706	met	iNF517
+met__D_c	['met__D', 'M_met__D']	MNXM1275	CPD-218	C00855	cpd00637	met	iNF517
+met__D_e	['met__D', 'M_met__D']	MNXM1275	CPD-218	C00855	cpd00637	met	iNF517
+met__L_c	['met__L', 'M_met__L']	MNXM61	MET	['D04983', 'C01733', 'D00019', 'C00073']	['cpd00060', 'cpd30746']	met	iNF517
+met__L_e	['met__L', 'M_met__L']	MNXM61	MET	['D00019', 'C01733', 'D04983', 'C00073']	['cpd00060', 'cpd30746']	met	iNF517
+methf_c	['methf', 'M_methf']	MNXM511	5-10-METHENYL-THF-GLU-N	C00445	cpd00347	met	iNF517
+mettrna_c	['mettrna', 'M_mettrna']	MNXM90636		C02430	cpd12105	met	iNF517
+mev__R_c	['mev__R', 'M_mev__R']	MNXM333	MEVALONATE	C00418		met	iNF517
+mi1p__D_c	['M_mi1p__D', 'mi1p__D']	MNXM646	D-MYO-INOSITOL-1-MONOPHOSPHATE	C01177	cpd00867	met	iNF517
+mlthf_c	['mlthf', 'M_mlthf']	MNXM183	METHYLENE-THF	C00143		met	iNF517
+mn2_c	['mn2', 'M_mn2']	MNXM2255	MN+2	C19610	['cpd20863', 'cpd00030']	met	iNF517
+mn2_e	['mn2', 'M_mn2']	MNXM2255	MN+2	C19610	['cpd20863', 'cpd00030']	met	iNF517
+mnl1p_c	['mnl1p', 'M_mnl1p']	MNXM90126	MANNITOL-1P	C00644	['cpd27436', 'cpd00491']	met	iNF517
+mnl_e	['M_mnl', 'mnl']	MNXM615	MANNITOL	['C00392', 'D00062']	cpd00314	met	iNF517
+mql7_c	['mql7', 'M_mql7']	MNXM12233	CPD-12125		cpd23255	met	iNF517
+mqn7_c	['M_mqn7', 'mqn7']	MNXM12236	CPD-9718		cpd11606	met	iNF517
+mqn8_c	['mqn8', 'M_mqn8']	MNXM509	CPD-9728		cpd15500	met	iNF517
+nac_c	['nac', 'M_nac']	MNXM274	NIACINE	['D00049', 'C00253']	cpd00218	met	iNF517
+nac_e	['nac', 'M_nac']	MNXM274	NIACINE	['C00253', 'D00049']	cpd00218	met	iNF517
+nad_c	['M_nad', 'nad']	MNXM8	NAD	['D00002', 'C00003']	cpd00003	met	iNF517
+nadh_c	['M_nadh', 'nadh']	MNXM10	NADH	C00004	cpd00004	met	iNF517
+nadp_c	['M_nadp', 'nadp']	MNXM5	NADP	C00006	cpd00006	met	iNF517
+nadph_c	['M_nadph', 'nadph']	MNXM6	NADPH	C00005	cpd00005	met	iNF517
+ncam_c	['M_ncam', 'ncam']	MNXM216	NIACINAMIDE	['C00153', 'D00036']	cpd00133	met	iNF517
+nh3_c	['nh4', 'M_nh4', 'nh3', 'M_nh3']	MNXM15	['AMMONIUM', 'AMMONIA']	['C01342', 'D02916', 'C00014']	['cpd00013', 'cpd19013']	met	iNF517
+nh4_c	['M_nh4', 'nh4', 'M_nh3', 'nh3']	MNXM15	['AMMONIUM', 'AMMONIA']	['D02916', 'C01342', 'C00014']	['cpd00013', 'cpd19013']	met	iNF517
+nh4_e	['M_nh3', 'M_nh4', 'nh4', 'nh3']	MNXM15	['AMMONIUM', 'AMMONIA']	['C00014', 'C01342', 'D02916']	['cpd00013', 'cpd19013']	met	iNF517
+nicrnt_c	['nicrnt', 'M_nicrnt']	MNXM194	NICOTINATE_NUCLEOTIDE	C01185	cpd00873	met	iNF517
+nmn_c	['nmn', 'M_nmn']	MNXM355	NICOTINAMIDE_NUCLEOTIDE	C00455	cpd00355	met	iNF517
+nmn_e	['nmn', 'M_nmn']	MNXM355	NICOTINAMIDE_NUCLEOTIDE	C00455	cpd00355	met	iNF517
+o2s_c	['M_o2s', 'o2s']	MNXM330	SUPER-OXIDE	C00704		met	iNF517
+o2_c	['o2', 'M_o2']	MNXM4	OXYGEN-MOLECULE	['D00003', 'C00007']	cpd00007	met	iNF517
+o2_e	['M_o2', 'o2']	MNXM4	OXYGEN-MOLECULE	['D00003', 'C00007']	cpd00007	met	iNF517
+oaa_c	['oaa', 'M_oaa']	MNXM46	OXALACETIC_ACID	C00036	cpd00032	met	iNF517
+ocdacp_c						met	iNF517
+octacp_c						met	iNF517
+octdp_c	['octdp', 'M_octdp']	MNXM811	['FARNESYLFARNESYLGERANIOL', 'OCTAPRENYL-DIPHOSPHATE']	C04146	['cpd02557', 'cpd30761']	met	iNF517
+ohpb_c	['ohpb', 'M_ohpb']	MNXM1514	3OH-4P-OH-ALPHA-KETOBUTYRATE	C06054	cpd03606	met	iNF517
+orn__L_c	['orn__L', 'orn', 'M_orn__L', 'M_orn']	MNXM89689	L-ORNITHINE	['C00077', 'D08302', 'C01602']	['cpd19016', 'cpd00064']	met	iNF517
+orn__L_e	['orn', 'orn__L', 'M_orn__L', 'M_orn']	MNXM89689	L-ORNITHINE	['C01602', 'D08302', 'C00077']	['cpd19016', 'cpd00064']	met	iNF517
+orot5p_c	['M_orot5p', 'orot5p']	MNXM519	OROTIDINE-5-PHOSPHATE	C01103	cpd00810	met	iNF517
+orot_c	['orot', 'M_orot']	MNXM235	OROTATE	['C00295', 'D00055']	cpd00247	met	iNF517
+orot_e	['orot', 'M_orot']	MNXM235	OROTATE	['D00055', 'C00295']	cpd00247	met	iNF517
+oxa_c	['oxa', 'M_oxa']	MNXM291	OXALATE	C00209	cpd00180	met	iNF517
+pa_LLA_c						met	iNF517
+pacald_c	['pacald', 'M_pacald']	MNXM473	PHENYLACETALDEHYDE	C00601	cpd00464	met	iNF517
+pacald_e	['pacald', 'M_pacald']	MNXM473	PHENYLACETALDEHYDE	C00601	cpd00464	met	iNF517
+pan4p_c	['M_pan4p', 'pan4p']	MNXM722721	PHOSPHOPANTOTHEINE-GROUP	C01134	cpd27792	met	iNF517
+pant__R_c	['M_pant__R', 'pant__R']	MNXM593	L-PANTOATE	C00522		met	iNF517
+pap_c	['M_pap', 'pap']	MNXM45	3-5-ADP	C00054	cpd00045	met	iNF517
+pea_c						met	iNF517
+pea_e						met	iNF517
+pep_c	['pep', 'M_pep']	MNXM73	PHOSPHO-ENOL-PYRUVATE	C00074	cpd00061	met	iNF517
+pg_LLA_c						met	iNF517
+pgp_LLA_c						met	iNF517
+phe__L_c	['phe__L', 'M_phe__L']	MNXM97	PHE	['C02057', 'D00021', 'C00079']	['cpd00066', 'cpd01400']	met	iNF517
+phe__L_e	['M_phe__L', 'phe__L']	MNXM97	PHE	['C02057', 'C00079', 'D00021']	['cpd00066', 'cpd01400']	met	iNF517
+phetrna_c	['phetrna', 'M_phetrna']	MNXM89802		C03511	cpd12335	met	iNF517
+phom_c	['phom', 'M_phom']	MNXM1334	O-PHOSPHO-L-HOMOSERINE	C01102	cpd00809	met	iNF517
+phpyr_c	['phpyr', 'M_phpyr']	MNXM589160		C00166	cpd00143	met	iNF517
+phthr_c	['phthr', 'M_phthr']	MNXM759	4-PHOSPHONOOXY-THREONINE	C06055	['cpd03607', 'cpd22119']	met	iNF517
+pi_c	['M_pi', 'pi']	MNXM9	['Pi', 'CPD-16459']	['D05467', 'C00009']	cpd00009	met	iNF517
+pi_e	['M_pi', 'pi']	MNXM9	['CPD-16459', 'Pi']	['D05467', 'C00009']	cpd00009	met	iNF517
+pnto__R_c	['M_pnto__R', 'pnto__R']	MNXM364	PANTOTHENATE		cpd00644	met	iNF517
+pnto__R_e	['pnto__R', 'M_pnto__R']	MNXM364	PANTOTHENATE		cpd00644	met	iNF517
+pphn_c	['pphn', 'M_pphn']	MNXM503	PREPHENATE	C00254	cpd00219	met	iNF517
+ppi_c	['ppi', 'M_ppi']	MNXM11	PPI	C00013	cpd00012	met	iNF517
+ppi_e	['M_ppi', 'ppi']	MNXM11	PPI	C00013	cpd00012	met	iNF517
+pppg9_c	['M_pppg9', 'pppg9']	MNXM351	PROTOPORPHYRINOGEN	C01079	cpd00791	met	iNF517
+pppi_c	['pppi', 'M_pppi']	MNXM332	P3I	C00536	cpd00421	met	iNF517
+pram_c	['pram', 'M_pram']	MNXM90003	5-P-BETA-D-RIBOSYL-AMINE	C03090	cpd01982	met	iNF517
+pran_c	['pran', 'M_pran']	MNXM1489	N-5-PHOSPHORIBOSYL-ANTHRANILATE	C04302	cpd02642	met	iNF517
+prbamp_c	['prbamp', 'M_prbamp']	MNXM1515	PHOSPHORIBOSYL-AMP	C02741	cpd01777	met	iNF517
+prbatp_c	['prbatp', 'M_prbatp']	MNXM1351	PHOSPHORIBOSYL-ATP		cpd01775	met	iNF517
+prfp_c	['M_prfp', 'prfp']	MNXM1397	PHOSPHORIBOSYL-FORMIMINO-AICAR-P	C04896	cpd02979	met	iNF517
+prlp_c	['M_prlp', 'prlp']	MNXM1408	PHOSPHORIBULOSYL-FORMIMINO-AICAR-P	C04916	cpd02991	met	iNF517
+pro__L_c	['pro__L', 'M_pro__L']	MNXM114	PRO	['C00148', 'D00035', 'C16435']	['cpd15140', 'cpd00129']	met	iNF517
+pro__L_e	['pro__L', 'M_pro__L']	MNXM114	PRO	['D00035', 'C16435', 'C00148']	['cpd15140', 'cpd00129']	met	iNF517
+protrna_c	['protrna', 'M_protrna']	MNXM247		C02702	cpd12164	met	iNF517
+prpp_c	['prpp', 'M_prpp']	MNXM91	PRPP	C00119	cpd00103	met	iNF517
+psd5p_c	['M_psd5p', 'psd5p']	MNXM148492				met	iNF517
+pser__L_c	['pser__L', 'M_pser__L']	MNXM379	3-P-SERINE	C01005	cpd00738	met	iNF517
+ptrc_c	['ptrc', 'M_ptrc']	MNXM118	PUTRESCINE	C00134	cpd00118	met	iNF517
+ptrc_e	['ptrc', 'M_ptrc']	MNXM118	PUTRESCINE	C00134	cpd00118	met	iNF517
+pyr_c	['M_pyr', 'pyr']	MNXM23	PYRUVATE	C00022	cpd00020	met	iNF517
+pyr_e	['M_pyr', 'pyr']	MNXM23	PYRUVATE	C00022	cpd00020	met	iNF517
+pyrimid_c						met	iNF517
+pyrin_c						met	iNF517
+r1p_c	['r1p', 'M_r1p']	MNXM295	RIBOSE-1P	C00620	cpd00475	met	iNF517
+r5p_c	['r5p', 'M_r5p']	MNXM15900	CPD-15318	C03736	cpd19028	met	iNF517
+rhcys_c	['rhcys', 'M_rhcys']	MNXM1777	CPD-564	C03539	cpd02227	met	iNF517
+rib__D_c	['rib__D', 'M_rib__D']	MNXM242	D-Ribofuranose	['C00121', 'C21057']	cpd00105	met	iNF517
+rib__D_e	['M_rib__D', 'rib__D']	MNXM242	D-Ribofuranose	['C00121', 'C21057']	cpd00105	met	iNF517
+ribflvRD_c	['rbflvrd', 'M_rbflvrd', 'ribflvRD', 'M_ribflvRD']	MNXM1246	CPD-316	C01007	cpd00739	met	iNF517
+ribflv_c	['ribflv', 'M_ribflv']	MNXM270	RIBOFLAVIN	['D00050', 'C00255']	cpd00220	met	iNF517
+ribflv_e	['ribflv', 'M_ribflv']	MNXM270	RIBOFLAVIN	['D00050', 'C00255']	cpd00220	met	iNF517
+ru5p__D_c	['ru5p__D', 'M_ru5p__D']	MNXM145	RIBULOSE-5P	C00199	cpd00171	met	iNF517
+s7p_c	['M_s7p', 's7p']	MNXM271	D-SEDOHEPTULOSE-7-P	C05382	cpd00238	met	iNF517
+salcn6p_c	['salcn6p', 'M_salcn6p']	MNXM3356	CPD-1181	C06188	cpd03698	met	iNF517
+sbt6p_c	['sbt6p', 'M_sbt6p']	MNXM393	D-SORBITOL-6-P	C01096	cpd00804	met	iNF517
+sbt__D_e	['sbt__D', 'M_sbt__D']	MNXM469	SORBITOL	['D00096', 'C00794']	cpd00588	met	iNF517
+sbzcoa_c	['sbzcoa', 'M_sbzcoa']	MNXM1132	CPD-6972	C03160	cpd29427	met	iNF517
+ser__D_c	['ser__D', 'M_ser__D']	MNXM694	D-SERINE	C00740	cpd00550	met	iNF517
+ser__D_e	['M_ser__D', 'ser__D']	MNXM694	D-SERINE	C00740	cpd00550	met	iNF517
+ser__L_c	['ser__L', 'M_ser__L']	MNXM53	['SER', 'Serines']	['C00716', 'D00016', 'C00065']	['cpd00054', 'cpd30743']	met	iNF517
+ser__L_e	['ser__L', 'M_ser__L']	MNXM53	['Serines', 'SER']	['C00716', 'C00065', 'D00016']	['cpd30743', 'cpd00054']	met	iNF517
+sertrna_c	['sertrna', 'M_sertrna']	MNXM90842		C02553	cpd12132	met	iNF517
+skm5p_c	['skm5p', 'M_skm5p']	MNXM1265	SHIKIMATE-5P	C03175	cpd02030	met	iNF517
+skm_c	['skm', 'M_skm']	MNXM602	SHIKIMATE	C00493	cpd00383	met	iNF517
+sl2a6o_c	['sl2a6o', 'M_sl2a6o']	MNXM1563	N-SUCCINYL-2-AMINO-6-KETOPIMELATE	C04462	cpd02724	met	iNF517
+so4_c	['M_so4', 'so4']	MNXM58	['SULFATE', 'HSO4']	['C00059', 'D05963']	['cpd29301', 'cpd00048']	met	iNF517
+so4_e	['M_so4', 'so4']	MNXM58	['HSO4', 'SULFATE']	['D05963', 'C00059']	['cpd29301', 'cpd00048']	met	iNF517
+spmd_c	['M_spmd', 'spmd']	MNXM124	SPERMIDINE	C00315	cpd00264	met	iNF517
+spmd_e	['M_spmd', 'spmd']	MNXM124	SPERMIDINE	C00315	cpd00264	met	iNF517
+suc6p_c	['suc6p', 'M_suc6p']	MNXM722723	CPD-15716	C16688	cpd19187	met	iNF517
+sucbz_c	['sucbz', 'M_sucbz']	MNXM1212	O-SUCCINYLBENZOATE	C02730	cpd01772	met	iNF517
+succ_c	['succ', 'M_succ']	MNXM25	SUC	C00042	cpd00036	met	iNF517
+succ_e	['succ', 'M_succ']	MNXM25	SUC	C00042	cpd00036	met	iNF517
+succoa_c	['succoa', 'M_succoa']	MNXM92	SUC-COA	C00091	cpd00078	met	iNF517
+suchms_c	['suchms', 'M_suchms']	MNXM820	O-SUCCINYL-L-HOMOSERINE	C01118	cpd00822	met	iNF517
+sucr_c	['sucr', 'M_sucr']	MNXM167	SUCROSE	['D00025', 'G00370', 'C00089']	cpd00076	met	iNF517
+sucr_e	['M_sucr', 'sucr']	MNXM167	SUCROSE	['C00089', 'D00025', 'G00370']	cpd00076	met	iNF517
+tag6p__D_c	['tag6p__D', 'M_tag6p__D']	MNXM795	TAGATOSE-6-PHOSPHATE	C01097	cpd00805	met	iNF517
+tagdp__D_c	['tagdp__D', 'M_tagdp__D']	MNXM1324	TAGATOSE-1-6-DIPHOSPHATE	C03785	['cpd02371', 'cpd29681', 'cpd16800']	met	iNF517
+tagur_c	['tagur', 'M_tagur']	MNXM1423	D-TAGATURONATE	C00558	cpd00437	met	iNF517
+tdeacp_c						met	iNF517
+thdp_c	['M_thdp', 'thdp']	MNXM722737		C03972	cpd29199	met	iNF517
+thf_c	['M_thf', 'thf']	MNXM79	THF		cpd29254	met	iNF517
+thfglu_c	['M_thfglu', 'thfglu']	MNXM91741				met	iNF517
+hpglu_c	['hpglu', 'M_hpglu']	MNXM2563	CPD-1301	C04144	['cpd23695', 'cpd02555']	met	iNF517
+thm_c	['thm', 'M_thm']	MNXM161565		D08580	cpd00305	met	iNF517
+thm_e	['thm', 'M_thm']	MNXM161565		D08580	cpd00305	met	iNF517
+thmmp_c	['thmmp', 'M_thmmp']	MNXM662	THIAMINE-P	C01081	cpd00793	met	iNF517
+thmpp_c	['thmpp', 'M_thmpp']	MNXM256	THIAMINE-PYROPHOSPHATE	C00068	cpd00056	met	iNF517
+thr__L_c	['thr__L', 'M_thr__L']	MNXM142	THR	['D00041', 'C00188']	cpd00161	met	iNF517
+thr__L_e	['thr__L', 'M_thr__L']	MNXM142	THR	['D00041', 'C00188']	cpd00161	met	iNF517
+thrtrna_c	['thrtrna', 'M_thrtrna']	MNXM89895		C02992	cpd12229	met	iNF517
+thym_c	['M_thym', 'thym']	MNXM386	THYMINE	C00178	cpd00151	met	iNF517
+thymd_c	['thymd', 'M_thymd']	MNXM420	THYMIDINE	C00214	cpd00184	met	iNF517
+thymd_e	['thymd', 'M_thymd']	MNXM420	THYMIDINE	C00214	cpd00184	met	iNF517
+trdox_c	['trdox', 'M_trdox']	MNXM148	Ox-Thioredoxin	C00343	['cpd29682', 'cpd27735', 'cpd11420']	met	iNF517
+trdrd_c	['M_trdrd', 'trdrd']	MNXM96993	Red-Thioredoxin	C00342	['cpd28060', 'cpd11421']	met	iNF517
+tre6p_c	['tre6p', 'M_tre6p']	MNXM448	TREHALOSE-6P	['G09795', 'C00689']	cpd00523	met	iNF517
+tre_e	['tre', 'M_tre']	MNXM87661	CPD-15990	['G11546', 'G09275']		met	iNF517
+trnaala_c	['trnaala', 'M_trnaala']	MNXM89576	ALA-tRNAs	C01635	['cpd22249', 'cpd11906']	met	iNF517
+trnaarg_c	['trnaarg', 'M_trnaarg']	MNXM90751	ARG-tRNAs	C01636	['cpd22281', 'cpd11907']	met	iNF517
+trnaasn_c	['trnaasn', 'M_trnaasn']	MNXM90665	ASN-tRNAs	C01637	['cpd11908', 'cpd22284']	met	iNF517
+trnaasp_c	['trnaasp', 'M_trnaasp']	MNXM90752	ASP-tRNAs	C01638	['cpd11909', 'cpd22286']	met	iNF517
+trnacys_c	['trnacys', 'M_trnacys']	MNXM162355	CYS-tRNAs	C01639	['cpd11910', 'cpd26668']	met	iNF517
+trnagln_c	['trnagln', 'M_trnagln']	MNXM71	GLN-tRNAs	C01640	['cpd11911', 'cpd27100']	met	iNF517
+trnaglu_c	['M_trnaglu', 'trnaglu']	MNXM90886	GLT-tRNAs	C01641	cpd11912	met	iNF517
+trnagly_c	['trnagly', 'M_trnagly']	MNXM90340	GLY-tRNAs	C01642	['cpd27116', 'cpd11913']	met	iNF517
+trnahis_c	['trnahis', 'M_trnahis']	MNXM90878	HIS-tRNAs	C01643	['cpd27218', 'cpd11914']	met	iNF517
+trnaile_c	['trnaile', 'M_trnaile']	MNXM90879	ILE-tRNAs	C01644	['cpd11915', 'cpd27269']	met	iNF517
+trnaleu_c	['trnaleu', 'M_trnaleu']	MNXM90880	LEU-tRNAs	C01645	['cpd11916', 'cpd27383']	met	iNF517
+trnalys_c	['M_trnalys', 'trnalys']	MNXM90881	LYS-tRNAs	C01646	['cpd11917', 'cpd27388']	met	iNF517
+trnamet_c	['trnamet', 'M_trnamet']	MNXM90882	Elongation-tRNAMet	C01647	cpd11918	met	iNF517
+trnaphe_c	['M_trnaphe', 'trnaphe']	MNXM90753	PHE-tRNAs	C01648	['cpd11919', 'cpd27782']	met	iNF517
+trnapro_c	['M_trnapro', 'trnapro']	MNXM90667	PRO-tRNAs	C01649	cpd11920	met	iNF517
+trnaser_c	['M_trnaser', 'trnaser']	MNXM91028	SER-tRNAs	C01650	['cpd28152', 'cpd11921']	met	iNF517
+trnathr_c	['trnathr', 'M_trnathr']	MNXM90883	THR-tRNAs	C01651	['cpd11922', 'cpd28225']	met	iNF517
+trnatrp_c	['trnatrp', 'M_trnatrp']	MNXM90755	TRP-tRNAs	C01652	['cpd11923', 'cpd28239']	met	iNF517
+trnatyr_c	['trnatyr', 'M_trnatyr']	MNXM90668	TYR-tRNAs	C00787	cpd11751	met	iNF517
+trnaval_c	['trnaval', 'M_trnaval']	MNXM90885	VAL-tRNAs	C01653	['cpd11924', 'cpd28318']	met	iNF517
+trp__L_c	['trp__L', 'M_trp__L']	MNXM94	TRP	['C00078', 'D00020', 'C00806']	['cpd00065', 'cpd19007']	met	iNF517
+trp__L_e	['M_trp__L', 'trp__L']	MNXM94	TRP	['D00020', 'C00078', 'C00806']	['cpd19007', 'cpd00065']	met	iNF517
+trptrna_c	['trptrna', 'M_trptrna']	MNXM89804		C03512	cpd12336	met	iNF517
+tyr__L_c	['M_tyr__L', 'tyr__L']	MNXM76	TYR	['C01536', 'D00022', 'C00082']	['cpd00069', 'cpd30745']	met	iNF517
+tyr__L_e	['tyr__L', 'M_tyr__L']	MNXM76	TYR	['C01536', 'C00082', 'D00022']	['cpd00069', 'cpd30745']	met	iNF517
+tyrtrna_c	['tyrtrna', 'M_tyrtrna']	MNXM89822		C02839	cpd12194	met	iNF517
+uAgl_c	['uAgl', 'M_uAgl']	MNXM6465		C04700	cpd02861	met	iNF517
+uAgla_c	['uAgla', 'M_uAgla']	MNXM7865	C3	C04702	['cpd02862', 'cpd02943']	met	iNF517
+uaAgla_c	['M_uaAgla', 'uaAgla']	MNXM88515			cpd03486	met	iNF517
+uaaAgla_c	['M_uaaAgla', 'uaaAgla']	MNXM88512			cpd03487	met	iNF517
+uaccg_c	['uaccg', 'M_uaccg']	MNXM723010				met	iNF517
+uacgam_c	['uacgam', 'M_uacgam']	MNXM47	UDP-N-ACETYL-D-GLUCOSAMINE	['C00043', 'G10610']	cpd00037	met	iNF517
+uama_c	['uama', 'M_uama']	MNXM722770		C01212	['cpd00890', 'cpd29609']	met	iNF517
+uamag_c	['uamag', 'M_uamag']	MNXM722734		C00692	cpd00525	met	iNF517
+uamr_c	['uamr', 'M_uamr']	MNXM785		C01050		met	iNF517
+udcp_c	['M_udcp', 'udcp']	MNXM169386		C01968	cpd01352	met	iNF517
+udcpdp_c	['M_udcpdp', 'udcpdp']	MNXM5043	CPD-9649		cpd25775	met	iNF517
+udcpp_c	['M_udcpp', 'udcpp']	MNXM251	UNDECAPRENYL-P	C00348	cpd00286	met	iNF517
+udp_c	['M_udp', 'udp']	MNXM17	UDP	['G10619', 'C00015']	cpd00014	met	iNF517
+udpg_c	['M_udpg', 'udpg']	MNXM52	CPD-12575	['C00029', 'G10608']	['cpd28293', 'cpd00026']	met	iNF517
+udpgal_c	['M_udpgal', 'udpgal']	MNXM722709			cpd00043	met	iNF517
+udpgalfur_c	['M_udpgalfur', 'udpgalfur']	MNXM2158	UDP-D-GALACTO-14-FURANOSE	C03733	cpd02338	met	iNF517
+udpglcur_c	['udpglcur', 'M_udpglcur']	MNXM87	UDP-GLUCURONATE	['G10612', 'C00167']	cpd00144	met	iNF517
+ugmd_c	['ugmd', 'M_ugmd']	MNXM1446	UDP-AAGM-DIAMINOHEPTANEDIOATE	C04877	cpd02964	met	iNF517
+ump_c	['M_ump', 'ump']	MNXM80	UMP	C00105	cpd00091	met	iNF517
+unRTA_c						met	iNF517
+unaga_c	['unaga', 'M_unaga']	MNXM1333	ACETYL-D-GLUCOSAMINYLDIPHOSPHO-UNDECAPRE	C01289	cpd00946	met	iNF517
+unagama_c						met	iNF517
+unagamagp_c						met	iNF517
+ura_c	['ura', 'M_ura']	MNXM158	URACIL	['D00027', 'C00106']	cpd00092	met	iNF517
+ura_e	['ura', 'M_ura']	MNXM158	URACIL	['C00106', 'D00027']	cpd00092	met	iNF517
+uri_c	['uri', 'M_uri']	MNXM288	URIDINE	C00299	cpd00249	met	iNF517
+utp_c	['utp', 'M_utp']	MNXM121	UTP	C00075	cpd00062	met	iNF517
+val__L_c	['val__L', 'M_val__L']	MNXM199	VAL	['C16436', 'D00039', 'C00183']	['cpd00156', 'cpd15141']	met	iNF517
+val__L_e	['val__L', 'M_val__L']	MNXM199	VAL	['D00039', 'C00183', 'C16436']	['cpd15141', 'cpd00156']	met	iNF517
+valtrna_c	['valtrna', 'M_valtrna']	MNXM90110		C02554	cpd12133	met	iNF517
+xan_c	['xan', 'M_xan']	MNXM174	XANTHINE	C00385	cpd00309	met	iNF517
+xan_e	['xan', 'M_xan']	MNXM174	XANTHINE	C00385	cpd00309	met	iNF517
+xmp_c	['M_xmp', 'xmp']	MNXM89160		C00655		met	iNF517
+xtsn_c	['M_xtsn', 'xtsn']	MNXM687	XANTHOSINE	C01762	cpd01217	met	iNF517
+xu5p__D_c	['M_xu5p__D', 'xu5p__D']	MNXM186	XYLULOSE-5-PHOSPHATE	C00231	cpd00198	met	iNF517
+xyl__D_c	['M_xyl__D', 'xyl__D']	MNXM90941	['D-Xylose', 'CPD-15377']	['D06346', 'C00181']	cpd26831	met	iNF517
+xylu__D_c	['M_xylu__D', 'xylu__D']	MNXM597	D-XYLULOSE	C00310	cpd00259	met	iNF517
+zn2_c	['HC02172', 'M_HC02172', 'zn2', 'M_zn2']	MNXM149	ZN+2	C00038	cpd00034	met	iNF517
+zn2_e	['M_zn2', 'zn2', 'M_HC02172', 'HC02172']	MNXM149	ZN+2	C00038	cpd00034	met	iNF517
+BIOMASS_LLA						rea	iNF517
+BIOMASS_LLA_noATPnoH						rea	iNF517
+2H3MBDH						rea	iNF517
+2H3MBt						rea	iNF517
+2H3MPDH						rea	iNF517
+2H3MPt						rea	iNF517
+2HXICDH						rea	iNF517
+2HXICt						rea	iNF517
+2MBALDH						rea	iNF517
+2MBALDt	['2MBALDt', 'R_2MBALDt', '2MBALDtm', 'R_2MBALDtm']	MNXR94809			['rxn13190', 'rxn13189']	rea	iNF517
+2MBAt6						rea	iNF517
+2MPAt6						rea	iNF517
+2S6HCCi	['2S6HCCi', 'R_2S6HCCi']	MNXR94830				rea	iNF517
+3MBALt						rea	iNF517
+3MBAt6						rea	iNF517
+3MOPDC	['3MOPDC', 'R_3MOPDC']	MNXR94925	4.1.1.72-RXN	R03894	rxn02748	rea	iNF517
+AALDH						rea	iNF517
+AB6PGH	['R_AB6PGH', 'AB6PGH']	MNXR95165			rxn08025	rea	iNF517
+ACACT1r	['R_ACACT1', 'ACACT1', 'ACACT1r', 'R_ACACT1x', 'ACACT1x', 'ACACT1m', 'KAT1', 'R_KAT1', 'R_ACACT1r', 'R_ACACT1m']	MNXR95194	ACETYL-COA-ACETYLTRANSFER-RXN	R00238	rxn00178	rea	iNF517
+ACALD	['ACALD', 'R_ACALD', 'ACALDh', 'R_ACALDh']	MNXR95210	ACETALD-DEHYDROG-RXN	R00228	rxn00171	rea	iNF517
+ACALDt	['ACALDtx', 'R_ACALDtx_1', 'ACALDtx_1', 'ACALDtm', 'R_ACALDtex', 'R_ACALDtm', 'ACALDtpp', 'R_ACALDtpp', 'ACALDtr', 'R_ACALDtr', 'R_ACALDtx', 'ACALDtex', 'R_ACALDt', 'ACALDt']	MNXR95212			['rxn13212', 'rxn09700', 'rxn08033', 'rxn08032']	rea	iNF517
+ACCOAC	['R_ACCOACrm', 'ACCOACrm', 'R_ACCOAC', 'ACCOAC', 'ACCOAhi', 'R_ACCOAhi']	MNXR95219	ACETYL-COA-CARBOXYLTRANSFER-RXN	R00742	rxn00533	rea	iNF517
+ACGALpts						rea	iNF517
+ACGAMT	['R_ACGAMT', 'ACGAMT']	MNXR95251			rxn08040	rea	iNF517
+ACGApts	['R_ACGApts', 'R_ACGAptspp', 'ACGAptspp', 'ACGApts']	MNXR95253			['rxn08041', 'rxn05485']	rea	iNF517
+ACGK	['R_ACGK', 'ACGKm', 'R_ACGKm', 'ACGK']	MNXR95256	ACETYLGLUTKIN-RXN	R02649	['rxn01917', 'rxn12856']	rea	iNF517
+ACHBS	['R_ACHBS', 'ACHBS', 'R_ACHBSm', 'ACHBSm']	MNXR95260	ACETOOHBUTSYN-RXN	R08648		rea	iNF517
+ACKILE						rea	iNF517
+ACKLEU						rea	iNF517
+ACKVAL						rea	iNF517
+ACKr	['R_ACKrm', 'ACKrm', 'R_ACKrh', 'ACKrh', 'ACKr', 'R_ACKr']	MNXR95269	ACETATEKIN-RXN	R00315	rxn00225	rea	iNF517
+ACLDC	['ACLDC', 'R_ACLDC']	MNXR95270	ACETOLACTATE-DECARBOXYLASE-RXN	R02948		rea	iNF517
+ACLS	['R_ACLS', 'ACLSm', 'R_ACLSm', 'PPATDh', 'R_PPATDh', 'ACLS']	MNXR95271	ACETOLACTSYN-RXN	R00226		rea	iNF517
+ACMANApts	['ACMANApts', 'ACMANAptspp', 'R_ACMANApts', 'R_ACMANAptspp']	MNXR95275			['rxn08046', 'rxn10183']	rea	iNF517
+ACOATA	['R_ACOATA', 'ACOATA_1', 'R_ACOATA_1', 'ACOATAm', 'R_ACOATAm', 'ACOATA']	MNXR95376	ACP-S-ACETYLTRANSFER-RXN	R01624	rxn05349	rea	iNF517
+ACODA_1	['ACODA', 'R_ACODA', 'ACODA_1', 'R_ACODA_1']	MNXR95377	ACETYLORNDEACET-RXN	R00669	rxn00469	rea	iNF517
+ACONT	['ACONTm', 'ACONT', 'R_ACONT', 'R_ACONTx', 'R_ACONTm', 'ACONTx']	MNXR95384		R01324	rxn00973	rea	iNF517
+ACOTA	['R_AOTA', 'AOTA', 'ACOTAim', 'R_ACOTA', 'ACOTA', 'R_ACOTAim']	MNXR95388	ACETYLORNTRANSAM-RXN	R02283	rxn01637	rea	iNF517
+ACPS2						rea	iNF517
+ACPSc						rea	iNF517
+ACTD	['ACTD', 'R_ACTD']	MNXR95419	RXN-11036	R02855		rea	iNF517
+ACTNdiff						rea	iNF517
+ACt2r	['ACt2rpp', 'R_ACt2rpp', 'R_ACt2r', 'ACt2r', 'R_ACt2m', 'R_ACt2ipp', 'ACt2ipp', 'ACt2m']	MNXR95429	TRANS-RXN0-571		['rxn05488', 'rxn08061']	rea	iNF517
+ADA	['ADA', 'R_ADA', 'ADAe', 'R_ADAe']	MNXR95432	ADENODEAMIN-RXN	R01560	rxn01137	rea	iNF517
+ADADir	['DCK1n', 'DCK1m', 'R_DCK1n', 'ADADir', 'R_ADADir', 'R_DCK1m']	MNXR95433	RXN-14093	R01666	rxn01220	rea	iNF517
+ADCL	['ADCL', 'R_ADCL']	MNXR95436	ADCLY-RXN	R05553	rxn03841	rea	iNF517
+ADCS	['ADCS', 'R_ADCS']	MNXR95440	PABASYN-RXN	R01716	rxn01257	rea	iNF517
+ADEt2	['ADEt2', 'R_ADEt2', 'ADEt2rpp', 'R_ADEt2rpp']	MNXR95446	['TRANS-RXN0-447', 'TRANS-RXN-198']		['rxn08064', 'rxn05491']	rea	iNF517
+ADK1	['ATAMh', 'R_ATAMh', 'R_ADK1m', 'ADK1m', 'ADK1', 'R_ADK1']	MNXR95450	ADENYL-KIN-RXN	R00127	rxn00097	rea	iNF517
+ADK2	['ADK2', 'R_ADK2']	MNXR95451			rxn10052	rea	iNF517
+ADPDS						rea	iNF517
+ADPRDP	['ADPRDP', 'R_ADPRDP', 'ADPRDPm', 'R_ADPRDPm']	MNXR95480				rea	iNF517
+ADPT	['R_r0051', 'ADPT', 'R_ADPT', 'r0051']	MNXR95482	ADENPRIBOSYLTRAN-RXN	R00190	rxn00139	rea	iNF517
+ADPTA						rea	iNF517
+ADSL1r	['ADSL1r', 'R_ADSL1r']	MNXR95493		R01083		rea	iNF517
+ADSL2r	['ADSL2r', 'R_ADSL2r']	MNXR108966	AICARSYN-RXN	R04559		rea	iNF517
+ADSS	['ADSS', 'R_ADSS', 'ADSSh', 'R_ADSSh']	MNXR95495		R01135		rea	iNF517
+AEPabc						rea	iNF517
+AGAT_LLA						rea	iNF517
+AGDC	['R_AGDC', 'AGDC']	MNXR95528	NAG6PDEACET-RXN	R02059	rxn01484	rea	iNF517
+AGPR	['AGPR', 'R_AGGPR', 'AGGPR', 'AGPRim', 'R_AGPR', 'R_AGPRim']	MNXR95530	N-ACETYLGLUTPREDUCT-RXN	R03443	['rxn02465', 'rxn12857']	rea	iNF517
+AHCYSNS	['AHCYSNS', 'R_AHCYSNS']	MNXR95625	ADENOSYLHOMOCYSTEINE-NUCLEOSIDASE-RXN	R00194	rxn00143	rea	iNF517
+AHMMPS_1	['R_AHMMPS_1', 'AHMMPS_1']	MNXR95633				rea	iNF517
+AICART	['AICART', 'R_AICART']	MNXR95639				rea	iNF517
+AIRCr	['R_PRAICh', 'PRAICh', 'R_PRAIC', 'PRAIC', 'R_AIRCr', 'AIRCr']	MNXR95646				rea	iNF517
+TRPTA	['R_TRPTA', 'TRPTA']	MNXR104947	TRYPTOPHAN-AMINOTRANSFERASE-RXN	R00684	rxn00483	rea	iNF517
+AKGt2r	['AKGt2rpp', 'R_AKGt2rpp', 'R_AKGt2n', 'AKGt2n', 'R_AKGt2r', 'AKGt2r']	MNXR95661	TRANS-RXN-23		['rxn09827', 'rxn05493', 'rxn08095']	rea	iNF517
+ALAALAr	['R_ALAALAr', 'ALAALAr']	MNXR95678	DALADALALIG-RXN	R01150	['rxn00851', 'rxn13802']	rea	iNF517
+ALAR	['R_ALAR', 'ALAR']	MNXR95693	ALARACECAT-RXN	R00401	rxn00283	rea	iNF517
+ALATA_L	['ALATA_L', 'R_ALATA_Lm', 'ALATA_Lm', 'R_ALATA_L']	MNXR95698	['ALANINE-AMINOTRANSFERASE-RXN', 'RXN-13698']	R00258	rxn00191	rea	iNF517
+ALATRS_1						rea	iNF517
+DALAt2r	['DALAt2rL', 'DALAt2pp', 'R_DALAt2pp', 'DALAt2r', 'R_DALAt2r', 'R_DALAt2rL']	MNXR97135	TRANS-RXN-62A		['rxn05494', 'rxn08301']	rea	iNF517
+ALAt2r	['ALAt2rL', 'R_ALAtm', 'ALAtm', 'ALAtx', 'R_ALAtx', 'R_ALAt2rL', 'R_ALAt2r', 'ALAt2pp', 'R_ALAt2pp', 'ALAt2r']	MNXR95704	RXN0-5202		['rxn05496', 'rxn08101']	rea	iNF517
+ALCD19	['R_ALCD19', 'ALCD19']	MNXR95709		R01036	rxn00763	rea	iNF517
+ALCD2x	['ALCD2irm', 'R_ALCD2irm', 'ALCD2m', 'R_ALCD2m', 'R_ALCD2ir', 'ALCD2x', 'ALCD2ir', 'R_ALCD2x']	MNXR95725	ALCOHOL-DEHYDROG-RXN	R00754	rxn00543	rea	iNF517
+ALKP	['ALKP', 'R_ALKP', 'r0242', 'R_r0242']	MNXR95764	RXN0-7249	R01010	rxn00743	rea	iNF517
+ALOX						rea	iNF517
+AMALT1	['AMALT1', 'R_AMALT1']	MNXR138047				rea	iNF517
+AMALT2	['AMALT2', 'R_AMALT2']	MNXR138048			rxn08127	rea	iNF517
+AMALT3	['R_AMALT3', 'AMALT3']	MNXR138049			rxn08128	rea	iNF517
+AMALT4	['AMALT4', 'R_AMALT4']	MNXR138050			rxn08129	rea	iNF517
+AMANAPEr	['R_AMANAPEr', 'AMANAPEr']	MNXR95804	NANE-RXN	R02087	rxn01506	rea	iNF517
+AMMQT8_2	['AMMQT8_2', 'R_AMMQT8_2']	MNXR95823			rxn10094	rea	iNF517
+ANPRT	['R_ANPRT', 'ANTPPT', 'R_ANTPPT', 'ANPRT']	MNXR95842	PRTRANS-RXN	R01073	rxn00791	rea	iNF517
+ANS	['R_ANS', 'ANS', 'ATNS', 'R_ATNS']	MNXR95843	ANTHRANSYN-RXN	R00986	rxn00727	rea	iNF517
+APATi	['R_THPAT', 'THPAT', 'R_APATi', 'APATi']	MNXR138054		R04364		rea	iNF517
+APRAUR	['APRAUR', 'AUNOR', 'R_AUNOR', 'R_APRAUR']	MNXR95898	RIBOFLAVINSYNREDUC-RXN	R03458	rxn02474	rea	iNF517
+ARGDI_1						rea	iNF517
+ARGORNt3						rea	iNF517
+ARGSL	['ARGSL', 'R_ARGSL']	MNXR138059				rea	iNF517
+ARGSS	['ARGSS', 'R_ARGSS_1', 'ARGSS_1', 'R_ARGSS']	MNXR138060				rea	iNF517
+ARGTRS_1						rea	iNF517
+ARGabc	['ARGabc', 'R_ARGabc', 'ARGabcpp', 'R_ARGabcpp']	MNXR95952	ABC-4-RXN		['rxn05154', 'rxn08151', 'rxn11236']	rea	iNF517
+ARGt2r	['ARGt2m', 'R_ARGt2m', 'ARGt2r', 'R_ARGt2r']	MNXR95953			['rxn09783', 'rxn05303']	rea	iNF517
+ASAD	['ASAD', 'R_ASAD', 'ASADH', 'R_ASADH', 'ASADi', 'R_ASADi']	MNXR96039	ASPARTATE-SEMIALDEHYDE-DEHYDROGENASE-RXN	R02291	rxn01643	rea	iNF517
+ASNN	['R_ASNNpp', 'ASNN', 'R_ASNN', 'ASNNe', 'R_ASNNe', 'ASNNm', 'R_ASNNm', 'ASNNpp', 'ASPSE', 'R_ASPSE']	MNXR96056	ASPARAGHYD-RXN	R00485	rxn00342	rea	iNF517
+ASNS1	['ASNS1', 'R_ASNS1']	MNXR96059	ASNSYNB-RXN	R00578	['rxn00416', 'rxn11214']	rea	iNF517
+ASNTRS_1	['ASNTRSm', 'ASNTRS', 'R_ASNTRS', 'R_ASNTRSm', 'ASNTRS_1', 'R_ASNTRS_1']	MNXR96064		R03648	['rxn11114', 'rxn06434']	rea	iNF517
+ASNt2r	['ASNt2m', 'ASNt2r', 'R_ASNt7', 'ASNt7', 'R_ASNt2m', 'ASNt2rpp', 'R_ASNt2rpp', 'R_ASNt2r']	MNXR96066	TRANS-RXN-262		['rxn13230', 'rxn08161', 'rxn05508', 'rxn09782', 'rxn11321']	rea	iNF517
+ASPCT	['R_ASPCTn', 'ASPCTn', 'R_ASPCTm', 'ASPCTm', 'R_ASPCT_1', 'R_ASPCT', 'ASPCT_1', 'ASPCT']	MNXR96080	ASPCARBTRANS-RXN	R01397	rxn01018	rea	iNF517
+ASPK	['R_ASPK_1', 'ASPK_1', 'R_ASPK', 'ASPK']	MNXR96085	ASPARTATEKIN-RXN	R00480	rxn00337	rea	iNF517
+ASPR	['R_ASPR', 'ASPR']	MNXR96097	ASPARTATE-RACEMASE-RXN	R00491	rxn00348	rea	iNF517
+ASPTA	['R_ASPTAp', 'ASPATh', 'ASPTA', 'R_ASPTA', 'ASPTAm', 'R_ASPTAm', 'ASPTAp', 'R_ASPATh']	MNXR96079	['ASPAMINOTRANS-RXN', 'RXN-13697']	R00355	rxn00260	rea	iNF517
+ASPTA2						rea	iNF517
+ASPTA4						rea	iNF517
+TYRTA	['R_TYRTAm', 'TYRTAm', 'R_TYRTA', 'TYRTAh', 'R_TYRTAh', 'TYRTAi', 'TYRTA', 'R_TYRTAi', 'TYRTAim', 'R_TYRTAim', 'TYRTAip', 'R_TYRTAip', 'R_TYRTAp', 'TYRTAp']	MNXR105000	TYROSINE-AMINOTRANSFERASE-RXN	R00734	rxn00527	rea	iNF517
+PHETA1	['R_POAT', 'PHETA1m', 'POAT', 'R_PHETA1m', 'R_POATm', 'PHETA1', 'POATh', 'R_POATh', 'POATm', 'R_PHETA1']	MNXR138701		R00694	rxn00493	rea	iNF517
+ASPTRS_1						rea	iNF517
+ASPt2r	['R_ASPtx', 'ASPtx', 'R_ASPth', 'ASPth', 'R_ASPt7', 'ASPt7', 'R_ASPt2r', 'ASPt2r', 'R_ASPt2pp', 'ASPt2pp', 'R_ASPt2m', 'ASPt2n', 'ASPt2m', 'R_ASPt2n']	MNXR96106			['rxn09781', 'rxn09825', 'rxn13233', 'rxn05217']	rea	iNF517
+ATPM	['R_ATPS', 'ATPS', 'R_ATPPHm', 'ATPPHm', 'R_ATPM', 'R_NTP1', 'ATPM', 'NTP1']	MNXR96131	ATPASE-RXN	R00086	['rxn11300', 'rxn00062', 'rxn09694']	rea	iNF517
+ATPPRT	['R_ATPPRT', 'ATPPRT']	MNXR96132	ATPPHOSPHORIBOSYLTRANS-RXN		rxn00789	rea	iNF517
+ATPS3r						rea	iNF517
+BG_CELLB	['R_CLBH', 'CLBH', 'BG_CELLB', 'R_BGLA', 'BGLA', 'R_BG_CELLB']	MNXR96241		['R06104', 'R00306']		rea	iNF517
+BTDD_RR	['R_BTDD_RR', 'BTDD_RR']	MNXR96327				rea	iNF517
+BTDt_RR	['BTDt_RR', 'R_BTDt_RR']	MNXR96329				rea	iNF517
+BTMAT1						rea	iNF517
+BZALt						rea	iNF517
+CARORSr						rea	iNF517
+CBMKr	['CBMKr', 'R_CBMKr']	MNXR96482	CARBAMATE-KINASE-RXN	R00150	rxn00114	rea	iNF517
+CBPS	['CBPS', 'R_CBPS', 'CBPSn', 'R_HCGALm', 'HCGALm', 'R_CBPSn']	MNXR96485	CARBPSYN-RXN	R00575	rxn00414	rea	iNF517
+CELBpts	['CELBpts', 'R_CELBpts']	MNXR96586				rea	iNF517
+CFAS180						rea	iNF517
+CGPT						rea	iNF517
+CH4St	['R_CH4St', 'CH4St']	MNXR96663			rxn10470	rea	iNF517
+CHITN1						rea	iNF517
+CHLabc	['CHLabc', 'CHLabcpp', 'R_CHLabcpp', 'R_CHLabc']	MNXR96691			['rxn05159', 'rxn08212']	rea	iNF517
+CHORM	['CHORM', 'R_CHORM', 'CHRM', 'R_CHRM']	MNXR96708	CHORISMATEMUT-RXN	R01715	rxn01256	rea	iNF517
+CHORS	['CHORS', 'CHRS', 'R_CHRS', 'R_CHORS']	MNXR96709	CHORISMATE-SYNTHASE-RXN	R01714	rxn01255	rea	iNF517
+CITt2r	['CITt2r', 'R_CITt2r', 'CITt_kt', 'R_CITt_kt']	MNXR96746			['rxn05211', 'rxn12792']	rea	iNF517
+CITt3						rea	iNF517
+CLPNS_LLA						rea	iNF517
+CMLDC	['CMLDC', 'R_4CMLCL_kt', 'R_CMLDC', '4CMLCL_kt']	MNXR94999		R03470	rxn02483	rea	iNF517
+CO2t	['CO2tn', 'CO2t', 'R_CO2t', 'CO2ter', 'R_CO2ter', 'CO2tex', 'R_CO2tex', 'CO2tg', 'R_CO2tg', 'CO2th', 'R_CO2th', 'CO2tm', 'R_CO2tm', 'R_CO2tn', 'CO2tp', 'R_CO2tp', 'CO2tpp', 'R_CO2tpp', 'CO2tpp_1', 'R_CO2tv', 'R_CO2tpp_1', 'CO2tv']	MNXR96810	TRANS-RXN0-545		['rxn09821', 'rxn08237', 'rxn09775', 'rxn09876', 'rxn05467', 'rxn09706', 'rxn09860', 'rxn08238']	rea	iNF517
+CPPPGO	['CPPPGO', 'R_CPPPGO']	MNXR96880	RXN0-1461	R03220	rxn02303	rea	iNF517
+CPSS_LLA						rea	iNF517
+CRPT_25						rea	iNF517
+CS	['CSp', 'CS', 'R_CS', 'CSm', 'R_CSm', 'R_CSp']	MNXR96920	['CITSYN-RXN', 'RXN-14905']	R00351	rxn00256	rea	iNF517
+CSND	['CSND', 'R_CSND']	MNXR96927	CYTDEAM-RXN	R00974	rxn00717	rea	iNF517
+CTPS1	['R_CTPS1', 'CTPS1']	MNXR96944	RXN-14325	R00571	rxn00410	rea	iNF517
+CTPS2	['CTPS2', 'R_CTPS2']	MNXR96945	CTPSYN-RXN	R00573	['rxn00412', 'rxn11276']	rea	iNF517
+CYSS	['CYSS', 'R_CYSS', 'CYSS_1', 'R_CYSS_1', 'CYSS_2', 'R_CYSS_2']	MNXR97007	ACSERLY-RXN	R00897	rxn00649	rea	iNF517
+CYSTGL	['CYSTGL', 'R_CYSTGL']	MNXR97012	RXN-15130	R01001		rea	iNF517
+CYSTL	['R_CBL', 'CBL', 'CYSTL', 'R_CYSTLp', 'CYSTLp', 'R_CYSTL']	MNXR138161		R01286		rea	iNF517
+CYSTRS_1						rea	iNF517
+CYSt2r	['CYSt2r', 'R_CYSt2r']	MNXR97027	TRANS-RXN-287		['rxn09690', 'rxn11324']	rea	iNF517
+CYTB_B2	['R_CYTB_B2', 'CYTB_B2']	MNXR97037				rea	iNF517
+CYTD	['CYTD', 'R_CYTD', 'CYTDn', 'R_CYTDn']	MNXR97039	CYTIDEAM2-RXN	R01878	rxn01368	rea	iNF517
+CYTDK1	['CYTDK2m', 'R_CYTDK1', 'CYTDK1', 'R_CYTDK2m']	MNXR97041	CYTIKIN-RXN	R00513	rxn00365	rea	iNF517
+CYTDK2	['CYTDK2', 'R_CYTDK2']	MNXR97042	CYTIDINEKIN-RXN	R00517	rxn00369	rea	iNF517
+ITCY	['ITCY', 'R_ITCY']	MNXR100885		R00962	rxn00707	rea	iNF517
+CYTK1	['R_CYTK1m', 'CYTK1n', 'R_CYTK1n', 'CYTK1', 'R_CYTK1', 'CYTK1m']	MNXR97047	RXN-11832	R00512	rxn00364	rea	iNF517
+CYTK2	['CYTK2n', 'R_CYTK2m', 'CYTK2m', 'R_CYTK2', 'CYTK2', 'R_CYTK2n']	MNXR97053	RXN-7913	R01665	rxn01219	rea	iNF517
+DADA	['DADAe', 'R_DADA', 'DADA', 'R_DADAe']	MNXR97076	ADDALT-RXN	R02556	rxn01858	rea	iNF517
+DADK	['DADK', 'ATDAMh', 'R_DADK', 'R_ATDAMm', 'ATDAMm', 'R_ATDAMh']	MNXR96117	DEOXYADENYLATE-KINASE-RXN	R01547	rxn01127	rea	iNF517
+DADNK	['R_DADNKn', 'DADNKn', 'R_DADNK', 'DADNK']	MNXR97079	DEOXYADENOSINE-KINASE-RXN	R02089	rxn01508	rea	iNF517
+DAGGT_LLA						rea	iNF517
+DAGK_LLA						rea	iNF517
+DDPA	['R_DPHS', 'DDPAm', 'R_DDPA', 'R_DDPAm', 'DPHS', 'DDPA']	MNXR97218	DAHPSYN-RXN	R01826	rxn01332	rea	iNF517
+DALTAL_LLA						rea	iNF517
+DAPDC	['DAPDC', 'R_DAPDC']	MNXR97141	DIAMINOPIMDECARB-RXN	R00451	rxn00313	rea	iNF517
+DAPE	['R_DAPE', 'DAPE']	MNXR97143	DIAMINOPIMEPIM-RXN	R02735	rxn01974	rea	iNF517
+DASYN_LLA						rea	iNF517
+DB4PS	['R_DB4PS', 'DB4PS']	MNXR97178	DIOHBUTANONEPSYN-RXN	R07281	rxn05040	rea	iNF517
+DCMPDA_1						rea	iNF517
+DCYTD	['R_DCYTD', 'DCYTDn', 'DCYTD', 'R_DCYTDn']	MNXR97207	CYTIDEAM-RXN	R02485	rxn01800	rea	iNF517
+DDMAT5						rea	iNF517
+DEMAT4						rea	iNF517
+DGNSK	['DGNSK', 'R_DGNSK', 'DGNSKm', 'R_DGNSKm']	MNXR97323	DEOXYGUANOSINE-KINASE-RXN	R01967	rxn01444	rea	iNF517
+DHAD1	['DHAD1', 'R_DHAD1', 'DHAD1m', 'R_DHAD1m', 'DHAD_3mob_h', 'R_DHAD_3mob_h']	MNXR97358	DIHYDROXYISOVALDEHYDRAT-RXN	R04441		rea	iNF517
+DHAD2	['R_DHADh', 'DHADh', 'R_DHAD2m', 'R_DHAD2', 'DHAD2', 'DHAD2m']	MNXR97359	DIHYDROXYMETVALDEHYDRAT-RXN	R05070		rea	iNF517
+DHAPT	['DHAPT', 'R_DHAPT']	MNXR97364	2.7.1.121-RXN	R01012	rxn00745	rea	iNF517
+DHAt	['DHAtpp', 'R_DHAtpp', 'DHAtex', 'DHAt', 'R_DHAt', 'R_DHAtex']	MNXR97367	TRANS-RXN0-559		['rxn05532', 'rxn08326', 'rxn08325']	rea	iNF517
+DHDPRy	['R_DHDPRy', 'DHDPRy']	MNXR138232				rea	iNF517
+DHDPS	['DHDPS', 'R_DHDPS']	MNXR97394				rea	iNF517
+FOLR2	['R_r0514', 'DHFOR2', 'R_DHFOR2', 'FOLR2', 'R_FOLR2', 'FOLR2_1', 'R_FOLR2_1', 'r0514']	MNXR97400		R02236	rxn01602	rea	iNF517
+DHFR	['DHFR', 'DHFRim', 'R_DHFR', 'R_DHFRim']	MNXR97401				rea	iNF517
+DHFS	['DHFS', 'R_DHFS', 'DHFS_1', 'R_DHFS_1']	MNXR138234		R02237	rxn01603	rea	iNF517
+DHNAOT_1						rea	iNF517
+DHNPA_1	['DHNPA', 'R_DHNPA', 'DHNPA_1', 'R_DHNPA_1', 'DHNPAm', 'R_DHNPAm']	MNXR138235				rea	iNF517
+DHORDi	['R_DHROm', 'R_DHORDi', 'DHROm', 'DHORDi']	MNXR97426			rxn01360	rea	iNF517
+DHORD6						rea	iNF517
+DHORTS	['DHR', 'R_DHR', 'DHORTS', 'R_DHORTSn', 'DHORTSn', 'R_DHORTS']	MNXR97428	DIHYDROOROT-RXN	R01993	rxn01465	rea	iNF517
+DHPPDA	['R_DHPAH', 'DHPPDA', 'R_DHPPDA', 'DHPAH']	MNXR97430				rea	iNF517
+FOLD3	['R_FOLD3m', 'FOLD3m', 'FOLD3', 'R_FOLD3', 'FOLD3_1', 'R_FOLD3_1']	MNXR138353			rxn02201	rea	iNF517
+DHQTi	['R_DQDH', 'DQDH', 'DHQTi', 'R_DHQTi']	MNXR97449	3-DEHYDROQUINATE-DEHYDRATASE-RXN	R03084	rxn02213	rea	iNF517
+DHQS	['DHQS_1', 'R_DHQS', 'DHQS', 'R_DHQS_1']	MNXR97447	3-DEHYDROQUINATE-SYNTHASE-RXN	R03083	rxn02212	rea	iNF517
+DIACTt						rea	iNF517
+DINSK	['DINSK', 'R_DINSK']	MNXR97464			rxn10055	rea	iNF517
+DMATT	['R_GPPSh', 'GPPSh', 'DMATT', 'R_DMATT', 'R_DMATTx', 'DMATTx']	MNXR97512	GPPSYN-RXN	R01658	rxn01213	rea	iNF517
+DNAS_LLA						rea	iNF517
+DPCOAK	['DPCOAKm', 'DPCOAK', 'R_DPCOAK', 'R_DPCOAKm']	MNXR97762	DEPHOSPHOCOAKIN-RXN	R00130	rxn00100	rea	iNF517
+DPMVD	['DPMVD', 'R_DPMVDx', 'R_DPMVD', 'DPMVDx']	MNXR97776	DIPHOSPHOMEVALONTE-DECARBOXYLASE-RXN	R01121	rxn00829	rea	iNF517
+DPR	['R_DPR', 'DPRm', 'R_DPRm', 'PNORm', 'R_PNORm', 'PNORn', 'R_PNORn', 'DPR']	MNXR97779	2-DEHYDROPANTOATE-REDUCT-RXN	R02472		rea	iNF517
+DRBK	['R_DRBK', 'DRBK']	MNXR126494		R02750		rea	iNF517
+DRIBt2						rea	iNF517
+DRPA	['R_DRPA', 'DRPA']	MNXR97787	DEOXYRIBOSE-P-ALD-RXN	R01066		rea	iNF517
+DTMPK	['DTMPKm', 'R_DTMPKm', 'R_DTMPK', 'DTMPK']	MNXR97804	DTMPKI-RXN	R02094	rxn01513	rea	iNF517
+DURIK1	['R_DURIK1', 'DURIK1m', 'R_DURIK1m', 'DURIK1']	MNXR97817	DURIDKI-RXN	R02099	rxn01518	rea	iNF517
+DURIPP	['DURIPP', 'R_DURIPP']	MNXR138258		R02484	rxn01799	rea	iNF517
+DUTPDP	['R_DUTPDPn', 'DUTPDP', 'R_DUTPDP', 'DUTPDPm', 'R_DUTPDPm', 'DUTPDPn']	MNXR97822	DUTP-PYROP-RXN	R02100	rxn01519	rea	iNF517
+DXPS	['DXPS', 'R_DXPS', 'DXS', 'R_DXS']	MNXR97831	DXS-RXN	R05636	rxn03909	rea	iNF517
+EDA	['R_EDA', 'EDA']	MNXR97897	KDPGALDOL-RXN	R05605	rxn03884	rea	iNF517
+ENO	['R_ENOf', 'ENO', 'R_ENO', 'ENOf', 'ENOm', 'R_ENOm']	MNXR97932	2PGADEHYDRAT-RXN	R00658	rxn00459	rea	iNF517
+ETOHt	['R_ETOHtx', 'ETOHtx', 'R_ETOHtrpp', 'ETOHtrpp', 'R_ETOHtm', 'ETOHtm', 'R_ETOHti', 'ETOHti', 'R_ETOHth', 'ETOHth', 'R_ETOHtex', 'ETOHtex', 'R_ETOHt', 'ETOHt']	MNXR97980	TRANS-RXN0-546		['rxn09683', 'rxn09764', 'rxn08428']	rea	iNF517
+EX_2aeppn_e						rea	iNF517
+EX_2h3mb_e						rea	iNF517
+EX_2h3mp_e						rea	iNF517
+EX_2hxic__L_e						rea	iNF517
+EX_2mba_e						rea	iNF517
+EX_2mbald_e	['EX_2mbald_e', 'R_EX_2mbald_e']	MNXR98016				rea	iNF517
+EX_2mpa_e						rea	iNF517
+EX_3mba_e						rea	iNF517
+EX_3mbal_e						rea	iNF517
+EX_4abut_e	['R_EX_4abut_e', 'EX_4abut_e']	MNXR98058				rea	iNF517
+EX_4abz_e	['EX_4abz_e', 'R_EX_4abz_e']	MNXR98060				rea	iNF517
+EX_ac_e	['EX_ac_e', 'R_EX_ac_e']	MNXR98196				rea	iNF517
+EX_acald_e	['EX_acald_e', 'R_EX_acald_e']	MNXR98198				rea	iNF517
+EX_acgala_e						rea	iNF517
+EX_acgam_e	['EX_acgam_e', 'R_EX_acgam_e']	MNXR98208				rea	iNF517
+EX_acmana_e	['EX_acmana_e', 'R_EX_acmana_e']	MNXR98210				rea	iNF517
+EX_actn__R_e	['EX_actn__R_e', 'R_EX_actn__R_e']	MNXR98226				rea	iNF517
+EX_ade_e	['EX_ade_e', 'R_EX_ade_e']	MNXR98229				rea	iNF517
+EX_akg_e	['R_SK_akg_c', 'EX_akg_e', 'R_EX_akg_e', 'SK_akg_c']	MNXR98247				rea	iNF517
+EX_ala__D_e	['EX_ala__D_e', 'R_EX_ala__D_e']	MNXR98255				rea	iNF517
+EX_ala__L_e	['EX_ala__L_e', 'R_EX_ala__L_e']	MNXR98256				rea	iNF517
+EX_arg__L_e	['EX_arg__L_e', 'R_EX_arg__L_e']	MNXR98286				rea	iNF517
+EX_asn__L_e	['EX_asn__L_e', 'R_EX_asn__L_e']	MNXR98292				rea	iNF517
+EX_asp__L_e	['R_EX_CE5868_e', 'EX_asp__L_e', 'EX_CE5868_e', 'R_EX_asp__L_e']	MNXR98131				rea	iNF517
+EX_btd_RR_e	['EX_btd_RR_e', 'R_EX_btd_RR_e']	MNXR98303				rea	iNF517
+EX_bzal_e	['EX_bzal_e', 'R_EX_bzal_e']	MNXR98309				rea	iNF517
+EX_cellb_e	['EX_cellb_e', 'R_EX_cellb_e']	MNXR98335				rea	iNF517
+EX_ch4s_e	['EX_ch4s_e', 'R_EX_ch4s_e']	MNXR98338				rea	iNF517
+EX_chol_e	['R_EX_chol_e', 'EX_chol_e']	MNXR98339				rea	iNF517
+EX_cit_e	['R_EX_cit_e', 'EX_cit_e']	MNXR98346				rea	iNF517
+EX_co2_e	['R_EX_co2_e', 'EX_co2_e']	MNXR98353				rea	iNF517
+EX_cys__L_e	['EX_cys__L_e', 'R_EX_cys__L_e']	MNXR98389				rea	iNF517
+EX_dha_e	['EX_dha_e', 'R_EX_dha_e']	MNXR98409				rea	iNF517
+EX_diact_e	['EX_diact_e', 'R_EX_diact_e']	MNXR98414				rea	iNF517
+EX_drib_e	['EX_drib_e', 'R_EX_drib_e']	MNXR138289				rea	iNF517
+EX_etoh_e	['R_EX_etoh_e', 'EX_etoh_e']	MNXR98461				rea	iNF517
+EX_fe2_e	['R_EX_fe2_e', 'EX_fe2_e']	MNXR98464				rea	iNF517
+EX_fe3_e	['R_EX_fe3_e', 'EX_fe3_e']	MNXR98465				rea	iNF517
+EX_fol_e	['EX_fol_e', 'R_EX_fol_e']	MNXR98489				rea	iNF517
+EX_for_e	['SK_for_c', 'R_SK_for_c', 'R_EX_for_e', 'EX_for_e']	MNXR98490				rea	iNF517
+EX_fru_e	['R_EX_fru_e', 'EX_fru_e']	MNXR138293				rea	iNF517
+EX_gal_e	['EX_gal_e', 'R_EX_gal_e']	MNXR98535				rea	iNF517
+EX_galt_e	['EX_galt_e', 'R_EX_galt_e']	MNXR98554				rea	iNF517
+EX_gcald_e	['EX_gcald_e', 'R_EX_gcald_e', 'SK_gcald_c', 'R_SK_gcald_c']	MNXR98561				rea	iNF517
+EX_glc__D_e	['EX_glc__D_e', 'R_EX_glc__D_e']	MNXR98569				rea	iNF517
+EX_glcn__D_e	['EX_glcn__D_e', 'R_EX_glcn__D_e', 'EX_glcn_e', 'R_EX_glcn_e']	MNXR98574				rea	iNF517
+EX_gln__L_e	['R_EX_gln__L_e', 'EX_gln__L_e']	MNXR98579				rea	iNF517
+EX_glu__L_e	['R_EX_glu__L_e', 'EX_glu__L_e']	MNXR98583				rea	iNF517
+EX_gly_e	['R_EX_gly_e', 'EX_gly_e']	MNXR98591				rea	iNF517
+EX_glyb_e	['EX_glyb_e', 'R_EX_glyb_e']	MNXR98597				rea	iNF517
+EX_glyc3p_e	['EX_glyc3p_e', 'R_EX_glyc3p_e']	MNXR98599				rea	iNF517
+EX_glyc_e	['EX_glyc_e', 'R_EX_glyc_e']	MNXR98602				rea	iNF517
+EX_gua_e	['EX_gua_e', 'R_EX_gua_e']	MNXR98632				rea	iNF517
+EX_h2o_e	['H2Otex', 'R_H2Otpp', 'H2Ots', 'R_H2Ots', 'H2Otu_syn', 'R_H2Otu_syn', 'H2Otv', 'R_H2Ot', 'H2Otpp', 'H2Ot', 'R_EX_oh1_e', 'EX_oh1_e', 'R_EX_h2o_e', 'EX_h2o_e', 'R_H2Otv', 'R_H2Oter', 'R_H2Otp', 'R_H2Otn_1', 'R_H2Otex', 'H2Otf', 'R_H2Otf', 'H2Otg', 'R_H2Otg', 'H2Oth', 'R_H2Oth', 'H2Othu', 'R_H2Othu', 'H2Otly', 'R_H2Otly', 'H2Oter', 'R_H2Otm', 'H2Otn', 'H2Otn_1', 'H2Otp', 'H2Otm', 'R_H2Otn']	MNXR98641	['TRANS-RXN0-547', 'TRANS-RXN-145']		['rxn09874', 'rxn09812', 'rxn09745', 'rxn05319', 'rxn09838', 'rxn08686', 'rxn08687', 'rxn09643']	rea	iNF517
+EX_h2s_e	['EX_h2s_e', 'R_EX_h2s_e']	MNXR98642				rea	iNF517
+EX_h_e	['EX_h_e', 'R_EX_h_e']	MNXR98643				rea	iNF517
+EX_his__L_e	['EX_his__L_e', 'R_EX_his__L_e']	MNXR98656				rea	iNF517
+EX_hxan_e	['EX_hxan_e', 'R_EX_hxan_e']	MNXR98665				rea	iNF517
+EX_ile__L_e	['EX_ile__L_e', 'R_EX_ile__L_e']	MNXR98677				rea	iNF517
+EX_ins_e	['EX_ins_e', 'R_EX_ins_e']	MNXR98683				rea	iNF517
+EX_lac__L_e	['R_EX_lac__L_e', 'EX_lac__L_e']	MNXR98695				rea	iNF517
+EX_lcts_e	['R_EX_lcts_e', 'EX_lcts_e']	MNXR98699				rea	iNF517
+EX_leu__L_e	['EX_leu__L_e', 'R_EX_leu__L_e']	MNXR98700				rea	iNF517
+EX_lys__L_e	['EX_lys__L_e', 'R_EX_lys__L_e']	MNXR98724				rea	iNF517
+EX_mal__L_e	['EX_mal__L_e', 'R_EX_mal__L_e', 'SK_mal__L_c', 'R_SK_mal__L_c']	MNXR98731				rea	iNF517
+EX_malt_e	['R_EX_malt_e', 'EX_malt_e']	MNXR98733				rea	iNF517
+EX_man_e	['EX_man_e', 'R_EX_man_e']	MNXR98741				rea	iNF517
+EX_met__D_e	['R_EX_met__D_e', 'EX_met__D_e']	MNXR98752				rea	iNF517
+EX_met__L_e	['EX_met__L_e', 'R_EX_met__L_e']	MNXR98753				rea	iNF517
+EX_mn2_e	['EX_mn2_e', 'R_EX_mn2_e']	MNXR98761				rea	iNF517
+EX_mnl_e	['EX_mnl_e', 'R_EX_mnl_e']	MNXR98763				rea	iNF517
+EX_nac_e	['EX_nac_e', 'R_EX_nac_e']	MNXR98782				rea	iNF517
+EX_nh4_e	['R_EX_nh4_e', 'EX_nh4_e']	MNXR98786				rea	iNF517
+EX_nmn_e	['R_EX_nmn_e', 'EX_nmn_e']	MNXR98789				rea	iNF517
+EX_o2_e	['EX_o2_e', 'R_EX_o2_e']	MNXR98799				rea	iNF517
+EX_orn__L_e	['EX_orn__L_e', 'R_EX_orn__L_e', 'EX_orn_e', 'R_EX_orn_e']	MNXR98813				rea	iNF517
+EX_orot_e	['R_EX_orot_e', 'EX_orot_e']	MNXR98814				rea	iNF517
+EX_pacald_e	['EX_pacald_e', 'R_EX_pacald_e']	MNXR98818				rea	iNF517
+EX_pea_e						rea	iNF517
+EX_phe__L_e	['R_EX_phe__L_e', 'EX_phe__L_e']	MNXR98845				rea	iNF517
+EX_pi_e	['EX_pi_e', 'R_EX_pi_e']	MNXR98854				rea	iNF517
+EX_pnto__R_e	['R_EX_pnto__R_e', 'EX_pnto__R_e']	MNXR98856				rea	iNF517
+EX_ppi_e	['R_EX_ppi_e', 'EX_ppi_e']	MNXR98860				rea	iNF517
+EX_pro__L_e	['EX_pro__L_e', 'R_EX_pro__L_e']	MNXR98866				rea	iNF517
+EX_ptrc_e	['EX_ptrc_e', 'R_EX_ptrc_e']	MNXR98888				rea	iNF517
+EX_pyr_e	['EX_pyr_e', 'R_EX_pyr_e']	MNXR98895				rea	iNF517
+EX_rib__D_e	['EX_rib__D_e', 'R_EX_rib__D_e']	MNXR98911				rea	iNF517
+EX_ribflv_e	['EX_ribflv_e', 'R_EX_ribflv_e']	MNXR98912				rea	iNF517
+EX_sbt__D_e	['EX_sbt__D_e', 'R_EX_sbt__D_e']	MNXR98925				rea	iNF517
+EX_ser__D_e	['R_EX_ser__D_e', 'EX_ser__D_e']	MNXR98929				rea	iNF517
+EX_ser__L_e	['EX_ser__L_e', 'R_EX_ser__L_e']	MNXR98930				rea	iNF517
+EX_so4_e	['EX_so4_e', 'R_EX_so4_e']	MNXR98935				rea	iNF517
+EX_spmd_e	['EX_spmd_e', 'R_EX_spmd_e']	MNXR98940				rea	iNF517
+EX_succ_e	['R_DM_succ_c', 'R_EX_succ_e', 'EX_succ_e', 'DM_succ_c']	MNXR97619				rea	iNF517
+EX_sucr_e	['EX_sucr_e', 'R_EX_sucr_e']	MNXR98949				rea	iNF517
+EX_thm_e	['R_EX_thm_e', 'EX_thm_e']	MNXR138318				rea	iNF517
+EX_thr__L_e	['R_EX_thr__L_e', 'EX_thr__L_e']	MNXR98977				rea	iNF517
+EX_thymd_e	['EX_thymd_e', 'R_EX_thymd_e']	MNXR98980				rea	iNF517
+EX_tre_e	['R_EX_tre_e', 'EX_tre_e']	MNXR138319				rea	iNF517
+EX_trp__L_e	['R_EX_trp__L_e', 'EX_trp__L_e']	MNXR98991				rea	iNF517
+EX_tyr__L_e	['R_EX_tyr__L_e', 'EX_tyr__L_e']	MNXR99005				rea	iNF517
+EX_ura_e	['EX_ura_e', 'R_EX_ura_e']	MNXR99023				rea	iNF517
+EX_val__L_e	['EX_val__L_e', 'R_EX_val__L_e']	MNXR99031				rea	iNF517
+EX_xan_e	['EX_xan_e', 'R_EX_xan_e', 'SK_xan_c', 'R_SK_xan_c']	MNXR99041				rea	iNF517
+EX_zn2_e	['R_EX_zn2_e', 'EX_HC02172_e', 'R_EX_HC02172_e', 'EX_zn2_e']	MNXR98152				rea	iNF517
+FRUK	['R_FRUK', 'FRUK']	MNXR99652			rxn01492	rea	iNF517
+FABM						rea	iNF517
+FABM1						rea	iNF517
+FABM2						rea	iNF517
+FBA	['FBA', 'R_FBA']	MNXR99459		R01068	rxn00786	rea	iNF517
+FBP	['FBP', 'R_FBP']	MNXR138346		R00762	rxn00549	rea	iNF517
+FE3abc	['R_FE3abcpp', 'FE3abcpp', 'R_FE3abc', 'FE3abc']	MNXR99525	3.6.3.30-RXN		['rxn05195', 'rxn08477']	rea	iNF517
+FE2abc	['R_FE2abcpp', 'FE2abcpp', 'R_FE2abc', 'FE2abc']	MNXR99504			['rxn08472', 'rxn05555']	rea	iNF517
+FLVR_1	['FLVR', 'R_FLVR', 'FLVR_1', 'R_FLVR_1']	MNXR99601	NADPH-DEHYDROGENASE-FLAVIN-RXN	R05707	rxn03976	rea	iNF517
+FMETDF	['FMETDF', 'R_FMETDF']	MNXR99603	FORMYLMETHIONINE-DEFORMYLASE-RXN	R00653	rxn00455	rea	iNF517
+FMETTRS_1	['R_FMETTRS', 'FMETTRS', 'R_FMETTRS_1', 'FMETTRSm', 'R_FMETTRSm', 'FMETTRS_1']	MNXR99604				rea	iNF517
+FMNAT	['AFAT', 'R_AFAT', 'R_FMNAT', 'FMNATm', 'R_FMNATm', 'FMNAT']	MNXR95501	FADSYN-RXN	R00161	rxn00122	rea	iNF517
+FOLt	['R_FOLt', 'FOLt']	MNXR99612			rxn05255	rea	iNF517
+FORt2	['R_FORt2', 'FORt2', 'FORtxi', 'FORt2pp', 'R_FORt2pp', 'FORthi', 'R_FORthi', 'FORti_1', 'R_FORti_1', 'FORtmi', 'R_FORtmi', 'R_FORtxi']	MNXR99621			['rxn08524', 'rxn05559']	rea	iNF517
+FRDx						rea	iNF517
+HEX7	['HEX7', 'R_HEX7']	MNXR138514		R00760	rxn00547	rea	iNF517
+FRUpts	['R_FRUpts', 'FRUpts', 'R_FRUptspp', 'FRUptspp']	MNXR138359			['rxn05560', 'rxn08536']	rea	iNF517
+FTHFCL_1						rea	iNF517
+FTHFLi	['FTHFLi', 'R_FTHFLi', 'FTHFLmi', 'R_FTHFLmi']	MNXR99672				rea	iNF517
+G1PACT	['R_G1PACT', 'G1PACT']	MNXR138455			rxn03638	rea	iNF517
+G1PTMT						rea	iNF517
+G3PCT	['G3PCT', 'R_G3PCT']	MNXR99872	2.7.7.39-RXN	R00856	rxn00621	rea	iNF517
+G3PD1ir	['G3PD1', 'R_G3PD1_1', 'G3PD1ir', 'R_G3PD1ir', 'R_G3PD1', 'R_G3PD1irm', 'r0202', 'R_r0202', 'G3PD1irm', 'G3PD1_1']	MNXR99876	1.1.1.8-RXN	R00842	rxn00611	rea	iNF517
+G3PD2	['R_G3PD2', 'G3PD2_1', 'G3PD2', 'R_G3PD2_2', 'G3PD2_2', 'R_G3PD2_1']	MNXR99877		R00844	rxn00612	rea	iNF517
+G3PD4	['G3PD4', 'R_G3PD4']	MNXR99879				rea	iNF517
+G3PD	['R_G3PDm', 'G3PDm', 'G3PD', 'R_G3PD']	MNXR99875		R00848	rxn00616	rea	iNF517
+G5SADs	['G5SADrm', 'R_G5SADrm', 'G5SADs', 'R_G5SADs']	MNXR99897			['rxn11220', 'rxn02374']	rea	iNF517
+G5SD	['R_G5SDym', 'G5SD', 'R_G5DHx', 'R_G5SD', 'G5DHx', 'G5SDym']	MNXR99896	GLUTSEMIALDEHYDROG-RXN	R03313	rxn02373	rea	iNF517
+G6PDA	['G6PDA', 'R_G6PDA']	MNXR138459		R00765	rxn00552	rea	iNF517
+G6PDH2r	['G6PDH2er', 'R_G6PDH2er', 'R_G6PDH2r', 'G6PDH2r']	MNXR99907	GLU6PDEHYDROG-RXN	R00835	rxn00604	rea	iNF517
+G6PI	['G6PI', 'R_G6PI']	MNXR99909			rxn01977	rea	iNF517
+ABUTt2r	['ABUTt2r', '4ABUTtmi', '4ABUTthi', 'ABUTt2rL', 'R_ABUTt2rL', 'R_4ABUTtmi', 'ABUTt2pp', 'R_ABUTt2pp', 'R_ABUTt2r', 'R_4ABUTthi']	MNXR94994	TRANS-RXN-57		['rxn08027', 'rxn05564']	rea	iNF517
+GALK2						rea	iNF517
+GALM						rea	iNF517
+GALT	['GALT', 'R_GALT']	MNXR138471			rxn00355	rea	iNF517
+GALTAL						rea	iNF517
+GALTpts	['R_GALTptspp', 'GALTptspp', 'R_GALTpts', 'GALTpts']	MNXR100018			['rxn08586', 'rxn05567']	rea	iNF517
+GALUi	['R_GALUi', 'GALUi']	MNXR100022		R00289	rxn00213	rea	iNF517
+GALt2	['GALt2pp', 'GALt2', 'R_GALth', 'GALth', 'R_GALt2pp', 'R_GALt2']	MNXR100026	TRANS-RXN-21		['rxn11099', 'rxn08584', 'rxn05566']	rea	iNF517
+GAPD	['GAPDHh', 'R_GAPDHf', 'R_GAPD', 'GAPDHf', 'GAPD', 'R_GAPDHh', 'R_GAPDHi', 'R_GAPDHm', 'GAPDHm', 'GAPDHi']	MNXR100040	GAPOXNPHOSPHN-RXN	R01061	rxn00781	rea	iNF517
+GARFT	['FPGFTh', 'FPGFTm', 'R_FPGFTm', 'GARFT', 'R_GARFT', 'R_FPGFTh']	MNXR99623				rea	iNF517
+GAT1_LLA						rea	iNF517
+GCALDt	['R_GCALDtm', 'GCALDtm', 'GCALDt', 'R_GCALDt']	MNXR100061			['rxn09752', 'rxn09680']	rea	iNF517
+GF6PTA	['GF6PTA', 'R_GF6PTA']	MNXR138476		R00768	rxn00555	rea	iNF517
+GHMT2r	['GHMT', 'R_GHMT', 'GHMT2r', 'R_GHMT2r', 'GHMT2rm', 'R_GHMT2rm']	MNXR100142				rea	iNF517
+GK1	['GK1m', 'R_GK1m', 'GK1', 'R_GK1']	MNXR100144	GUANYL-KIN-RXN	R00332	rxn00239	rea	iNF517
+GK2	['GK2', 'R_GK2']	MNXR100145			rxn09562	rea	iNF517
+GLCNt2ir	['GLCNt2ir', 'R_GLCNt2ir', 'GLCNt2r', 'R_GLCNt2r', 'GLCNt2rpp', 'R_GLCNt2rpp']	MNXR100209	TRANS-RXN0-209		['rxn08609', 'rxn05571']	rea	iNF517
+GLCP	['GLCP', 'R_GLCP']	MNXR100214			rxn13299	rea	iNF517
+GLCS1	['GLCS1', 'R_GLCS1']	MNXR100223			rxn13643	rea	iNF517
+GLCpts	['R_GLCptspp', 'GLCptspp', 'GLCpts', 'R_GLCpts']	MNXR100237			['rxn08612', 'rxn05226']	rea	iNF517
+GLGC	['GLGC', 'R_GLGC', 'GLPThi', 'R_GLPThi']	MNXR100243		R00948	rxn00695	rea	iNF517
+GLNS	['GALm', 'R_GLNS', 'GLNS', 'R_GALm', 'R_GALh', 'GALh']	MNXR100024	GLUTAMINESYN-RXN	R00253	rxn00187	rea	iNF517
+GLNTRS2						rea	iNF517
+GLNabc	['R_GLNabcpp', 'GLNabcpp', 'R_GLNabc', 'GLNabc']	MNXR100258	ABC-12-RXN		['rxn05155', 'rxn05196', 'rxn08624', 'rxn11101', 'rxn11233']	rea	iNF517
+GLU5K	['GLU5Km', 'R_GLU5Km', 'R_GLU5K', 'GLU5K']	MNXR100277	GLUTKIN-RXN	R00239	rxn00179	rea	iNF517
+GLUABUTt7	['GLU4ABUTtmi', 'R_GLUABUTt7pp', 'R_GLUABUTt7', 'GLUABUTt7pp', 'R_GLU4ABUTthi', 'GLU4ABUTthi', 'GLUABUTt7', 'R_GLU4ABUTtmi']	MNXR100276	TRANS-RXN-261		['rxn08628', 'rxn10136']	rea	iNF517
+GLUDC	['R_ARGDh', 'ARGDh', 'R_GLUDC', 'GLUDC']	MNXR95942	GLUTDECARBOX-RXN	R00261	rxn00194	rea	iNF517
+GLUPRT	['PRDPARh', 'R_PRDPARh', 'R_GLUPRT', 'GLUPRT']	MNXR100287	PRPPAMIDOTRANS-RXN	R01072	rxn00790	rea	iNF517
+GLUR	['GLUR', 'R_GLUR']	MNXR100288	GLUTRACE-RXN	R00260	rxn00193	rea	iNF517
+GLUSy	['R_GLUSy', 'GLUSy', 'R_GLUS_nadph', 'GLUS_nadph']	MNXR100291	GLUTAMATESYN-RXN	R00114	rxn00085	rea	iNF517
+GLUTRS_2						rea	iNF517
+GLUTRS2						rea	iNF517
+GLUabc	['GLUabc', 'R_GLUabc', 'R_GLUabcpp', 'GLUabcpp']	MNXR100299	ABC-13-RXN		['rxn11235', 'rxn08627', 'rxn05146']	rea	iNF517
+GLYBabc	['GLYBabc', 'R_GLYBabc', 'GLYBabcpp', 'R_GLYBabcpp']	MNXR100314	TRANS-RXN-283		['rxn08637', 'rxn05181', 'rxn11216']	rea	iNF517
+GLYC3Pt6	['R_r2472', 'R_GLYC3Pt6pp', 'GLYC3Pt6pp', 'R_GLYC3Pt6', 'GLYC3Pt6', 'r2472']	MNXR100321	TRANS-RXN-22		['rxn10165', 'rxn08642']	rea	iNF517
+GLYCt	['GLYCt', 'GLYCt1', 'R_GLYCt1', 'GLYCtex', 'R_GLYCtex', 'GLYCtm', 'R_GLYCtm', 'GLYCtpp', 'R_GLYCtpp', 'R_GLYCt']	MNXR100343	TRANS-RXN-131		['rxn08658', 'rxn05581', 'rxn08654']	rea	iNF517
+GLYK	['R_GLYK', 'GLYK', 'GLYKm', 'R_GLYKm']	MNXR100348	GLYCEROL-KIN-RXN	R00847	rxn00615	rea	iNF517
+GLYTRS_1						rea	iNF517
+GLYt2r	['R_GLYt2m', 'GLYt2m', 'R_GLYtx', 'GLYtx', 'R_GLYt2pp', 'GLYth', 'GLYt2pp', 'R_GLYt2rL', 'GLYt2r', 'R_GLYt2r', 'GLYt2rL', 'R_GLYth']	MNXR100368	TRANS-RXN-62B		['rxn09748', 'rxn08660', 'rxn05582']	rea	iNF517
+GMPR	['GMPR', 'R_GMPR']	MNXR100382	GMP-REDUCT-RXN	R01134	rxn00837	rea	iNF517
+GMPS2	['R_GMPS2', 'R_GMPS_glu_m', 'GMPS_glu_m', 'GMPS2']	MNXR138486		R01231		rea	iNF517
+GNKr	['GNKr', 'R_GNKr', 'R_GNK', 'R_GNKh', 'GNKh', 'GNK']	MNXR100390	GLUCONOKIN-RXN	R01737	rxn01275	rea	iNF517
+GPDDA1	['GPDDA1', 'GPDDA1pp', 'R_GPDDA1pp', 'R_GPDDA1']	MNXR100410	3.1.4.2-RXN	R01030		rea	iNF517
+GPDDA2	['GPDDA2', 'R_GPDDA2', 'GPDDA2pp', 'R_GPDDA2pp']	MNXR100411	RXN-14160	R01470		rea	iNF517
+GPDDA3	['GPDDA3', 'R_GPDDA3', 'GPDDA3pp', 'R_GPDDA3pp']	MNXR100412	RXN-14136		rxn08668	rea	iNF517
+GPDDA4	['R_GPDDA4pp', 'R_GPDDA4', 'GPDDA4', 'GPDDA4pp']	MNXR100413	RXN-14073		rxn08669	rea	iNF517
+GPDDA5	['GPDDA5pp', 'GPDDA5', 'R_GPDDA5', 'R_GPDDA5pp']	MNXR100414	3.1.4.44-RXN	R01193	rxn00889	rea	iNF517
+GRTT	['R_GRTTx', 'GRTTx', 'R_GRTT', 'GRTT', 'R_FPPSh', 'FPPSh']	MNXR99634	FPPSYN-RXN	R02003	rxn01466	rea	iNF517
+GTHPi	['R_GTHPe_1', 'R_GTHPe', 'GTHPe_1', 'GTHPi', 'R_GTHPi', 'GTHPm', 'R_GTHPm', 'GTHPe']	MNXR100446	GLUTATHIONE-PEROXIDASE-RXN	R00274	rxn00205	rea	iNF517
+GTHOr	['R_GTHOm', 'GTHOm', 'R_GDR_nadp_h', 'GDR_nadp_h', 'GTHOr', 'R_GTHOr']	MNXR100098	GLUTATHIONE-REDUCT-NADPH-RXN	R00115	rxn00086	rea	iNF517
+GTPCI	['R_GTPCI_2', 'R_GTPCIn', 'GTPCI_1', 'R_GTPCI', 'GTPCI', 'GTPCI_2', 'R_GTPCI_1', 'GTPCIn']	MNXR138491				rea	iNF517
+GTPCII	['R_GTPDH', 'GTPDH', 'R_GTPCII', 'GTPCII']	MNXR100454				rea	iNF517
+GTPDPK	['GTPDPK_1', 'GTPDPK', 'R_GTPDPK_1', 'R_GTPDPK']	MNXR100457	GTPPYPHOSKIN-RXN	R00429	rxn00303	rea	iNF517
+GUAPRT	['R_GUAPRT', 'GUAPRT', 'R_GPAR', 'GPAR']	MNXR100409	GUANPRIBOSYLTRAN-RXN	R01229	rxn00915	rea	iNF517
+GUAt2r	['GUAt2pp', 'R_GUAt2pp', 'GUAt2r', 'R_GUAt2r']	MNXR100466			['rxn08681', 'rxn05203']	rea	iNF517
+GUI1	['R_GUI1', 'GUI1']	MNXR100468		R01482		rea	iNF517
+GUI2	['R_GUI2', 'GUI2']	MNXR100469		R01983	rxn01457	rea	iNF517
+H2Ot	['R_H2Otp', 'R_H2Otn_1', 'H2Otp', 'H2Otn_1', 'H2Otpp', 'H2Otv', 'H2Ots', 'R_H2Ots', 'H2Otu_syn', 'R_H2Otu_syn', 'R_H2Otv', 'R_H2Otpp', 'R_H2Otn', 'H2Otex', 'R_H2Otm', 'R_H2Oter', 'H2Oter', 'R_H2Ot', 'H2Ot', 'R_H2Otex', 'R_EX_oh1_e', 'EX_oh1_e', 'H2Otn', 'EX_h2o_e', 'R_EX_h2o_e', 'H2Otm', 'R_H2Otf', 'R_H2Otly', 'H2Otg', 'R_H2Otg', 'H2Oth', 'H2Otly', 'R_H2Othu', 'H2Othu', 'H2Otf', 'R_H2Oth']	MNXR98641	['TRANS-RXN0-547', 'TRANS-RXN-145']		['rxn09838', 'rxn09874', 'rxn09812', 'rxn09745', 'rxn09643', 'rxn08687', 'rxn08686', 'rxn05319']	rea	iNF517
+HARAAT						rea	iNF517
+H2St1	['R_H2St', 'H2St1pp', 'R_H2St1', 'H2St1', 'H2St', 'R_H2Stex', 'R_H2St1pp', 'H2Stex']	MNXR100494	TRANS-RXN-310		['rxn10541', 'rxn08689', 'rxn08690']	rea	iNF517
+HBUHL1						rea	iNF517
+HBUR1						rea	iNF517
+HCO3E	['HCO3Ehi', 'R_HCO3En', 'HCO3En', 'R_HCO3Em_1', 'HCO3Em_1', 'R_HCO3Em', 'HCO3Em', 'R_HCO3Ehi', 'R_HCO3Ee', 'HCO3Ee', 'R_HCO3E_1', 'HCO3E_1', 'R_HCO3E', 'HCO3E']	MNXR100482	RXN0-5224	R10092	rxn00102	rea	iNF517
+HCYSMT	['R_HCYSMT', 'HCYSMT']	MNXR138506	HOMOCYSTEINE-S-METHYLTRANSFERASE-RXN	R00650		rea	iNF517
+HDDHL5						rea	iNF517
+HDDR5						rea	iNF517
+HDEHL4						rea	iNF517
+HDER4						rea	iNF517
+HDMAT7						rea	iNF517
+HEMAT2						rea	iNF517
+HETZK	['R_HETZK', 'HETZK']	MNXR100611	THIAZOLSYN3-RXN	R04448	rxn03075	rea	iNF517
+HEX1	['HEX1', 'R_HEX1']	MNXR100612		R00299	rxn00216	rea	iNF517
+HHDHL7						rea	iNF517
+HHDR7						rea	iNF517
+HHYHL2						rea	iNF517
+HHYR2						rea	iNF517
+HIBD	['HIBD', 'R_HIBD']	MNXR100632				rea	iNF517
+HISTD	['R_HDH', 'HDHh', 'R_HDHh', 'HISTD', 'R_HISTD', 'HDH']	MNXR100587	RXN-8001	R01158	rxn00859	rea	iNF517
+HISTP	['HP', 'R_HP', 'HPh', 'R_HPh', 'R_HISTP', 'HISTP']	MNXR100642	HISTIDPHOS-RXN	R03013	rxn02160	rea	iNF517
+HISTRS_1						rea	iNF517
+HISt2r	['R_HISt2m', 'r1427', 'R_HISth', 'HISth', 'R_HISt2rpp', 'HIShPTtc', 'R_HIShPTtc', 'HISt2m', 'R_r1427', 'HISt2r', 'R_HISt2r', 'HISt2rpp']	MNXR100645			['rxn08719', 'rxn05299', 'rxn09744', 'rxn11327']	rea	iNF517
+HMGCOAR	['R_HMGCOARr', 'HMGCOARr', 'HMGCOARx', 'R_HMGCOARx', 'R_HMGCOARi', 'R_HMGCOAR', 'HMGCOARi', 'HMGCOAR']	MNXR100659				rea	iNF517
+HMGCOAS	['HMGCOASim', 'r0463', 'R_MHGS', 'MHGS', 'R_HMGCOASm', 'HMGCOASm', 'R_HMGCOASim', 'R_r0463', 'R_HMGCOASi', 'R_HMGCOAS', 'HMGCOAS', 'HMGCOASi']	MNXR100660				rea	iNF517
+HMPK1	['R_HMPK1', 'HMPK1']	MNXR100664	OHMETPYRKIN-RXN	R03471	rxn02484	rea	iNF517
+HOCHL3						rea	iNF517
+HOCR3						rea	iNF517
+HODHL8						rea	iNF517
+HODR8						rea	iNF517
+HPPK	['R_HPPK_1', 'HPPKm', 'HPPK_1', 'R_HPPKm', 'HPPK', 'R_HPPK']	MNXR138523				rea	iNF517
+HSERTA	['R_HSERTA', 'HSERTA']	MNXR100736	HOMOSERINE-O-ACETYLTRANSFERASE-RXN	R01776	rxn01303	rea	iNF517
+HSDy	['R_HSDyi', 'HSDyi', 'HSDy', 'R_HSDy', 'R_HSDH', 'HSDH']	MNXR100734		R01775	rxn01302	rea	iNF517
+HSK	['HSK', 'R_HSK', 'HSK_1', 'R_HSK_1']	MNXR100737	HOMOSERKIN-RXN	R01771	rxn01300	rea	iNF517
+HSST	['R_HSST', 'HSST']	MNXR100741	HOMSUCTRAN-RXN	R01777	rxn01304	rea	iNF517
+HSTPTr	['R_HSTPTr', 'HSTPTr', 'R_HSTPT', 'HSTPT', 'R_AOOAh', 'AOOAh', 'R_AOOA', 'AOOA']	MNXR95852	HISTAMINOTRANS-RXN	R03243	rxn02320	rea	iNF517
+HTDHL6						rea	iNF517
+HTDR6						rea	iNF517
+HXANt2r	['R_HXANt2r', 'R_HXANt2pp', 'HXANt2pp', 'HXANt2r']	MNXR100748			rxn05201	rea	iNF517
+HXPRT	['HXPRT', 'R_HXPRT']	MNXR100752	HYPOXANPRIBOSYLTRAN-RXN	R01132	rxn00836	rea	iNF517
+ICDHyr	['R_ICDHyr', 'ICDHyr', 'ICDHhr', 'R_ICDHhr', 'ICDHym', 'R_ICDHym', 'ICDHyp', 'R_ICDHyp']	MNXR100781		R00267	rxn00198	rea	iNF517
+ICHORS	['ICHORS', 'R_ICHORS']	MNXR100784	ISOCHORSYN-RXN	R01717	rxn01258	rea	iNF517
+IG3PS_1	['R_IMGPSh', 'R_IG3PS', 'IG3PS_1', 'IMGPSh', 'R_IG3PS_1', 'IG3PS']	MNXR100811	GLUTAMIDOTRANS-RXN	R04558	rxn03135	rea	iNF517
+IGPDH_1	['R_IGPDH', 'IGPDH_1', 'R_IGPDH_1', 'IGPDh', 'R_IGPDh', 'IGPDH']	MNXR100813	IMIDPHOSDEHYD-RXN	R03457	rxn02473	rea	iNF517
+IGPS	['IGPS_1', 'R_IGPS', 'R_IGPS_1', 'IGPS']	MNXR100814	IGPSYN-RXN	R03508	rxn02507	rea	iNF517
+ILETA	['BCTA', 'R_BCTA', 'R_ILETAm', 'ILETA', 'R_BCTAh', 'BCTAh', 'ILETAm', 'R_ILETA']	MNXR96228	BRANCHED-CHAINAMINOTRANSFERILEU-RXN	R02199	rxn01575	rea	iNF517
+ILETRS_1						rea	iNF517
+ILEt2r	['R_ILEtm', 'ILEtm', 'R_ILEth', 'ILEth', 'R_ILEt7', 'ILEt7', 'R_ILEt2rpp', 'ILEt2rpp', 'R_ILEt2r', 'ILEt2r']	MNXR100822			['rxn05244', 'rxn08746', 'rxn13322']	rea	iNF517
+IMPC	['IMPC', 'R_IMPC', 'ICH', 'R_ICH']	MNXR100783	IMPCYCLOHYDROLASE-RXN	R01127	rxn00832	rea	iNF517
+IMPD	['IMPDm', 'R_IMPDm', 'R_IMPD', 'IMPD']	MNXR138530		R01130		rea	iNF517
+INSt2	['R_INSt2pp', 'INSt2pp', 'R_INSt2', 'INSt2']	MNXR100850	TRANS-RXN-108G		['rxn05316', 'rxn08753']	rea	iNF517
+IPDDI	['R_IPDDIx', 'R_IPDDI', 'IPDDI', 'R_IDIh', 'IDIh', 'IPDDIx']	MNXR100796	IPPISOM-RXN	R01123	rxn00830	rea	iNF517
+IPPMIa	['IMDHT_3c2hmp', 'IPPMIa', 'R_IPPMIa', 'R_IMDHT_3c2hmp']	MNXR100827	RXN-8991	R04001		rea	iNF517
+IPPMIb	['R_IPPMIb', 'IPPMIb', 'R_IMDHT', 'IMDHT']	MNXR100826	3-ISOPROPYLMALISOM-RXN	R03968		rea	iNF517
+kaasIII						rea	iNF517
+KARA1	['DMORh', 'R_DMORh', 'R_KARA1im', 'KARA1im', 'R_KARA1i', 'KARA1', 'R_KARA1', 'KARA1i']	MNXR97523	ACETOLACTREDUCTOISOM-RXN	R04439		rea	iNF517
+KARA2	['R_KARA2', 'KARA2im', 'R_KARA2im', 'KARA2']	MNXR100902	ACETOOHBUTREDUCTOISOM-RXN			rea	iNF517
+LACZ	['LACZ', 'R_LACZpp', 'R_LACZly', 'LACZly', 'R_LACZe', 'LACZe', 'R_LACZ', 'LACZpp']	MNXR101000		['R01100', 'R06114']	['rxn11244', 'rxn00816']	rea	iNF517
+LCTSt	['LCTSt', 'R_LCTSt', 'LCTStpp', 'R_LCTStpp']	MNXR101025			['rxn08781', 'rxn10169']	rea	iNF517
+LDH_L	['LLDHh', 'R_LLDHh', 'r0173', 'R_r0173', 'R_LDH_Lm', 'LDH_Lm', 'R_LDH_L', 'LDH_L']	MNXR101040	L-LACTATE-DEHYDROGENASE-RXN	R00703	rxn00499	rea	iNF517
+LEUTA	['R_BCTA_glu_h', 'BCTA_glu_h', 'R_LEUTAi', 'R_LEUTA', 'LEUTA', 'R_LEUTAm', 'LEUTAi', 'LEUTAm']	MNXR96229	BRANCHED-CHAINAMINOTRANSFERLEU-RXN	R01090	rxn00806	rea	iNF517
+LEUTRS_1						rea	iNF517
+LEUt2r	['LEUth', 'R_LEUtm', 'LEUt2r', 'R_LEUt2r', 'LEUt2rpp', 'R_LEUt2rpp', 'LEUt7', 'R_LEUt7', 'R_LEUth', 'LEUtm']	MNXR101055			['rxn13340', 'rxn11119', 'rxn05243', 'rxn08785']	rea	iNF517
+LPGS_LLA						rea	iNF517
+LTAS_LLA						rea	iNF517
+LYSTRS_1						rea	iNF517
+LYSt2r	['LYSt2m', 'R_LYSt2r', 'LYSt2pp', 'R_LYSt2pp', 'LYSt2r', 'R_LYSt2m']	MNXR101266	TRANS-RXN-58		['rxn09740', 'rxn08854', 'rxn09674']	rea	iNF517
+L_LACt2r	['L_LACt2r', 'R_r2516', 'r2516', 'R_L_LACtm', 'L_LACtm', 'R_L_LACt2rpp', 'L_LACt2rpp', 'R_L_LACt2r']	MNXR101277	TRANS-RXN-104		['rxn05602', 'rxn08794', 'rxn13334']	rea	iNF517
+M1PD	['R_M1PD', 'M1PD']	MNXR138563		R00758	['rxn13933', 'rxn13142', 'rxn00546', 'rxn13943']	rea	iNF517
+MACPMT						rea	iNF517
+MALLAC						rea	iNF517
+MPL	['R_MPL', 'MPL']	MNXR101717		['R06040', 'R01555']	rxn01132	rea	iNF517
+MALT	['MALT', 'R_MALT', 'MALTe', 'R_MALTe', 'MALTly', 'R_MALTly']	MNXR101350		R00028	rxn00022	rea	iNF517
+MALTATr	['MALTATr', 'R_MALTATr']	MNXR101351	MALTACETYLTRAN-RXN	['R01556', 'R06251']	rxn01133	rea	iNF517
+MALTabc	['MALTabc', 'MALTabcpp', 'R_MALTabc', 'R_MALTabcpp']	MNXR101362	['ABC-16-RXN', '3.6.3.19-RXN']		['rxn08867', 'rxn05170']	rea	iNF517
+MALt2r	['MALt2r', 'R_MALt2r', 'MALtpp', 'R_MALtpp']	MNXR101372			rxn05605	rea	iNF517
+MAN6PI	['MAN6PI', 'R_MAN6PI']	MNXR138575		R00772	rxn00559	rea	iNF517
+MANAO	['MANAO', 'R_MANAO']	MNXR101389	MANNONOXIDOREDUCT-RXN	R02454	rxn01775	rea	iNF517
+MANpts	['R_MANptspp', 'MANpts', 'MANptspp', 'R_MANpts']	MNXR138580			['rxn05610', 'rxn08885']	rea	iNF517
+MCMAT2						rea	iNF517
+MCMAT3						rea	iNF517
+MCMAT4						rea	iNF517
+MCMAT5						rea	iNF517
+MCMAT6						rea	iNF517
+MCMAT7						rea	iNF517
+MCMAT8						rea	iNF517
+AHSERL2	['AHHST', 'R_AHHST', 'AHSERL2', 'R_AHSERL2']	MNXR138035	ACETYLHOMOSER-CYS-RXN	R01287		rea	iNF517
+METAT	['MATm', 'R_MATm', 'METAT', 'R_METAT']	MNXR101407	S-ADENMETSYN-RXN	R00177	rxn00126	rea	iNF517
+METDabc	['R_METDabcpp', 'METDabc', 'R_METDabc', 'METDabcpp']	MNXR101472	TRANS-RXN0-202		['rxn05183', 'rxn08910']	rea	iNF517
+MTHFR3	['R_MTHFR3', 'MTHFR3', 'R_MTHFO_nadp', 'MTHFO_nadp', 'MTHFR3_1', 'R_MTHFR3_1']	MNXR101752		R01224		rea	iNF517
+METGL	['METGL', 'R_METGL']	MNXR101474	METHIONINE-GAMMA-LYASE-RXN	R00654	rxn00456	rea	iNF517
+METS	['R_METSm', 'R_METS_1', 'METSm', 'R_METS', 'METS', 'METS_1']	MNXR138591				rea	iNF517
+ARAT	['R_ARAT', 'ARAT', 'R_UNK3', 'UNK3']	MNXR95923	RXN-14147	R07396	rxn05108	rea	iNF517
+METTRS_1						rea	iNF517
+METabc	['METabc', 'R_METabc', 'METabcpp', 'R_METabcpp']	MNXR101489	RXN0-4522		['rxn11151', 'rxn08909', 'rxn05219']	rea	iNF517
+METt2r	['R_METt2r', 'METt2r', 'R_METt2m', 'METt2m']	MNXR101490			['rxn09738', 'rxn09672']	rea	iNF517
+MEVK1	['MEVK1x', 'R_MEVK1x', 'MEVK1', 'R_MEVK1']	MNXR101495	MEVALONATE-KINASE-RXN	R02245		rea	iNF517
+MI1PP	['MI1PP', 'R_MI1PP']	MNXR101570	RXN0-5408	R01185	rxn00881	rea	iNF517
+MNLpts	['MNLpts', 'R_MNLpts', 'MNLptspp', 'R_MNLptspp']	MNXR101677			['rxn08949', 'rxn05617', 'rxn13944', 'rxn13934']	rea	iNF517
+MNNH	['MNNH', 'R_MNNH']	MNXR138624	MANNONDEHYDRAT-RXN	R05606	rxn03885	rea	iNF517
+MNabc	['R_MNabc_1', 'R_MNabc', 'MNabc_1', 'MNabc']	MNXR101680	3.6.3.35-RXN		rxn05149	rea	iNF517
+MTAN	['MTAN', 'R_MTAN']	MNXR138642		R01401	rxn01021	rea	iNF517
+MTHFC	['R_MTHFC', 'MTHFC_1', 'MTHFC', 'MTHFCm', 'R_MTHFCm', 'R_MTHFCm_1', 'MTHFCx', 'R_MTHFCx', 'R_MTHFC_1', 'MTHFCm_1']	MNXR101748		R01655	rxn01211	rea	iNF517
+MTHFD	['MTHFDm_1', 'R_MTHFDm_1', 'MTHFD', 'R_MTHFD', 'MTHFD_1', 'R_MTHFD_1', 'MTHFDm', 'R_MTHFDm']	MNXR101749		R01220		rea	iNF517
+MHPGLUT	['MHPGLUT', 'R_MHPGLUT', 'MS', 'R_MS', 'R_MTHPTGHMr', 'MTHPTGHMr']	MNXR138611	HOMOCYSMET-RXN	R04405		rea	iNF517
+NACt	['NACDe', 'R_NACDe', 'NACt', 'NACtex', 'R_NACtex', 'NACtpp', 'R_NACtpp', 'R_NACt']	MNXR101808			['rxn08970', 'rxn08969', 'rxn05310']	rea	iNF517
+NADH4	['NADH4', 'R_NADH4']	MNXR101871				rea	iNF517
+NADK	['NADK', 'R_NADK', 'NADKm', 'R_NADKm']	MNXR101882	NAD-KIN-RXN	R00104	rxn00077	rea	iNF517
+NADN	['R_NADNm', 'R_NADN', 'NADNe', 'R_NADNe', 'NADNm', 'NADN']	MNXR101888	['NADNUCLEOSID-RXN', 'RXN-13859']	R00102	['rxn00075', 'rxn13106', 'rxn14307']	rea	iNF517
+NADS1	['R_NADS1n', 'R_NADS1', 'NADS1m', 'NADS1', 'R_NADS1m', 'NADS1n']	MNXR101897	NAD-SYNTH-NH3-RXN	R00189	rxn00138	rea	iNF517
+NAPRT	['R_NAPRTm', 'NAPRT', 'R_NCTPPRT', 'R_NAPRT', 'NAPRTm', 'NCTPPRT']	MNXR101910			rxn01265	rea	iNF517
+NDPK1	['R_ATGDm', 'R_NDPK1n', 'NDPK1n', 'R_NDPK1m', 'NDPK1m', 'R_NDPK1', 'NDPK1', 'ATGDm']	MNXR96119	GDPKIN-RXN	R00330	rxn00237	rea	iNF517
+NDPK2	['R_NDPK2n', 'NDPK2n', 'R_NDPK2m', 'R_NDPK2', 'NDPK2', 'NDPK2m']	MNXR101935	UDPKIN-RXN	R00156	rxn00117	rea	iNF517
+NDPK3	['NDPK3', 'R_NDPK3', 'NDPK3m', 'R_NDPK3m', 'R_NDPK3n', 'NDPK3n']	MNXR101936	CDPKIN-RXN	R00570	rxn00409	rea	iNF517
+NDPK4	['NDPK4n', 'R_NDPK4m', 'NDPK4m', 'R_NDPK4', 'NDPK4', 'R_NDPK4n']	MNXR101937	DTDPKIN-RXN	R02093		rea	iNF517
+NDPK5	['R_NDPK5n', 'NDPK5n', 'R_NDPK5m', 'NDPK5m', 'R_NDPK5', 'R_ATDGDm', 'ATDGDm', 'NDPK5']	MNXR96118	DGDPKIN-RXN	R01857	rxn01353	rea	iNF517
+NDPK6	['R_NDPK6n', 'NDPK6n', 'R_NDPK6m', 'NDPK6m', 'R_NDPK6', 'NDPK6']	MNXR101938	DUDPKIN-RXN	R02331	rxn01678	rea	iNF517
+NDPK7	['NDPK7', 'R_NDPK7n', 'NDPK7n', 'R_NDPK7m', 'NDPK7m', 'R_NDPK7']	MNXR101939	DCDPKIN-RXN	R02326	rxn01673	rea	iNF517
+NDPK8	['NDPK8n', 'NDPK8', 'R_NDPK8', 'NDPK8m', 'R_NDPK8m', 'R_NDPK8n']	MNXR101940	DADPKIN-RXN	R01137	rxn00839	rea	iNF517
+NH3c	['R_NH3c', 'NH3c']	MNXR101948	RXN-11811			rea	iNF517
+NH4t	['NH4ti', 'NH4tpp', 'R_NH4tpp', 'R_NH4tp', 'R_NH4tn', 'NH4tn', 'R_NH4tm', 'NH4tm', 'NH4tp', 'R_NH4tex', 'NH4tex', 'R_NH4t', 'NH4t', 'R_NH4ti']	MNXR101950	['RXN-9615', 'TRANS-RXN0-206', 'TRANS-RXN0-544']		['rxn05466', 'rxn08986', 'rxn09736', 'rxn09835', 'rxn13364', 'rxn08987']	rea	iNF517
+NMNAT	['ANNAT', 'NMNATn', 'R_ANNAT', 'ANNATn', 'R_ANNATn', 'NMNAT', 'R_NMNAT', 'NMNATm', 'R_NMNATm', 'R_NMNATn']	MNXR95841	2.7.7.1-RXN	R00137	rxn00105	rea	iNF517
+NMNP	['R_NMNtex', 'R_NMNtn', 'NMNtn', 'NMNPtpp', 'R_NMNPtpp', 'NMNP', 'R_NMNP', 'NMNtex']	MNXR101972			['rxn10181', 'rxn08995', 'rxn08997']	rea	iNF517
+NNAM	['R_NNAMrm', 'NNAMrm', 'R_NNAM', 'NNAM']	MNXR101977	NICOTINAMID-RXN	R01268	rxn00938	rea	iNF517
+NNATr	['NNATm', 'R_NNATm', 'R_NNATr', 'R_NNATn', 'NNATn', 'NNATr']	MNXR101978	NICONUCADENYLYLTRAN-RXN	R03005	rxn02155	rea	iNF517
+NOX	['R_NOX', 'NOX']	MNXR102010	RXN-14691	R07171	rxn04957	rea	iNF517
+NOX2						rea	iNF517
+NPHS	['NPHS', 'R_NPHS']	MNXR102012		R04150		rea	iNF517
+NADHPO	['R_NADHPO', 'NADHPO']	MNXR101879	NADH-PEROXIDASE-RXN	R00090	rxn00066	rea	iNF517
+O2t	['O2trhu', 'O2t', 'R_O2trhu', 'O2tu', 'R_O2tu', 'O2tpp', 'R_O2tp', 'O2tp', 'R_O2tn', 'R_O2tpp', 'O2tn', 'O2tm', 'R_O2thr', 'O2thr', 'O2tex', 'R_O2ter', 'O2ter', 'R_O2t', 'R_O2tm', 'R_O2tex']	MNXR102090	TRANS-RXN0-474		['rxn09641', 'rxn09032', 'rxn09031', 'rxn05468', 'rxn09734']	rea	iNF517
+OCBT_1	['OCT', 'OCTh', 'OCTm', 'R_OCTh', 'R_OCT', 'R_OCBTm', 'OCBTm', 'R_OCBT_1', 'R_OCTm', 'OCBT_1', 'OCBT', 'R_OCBT']	MNXR102137	['RXN-13482', 'ORNCARBAMTRANSFER-RXN']	R01398		rea	iNF517
+OCDMAT8						rea	iNF517
+OCMAT3						rea	iNF517
+OHPBAT	['R_OHPBAT', 'OHPBAT']	MNXR102169	PSERTRANSAMPYR-RXN	R05085	rxn03445	rea	iNF517
+OIVD1r	['OIVD1m', 'R_OIVD1m', 'OIVD1r', 'R_OIVD1r']	MNXR102172	2KETO-4METHYL-PENTANOATE-DEHYDROG-RXN	R01651	rxn01207	rea	iNF517
+OIVD2	['OIVD2', 'R_OIVD2', 'OIVD2m', 'R_OIVD2m']	MNXR102173	1.2.1.25-RXN	R01210	rxn00899	rea	iNF517
+OIVD3	['R_OIVD3', 'OIVD3m', 'R_OIVD3m', 'OIVD3']	MNXR102174	2KETO-3METHYLVALERATE-RXN		rxn02269	rea	iNF517
+OMPDC	['R_OMPDC', 'OMPDC']	MNXR102190	OROTPDECARB-RXN	R00965	rxn00710	rea	iNF517
+ORNCD_1						rea	iNF517
+ORNTAC_1	['R_ORNTAC', 'R_ORNTAC_1', 'ORNTACim', 'R_ORNTACim', 'ORNTAC_1', 'ORNTAC']	MNXR102221	GLUTAMATE-N-ACETYLTRANSFERASE-RXN	R02282	rxn01636	rea	iNF517
+OROATP	['OROATP', 'R_OROATP']	MNXR102227			rxn10978	rea	iNF517
+ORPT	['ORPT', 'R_ORPT']	MNXR102231	OROPRIBTRANS-RXN	R01870	rxn01362	rea	iNF517
+P5CR	['PRO1y', 'P5CR', 'R_P5CR', 'P5CRm', 'R_P5CRm', 'R_PRO1y']	MNXR102302			rxn00931	rea	iNF517
+4ABZt	['4ABZt', 'R_ABZtex', 'R_4ABZt', '4ABZtm', 'R_4ABZtm', 'ABZtex']	MNXR94995			['rxn09794', 'rxn13206']	rea	iNF517
+PACALDt	['PACALDt', 'R_PACALDt', 'R_PACALDtm', 'R_PACALDtex', 'PACALDtm', 'PACALDtex']	MNXR102312	TRANS-RXN0-284		['rxn13373', 'rxn09061', 'rxn13374']	rea	iNF517
+PAPPT1	['R_PAPPT1', 'PAPPT1']	MNXR138683			rxn03902	rea	iNF517
+PAP_LLA						rea	iNF517
+PC	['PC', 'R_PC', 'PCm', 'R_PCm']	MNXR102391	PYRUVATE-CARBOXYLASE-RXN	R00344	rxn00250	rea	iNF517
+PDH	['R_PDH', 'PDH', 'R_PDHm', 'PDHm']	MNXR102425	PYRUVDEH-RXN	R00209	rxn00154	rea	iNF517
+PEAt						rea	iNF517
+PFK	['PFK', 'R_PFK']	MNXR138694		R00756	rxn00545	rea	iNF517
+PFK_2	['PFK_2', 'R_PFK_2']	MNXR102509	TAGAKIN-RXN	R03236	rxn02314	rea	iNF517
+PFL	['R_PFL', 'PFL', 'PFLACTm', 'R_PFLACTm', 'PFLh', 'R_PFLh']	MNXR102514	PYRUVFORMLY-RXN	R00212	rxn00157	rea	iNF517
+PGAMT	['PGAMT', 'R_PGAMT', 'PGAMTi', 'R_PGAMTi']	MNXR102526	5.4.2.10-RXN	R02060	rxn01485	rea	iNF517
+PGCD	['R_PGCD', 'PGCD', 'PGLYDH', 'R_PGLYDH']	MNXR102527	PGLYCDEHYDROG-RXN	R01513		rea	iNF517
+GND	['PGDHh', 'R_PGDHh', 'GNDer', 'GND', 'R_GNDer', 'R_GND']	MNXR100389	RXN-9952	R01528	rxn01115	rea	iNF517
+BGLA1	['BGLA1', 'R_BGLA1']	MNXR96242				rea	iNF517
+PGGT2						rea	iNF517
+PGI	['R_PGI', 'PGI']	MNXR138699		R00771	rxn00558	rea	iNF517
+PGK	['R_PGKm', 'R_PGKh', 'PGKh', 'PGKm', 'PGKf', 'R_PGK_1', 'PGK_1', 'R_PGK', 'PGK', 'R_PGKf']	MNXR102538	PHOSGLYPHOS-RXN	R01512		rea	iNF517
+PGL	['PGL', 'R_PGL', 'PGLer', 'R_PGLer', 'PGLh', 'R_PGLh']	MNXR102539	6PGLUCONOLACT-RXN	R02035	rxn01476	rea	iNF517
+PGM	['R_PGM_1', 'R_PGMm', 'PGM', 'R_PGM', 'PGM_1', 'PGMf', 'R_PGMf', 'PGMm']	MNXR102547	['3PGAREARR-RXN', 'RXN-15513']	R01518		rea	iNF517
+PGMT	['PGMT', 'R_PGMT']	MNXR102548		R08639	rxn00704	rea	iNF517
+PGMT_B	['PGMT_B', 'R_PGMT_B']	MNXR102549	BETA-PHOSPHOGLUCOMUTASE-RXN	R02728	rxn01967	rea	iNF517
+PGPP_LLA						rea	iNF517
+PGSA_LLA						rea	iNF517
+PHETRS_1						rea	iNF517
+PHEt2r	['R_PHEt2r', 'R_PHEt2rpp', 'R_r1455', 'r1455', 'PHEt2rpp', 'PHEt2r', 'R_PHEt2m', 'PHEt2m']	MNXR102635	TRANS-RXN-56		['rxn05306', 'rxn09117', 'rxn09724', 'rxn11337']	rea	iNF517
+PPYRDC	['PPYRDC', 'R_PPYRDC']	MNXR138719		R01377	rxn01003	rea	iNF517
+PHPYROX						rea	iNF517
+PIabc	['R_PIuabcpp', 'R_PIabc', 'PIuabcpp', 'PIabc']	MNXR102870	ABC-27-RXN		['rxn05145', 'rxn09122']	rea	iNF517
+PMEVK	['PMEVK', 'R_PMEVK', 'PMEVKx', 'R_PMEVKx']	MNXR103043	PHOSPHOMEVALONATE-KINASE-RXN	R03245	rxn02322	rea	iNF517
+PMPK	['R_PMPK', 'PMPK']	MNXR103045	PYRIMSYN3-RXN	R04509	rxn03108	rea	iNF517
+PNTK	['R_PNTKm', 'PNTKm', 'R_PNTK', 'PNTK']	MNXR103050	PANTOTHENATE-KIN-RXN		rxn12510	rea	iNF517
+PNTOt2	['PNTOt2', 'R_PNTOt2']	MNXR103053			rxn05308	rea	iNF517
+POR	['POR_2', 'R_POR', 'R_POR_2', 'POR']	MNXR103060				rea	iNF517
+PPA	['R_IDPh', 'R_PPA_1', 'PPA_1pp', 'PPA', 'R_IDPm', 'R_PPA_1pp', 'PPAer', 'R_PPAer', 'PPAm', 'R_PPAm', 'PPAn', 'R_PPAn', 'r0009', 'R_r0009', 'IDPh', 'R_PPA', 'PPA_1', 'IDPm']	MNXR100808	INORGPYROPHOSPHAT-RXN	R00004	['rxn00001', 'rxn11226']	rea	iNF517
+PPCDC	['R_PPCDC', 'PPCDC', 'R_r0614', 'r0614']	MNXR138714		R03269		rea	iNF517
+PPIabc	['PPIabc', 'R_PPIabc']	MNXR103111			rxn05635	rea	iNF517
+PPM	['R_PPMh', 'PPMh', 'R_PPM', 'PPM']	MNXR103115	RXN-14456			rea	iNF517
+PPM2	['PPM2', 'R_PPM2']	MNXR138715		R02749		rea	iNF517
+PPNCL	['R_PPNCL', 'PPNCL']	MNXR103118			rxn10003	rea	iNF517
+PPND	['PPND', 'R_PPND', 'PPOR_1', 'R_PPOR_1']	MNXR103121	PREPHENATEDEHYDROG-RXN	R01728	rxn01268	rea	iNF517
+PPNDH	['PPNDH', 'R_PPNDH']	MNXR138717		R01373	rxn01000	rea	iNF517
+PRAGSr	['R_PRAGSr', 'PPRGL', 'R_PPRGL', 'PRAGSr', 'R_PPRGLh', 'PPRGLh']	MNXR103139	GLYRIBONUCSYN-RXN	R04144	rxn02895	rea	iNF517
+PRAIi	['R_PRAIi', 'PRAIi', 'R_PRAI', 'PRAI']	MNXR103156	PRAISOM-RXN	R03509	rxn02508	rea	iNF517
+PRAIS_1	['PRAIS_1', 'R_PRFGCLh', 'PRFGCLh', 'R_PRFGCL', 'PRAIS', 'PRFGCL', 'R_PRAIS_1', 'R_PRAIS']	MNXR138720				rea	iNF517
+PRAMPC_1	['R_PRAMPC', 'PRAMPC_1', 'PRACHh', 'R_PRACHh', 'R_PRAMPC_1', 'PRAMPC']	MNXR103154	HISTCYCLOHYD-RXN	R04037	rxn02835	rea	iNF517
+PRASCSi	['R_PRASCSi', 'PRASCSi', 'R_PRAISh', 'PRAISh']	MNXR108987	SAICARSYN-RXN	R04591		rea	iNF517
+PRATPP	['PRADPh', 'R_PRADPh', 'R_PRATPP', 'PRATPP']	MNXR103155	HISTPRATPHYD-RXN		rxn02834	rea	iNF517
+PREN						rea	iNF517
+PRFGS_1	['PRFGS', 'PRFGS_1', 'R_PRFGS_1', 'PRFGSh', 'R_PRFGSh', 'R_PRFGS']	MNXR138721				rea	iNF517
+PRMICI	['PRICIh', 'PRMICI', 'R_PRMICI', 'R_PRICIh']	MNXR103169	PRIBFAICARPISOM-RXN	R04640	rxn03175	rea	iNF517
+PROTRS_1						rea	iNF517
+PROTS_LLA						rea	iNF517
+PROTS_LLA_v2						rea	iNF517
+PROTS_LLA_v3						rea	iNF517
+PROabc	['R_PROabc', 'PROabcpp', 'R_PROabcpp', 'PROabc']	MNXR103210	ABC-26-RXN		['rxn05165', 'rxn09187']	rea	iNF517
+PROt3						rea	iNF517
+PRPPS	['R_PRPPS', 'RPDPK', 'R_RPDPK', 'PRPPS']	MNXR103215				rea	iNF517
+PSCVT	['R_PSCVT', 'PSCIT', 'R_PSCIT', 'PSCVT']	MNXR103226	2.5.1.19-RXN	R03460	rxn02476	rea	iNF517
+PSERT	['PSAT', 'R_PSAT', 'PSERT', 'R_PSERT']	MNXR103225	PSERTRANSAM-RXN	R04173	rxn02914	rea	iNF517
+PSP_L	['R_PSP_Lpp', 'PSP', 'R_PSP', 'PSP_L', 'R_PSP_L', 'PSP_Lpp']	MNXR103260	RXN0-5114	R00582	rxn00420	rea	iNF517
+YUMPS	['YUMPS', 'R_YUMPS', 'PSUDS', 'R_PSUDS']	MNXR103310				rea	iNF517
+PTAILE						rea	iNF517
+PTALEU						rea	iNF517
+PTAVAL						rea	iNF517
+PTAr	['PTAr', 'R_PTArh', 'PTArm', 'R_PTAr', 'R_PTArm', 'PTArh']	MNXR103319	PHOSACETYLTRANS-RXN	R00230	rxn00173	rea	iNF517
+PTPATi	['APPAT', 'PTPATe', 'R_PTPATe', 'R_PTPATi', 'PTPATim', 'R_PTPATim', 'R_APPAT', 'PTPATi']	MNXR138056		R03035		rea	iNF517
+PTRCabc	['PTRCabc', 'PTRCabcpp', 'R_PTRCabcpp', 'R_PTRCabc']	MNXR103338	ABC-25-RXN		['rxn05163', 'rxn09213', 'rxn11263']	rea	iNF517
+PUNP1	['R_PUNP1m', 'PUNP1m', 'R_PUNP1', 'PUNP1']	MNXR103343	ADENPHOSPHOR-RXN	R01561	rxn01138	rea	iNF517
+PUNP2	['R_PUNP2', 'PUNP2']	MNXR138728		R02557	rxn01859	rea	iNF517
+PUNP3	['R_PUNP3', 'R_PUNP3m', 'PUNP3m', 'PUNP3']	MNXR103345	RXN0-5199	R02147	rxn01548	rea	iNF517
+PUNP4	['R_PUNP4', 'PUNP4']	MNXR138729		R01969	rxn01446	rea	iNF517
+PUNP5	['PUNP5', 'R_PUNP5']	MNXR103347	INOPHOSPHOR-RXN	R01863	rxn01358	rea	iNF517
+PUNP6	['PUNP6', 'R_PUNP6']	MNXR138730		R02748	rxn01985	rea	iNF517
+PUNP7	['PUNP7', 'R_PUNP7']	MNXR103349	XANTHOSINEPHOSPHORY-RXN	R02297	rxn01649	rea	iNF517
+PYK	['R_PYKm', 'R_PYK', 'PYKf', 'PYKm', 'PYK', 'R_PYKf']	MNXR103371	PEPDEPHOS-RXN	R00200	rxn00148	rea	iNF517
+PYNP1	['R_PYNP1', 'PYNP1']	MNXR103376		R02296	rxn01648	rea	iNF517
+PYNP2r	['R_PYNP2r', 'PYNP2r']	MNXR103377	URPHOS-RXN	R01876	rxn01366	rea	iNF517
+PYNP4						rea	iNF517
+PYROX_1						rea	iNF517
+PYRt2	['R_PYRt2rpp', 'PYRt2rpp', 'R_PYRt2p', 'PYRt2p', 'R_PYRt2', 'PYRt2', 'R_PYRt2m', 'PYRt2m']	MNXR103385			['rxn05469', 'rxn09217', 'rxn09717', 'rxn09832']	rea	iNF517
+RBFK	['RBFK', 'R_RBFK', 'RBFKm', 'R_RBFKm']	MNXR103429	RIBOFLAVINKIN-RXN	R00549	rxn00392	rea	iNF517
+RBFSa	['DLDLBT', 'R_RBFSa', 'RBFSa', 'R_DLDLBT']	MNXR97501	LUMAZINESYN-RXN	R04457	rxn03080	rea	iNF517
+RBFSb	['RBFSb', 'R_RBFSb', 'RIBFS', 'R_RIBFS']	MNXR103430	RIBOFLAVIN-SYN-RXN	R00066	rxn00048	rea	iNF517
+RBK	['RBK', 'R_RBK']	MNXR103431				rea	iNF517
+RHCYS	['R_RHCYS', 'RHCYS']	MNXR138793				rea	iNF517
+RIBFLVt2	['R_RIBFLVt2', 'RIBFLVt2']	MNXR104030			rxn05645	rea	iNF517
+RIBabc	['RIBabc', 'R_RIBabc', 'RIBabcpp', 'R_RIBabcpp']	MNXR104034			['rxn09227', 'rxn05160']	rea	iNF517
+RIBt2	['RIBt2', 'R_RIBt2']	MNXR104037			rxn09663	rea	iNF517
+RNAS_LLA						rea	iNF517
+RNDR1	['R_RNDR1n', 'RNDR1n', 'R_RNDR1', 'RNDR1']	MNXR104060	ADPREDUCT-RXN	R02017	rxn05231	rea	iNF517
+RNDR2	['RNDR2', 'R_RNDR2', 'RNDR2n', 'R_RNDR2n']	MNXR104062	GDPREDUCT-RXN	R02019	rxn05233	rea	iNF517
+RNDR3	['RNDR3n', 'R_RNDR3n', 'R_RNDR3', 'RNDR3']	MNXR104064	CDPREDUCT-RXN	R02024	rxn06076	rea	iNF517
+RNDR4	['RNDR4', 'R_RNDR4', 'RNDR4n', 'R_RNDR4n']	MNXR104066	UDPREDUCT-RXN	R02018	rxn06075	rea	iNF517
+RNTR1	['RNTR1', 'R_RNTR1']	MNXR104070		R02014	rxn05232	rea	iNF517
+RNTR2	['R_RNTR2', 'RNTR2']	MNXR104073		R02020	rxn05234	rea	iNF517
+RNTR3	['RNTR3', 'R_RNTR3']	MNXR104076		R02022	rxn05235	rea	iNF517
+RNTR4	['RNTR4', 'R_RNTR4']	MNXR104079		R02023	rxn05236	rea	iNF517
+RPE	['RPE', 'R_RPE', 'RPEh', 'R_RPEh']	MNXR104083	RIBULP3EPIM-RXN	R01529	rxn01116	rea	iNF517
+RPI	['R_RPI', 'RPI', 'RPIh', 'r0249', 'R_RPIh', 'R_r0249']	MNXR104084				rea	iNF517
+S6PG	['R_6PHBG', 'S6PG', 'R_S6PG', '6PHBG']	MNXR95104			rxn09992	rea	iNF517
+S7PI_1						rea	iNF517
+SBTpts	['SBTpts', 'R_SBTpts', 'SBTptspp', 'R_SBTptspp']	MNXR104290			['rxn09242', 'rxn10184']	rea	iNF517
+SERAT	['R_SATm', 'SATm', 'SAT', 'SERAT', 'R_SAT', 'R_SERAT']	MNXR104275	SERINE-O-ACETTRAN-RXN	R00586	rxn00423	rea	iNF517
+SERD_L	['SERD_L', 'SER_AL', 'R_SER_AL', 'THRAL', 'R_THRAL', 'R_SERD_L']	MNXR104339	4.3.1.17-RXN	['R00223', 'R00220']	rxn00165	rea	iNF517
+SERTRS_1						rea	iNF517
+DSERt2	['DSERt2', 'R_DSERt2pp', 'DSERt2pp', 'R_DSERt2']	MNXR97798	RXN0-5130		['rxn08372', 'rxn05649']	rea	iNF517
+SERt2r	['SERt2rpp', 'R_SERt2rpp', 'SERth', 'R_SERt2r', 'R_SERth', 'SERt2m', 'SERt2r', 'R_SERt2m']	MNXR104352	TRANS-RXN-71		['rxn05307', 'rxn09246', 'rxn09714']	rea	iNF517
+SHK3Dr	['SHK3Dr', 'R_SHK3Dr', 'SKDH', 'R_SKDH']	MNXR104378	SHIKIMATE-5-DEHYDROGENASE-RXN	R02413	rxn01740	rea	iNF517
+SHKK	['R_SHKK', 'SKK', 'R_SKK', 'SHKK']	MNXR104379	SHIKIMATE-KINASE-RXN	R02412	rxn01739	rea	iNF517
+SHSL1	['SHSL1', 'R_SHSL1', 'SHSL1h', 'R_SHSL1h']	MNXR104380	O-SUCCHOMOSERLYASE-RXN	R03260		rea	iNF517
+METB1	['METB1', 'R_AHSL', 'AHSL', 'R_METB1']	MNXR95637		R03217		rea	iNF517
+SO4t2	['SO4t2', 'SO4t2pp', 'R_SO4t2pp', 'R_SO4t2']	MNXR104466			['rxn13116', 'rxn05651']	rea	iNF517
+SPODM	['R_SPODMx', 'R_SPODMn', 'SPODM', 'SPODMx', 'SPODMe', 'R_SPODMe', 'R_SPODM', 'R_SPODMm', 'SPODMn', 'SPODMpp', 'R_SPODMpp', 'SPODMm']	MNXR104498	SUPEROX-DISMUT-RXN	R00275		rea	iNF517
+SPMDAT1	['SPMDAT1', 'R_SPMDAT1']	MNXR104491	SPERMACTRAN-RXN		rxn09264	rea	iNF517
+SPMDAT2	['SPMDAT2', 'R_SPMDAT2']	MNXR104492	RXN0-7165		rxn09265	rea	iNF517
+SPMDabc	['R_SPMDabcpp', 'SPMDabcpp', 'SPMDabc', 'R_SPMDabc']	MNXR104494	ABC-24-RXN		['rxn05175', 'rxn09263', 'rxn11262']	rea	iNF517
+SPP	['R_SPP', 'SPP']	MNXR138833				rea	iNF517
+SUCBZL	['SUCBZL', 'R_SUCBZL']	MNXR104612	O-SUCCINYLBENZOATE-COA-LIG-RXN	R04030		rea	iNF517
+SUCBZS	['SUCBZS', 'R_SUCBZS']	MNXR104613				rea	iNF517
+SUCCt2r	['SUCCt2b', 'R_SUCCt2b', 'SUCCt2r', 'R_SUCCt2r', 'SUCCtpp', 'R_SUCCtpp']	MNXR104622			rxn05654	rea	iNF517
+SUCD1	['R_FRD', 'FRD', 'R_SUCDHh', 'SUCDHh', 'R_SUCD1m', 'SUCD1m', 'R_SUCD1', 'SUCD1', 'R_FRDm', 'FRDm']	MNXR99636		R00408	rxn00288	rea	iNF517
+SUCR	['R_SUCRe', 'SUCRe', 'SUCR', 'R_SUCR']	MNXR138841		['R06087', 'R00801']	rxn00575	rea	iNF517
+SUCpts	['SUCpts', 'R_SUCpts', 'SUCptspp', 'R_SUCptspp']	MNXR138842				rea	iNF517
+TDMAT6						rea	iNF517
+TDPDRE	['TDPDRE', 'R_TDPDRE']	MNXR138853				rea	iNF517
+TDPDRR_1						rea	iNF517
+TDPGDH_1						rea	iNF517
+THDPS	['THDPS', 'R_THDPS']	MNXR138858		R04365		rea	iNF517
+THFGLUS	['R_THFGLUS_1', 'THFGLUS_1', 'THFGLUS', 'R_THFGLUS']	MNXR104808				rea	iNF517
+THMDt2	['THMDt2pp', 'R_THMDt2pp', 'THMDt2', 'R_THMDt2']	MNXR104818	TRANS-RXN-108H		['rxn09298', 'rxn05200']	rea	iNF517
+THMabc	['R_THMabcpp', 'THMabcpp', 'R_THMabc', 'THMabc']	MNXR138862			['rxn09297', 'rxn05177']	rea	iNF517
+THRA	['THRA', 'R_THRA', 'THRA_1', 'R_THRA_1', 'THRAi', 'R_THRAi']	MNXR104833	THREONINE-ALDOLASE-RXN	R00751	rxn00541	rea	iNF517
+THRD_L	['R_THRD_Lm', 'THRD_Lm', 'TAL', 'R_TAL', 'THRD_L', 'R_THRD_L']	MNXR104714	THREDEHYD-RXN	R00996	rxn00737	rea	iNF517
+THRS	['R_THRS_1', 'THRS', 'R_THRS', 'THRS_1']	MNXR104846	THRESYN-RXN	R01466	rxn01069	rea	iNF517
+THRTRS_1						rea	iNF517
+THRt2r	['THRt2r', 'R_THRt2r', 'THRt2rpp', 'R_THRt2rpp', 'THRth', 'R_THRth', 'THRt2m', 'R_THRt2m']	MNXR104850	TRANS-RXN-72		['rxn09305', 'rxn05300', 'rxn09710']	rea	iNF517
+TKT1	['TKT1', 'R_TKT1', 'TKT1h', 'R_TKT1h']	MNXR104868				rea	iNF517
+TKT2	['R_TKT2', 'TKT2']	MNXR138866		R01067	rxn00785	rea	iNF517
+TMDK1	['TMDK1m', 'R_TMDK1m', 'TMDK1', 'R_TMDK1']	MNXR104885	THYKI-RXN	R01567	rxn01143	rea	iNF517
+TMDK2						rea	iNF517
+TMDPK	['TMDPK', 'R_TMDPK']	MNXR138867			rxn00440	rea	iNF517
+TMDPP	['TMDPP', 'R_TMDPP']	MNXR138868		R01570	rxn01146	rea	iNF517
+TMDS	['R_TMDS', 'TMDS']	MNXR104889		R02101		rea	iNF517
+TMN	['R_TMN', 'TMN']	MNXR138876			rxn01537	rea	iNF517
+TMPK	['R_TMPK', 'TMPK']	MNXR104907	THI-P-KIN-RXN	R00617	rxn00438	rea	iNF517
+TMPPP	['TMPPP', 'R_TMPPP']	MNXR104908	THI-P-SYN-RXN	R03223	rxn02305	rea	iNF517
+TPI	['R_TPIh', 'TPIh', 'R_TPI', 'TPI']	MNXR104918	TRIOSEPISOMERIZATION-RXN	R01015	rxn00747	rea	iNF517
+TRDR	['TDSRh', 'R_TDSRh', 'TRDR', 'R_TRDR', 'TRDRm', 'R_TRDRm']	MNXR104766	THIOREDOXIN-REDUCT-NADPH-RXN	R02016	rxn05289	rea	iNF517
+TRE6PH	['R_TRE6PH', 'TRE6PH']	MNXR104925		['R00837', 'R06113']	rxn00606	rea	iNF517
+TREpts	['TREpts', 'TREptspp', 'R_TREpts', 'R_TREptspp']	MNXR138882				rea	iNF517
+CYSDS	['R_TRPAS1', 'CYSDS', 'R_CYSDS', 'CYSTBL', 'R_CYSTBL', 'TRPAS1']	MNXR96994	LCYSDESULF-RXN	R00782	rxn00566	rea	iNF517
+TRPS1	['R_TRPS1', 'TRPS1', 'R_SERH', 'SERH']	MNXR104343	TRYPSYN-RXN	R02722	rxn01964	rea	iNF517
+TRPS2	['TRPS2', 'R_TRPS2', 'TRPS2h', 'R_TRPS2h']	MNXR104946	RXN0-2382	R00674	rxn00474	rea	iNF517
+TRPTRS_1						rea	iNF517
+TRPt2r	['TRPth', 'R_TRPth', 'TRPt2rpp', 'R_TRPt2m', 'TRPt2r', 'R_TRPt2r', 'R_TRPt2rpp', 'TRPt2m']	MNXR104950	TRANS-RXN-76		['rxn09709', 'rxn05663', 'rxn09326']	rea	iNF517
+TYRTRS_1						rea	iNF517
+TYRt2r	['R_TYRth', 'TYRth', 'R_TYRt7', 'TYRt7', 'R_TYRt2rpp', 'R_TYRt2r', 'TYRt2r', 'R_TYRt2p', 'TYRt2p', 'TYRt2m', 'TYRt2rpp', 'R_TYRt2m']	MNXR105003	TRANS-RXN-77		['rxn09338', 'rxn09708', 'rxn09831', 'rxn13412', 'rxn05301']	rea	iNF517
+UAAGDS	['R_UAAGDS', 'UAAGDS']	MNXR138890		R02788	rxn02011	rea	iNF517
+UAAGLS1_1						rea	iNF517
+UAGCVT	['R_UAGCVT', 'UAGCVT']	MNXR138898				rea	iNF517
+UAGDP	['UAGDP', 'R_UAGDP']	MNXR138899			rxn00293	rea	iNF517
+UAGPT1	['UAGPT1', 'R_UAGPT1']	MNXR105035			rxn03405	rea	iNF517
+UAMAGS	['UAMAGS', 'R_UAMAGS']	MNXR138900		R02783	['rxn11252', 'rxn02008']	rea	iNF517
+UAMAS	['UAMAS', 'R_UAMAS']	MNXR138901		R03193		rea	iNF517
+UAPGR	['R_UAPGR', 'UAPGR']	MNXR138902				rea	iNF517
+UDCPDP	['UDCPDP', 'R_UDCPDP', 'UDCPDPex', 'R_UDCPDPex', 'UDCPDPpp', 'R_UDCPDPpp']	MNXR105042				rea	iNF517
+UDCPDPS	['UDCPDPS', 'R_UDCPDPS']	MNXR105043	RXN-9138			rea	iNF517
+UDCPKr	['UDCPKr', 'R_UDCPKr']	MNXR134585			rxn03900	rea	iNF517
+UDPG4E	['R_UDPG4E', 'UDPG4E']	MNXR138907			rxn00214	rea	iNF517
+UDPGALM	['UDPGALM', 'R_UDPGALM']	MNXR138908			rxn00358	rea	iNF517
+UDPGD	['UDPGD', 'R_UDPGD']	MNXR105063	UGD-RXN	R00286	rxn00211	rea	iNF517
+UGLDDS1	['UGLDDS1', 'R_UGLDDS1']	MNXR138915			['rxn11254', 'rxn03140']	rea	iNF517
+UGT1_LLA						rea	iNF517
+unkFol						rea	iNF517
+UGT2_LLA						rea	iNF517
+UPPRT	['R_UPRT', 'UPPRT', 'R_UPPRT', 'UPRT']	MNXR105142	URACIL-PRIBOSYLTRANS-RXN	R00966	rxn00711	rea	iNF517
+URAt2	['R_URAt2pp', 'URAt2pp', 'URAt2', 'R_URAt2']	MNXR105148	TRANS-RXN-132		['rxn09365', 'rxn05197']	rea	iNF517
+UMPK	['UMPK', 'UMPKm', 'R_UMPKm', 'UMPKn', 'R_UMPK', 'R_UMPKn']	MNXR105118	RXN-12002	R00158	rxn00119	rea	iNF517
+URIDK2r	['R_URIDK2rn', 'R_URIDK2r', 'URIDK2r', 'R_URIDK2m', 'URIDK2m', 'URIDK2rn']	MNXR105160	RXN-14122	R02098	rxn01517	rea	iNF517
+URIK1	['URIK1', 'R_URIK1']	MNXR105162	URIDINEKIN-RXN	R00964	rxn00709	rea	iNF517
+URIK2	['URIK2', 'R_URIK2']	MNXR105163	URKI-RXN	R00968	rxn00713	rea	iNF517
+URIK3	['URIK3', 'R_URIK3']	MNXR105164		R00970	rxn00715	rea	iNF517
+VALTA	['BCTA_val_h', 'R_VALTAim', 'VALTAim', 'R_VALTA', 'VALTA', 'R_BCTA_val_m', 'BCTA_val_m', 'R_BCTA_val_h']	MNXR96230	BRANCHED-CHAINAMINOTRANSFERVAL-RXN	R01214	rxn00903	rea	iNF517
+VALTRS_1						rea	iNF517
+VALt2r	['R_VALth', 'VALth', 'R_VALt2rpp', 'VALt2rpp', 'VALt2r', 'R_VALt2m', 'VALt2m', 'R_VALt2r']	MNXR105188			['rxn11190', 'rxn09707', 'rxn09374', 'rxn05669']	rea	iNF517
+XANt2	['R_XANt2pp', 'XANt2', 'R_XANt2', 'XANt2pp']	MNXR105227	['RXN-5076', 'TRANS-RXN-206']		['rxn09377', 'rxn05202']	rea	iNF517
+XPPT	['R_XPPT', 'XPPT']	MNXR138922		R02142		rea	iNF517
+XYLI1	['XYLI1', 'R_XYLI1']	MNXR132633		R01432		rea	iNF517
+XYLI2	['XYLI2', 'R_XYLI2', 'XYLI2i', 'R_XYLI2i']	MNXR138924		R00307	rxn00223	rea	iNF517
+ZNabc	['ZNabcpp', 'R_ZNabcpp', 'ZNabc', 'R_ZNabc']	MNXR105281	ABC-63-RXN		['rxn09392', 'rxn05150']	rea	iNF517
+araphe1						rea	iNF517
+araphe2						rea	iNF517
+araphe3						rea	iNF517
+aratry1						rea	iNF517
+aratry2						rea	iNF517
+aratyr1						rea	iNF517
+aratyr2						rea	iNF517
+aratyr3						rea	iNF517
+aratyr4						rea	iNF517

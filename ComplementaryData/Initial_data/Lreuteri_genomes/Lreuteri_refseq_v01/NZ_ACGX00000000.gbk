@@ -1,0 +1,90 @@
+LOCUS       NZ_ACGX02000000      2067914 bp    DNA     linear   BCT 07-NOV-2012
+DEFINITION  Lactobacillus reuteri MM4-1A, whole genome shotgun sequencing
+            project.
+ACCESSION   NZ_ACGX00000000
+VERSION     NZ_ACGX00000000.2  GI:325683662
+DBLINK      Project: 55517
+            BioProject: PRJNA55517
+KEYWORDS    WGS; HIGH_QUALITY_DRAFT; RefSeq.
+SOURCE      Lactobacillus reuteri MM4-1A
+  ORGANISM  Lactobacillus reuteri MM4-1A
+            Bacteria; Firmicutes; Bacilli; Lactobacillales; Lactobacillaceae;
+            Lactobacillus.
+REFERENCE   1  (bases 1 to 2067914)
+  AUTHORS   Muzny,D., Qin,X., Buhay,C., Dugan-Rocha,S., Ding,Y., Chen,G.,
+            Hawes,A., Holder,M., Jhangiani,S., Johnson,A., Khan,Z., Li,Z.,
+            Liu,W., Liu,X., Perez,L., Shen,H., Wang,Q., Watt,J., Xi,L., Xin,Y.,
+            Zhou,J., Deng,J., Jiang,H., Liu,Y., Qu,J., Song,X.-Z., Zhang,L.,
+            Villasana,D., Johnson,A., Liu,J., Liyanage,D., Lorensuhewa,L.,
+            Robinson,T., Song,A., Song,B.-B., Dinh,H., Thornton,R., Coyle,M.,
+            Francisco,L., Jackson,L., Javaid,M., Korchina,V., Kovar,C.,
+            Mata,R., Mathew,T., Ngo,R., Nguyen,L., Nguyen,N., Okwuonu,G.,
+            Ongeri,F., Pham,C., Simmons,D., Wilczek-Boney,K., Hale,W.,
+            Jakkamsetti,A., Pham,P., Ruth,R., San Lucas,F., Warren,J.,
+            Zhang,J., Zhao,Z., Zhou,C., Zhu,D., Lee,S., Bess,C.,
+            Blankenburg,K., Forbes,L., Fu,Q., Gubbala,S., Hirani,K.,
+            Jayaseelan,J.C., Lara,F., Munidasa,M., Palculict,T., Patil,S.,
+            Pu,L.-L., Saada,N., Tang,L., Weissenberger,G., Zhu,Y., Hemphill,L.,
+            Shang,Y., Youmans,B., Ayvaz,T., Ross,M., Santibanez,J., Aqrawi,P.,
+            Gross,S., Joshi,V., Fowler,G., Nazareth,L., Reid,J., Worley,K.,
+            Petrosino,J., Highlander,S. and Gibbs,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (19-JAN-2011) Human Genome Sequencing Center, Baylor
+            College of Medicine, One Baylor Plaza, Houston, TX 77030, USA
+REFERENCE   2  (bases 1 to 2067914)
+  AUTHORS   Qin,X., Bachman,B., Battles,P., Bell,A., Bess,C., Bickham,C.,
+            Chaboub,L., Chen,D., Coyle,M., Deiros,D.R., Dinh,H., Forbes,L.,
+            Fowler,G., Francisco,L., Fu,Q., Gubbala,S., Hale,W., Han,Y.,
+            Hemphill,L., Highlander,S.K., Hirani,K., Hogues,M., Jackson,L.,
+            Jakkamsetti,A., Javaid,M., Jiang,H., Korchina,V., Kovar,C.,
+            Lara,F., Lee,S., Mata,R., Mathew,T., Moen,C., Morales,K.,
+            Munidasa,M., Nazareth,L., Ngo,R., Nguyen,L., Okwuonu,G., Ongeri,F.,
+            Patil,S., Petrosino,J., Pham,C., Pham,P., Pu,L.-L., Puazo,M.,
+            Raj,R., Reid,J., Rouhana,J., Saada,N., Shang,Y., Simmons,D.,
+            Thornton,R., Warren,J., Weissenberger,G., Zhang,J., Zhang,L.,
+            Zhou,C., Zhu,D., Muzny,D., Worley,K. and Gibbs,R.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (08-JAN-2009) Human Genome Sequencing Center, Baylor
+            College of Medicine, One Baylor Plaza, Houston, TX 77030, USA
+COMMENT     WGS REFSEQ: This record is provided to represent a collection of
+            whole genome shotgun sequences. The reference sequence was derived
+            from ACGX00000000.
+            On Mar 10, 2011 this sequence version replaced gi:223887405.
+            The Lactobacillus reuteri MM4-1A whole genome shotgun (WGS) project
+            has the project accession NZ_ACGX00000000.  This version of the
+            project (02) has the accession number NZ_ACGX02000000, and consists
+            of sequences ACGX02000001-ACGX02000007.
+            Lactobacillus reuteri MM4-1A
+            
+             Strain source, body site: Gastrointestinal tract
+            
+             Inquiries should be directed to microbe@hgsc.bcm.tmc.edu
+            
+             This is a reference genome for the Human Microbiome Project. This
+            project is co-owned with the Human Microbiome Project DACC.  Source
+            DNA provided by Versalovic, J. (Department of Pathology, Texas
+            Children's Hospital, 1102 Bates Avenue, Suite 830, Feigin Center,
+            Houston, TX, 77030, USA).  Funded by by 'Genomes and Genetics at
+            BCM-HGSC' (U54 HG003273).
+            
+            ##Genome-Assembly-Data-START##
+            Finishing Goal           :: High-Quality Draft
+            Current Finishing Status :: High-Quality Draft
+            Assembly Method          :: Newbler Assembler v. 2.3.10192009
+            Genome Coverage          :: 63x
+            Sequencing Technology    :: 454
+            ##Genome-Assembly-Data-END##
+FEATURES             Location/Qualifiers
+     source          1..2067914
+                     /organism="Lactobacillus reuteri MM4-1A"
+                     /mol_type="genomic DNA"
+                     /strain="MM4-1A"
+                     /isolation_source="gastrointestinal tract"
+                     /host="Homo sapiens"
+                     /culture_collection="ATCC:PTA6475"
+                     /db_xref="HMP:0536"
+                     /db_xref="HOMD:tax_818"
+                     /db_xref="taxon:548485"
+WGS         ACGX02000001-ACGX02000007
+WGS_SCAFLD  NZ_ACGX02000001-NZ_ACGX02000007
+//

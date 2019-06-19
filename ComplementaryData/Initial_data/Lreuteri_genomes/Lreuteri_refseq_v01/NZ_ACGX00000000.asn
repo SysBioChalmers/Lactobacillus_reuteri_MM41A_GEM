@@ -1,0 +1,1417 @@
+Seq-entry ::= seq {
+  id {
+    other {
+      name "NZ_ACGX02000000",
+      accession "NZ_ACGX00000000",
+      version 2
+    },
+    general {
+      db "NCBI_GENOMES",
+      tag id 6254
+    },
+    gi 325683662
+  },
+  descr {
+    title "Lactobacillus reuteri MM4-1A",
+    source {
+      genome genomic,
+      org {
+        taxname "Lactobacillus reuteri MM4-1A",
+        db {
+          {
+            db "taxon",
+            tag id 548485
+          },
+          {
+            db "HMP",
+            tag str "0536"
+          },
+          {
+            db "HOMD",
+            tag str "tax_818"
+          }
+        },
+        orgname {
+          name binomial {
+            genus "Lactobacillus",
+            species "reuteri"
+          },
+          mod {
+            {
+              subtype strain,
+              subname "MM4-1A"
+            },
+            {
+              subtype nat-host,
+              subname "Homo sapiens"
+            },
+            {
+              subtype culture-collection,
+              subname "ATCC:PTA6475"
+            }
+          },
+          lineage "Bacteria; Firmicutes; Bacilli; Lactobacillales;
+ Lactobacillaceae; Lactobacillus",
+          gcode 11,
+          div "BCT"
+        }
+      },
+      subtype {
+        {
+          subtype isolation-source,
+          name "gastrointestinal tract"
+        }
+      }
+    },
+    molinfo {
+      biomol genomic,
+      tech wgs
+    },
+    pub {
+      pub {
+        sub {
+          authors {
+            names std {
+              {
+                name name {
+                  last "Qin",
+                  first "Xiang",
+                  initials "X."
+                }
+              },
+              {
+                name name {
+                  last "Bachman",
+                  first "Ben",
+                  initials "B."
+                }
+              },
+              {
+                name name {
+                  last "Battles",
+                  first "Pamela",
+                  initials "P."
+                }
+              },
+              {
+                name name {
+                  last "Bell",
+                  first "Ashton",
+                  initials "A."
+                }
+              },
+              {
+                name name {
+                  last "Bess",
+                  first "Crystal",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Bickham",
+                  first "Carla",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Chaboub",
+                  first "Lesley",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Chen",
+                  first "David",
+                  initials "D."
+                }
+              },
+              {
+                name name {
+                  last "Coyle",
+                  first "Marcus",
+                  initials "M."
+                }
+              },
+              {
+                name name {
+                  last "Deiros",
+                  first "David Rio",
+                  initials "D.R."
+                }
+              },
+              {
+                name name {
+                  last "Dinh",
+                  first "Huyen",
+                  initials "H."
+                }
+              },
+              {
+                name name {
+                  last "Forbes",
+                  first "Lisa",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Fowler",
+                  first "Gerald",
+                  initials "G."
+                }
+              },
+              {
+                name name {
+                  last "Francisco",
+                  first "Liezl",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Fu",
+                  first "Qing",
+                  initials "Q."
+                }
+              },
+              {
+                name name {
+                  last "Gubbala",
+                  first "Sai",
+                  initials "S."
+                }
+              },
+              {
+                name name {
+                  last "Hale",
+                  first "Walker",
+                  initials "W."
+                }
+              },
+              {
+                name name {
+                  last "Han",
+                  first "Yi",
+                  initials "Y."
+                }
+              },
+              {
+                name name {
+                  last "Hemphill",
+                  first "Lisa",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Highlander",
+                  first "Sarah K",
+                  initials "S.K."
+                }
+              },
+              {
+                name name {
+                  last "Hirani",
+                  first "Kashif",
+                  initials "K."
+                }
+              },
+              {
+                name name {
+                  last "Hogues",
+                  first "Marilyn",
+                  initials "M."
+                }
+              },
+              {
+                name name {
+                  last "Jackson",
+                  first "Laronda",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Jakkamsetti",
+                  first "Adinarayana",
+                  initials "A."
+                }
+              },
+              {
+                name name {
+                  last "Javaid",
+                  first "Mehwish",
+                  initials "M."
+                }
+              },
+              {
+                name name {
+                  last "Jiang",
+                  first "Huaiyang",
+                  initials "H."
+                }
+              },
+              {
+                name name {
+                  last "Korchina",
+                  first "Viktoriya",
+                  initials "V."
+                }
+              },
+              {
+                name name {
+                  last "Kovar",
+                  first "Christie",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Lara",
+                  first "Fremiet",
+                  initials "F."
+                }
+              },
+              {
+                name name {
+                  last "Lee",
+                  first "Sandra",
+                  initials "S."
+                }
+              },
+              {
+                name name {
+                  last "Mata",
+                  first "Robert",
+                  initials "R."
+                }
+              },
+              {
+                name name {
+                  last "Mathew",
+                  first "Tittu",
+                  initials "T."
+                }
+              },
+              {
+                name name {
+                  last "Moen",
+                  first "Charles",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Morales",
+                  first "Kristina",
+                  initials "K."
+                }
+              },
+              {
+                name name {
+                  last "Munidasa",
+                  first "Mala",
+                  initials "M."
+                }
+              },
+              {
+                name name {
+                  last "Nazareth",
+                  first "Lynne",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Ngo",
+                  first "Robin",
+                  initials "R."
+                }
+              },
+              {
+                name name {
+                  last "Nguyen",
+                  first "Lang",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Okwuonu",
+                  first "Geoffrey",
+                  initials "G."
+                }
+              },
+              {
+                name name {
+                  last "Ongeri",
+                  first "Fiona",
+                  initials "F."
+                }
+              },
+              {
+                name name {
+                  last "Patil",
+                  first "Shobha",
+                  initials "S."
+                }
+              },
+              {
+                name name {
+                  last "Petrosino",
+                  first "Joseph",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Pham",
+                  first "Christopher",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Pham",
+                  first "Peter",
+                  initials "P."
+                }
+              },
+              {
+                name name {
+                  last "Pu",
+                  first "Ling-Ling",
+                  initials "L.-L."
+                }
+              },
+              {
+                name name {
+                  last "Puazo",
+                  first "Maria",
+                  initials "M."
+                }
+              },
+              {
+                name name {
+                  last "Raj",
+                  first "Ritika",
+                  initials "R."
+                }
+              },
+              {
+                name name {
+                  last "Reid",
+                  first "Jeff",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Rouhana",
+                  first "Jennifer",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Saada",
+                  first "Nehad",
+                  initials "N."
+                }
+              },
+              {
+                name name {
+                  last "Shang",
+                  first "Yue",
+                  initials "Y."
+                }
+              },
+              {
+                name name {
+                  last "Simmons",
+                  first "Denard",
+                  initials "D."
+                }
+              },
+              {
+                name name {
+                  last "Thornton",
+                  first "Rebecca",
+                  initials "R."
+                }
+              },
+              {
+                name name {
+                  last "Warren",
+                  first "James",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Weissenberger",
+                  first "George",
+                  initials "G."
+                }
+              },
+              {
+                name name {
+                  last "Zhang",
+                  first "Jingkun",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Zhang",
+                  first "Lan",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Zhou",
+                  first "Chun",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Zhu",
+                  first "Dianhui",
+                  initials "D."
+                }
+              },
+              {
+                name name {
+                  last "Muzny",
+                  first "Donna",
+                  initials "D."
+                }
+              },
+              {
+                name name {
+                  last "Worley",
+                  first "Kim",
+                  initials "K."
+                }
+              },
+              {
+                name name {
+                  last "Gibbs",
+                  first "Richard",
+                  initials "R."
+                }
+              }
+            },
+            affil std {
+              affil "Baylor College of Medicine",
+              div "Human Genome Sequencing Center",
+              city "Houston",
+              sub "TX",
+              country "USA",
+              street "One Baylor Plaza",
+              postal-code "77030"
+            }
+          },
+          date std {
+            year 2009,
+            month 1,
+            day 8
+          }
+        }
+      }
+    },
+    pub {
+      pub {
+        sub {
+          authors {
+            names std {
+              {
+                name name {
+                  last "Muzny",
+                  first "Donna",
+                  initials "D."
+                }
+              },
+              {
+                name name {
+                  last "Qin",
+                  first "Xiang",
+                  initials "X."
+                }
+              },
+              {
+                name name {
+                  last "Buhay",
+                  first "Christian",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Dugan-Rocha",
+                  first "Shannon",
+                  initials "S."
+                }
+              },
+              {
+                name name {
+                  last "Ding",
+                  first "Yan",
+                  initials "Y."
+                }
+              },
+              {
+                name name {
+                  last "Chen",
+                  first "Guan",
+                  initials "G."
+                }
+              },
+              {
+                name name {
+                  last "Hawes",
+                  first "Alicia",
+                  initials "A."
+                }
+              },
+              {
+                name name {
+                  last "Holder",
+                  first "Michael",
+                  initials "M."
+                }
+              },
+              {
+                name name {
+                  last "Jhangiani",
+                  first "Shalini",
+                  initials "S."
+                }
+              },
+              {
+                name name {
+                  last "Johnson",
+                  first "Angela",
+                  initials "A."
+                }
+              },
+              {
+                name name {
+                  last "Khan",
+                  first "Ziad",
+                  initials "Z."
+                }
+              },
+              {
+                name name {
+                  last "Li",
+                  first "Z",
+                  initials "Z."
+                }
+              },
+              {
+                name name {
+                  last "Liu",
+                  first "Wen",
+                  initials "W."
+                }
+              },
+              {
+                name name {
+                  last "Liu",
+                  first "Xiuping",
+                  initials "X."
+                }
+              },
+              {
+                name name {
+                  last "Perez",
+                  first "Lesette",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Shen",
+                  first "Hua",
+                  initials "H."
+                }
+              },
+              {
+                name name {
+                  last "Wang",
+                  first "Qiaoyan",
+                  initials "Q."
+                }
+              },
+              {
+                name name {
+                  last "Watt",
+                  first "Jennifer",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Xi",
+                  first "Liu",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Xin",
+                  first "Y",
+                  initials "Y."
+                }
+              },
+              {
+                name name {
+                  last "Zhou",
+                  first "Jianling",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Deng",
+                  first "Jixin",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Jiang",
+                  first "Huaiyang",
+                  initials "H."
+                }
+              },
+              {
+                name name {
+                  last "Liu",
+                  first "Yue",
+                  initials "Y."
+                }
+              },
+              {
+                name name {
+                  last "Qu",
+                  first "Jiaxin",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Song",
+                  first "Xing-Zhi",
+                  initials "X.-Z."
+                }
+              },
+              {
+                name name {
+                  last "Zhang",
+                  first "Lan",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Villasana",
+                  first "Donna",
+                  initials "D."
+                }
+              },
+              {
+                name name {
+                  last "Johnson",
+                  first "Angela",
+                  initials "A."
+                }
+              },
+              {
+                name name {
+                  last "Liu",
+                  first "Jing",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Liyanage",
+                  first "Dhammika",
+                  initials "D."
+                }
+              },
+              {
+                name name {
+                  last "Lorensuhewa",
+                  first "Lorna",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Robinson",
+                  first "Tawana",
+                  initials "T."
+                }
+              },
+              {
+                name name {
+                  last "Song",
+                  first "Angela",
+                  initials "A."
+                }
+              },
+              {
+                name name {
+                  last "Song",
+                  first "Bei-Bei",
+                  initials "B.-B."
+                }
+              },
+              {
+                name name {
+                  last "Dinh",
+                  first "Huyen",
+                  initials "H."
+                }
+              },
+              {
+                name name {
+                  last "Thornton",
+                  first "Rebecca",
+                  initials "R."
+                }
+              },
+              {
+                name name {
+                  last "Coyle",
+                  first "Marcus",
+                  initials "M."
+                }
+              },
+              {
+                name name {
+                  last "Francisco",
+                  first "Liezl",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Jackson",
+                  first "Laronda",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Javaid",
+                  first "Mehwish",
+                  initials "M."
+                }
+              },
+              {
+                name name {
+                  last "Korchina",
+                  first "Viktoriya",
+                  initials "V."
+                }
+              },
+              {
+                name name {
+                  last "Kovar",
+                  first "Christie",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Mata",
+                  first "Robert",
+                  initials "R."
+                }
+              },
+              {
+                name name {
+                  last "Mathew",
+                  first "Tittu",
+                  initials "T."
+                }
+              },
+              {
+                name name {
+                  last "Ngo",
+                  first "Robin",
+                  initials "R."
+                }
+              },
+              {
+                name name {
+                  last "Nguyen",
+                  first "Lang",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Nguyen",
+                  first "Ngoc",
+                  initials "N."
+                }
+              },
+              {
+                name name {
+                  last "Okwuonu",
+                  first "Geoffrey",
+                  initials "G."
+                }
+              },
+              {
+                name name {
+                  last "Ongeri",
+                  first "Fiona",
+                  initials "F."
+                }
+              },
+              {
+                name name {
+                  last "Pham",
+                  first "Christopher",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Simmons",
+                  first "Denard",
+                  initials "D."
+                }
+              },
+              {
+                name name {
+                  last "Wilczek-Boney",
+                  first "Katarzyna",
+                  initials "K."
+                }
+              },
+              {
+                name name {
+                  last "Hale",
+                  first "Walker",
+                  initials "W."
+                }
+              },
+              {
+                name name {
+                  last "Jakkamsetti",
+                  first "Adinarayana",
+                  initials "A."
+                }
+              },
+              {
+                name name {
+                  last "Pham",
+                  first "Peter",
+                  initials "P."
+                }
+              },
+              {
+                name name {
+                  last "Ruth",
+                  first "Robert",
+                  initials "R."
+                }
+              },
+              {
+                name name {
+                  last "San Lucas",
+                  first "Francis",
+                  initials "F."
+                }
+              },
+              {
+                name name {
+                  last "Warren",
+                  first "James",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Zhang",
+                  first "Jingkun",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Zhao",
+                  first "Zoie",
+                  initials "Z."
+                }
+              },
+              {
+                name name {
+                  last "Zhou",
+                  first "Chun",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Zhu",
+                  first "Dianhui",
+                  initials "D."
+                }
+              },
+              {
+                name name {
+                  last "Lee",
+                  first "Sandra",
+                  initials "S."
+                }
+              },
+              {
+                name name {
+                  last "Bess",
+                  first "Crystal",
+                  initials "C."
+                }
+              },
+              {
+                name name {
+                  last "Blankenburg",
+                  first "Kerstin",
+                  initials "K."
+                }
+              },
+              {
+                name name {
+                  last "Forbes",
+                  first "Lisa",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Fu",
+                  first "Qing",
+                  initials "Q."
+                }
+              },
+              {
+                name name {
+                  last "Gubbala",
+                  first "Sai",
+                  initials "S."
+                }
+              },
+              {
+                name name {
+                  last "Hirani",
+                  first "Kashif",
+                  initials "K."
+                }
+              },
+              {
+                name name {
+                  last "Jayaseelan",
+                  first "Joy Christina",
+                  initials "J.C."
+                }
+              },
+              {
+                name name {
+                  last "Lara",
+                  first "Fremiet",
+                  initials "F."
+                }
+              },
+              {
+                name name {
+                  last "Munidasa",
+                  first "Mala",
+                  initials "M."
+                }
+              },
+              {
+                name name {
+                  last "Palculict",
+                  first "Timothy",
+                  initials "T."
+                }
+              },
+              {
+                name name {
+                  last "Patil",
+                  first "Shobha",
+                  initials "S."
+                }
+              },
+              {
+                name name {
+                  last "Pu",
+                  first "Ling-Ling",
+                  initials "L.-L."
+                }
+              },
+              {
+                name name {
+                  last "Saada",
+                  first "Nehad",
+                  initials "N."
+                }
+              },
+              {
+                name name {
+                  last "Tang",
+                  first "Linya",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Weissenberger",
+                  first "George",
+                  initials "G."
+                }
+              },
+              {
+                name name {
+                  last "Zhu",
+                  first "Yiming",
+                  initials "Y."
+                }
+              },
+              {
+                name name {
+                  last "Hemphill",
+                  first "Lisa",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Shang",
+                  first "Yue",
+                  initials "Y."
+                }
+              },
+              {
+                name name {
+                  last "Youmans",
+                  first "Bonnie",
+                  initials "B."
+                }
+              },
+              {
+                name name {
+                  last "Ayvaz",
+                  first "Tulin",
+                  initials "T."
+                }
+              },
+              {
+                name name {
+                  last "Ross",
+                  first "Matthew",
+                  initials "M."
+                }
+              },
+              {
+                name name {
+                  last "Santibanez",
+                  first "Jireh",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Aqrawi",
+                  first "Pesh",
+                  initials "P."
+                }
+              },
+              {
+                name name {
+                  last "Gross",
+                  first "Shannon",
+                  initials "S."
+                }
+              },
+              {
+                name name {
+                  last "Joshi",
+                  first "Vandita",
+                  initials "V."
+                }
+              },
+              {
+                name name {
+                  last "Fowler",
+                  first "Gerald",
+                  initials "G."
+                }
+              },
+              {
+                name name {
+                  last "Nazareth",
+                  first "Lynne",
+                  initials "L."
+                }
+              },
+              {
+                name name {
+                  last "Reid",
+                  first "Jeffrey",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Worley",
+                  first "Kim",
+                  initials "K."
+                }
+              },
+              {
+                name name {
+                  last "Petrosino",
+                  first "Joseph",
+                  initials "J."
+                }
+              },
+              {
+                name name {
+                  last "Highlander",
+                  first "Sarah",
+                  initials "S."
+                }
+              },
+              {
+                name name {
+                  last "Gibbs",
+                  first "Richard",
+                  initials "R."
+                }
+              }
+            },
+            affil std {
+              affil "Baylor College of Medicine",
+              div "Human Genome Sequencing Center",
+              city "Houston",
+              sub "TX",
+              country "USA",
+              street "One Baylor Plaza",
+              postal-code "77030"
+            }
+          },
+          date std {
+            year 2011,
+            month 1,
+            day 19
+          }
+        }
+      }
+    },
+    comment "Lactobacillus reuteri MM4-1A~~ Strain source, body site:
+ Gastrointestinal tract~~ Inquiries should be directed to
+ microbe@hgsc.bcm.tmc.edu~~ This is a reference genome for the Human
+ Microbiome Project. This project is co-owned with the Human Microbiome
+ Project DACC.  Source DNA provided by Versalovic, J. (Department of
+ Pathology, Texas Children's Hospital, 1102 Bates Avenue, Suite 830, Feigin
+ Center, Houston, TX, 77030, USA).  Funded by by 'Genomes and Genetics at
+ BCM-HGSC' (U54 HG003273).",
+    user {
+      type str "StructuredComment",
+      data {
+        {
+          label str "StructuredCommentPrefix",
+          data str "##Genome-Assembly-Data-START##"
+        },
+        {
+          label str "Finishing Goal",
+          data str "High-Quality Draft"
+        },
+        {
+          label str "Current Finishing Status",
+          data str "High-Quality Draft"
+        },
+        {
+          label str "Assembly Method",
+          data str "Newbler Assembler v. 2.3.10192009"
+        },
+        {
+          label str "Genome Coverage",
+          data str "63x"
+        },
+        {
+          label str "Sequencing Technology",
+          data str "454"
+        },
+        {
+          label str "StructuredCommentSuffix",
+          data str "##Genome-Assembly-Data-END##"
+        }
+      }
+    },
+    user {
+      type str "WGSProjects",
+      data {
+        {
+          label str "WGS_accession_first",
+          data str "ACGX02000001"
+        },
+        {
+          label str "WGS_accession_last",
+          data str "ACGX02000007"
+        }
+      }
+    },
+    user {
+      type str "WGS-Scaffold-List",
+      data {
+        {
+          label str "Accession_first",
+          data str "NZ_ACGX02000001"
+        },
+        {
+          label str "Accession_last",
+          data str "NZ_ACGX02000007"
+        }
+      }
+    },
+    user {
+      type str "RefGeneTracking",
+      data {
+        {
+          label str "Assembly",
+          data fields {
+            {
+              label id 0,
+              data fields {
+                {
+                  label str "accession",
+                  data str "ACGX00000000"
+                },
+                {
+                  label str "gi",
+                  data int 324979114
+                }
+              }
+            }
+          }
+        },
+        {
+          label str "Status",
+          data str "WGS"
+        }
+      }
+    },
+    user {
+      type str "GenomesInfo",
+      data {
+        {
+          label str "Contigs",
+          data int 7
+        },
+        {
+          label str "Contributor",
+          data str "NCBI"
+        },
+        {
+          label str "URL",
+          data str "http://www.ncbi.nlm.nih.gov/"
+        },
+        {
+          label str "GenomeLink",
+          data str ""
+        },
+        {
+          label str "LocusTagLink",
+          data str ""
+        }
+      }
+    },
+    user {
+      class "Genome Size",
+      type str "info",
+      data {
+        {
+          label str "Size",
+          data str "2.07"
+        }
+      }
+    },
+    user {
+      type str "FeatureFetchPolicy",
+      data {
+        {
+          label str "Policy",
+          data str "OnlyNearFeatures"
+        }
+      }
+    },
+    user {
+      type str "DBLink",
+      data {
+        {
+          label str "BioProject",
+          num 1,
+          data strs {
+            "PRJNA55517"
+          }
+        }
+      }
+    },
+    user {
+      type str "GenomeProjectsDB",
+      data {
+        {
+          label str "ProjectID",
+          data int 55517
+        },
+        {
+          label str "ParentID",
+          data int 0
+        }
+      }
+    },
+    create-date std {
+      year 2009,
+      month 2,
+      day 19
+    },
+    update-date std {
+      year 2012,
+      month 11,
+      day 7
+    }
+  },
+  inst {
+    repr virtual,
+    mol dna,
+    length 2067914,
+    topology other,
+    hist {
+      replaces {
+        date std {
+          year 2011,
+          month 3,
+          day 10
+        },
+        ids {
+          gi 223887405
+        }
+      }
+    }
+  }
+}
+

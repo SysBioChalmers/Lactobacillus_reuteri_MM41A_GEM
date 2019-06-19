@@ -15,3 +15,4 @@ from venn3_samesize import venn3_samesize
 from output_txt import output_txt
 import model_report
 import merge_model
+import seq_ana

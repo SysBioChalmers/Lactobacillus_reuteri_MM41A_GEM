@@ -1,0 +1,1405 @@
+type	id_in_tp	id_in_bigg	new_id	descripation	old_bigg_ids	feature_tp	feature_bigg	diff	notes
+met	10fthf_c	10fthf_c		id in bigg					
+met	ru5p__D_c	ru5p__D_c		id in bigg					
+met	unagamagp_c	unagamagp_c		id in bigg					
+met	4ahmmp_c	4ahmmp_c		id in bigg					
+met	dha_e	dha_e		id in bigg					
+met	2mba_c	2mba_c		id in bigg					
+met	2dr1p_c	2dr1p_c		id in bigg					
+met	dhpt_c	dhpt_c		id in bigg					
+met	fprica_c	fprica_c		id in bigg					
+met	pnto__R_e	pnto__R_e		id in bigg					
+met	nh3_c	nh3_c		id in bigg					
+met	sbt__D_e	sbt__D_e		id in bigg					
+met	actn__R_c	actn__R_c		id in bigg					
+met	acgal6p_c	acgal6p_c		id in bigg					
+met	arbt6p_c	arbt6p_c		id in bigg					
+met	arg__L_e	arg__L_e		id in bigg					
+met	f1p_c	f1p_c		id in bigg					
+met	psd5p_c	psd5p_c		id in bigg					
+met	udpgal_c	udpgal_c		id in bigg					
+met	thmmp_c	thmmp_c		id in bigg					
+met	akg_c	akg_c		id in bigg					
+met	adp_c	adp_c		id in bigg					
+met	dhf_c	dhf_c		id in bigg					
+met	4mop_c	4mop_c		id in bigg					
+met	n8aspmd_c	n8aspmd_c		id in bigg					
+met	co2_c	co2_c		id in bigg					
+met	cit_e	cit_e		id in bigg					
+met	ser__L_c	ser__L_c		id in bigg					
+met	3ig3p_c	3ig3p_c		id in bigg					
+met	g3p_c	g3p_c		id in bigg					
+met	lcts_c	lcts_c		id in bigg					
+met	leu__L_c	leu__L_c		id in bigg					
+met	dcyt_c	dcyt_c		id in bigg					
+met	thfglu_c	thfglu_c		id in bigg					
+met	r1p_c	r1p_c		id in bigg					
+met	dgtp_c	dgtp_c		id in bigg					
+met	trnathr_c	trnathr_c		id in bigg					
+met	ac_e	ac_e		id in bigg					
+met	mi1p__D_c	mi1p__D_c		id in bigg					
+met	2h3mb_c	2h3mb_c		id in bigg					
+met	ch4s_e	ch4s_e		id in bigg					
+met	2hxmp_c	2hxmp_c		id in bigg					
+met	met__L_e	met__L_e		id in bigg					
+met	hexacp_c	hexacp_c		id in bigg					
+met	CPS_LLA_c	CPS_LLA_c		id in bigg					
+met	gal1p_c	gal1p_c		id in bigg					
+met	2dhp_c	2dhp_c		id in bigg					
+met	tyr__L_e	tyr__L_e		id in bigg					
+met	uama_c	uama_c		id in bigg					
+met	fad_c	fad_c		id in bigg					
+met	nmn_c	nmn_c		id in bigg					
+met	pppg9_c	pppg9_c		id in bigg					
+met	utp_c	utp_c		id in bigg					
+met	thrtrna_c	thrtrna_c		id in bigg					
+met	skm_c	skm_c		id in bigg					
+met	3oxdeacp_c	3oxdeacp_c		id in bigg					
+met	xan_c	xan_c		id in bigg					
+met	chol_c	chol_c		id in bigg					
+met	sucr_c	sucr_c		id in bigg					
+met	hqn_c	hqn_c		id in bigg					
+met	amet_c	amet_c		id in bigg					
+met	4abz_e	4abz_e		id in bigg					
+met	2shchc_c	2shchc_c		id in bigg					
+met	pa_LLA_c	pa_LLA_c		id in bigg					
+met	trnahis_c	trnahis_c		id in bigg					
+met	malthp_c	malthp_c		id in bigg					
+met	indpyr_c	indpyr_c		id in bigg					
+met	LTAala_LLA_c	LTAala_LLA_c		id in bigg					
+met	glyc_e	glyc_e		id in bigg					
+met	galt_e	galt_e		id in bigg					
+met	din_c	din_c		id in bigg					
+met	d12dg_LLA_c	d12dg_LLA_c		id in bigg					
+met	glyb_e	glyb_e		id in bigg					
+met	man_e	man_e		id in bigg					
+met	pant__R_c	pant__R_c		id in bigg					
+met	23dhdp_c	23dhdp_c		id in bigg					
+met	phe__L_e	phe__L_e		id in bigg					
+met	cbasp_c	cbasp_c		id in bigg					
+met	mqn8_c	mqn8_c		id in bigg					
+met	h2o_e	h2o_e		id in bigg					
+met	25dhpp_c	25dhpp_c		id in bigg					
+met	phthr_c	phthr_c		id in bigg					
+met	asp__D_c	asp__D_c		id in bigg					
+met	cpppg3_c	cpppg3_c		id in bigg					
+met	dpcoa_c	dpcoa_c		id in bigg					
+met	pro__L_c	pro__L_c		id in bigg					
+met	nadph_c	nadph_c		id in bigg					
+met	6pgg_c	6pgg_c		id in bigg					
+met	adprib_c	adprib_c		id in bigg					
+met	cys__L_e	cys__L_e		id in bigg					
+met	gthrd_c	gthrd_c		id in bigg					
+met	fdp_c	fdp_c		id in bigg					
+met	asn__L_e	asn__L_e		id in bigg					
+met	al26da_c	al26da_c		id in bigg					
+met	acp_c	acp_c		id in bigg					
+met	ump_c	ump_c		id in bigg					
+met	uaAgla_c	uaAgla_c		id in bigg					
+met	5mthf_c	5mthf_c		id in bigg					
+met	orot5p_c	orot5p_c		id in bigg					
+met	btd_RR_c	btd_RR_c		id in bigg					
+met	chor_c	chor_c		id in bigg					
+met	ile__L_c	ile__L_c		id in bigg					
+met	acglu_c	acglu_c		id in bigg					
+met	PROT_LLA_c	PROT_LLA_c		id in bigg					
+met	2tdeacp_c	2tdeacp_c		id in bigg					
+met	succ_c	succ_c		id in bigg					
+met	trnaala_c	trnaala_c		id in bigg					
+met	ACP_2_c	ACP_2_c		id in bigg					
+met	fol_e	fol_e		id in bigg					
+met	gsn_c	gsn_c		id in bigg					
+met	hco3_c	hco3_c		id in bigg					
+met	spmd_c	spmd_c		id in bigg					
+met	4h2oxg_c	4h2oxg_c		id in bigg					
+met	5fothf_c	5fothf_c		id in bigg					
+met	gdptp_c	gdptp_c		id in bigg					
+met	pyr_c	pyr_c		id in bigg					
+met	fmn_c	fmn_c		id in bigg					
+met	trnamet_c	trnamet_c		id in bigg					
+met	gam1p_c	gam1p_c		id in bigg					
+met	gln__L_c	gln__L_c		id in bigg					
+met	udcpdp_c	udcpdp_c		id in bigg					
+met	3dhsk_c	3dhsk_c		id in bigg					
+met	pi_e	pi_e		id in bigg					
+met	5pmev_c	5pmev_c		id in bigg					
+met	malt_c	malt_c		id in bigg					
+met	pgp_LLA_c	pgp_LLA_c		id in bigg					
+met	octdp_c	octdp_c		id in bigg					
+met	ibcoa_c	ibcoa_c		id in bigg					
+met	glu__L_c	glu__L_c		id in bigg					
+met	aicar_c	aicar_c		id in bigg					
+met	3psme_c	3psme_c		id in bigg					
+met	gmp_c	gmp_c		id in bigg					
+met	acg5p_c	acg5p_c		id in bigg					
+met	tagur_c	tagur_c		id in bigg					
+met	acara_c	acara_c		id in bigg					
+met	rib__D_e	rib__D_e		id in bigg					
+met	trp__L_c	trp__L_c		id in bigg					
+met	datp_c	datp_c		id in bigg					
+met	glcn__D_e	glcn__D_e		id in bigg					
+met	diact_e	diact_e		id in bigg					
+met	gly_c	gly_c		id in bigg					
+met	ins_c	ins_c		id in bigg					
+met	ctp_c	ctp_c		id in bigg					
+met	4abut_e	4abut_e		id in bigg					
+met	fru_c	fru_c		id in bigg					
+met	icit_c	icit_c		id in bigg					
+met	glntrna_c	glntrna_c		id in bigg					
+met	o2_e	o2_e		id in bigg					
+met	2ahhmp_c	2ahhmp_c		id in bigg					
+met	actp_c	actp_c		id in bigg					
+met	trnacys_c	trnacys_c		id in bigg					
+met	prbamp_c	prbamp_c		id in bigg					
+met	2mbald_c	2mbald_c		id in bigg					
+met	acmalt_c	acmalt_c		id in bigg					
+met	malacp_c	malacp_c		id in bigg					
+met	nadh_c	nadh_c		id in bigg					
+met	3mba_e	3mba_e		id in bigg					
+met	2mpa_c	2mpa_c		id in bigg					
+met	gcald_e	gcald_e		id in bigg					
+met	25aics_c	25aics_c		id in bigg					
+met	2mahmp_c	2mahmp_c		id in bigg					
+met	eig3p_c	eig3p_c		id in bigg					
+met	mnl1p_c	mnl1p_c		id in bigg					
+met	his__L_e	his__L_e		id in bigg					
+met	acgam_c	acgam_c		id in bigg					
+met	suc6p_c	suc6p_c		id in bigg					
+met	protrna_c	protrna_c		id in bigg					
+met	for_e	for_e		id in bigg					
+met	g6p_B_c	g6p_B_c		id in bigg					
+met	4cml_c	4cml_c		id in bigg					
+met	ptrc_c	ptrc_c		id in bigg					
+met	udpglcur_c	udpglcur_c		id in bigg					
+met	mql7_c	mql7_c		id in bigg					
+met	gal_e	gal_e		id in bigg					
+met	uAgl_c	uAgl_c		id in bigg					
+met	glyald_c	glyald_c		id in bigg					
+met	mal__L_c	mal__L_c		id in bigg					
+met	fe3_e	fe3_e		id in bigg					
+met	butacp_c	butacp_c		id in bigg					
+met	dgmp_c	dgmp_c		id in bigg					
+met	xmp_c	xmp_c		id in bigg					
+met	RNA_LLA_c	RNA_LLA_c		id in bigg					
+met	met__D_e	met__D_e		id in bigg					
+met	dhnpt_c	dhnpt_c		id in bigg					
+met	rhcys_c	rhcys_c		id in bigg					
+met	nh4_e	nh4_e		id in bigg					
+met	dcamp_c	dcamp_c		id in bigg					
+met	LTAAlaGal_LLA_c	LTAAlaGal_LLA_c		id in bigg					
+met	2mbcoa_c	2mbcoa_c		id in bigg					
+met	pea_c	pea_c		id in bigg					
+met	2cocdacp_c	2cocdacp_c		id in bigg					
+met	cystrna_c	cystrna_c		id in bigg					
+met	3oxocdacp_c	3oxocdacp_c		id in bigg					
+met	gar_c	gar_c		id in bigg					
+met	13dpg_c	13dpg_c		id in bigg					
+met	trnaasn_c	trnaasn_c		id in bigg					
+met	3oxhdacp_c	3oxhdacp_c		id in bigg					
+met	dtdp4d6dm_c	dtdp4d6dm_c		id in bigg					
+met	hxan_e	hxan_e		id in bigg					
+met	2ctdeacp_c	2ctdeacp_c		id in bigg					
+met	trnatyr_c	trnatyr_c		id in bigg					
+met	hmgcoa_c	hmgcoa_c		id in bigg					
+met	thm_c	thm_c		id in bigg					
+met	3hhacp_c	3hhacp_c		id in bigg					
+met	h2o2_c	h2o2_c		id in bigg					
+met	cdpglyc_c	cdpglyc_c		id in bigg					
+met	lys__L_e	lys__L_e		id in bigg					
+met	ahcys_c	ahcys_c		id in bigg					
+met	ura_e	ura_e		id in bigg					
+met	pacald_e	pacald_e		id in bigg					
+met	thymd_c	thymd_c		id in bigg					
+met	pep_c	pep_c		id in bigg					
+met	argtrna_c	argtrna_c		id in bigg					
+met	dxyl5p_c	dxyl5p_c		id in bigg					
+met	glc__D_e	glc__D_e		id in bigg					
+met	g3pi_c	g3pi_c		id in bigg					
+met	g1p_B_c	g1p_B_c		id in bigg					
+met	glu5sa_c	glu5sa_c		id in bigg					
+met	duri_c	duri_c		id in bigg					
+met	ribflv_c	ribflv_c		id in bigg					
+met	maltpt_c	maltpt_c		id in bigg					
+met	4pasp_c	4pasp_c		id in bigg					
+met	nac_e	nac_e		id in bigg					
+met	coa_c	coa_c		id in bigg					
+met	uamr_c	uamr_c		id in bigg					
+met	tag6p__D_c	tag6p__D_c		id in bigg					
+met	iletrna_c	iletrna_c		id in bigg					
+met	23dhmb_c	23dhmb_c		id in bigg					
+met	salcn6p_c	salcn6p_c		id in bigg					
+met	dmpp_c	dmpp_c		id in bigg					
+met	ade_e	ade_e		id in bigg					
+met	glyc3p_e	glyc3p_e		id in bigg					
+met	34hpp_c	34hpp_c		id in bigg					
+met	h_e	h_e		id in bigg					
+met	mn2_c	mn2_c		id in bigg					
+met	1pyr5c_c	1pyr5c_c		id in bigg					
+met	cellb_e	cellb_e		id in bigg					
+met	prfp_c	prfp_c		id in bigg					
+met	trnaleu_c	trnaleu_c		id in bigg					
+met	2obut_c	2obut_c		id in bigg					
+met	dtmp_c	dtmp_c		id in bigg					
+met	2toceacp_c	2toceacp_c		id in bigg					
+met	ipdp_c	ipdp_c		id in bigg					
+met	acACP_c	acACP_c		id in bigg					
+met	ser__D_c	ser__D_c		id in bigg					
+met	dtdp_c	dtdp_c		id in bigg					
+met	tre6p_c	tre6p_c		id in bigg					
+met	4ppcys_c	4ppcys_c		id in bigg					
+met	3pg_c	3pg_c		id in bigg					
+met	aaacp_c	aaacp_c		id in bigg					
+met	4met2obut_c	4met2obut_c		id in bigg					
+met	unaga_c	unaga_c		id in bigg					
+met	dcmp_c	dcmp_c		id in bigg					
+met	orot_e	orot_e		id in bigg					
+met	bzal_e	bzal_e		id in bigg					
+met	etoh_c	etoh_c		id in bigg					
+met	acald_e	acald_e		id in bigg					
+met	clpn_LLA_c	clpn_LLA_c		id in bigg					
+met	uaccg_c	uaccg_c		id in bigg					
+met	2hxic__L_c	2hxic__L_c		id in bigg					
+met	5aizc_c	5aizc_c		id in bigg					
+met	fe2_e	fe2_e		id in bigg					
+met	hdeacp_c	hdeacp_c		id in bigg					
+met	orn__L_c	orn__L_c		id in bigg					
+met	g3pe_c	g3pe_c		id in bigg					
+met	trnapro_c	trnapro_c		id in bigg					
+met	mercppyr_c	mercppyr_c		id in bigg					
+met	5mtr_c	5mtr_c		id in bigg					
+met	glytrna_c	glytrna_c		id in bigg					
+met	ocdacp_c	ocdacp_c		id in bigg					
+met	trdox_c	trdox_c		id in bigg					
+met	12dgr_LLA_c	12dgr_LLA_c		id in bigg					
+met	5apru_c	5apru_c		id in bigg					
+met	so4_c	so4_c		id in bigg					
+met	lystrna_c	lystrna_c		id in bigg					
+met	2ddg6p_c	2ddg6p_c		id in bigg					
+met	3hddacp_c	3hddacp_c		id in bigg					
+met	acmanap_c	acmanap_c		id in bigg					
+met	iv_p_c	iv_p_c		id in bigg					
+met	3hocacp_c	3hocacp_c		id in bigg					
+met	decacp_c	decacp_c		id in bigg					
+met	3mbal_e	3mbal_e		id in bigg					
+met	drib_e	drib_e		id in bigg					
+met	anth_c	anth_c		id in bigg					
+met	ala__D_e	ala__D_e		id in bigg					
+met	alac__S_c	alac__S_c		id in bigg					
+met	mettrna_c	mettrna_c		id in bigg					
+met	thdp_c	thdp_c		id in bigg					
+met	thr__L_c	thr__L_c		id in bigg					
+met	cdp_c	cdp_c		id in bigg					
+met	3hpaacp_c	3hpaacp_c		id in bigg					
+met	2theacp_c	2theacp_c		id in bigg					
+met	h2s_e	h2s_e		id in bigg					
+met	trptrna_c	trptrna_c		id in bigg					
+met	lac__L_c	lac__L_c		id in bigg					
+met	gua_c	gua_c		id in bigg					
+met	trnaglu_c	trnaglu_c		id in bigg					
+met	asp__L_e	asp__L_e		id in bigg					
+met	pram_c	pram_c		id in bigg					
+met	fdxr_42_c	fdxr_42_c		id in bigg					
+met	dadp_c	dadp_c		id in bigg					
+met	histd_c	histd_c		id in bigg					
+met	dudp_c	dudp_c		id in bigg					
+met	glutrna_c	glutrna_c		id in bigg					
+met	pyrimid_c	pyrimid_c		id in bigg					
+met	maltttr_c	maltttr_c		id in bigg					
+met	ppi_c	ppi_c		id in bigg					
+met	succoa_c	succoa_c		id in bigg					
+met	phom_c	phom_c		id in bigg					
+met	3c3hmp_c	3c3hmp_c		id in bigg					
+met	imp_c	imp_c		id in bigg					
+met	fmet_c	fmet_c		id in bigg					
+met	ala__L_e	ala__L_e		id in bigg					
+met	asptrna_c	asptrna_c		id in bigg					
+met	acgam1p_c	acgam1p_c		id in bigg					
+met	2h3mp_c	2h3mp_c		id in bigg					
+met	fruur_c	fruur_c		id in bigg					
+met	udp_c	udp_c		id in bigg					
+met	val__L_e	val__L_e		id in bigg					
+met	sertrna_c	sertrna_c		id in bigg					
+met	leutrna_c	leutrna_c		id in bigg					
+met	o2s_c	o2s_c		id in bigg					
+met	3mop_c	3mop_c		id in bigg					
+met	23dhmp_c	23dhmp_c		id in bigg					
+met	xu5p__D_c	xu5p__D_c		id in bigg					
+met	xylu__D_c	xylu__D_c		id in bigg					
+met	a_gal__D_c	a_gal__D_c		id in bigg					
+met	2tocdacp_c	2tocdacp_c		id in bigg					
+met	suchms_c	suchms_c		id in bigg					
+met	trnaasp_c	trnaasp_c		id in bigg					
+met	DNA_LLA_c	DNA_LLA_c		id in bigg					
+met	fpram_c	fpram_c		id in bigg					
+met	gtp_c	gtp_c		id in bigg					
+met	acmana_e	acmana_e		id in bigg					
+met	hepdp_c	hepdp_c		id in bigg					
+met	4mhetz_c	4mhetz_c		id in bigg					
+met	mhpglu_c	mhpglu_c		id in bigg					
+met	glcn__D_c	glcn__D_c		id in bigg					
+met	pyrin_c	pyrin_c		id in bigg					
+met	for_c	for_c		id in bigg					
+met	trnaser_c	trnaser_c		id in bigg					
+met	gcald_c	gcald_c		id in bigg					
+met	sucbz_c	sucbz_c		id in bigg					
+met	glu5p_c	glu5p_c		id in bigg					
+met	imacp_c	imacp_c		id in bigg					
+met	bzal_c	bzal_c		id in bigg					
+met	cys__L_c	cys__L_c		id in bigg					
+met	dtdp6dm_c	dtdp6dm_c		id in bigg					
+met	prpp_c	prpp_c		id in bigg					
+met	nh4_c	nh4_c		id in bigg					
+met	ACP_c	ACP_c		id in bigg					
+met	ahdt_c	ahdt_c		id in bigg					
+met	cytd_c	cytd_c		id in bigg					
+met	citr__L_c	citr__L_c		id in bigg					
+met	gua_e	gua_e		id in bigg					
+met	asp__L_c	asp__L_c		id in bigg					
+met	ala__L_c	ala__L_c		id in bigg					
+met	actn__R_e	actn__R_e		id in bigg					
+met	unagama_c	unagama_c		id in bigg					
+met	uacgam_c	uacgam_c		id in bigg					
+met	5odhf2a_c	5odhf2a_c		id in bigg					
+met	oxa_c	oxa_c		id in bigg					
+met	fe2_c	fe2_c		id in bigg					
+met	udpg_c	udpg_c		id in bigg					
+met	3hdeacp_c	3hdeacp_c		id in bigg					
+met	pphn_c	pphn_c		id in bigg					
+met	fum_c	fum_c		id in bigg					
+met	ile__L_e	ile__L_e		id in bigg					
+met	glu__D_c	glu__D_c		id in bigg					
+met	octacp_c	octacp_c		id in bigg					
+met	2chdeacp_c	2chdeacp_c		id in bigg					
+met	adn_c	adn_c		id in bigg					
+met	trnagly_c	trnagly_c		id in bigg					
+met	4adcho_c	4adcho_c		id in bigg					
+met	prlp_c	prlp_c		id in bigg					
+met	acorn_c	acorn_c		id in bigg					
+met	malt_e	malt_e		id in bigg					
+met	ncam_c	ncam_c		id in bigg					
+met	3mob_c	3mob_c		id in bigg					
+met	2pg_c	2pg_c		id in bigg					
+met	glc__D_c	glc__D_c		id in bigg					
+met	2ahhmd_c	2ahhmd_c		id in bigg					
+met	2mop_c	2mop_c		id in bigg					
+met	cyst__L_c	cyst__L_c		id in bigg					
+met	itp_c	itp_c		id in bigg					
+met	glyb_c	glyb_c		id in bigg					
+met	6pgl_c	6pgl_c		id in bigg					
+met	malthx_c	malthx_c		id in bigg					
+met	phetrna_c	phetrna_c		id in bigg					
+met	orn__L_e	orn__L_e		id in bigg					
+met	idp_c	idp_c		id in bigg					
+met	glutrnagln_c	glutrnagln_c		id in bigg					
+met	akg_e	akg_e		id in bigg					
+met	4abz_c	4abz_c		id in bigg					
+met	gthox_c	gthox_c		id in bigg					
+met	acgala_e	acgala_e		id in bigg					
+met	thf_c	thf_c		id in bigg					
+met	acg5sa_c	acg5sa_c		id in bigg					
+met	ribflv_e	ribflv_e		id in bigg					
+met	tyr__L_c	tyr__L_c		id in bigg					
+met	dcdp_c	dcdp_c		id in bigg					
+met	gln__L_e	gln__L_e		id in bigg					
+met	dmlz_c	dmlz_c		id in bigg					
+met	aspsa_c	aspsa_c		id in bigg					
+met	pnto__R_c	pnto__R_c		id in bigg					
+met	2beacp_c	2beacp_c		id in bigg					
+met	h_c	h_c		id in bigg					
+met	dhor__S_c	dhor__S_c		id in bigg					
+met	4ppan_c	4ppan_c		id in bigg					
+met	PROT_LLA_v3_c	PROT_LLA_v3_c		id in bigg					
+met	cpocdacp_c	cpocdacp_c		id in bigg					
+met	cmp_c	cmp_c		id in bigg					
+met	skm5p_c	skm5p_c		id in bigg					
+met	3mbal_c	3mbal_c		id in bigg					
+met	agly3p_LLA_c	agly3p_LLA_c		id in bigg					
+met	g3pg_c	g3pg_c		id in bigg					
+met	lys__L_c	lys__L_c		id in bigg					
+met	dgdp_c	dgdp_c		id in bigg					
+met	thm_e	thm_e		id in bigg					
+met	rib__D_c	rib__D_c		id in bigg					
+met	dhap_c	dhap_c		id in bigg					
+met	trnaval_c	trnaval_c		id in bigg					
+met	acamoxm_c	acamoxm_c		id in bigg					
+met	leu__L_e	leu__L_e		id in bigg					
+met	ala__D_c	ala__D_c		id in bigg					
+met	thr__L_e	thr__L_e		id in bigg					
+met	ugmd_c	ugmd_c		id in bigg					
+met	sbt6p_c	sbt6p_c		id in bigg					
+met	uri_c	uri_c		id in bigg					
+met	4hglu_c	4hglu_c		id in bigg					
+met	dhna_c	dhna_c		id in bigg					
+met	2mbald_e	2mbald_e		id in bigg					
+met	2h3mb_e	2h3mb_e		id in bigg					
+met	dimp_c	dimp_c		id in bigg					
+met	fru_e	fru_e		id in bigg					
+met	ppi_e	ppi_e		id in bigg					
+met	nicrnt_c	nicrnt_c		id in bigg					
+met	ser__D_e	ser__D_e		id in bigg					
+met	ade_c	ade_c		id in bigg					
+met	acgam6p_c	acgam6p_c		id in bigg					
+met	argsuc_c	argsuc_c		id in bigg					
+met	asn__L_c	asn__L_c		id in bigg					
+met	fadh2_c	fadh2_c		id in bigg					
+met	ptrc_e	ptrc_e		id in bigg					
+met	mn2_e	mn2_e		id in bigg					
+met	2mba_e	2mba_e		id in bigg					
+met	2h3mp_e	2h3mp_e		id in bigg					
+met	2mb_p_c	2mb_p_c		id in bigg					
+met	pan4p_c	pan4p_c		id in bigg					
+met	trnalys_c	trnalys_c		id in bigg					
+met	malttr_c	malttr_c		id in bigg					
+met	ins_e	ins_e		id in bigg					
+met	PG_c	PG_c		id in bigg					
+met	gmh7p_c	gmh7p_c		id in bigg					
+met	gam6p_c	gam6p_c		id in bigg					
+met	2thdeacp_c	2thdeacp_c		id in bigg					
+met	dnad_c	dnad_c		id in bigg					
+met	glyc_c	glyc_c		id in bigg					
+met	met__D_c	met__D_c		id in bigg					
+met	pea_e	pea_e		id in bigg					
+met	26dap__M_c	26dap__M_c		id in bigg					
+met	phpyr_c	phpyr_c		id in bigg					
+met	cdpdag_LLA_c	cdpdag_LLA_c		id in bigg					
+met	nad_c	nad_c		id in bigg					
+met	damp_c	damp_c		id in bigg					
+met	4ampm_c	4ampm_c		id in bigg					
+met	apoACP_c	apoACP_c		id in bigg					
+met	ib_p_c	ib_p_c		id in bigg					
+met	mev__R_c	mev__R_c		id in bigg					
+met	hisp_c	hisp_c		id in bigg					
+met	LTA_LLA_c	LTA_LLA_c		id in bigg					
+met	galt1p_c	galt1p_c		id in bigg					
+met	2dr5p_c	2dr5p_c		id in bigg					
+met	uAgla_c	uAgla_c		id in bigg					
+met	udcp_c	udcp_c		id in bigg					
+met	fdxo_42_c	fdxo_42_c		id in bigg					
+met	o2_c	o2_c		id in bigg					
+met	pran_c	pran_c		id in bigg					
+met	valtrna_c	valtrna_c		id in bigg					
+met	thymd_e	thymd_e		id in bigg					
+met	so4_e	so4_e		id in bigg					
+met	3oxocacp_c	3oxocacp_c		id in bigg					
+met	xtsn_c	xtsn_c		id in bigg					
+met	cit_c	cit_c		id in bigg					
+met	tagdp__D_c	tagdp__D_c		id in bigg					
+met	chol_e	chol_e		id in bigg					
+met	zn2_c	zn2_c		id in bigg					
+met	etoh_e	etoh_e		id in bigg					
+met	histrna_c	histrna_c		id in bigg					
+met	met__L_c	met__L_c		id in bigg					
+met	6pgc_c	6pgc_c		id in bigg					
+met	grdp_c	grdp_c		id in bigg					
+met	ohpb_c	ohpb_c		id in bigg					
+met	tre_e	tre_e		id in bigg					
+met	2ahbut_c	2ahbut_c		id in bigg					
+met	5mta_c	5mta_c		id in bigg					
+met	trnatrp_c	trnatrp_c		id in bigg					
+met	spmd_e	spmd_e		id in bigg					
+met	2dmmq8_c	2dmmq8_c		id in bigg					
+met	3hmp_c	3hmp_c		id in bigg					
+met	acser_c	acser_c		id in bigg					
+met	lac__L_e	lac__L_e		id in bigg					
+met	3htdacp_c	3htdacp_c		id in bigg					
+met	dgsn_c	dgsn_c		id in bigg					
+met	3oxddacp_c	3oxddacp_c		id in bigg					
+met	mal__L_e	mal__L_e		id in bigg					
+met	dtdp4d6dg_c	dtdp4d6dg_c		id in bigg					
+met	g3ps_c	g3ps_c		id in bigg					
+met	his__L_c	his__L_c		id in bigg					
+met	trnaarg_c	trnaarg_c		id in bigg					
+met	5aprbu_c	5aprbu_c		id in bigg					
+met	4abut_c	4abut_c		id in bigg					
+met	ac_c	ac_c		id in bigg					
+met	4mpetz_c	4mpetz_c		id in bigg					
+met	ura_c	ura_c		id in bigg					
+met	ddeacp_c	ddeacp_c		id in bigg					
+met	orot_c	orot_c		id in bigg					
+met	pacald_c	pacald_c		id in bigg					
+met	f6p_c	f6p_c		id in bigg					
+met	accoa_c	accoa_c		id in bigg					
+met	co2_e	co2_e		id in bigg					
+met	uamag_c	uamag_c		id in bigg					
+met	2ippm_c	2ippm_c		id in bigg					
+met	5dpmev_c	5dpmev_c		id in bigg					
+met	fgam_c	fgam_c		id in bigg					
+met	cbp_c	cbp_c		id in bigg					
+met	arg__L_c	arg__L_c		id in bigg					
+met	alaala_c	alaala_c		id in bigg					
+met	amp_c	amp_c		id in bigg					
+met	sucr_e	sucr_e		id in bigg					
+met	pi_c	pi_c		id in bigg					
+met	3hbacp_c	3hbacp_c		id in bigg					
+met	inost_c	inost_c		id in bigg					
+met	fol_c	fol_c		id in bigg					
+met	alatrna_c	alatrna_c		id in bigg					
+met	btd_RR_e	btd_RR_e		id in bigg					
+met	pppi_c	pppi_c		id in bigg					
+met	acgam_e	acgam_e		id in bigg					
+met	g1p_c	g1p_c		id in bigg					
+met	udpgalfur_c	udpgalfur_c		id in bigg					
+met	xan_e	xan_e		id in bigg					
+met	sl2a6o_c	sl2a6o_c		id in bigg					
+met	lyspg_LLA_c	lyspg_LLA_c		id in bigg					
+met	oaa_c	oaa_c		id in bigg					
+met	3oxhacp_c	3oxhacp_c		id in bigg					
+met	2hxic__L_e	2hxic__L_e		id in bigg					
+met	mana_c	mana_c		id in bigg					
+met	r5p_c	r5p_c		id in bigg					
+met	gly_e	gly_e		id in bigg					
+met	mlthf_c	mlthf_c		id in bigg					
+met	hpglu_c	hpglu_c		id in bigg					
+met	thym_c	thym_c		id in bigg					
+met	cdprbtl_c	cdprbtl_c		id in bigg					
+met	3mba_c	3mba_c		id in bigg					
+met	2ttdeacp_c	2ttdeacp_c		id in bigg					
+met	haram_c	haram_c		id in bigg					
+met	tyrtrna_c	tyrtrna_c		id in bigg					
+met	lcts_e	lcts_e		id in bigg					
+met	h2o_c	h2o_c		id in bigg					
+met	trnaile_c	trnaile_c		id in bigg					
+met	atp_c	atp_c		id in bigg					
+met	prbatp_c	prbatp_c		id in bigg					
+met	fe3_c	fe3_c		id in bigg					
+met	db4p_c	db4p_c		id in bigg					
+met	hom__L_c	hom__L_c		id in bigg					
+met	dutp_c	dutp_c		id in bigg					
+met	dtdpglc_c	dtdpglc_c		id in bigg					
+met	ser__L_e	ser__L_e		id in bigg					
+met	acald_c	acald_c		id in bigg					
+met	ivcoa_c	ivcoa_c		id in bigg					
+met	nmn_e	nmn_e		id in bigg					
+met	dctp_c	dctp_c		id in bigg					
+met	N1aspmd_c	N1aspmd_c		id in bigg					
+met	2mpa_e	2mpa_e		id in bigg					
+met	pg_LLA_c	pg_LLA_c		id in bigg					
+met	2dda7p_c	2dda7p_c		id in bigg					
+met	dad_2_c	dad_2_c		id in bigg					
+met	ribflvRD_c	ribflvRD_c		id in bigg					
+met	3php_c	3php_c		id in bigg					
+met	2aeppn_e	2aeppn_e		id in bigg					
+met	trnagln_c	trnagln_c		id in bigg					
+met	3oxtdacp_c	3oxtdacp_c		id in bigg					
+met	dttp_c	dttp_c		id in bigg					
+met	ichor_c	ichor_c		id in bigg					
+met	2ddglcn_c	2ddglcn_c		id in bigg					
+met	trp__L_e	trp__L_e		id in bigg					
+met	gdp_c	gdp_c		id in bigg					
+met	diact_c	diact_c		id in bigg					
+met	methf_c	methf_c		id in bigg					
+met	aacoa_c	aacoa_c		id in bigg					
+met	achms_c	achms_c		id in bigg					
+met	succ_e	succ_e		id in bigg					
+met	pser__L_c	pser__L_c		id in bigg					
+met	frdp_c	frdp_c		id in bigg					
+met	gal_c	gal_c		id in bigg					
+met	2cpr5p_c	2cpr5p_c		id in bigg					
+met	pyr_e	pyr_e		id in bigg					
+met	unRTA_c	unRTA_c		id in bigg					
+met	nac_c	nac_c		id in bigg					
+met	galur_c	galur_c		id in bigg					
+met	uaaAgla_c	uaaAgla_c		id in bigg					
+met	glyc3p_c	glyc3p_c		id in bigg					
+met	malcoa_c	malcoa_c		id in bigg					
+met	fmettrna_c	fmettrna_c		id in bigg					
+met	carorn_c	carorn_c		id in bigg					
+met	dha_c	dha_c		id in bigg					
+met	xyl__D_c	xyl__D_c		id in bigg					
+met	hxan_c	hxan_c		id in bigg					
+met	mqn7_c	mqn7_c		id in bigg					
+met	thmpp_c	thmpp_c		id in bigg					
+met	h2s_c	h2s_c		id in bigg					
+met	indole_c	indole_c		id in bigg					
+met	26dap_LL_c	26dap_LL_c		id in bigg					
+met	sbzcoa_c	sbzcoa_c		id in bigg					
+met	drib_c	drib_c		id in bigg					
+met	adpglc_c	adpglc_c		id in bigg					
+met	glycogen_c	glycogen_c		id in bigg					
+met	3dhq_c	3dhq_c		id in bigg					
+met	tdeacp_c	tdeacp_c		id in bigg					
+met	hcys__L_c	hcys__L_c		id in bigg					
+met	2aeppn_c	2aeppn_c		id in bigg					
+met	chitin_c	chitin_c		id in bigg					
+met	pro__L_e	pro__L_e		id in bigg					
+met	trnaphe_c	trnaphe_c		id in bigg					
+met	2tddacp_c	2tddacp_c		id in bigg					
+met	dump_c	dump_c		id in bigg					
+met	3c2hmp_c	3c2hmp_c		id in bigg					
+met	mnl_e	mnl_e		id in bigg					
+met	udcpp_c	udcpp_c		id in bigg					
+met	csn_c	csn_c		id in bigg					
+met	nadp_c	nadp_c		id in bigg					
+met	ch4s_c	ch4s_c		id in bigg					
+met	m12dg_LLA_c	m12dg_LLA_c		id in bigg					
+met	air_c	air_c		id in bigg					
+met	val__L_c	val__L_c		id in bigg					
+met	pap_c	pap_c		id in bigg					
+met	trdrd_c	trdrd_c		id in bigg					
+met	phe__L_c	phe__L_c		id in bigg					
+met	asntrna_c	asntrna_c		id in bigg					
+met	etha_c	etha_c		id in bigg					
+met	glcur_c	glcur_c		id in bigg					
+met	g6p_c	g6p_c		id in bigg					
+met	g3pc_c	g3pc_c		id in bigg					
+met	glu__L_e	glu__L_e		id in bigg					
+met	e4p_c	e4p_c		id in bigg					
+met	s7p_c	s7p_c		id in bigg					
+met	man6p_c	man6p_c		id in bigg					
+met	4r5au_c	4r5au_c		id in bigg					
+met	3hocdacp_c	3hocdacp_c		id in bigg					
+met	zn2_e	zn2_e		id in bigg					
+rea	2H3MBDH	2H3MBDH		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	2H3MPDH	2H3MPDH		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	2HXICDH	2HXICDH		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	2MBALDH	2MBALDH		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	2MBALDt	2MBALDt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	2MBAt6	2MBAt6		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	2MPAt6	2MPAt6		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	2S6HCCi	2S6HCCi		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	3MBALt	3MBALt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	3MBAt6	3MBAt6		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	4ABZt	4ABZt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	AALDH	AALDH		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ABUTt2r	ABUTt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ACACT1r	ACACT1r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ACALD	ACALD		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ACALDt	ACALDt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ACKr	ACKr		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ACOATA	ACOATA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ACONT	ACONT		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	ACOTA	ACOTA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ACTD	ACTD		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ACTNdiff	ACTNdiff		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ACt2r	ACt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ADADir	ADADir		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ADEt2	ADEt2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ADK1	ADK1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ADK2	ADK2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ADPTA	ADPTA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	AGPR	AGPR		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	AHSERL2	AHSERL2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	AICART	AICART		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	AKGt2r	AKGt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ALAALAr	ALAALAr		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ALAR	ALAR		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ALATA_L	ALATA_L		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ALCD19	ALCD19		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ALCD2x	ALCD2x		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	APATi	APATi		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ARAT	ARAT		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ARGORNt3	ARGORNt3		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ARGSL	ARGSL		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ASAD	ASAD		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ASPK	ASPK		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ASPR	ASPR		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ASPTA	ASPTA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ASPTA2	ASPTA2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ASPTA4	ASPTA4		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ATPS3r	ATPS3r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	BIOMASS_LLA_noATPnoH	BIOMASS_LLA_noATPnoH		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	BTDD_RR	BTDD_RR		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	BTDt_RR	BTDt_RR		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	BZALt	BZALt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	CARORSr	CARORSr		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	CH4St	CH4St		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	CITt2r	CITt2r		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	CITt3	CITt3		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	CLPNS_LLA	CLPNS_LLA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	CO2t	CO2t		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	CPSS_LLA	CPSS_LLA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	CYTB_B2	CYTB_B2		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	CYTK1	CYTK1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	CYTK2	CYTK2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DADK	DADK		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DALAt2r	DALAt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DAPE	DAPE		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DASYN_LLA	DASYN_LLA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DHAt	DHAt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DHFR	DHFR		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DHORD6	DHORD6		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	DHORDi	DHORDi		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DHORTS	DHORTS		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DHQTi	DHQTi		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DIACTt	DIACTt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DSERt2	DSERt2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DTMPK	DTMPK		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	DURIPP	DURIPP		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ENO	ENO		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ETOHt	ETOHt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	EX_4abz_e	EX_4abz_e		id in bigg(bounds different)		(-0.00999, 1000.0)	(0.0, 1000.0)		
+rea	EX_ac_e	EX_ac_e		id in bigg(bounds different)		(0.83, 1.92)	(0.0, 1000.0)		
+rea	EX_ade_e	EX_ade_e		id in bigg(bounds different)		(-0.01014, 1000.0)	(0.0, 1000.0)		
+rea	EX_ala__L_e	EX_ala__L_e		id in bigg(bounds different)		(-0.04, 0.0)	(0.0, 1000.0)		
+rea	EX_arg__L_e	EX_arg__L_e		id in bigg(bounds different)		(-0.02, -0.01)	(0.0, 1000.0)		
+rea	EX_asp__L_e	EX_asp__L_e		id in bigg(bounds different)		(-0.01, 0.05)	(0.0, 1000.0)		
+rea	EX_co2_e	EX_co2_e		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	EX_cys__L_e	EX_cys__L_e		id in bigg(bounds different)		(-0.02, 0.0)	(0.0, 1000.0)		
+rea	EX_etoh_e	EX_etoh_e		id in bigg(bounds different)		(0.44, 1.02)	(0.0, 1000.0)		
+rea	EX_fe2_e	EX_fe2_e		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	EX_fe3_e	EX_fe3_e		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	EX_for_e	EX_for_e		id in bigg(bounds different)		(1.71, 3.94)	(0.0, 1000.0)		
+rea	EX_glc__D_e	EX_glc__D_e		id in bigg(bounds different)		(-2.12, -0.92)	(0.0, 1000.0)		
+rea	EX_glu__L_e	EX_glu__L_e		id in bigg(bounds different)		(-0.05, -0.01)	(0.0, 1000.0)		
+rea	EX_gly_e	EX_gly_e		id in bigg(bounds different)		(-0.04, 0.0)	(0.0, 1000.0)		
+rea	EX_gua_e	EX_gua_e		id in bigg(bounds different)		(-0.00906, 1000.0)	(0.0, 1000.0)		
+rea	EX_h2o_e	EX_h2o_e		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	EX_h_e	EX_h_e		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	EX_his__L_e	EX_his__L_e		id in bigg(bounds different)		(-0.01, 0.0)	(0.0, 1000.0)		
+rea	EX_ile__L_e	EX_ile__L_e		id in bigg(bounds different)		(-0.05, -0.01)	(0.0, 1000.0)		
+rea	EX_ins_e	EX_ins_e		id in bigg(bounds different)		(-0.00255, 1000.0)	(0.0, 1000.0)		
+rea	EX_lac__L_e	EX_lac__L_e		id in bigg(bounds different)		(0.4, 0.92)	(0.0, 1000.0)		
+rea	EX_leu__L_e	EX_leu__L_e		id in bigg(bounds different)		(-0.06, -0.01)	(0.0, 1000.0)		
+rea	EX_lys__L_e	EX_lys__L_e		id in bigg(bounds different)		(-0.04, 0.0)	(0.0, 1000.0)		
+rea	EX_met__L_e	EX_met__L_e		id in bigg(bounds different)		(-0.01, 0.0)	(0.0, 1000.0)		
+rea	EX_mn2_e	EX_mn2_e		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	EX_nac_e	EX_nac_e		id in bigg(bounds different)		(-0.00111, 1000.0)	(0.0, 1000.0)		
+rea	EX_nh4_e	EX_nh4_e		id in bigg(bounds different)		(-0.59, 0.44)	(0.0, 1000.0)		
+rea	EX_orn__L_e	EX_orn__L_e		id in bigg(bounds different)		(0.0, 0.01)	(0.0, 1000.0)		
+rea	EX_orot_e	EX_orot_e		id in bigg(bounds different)		(-0.00439, 1000.0)	(0.0, 1000.0)		
+rea	EX_phe__L_e	EX_phe__L_e		id in bigg(bounds different)		(-0.02, 0.01)	(0.0, 1000.0)		
+rea	EX_pi_e	EX_pi_e		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	EX_pnto__R_e	EX_pnto__R_e		id in bigg(bounds different)		(-0.00062, 1000.0)	(0.0, 1000.0)		
+rea	EX_pro__L_e	EX_pro__L_e		id in bigg(bounds different)		(0.03, 0.44)	(0.0, 1000.0)		
+rea	EX_ribflv_e	EX_ribflv_e		id in bigg(bounds different)		(-0.00036, 1000.0)	(0.0, 1000.0)		
+rea	EX_ser__L_e	EX_ser__L_e		id in bigg(bounds different)		(-0.11, -0.04)	(0.0, 1000.0)		
+rea	EX_thm_e	EX_thm_e		id in bigg(bounds different)		(-0.00041, 1000.0)	(0.0, 1000.0)		
+rea	EX_thr__L_e	EX_thr__L_e		id in bigg(bounds different)		(-0.06, -0.02)	(0.0, 1000.0)		
+rea	EX_thymd_e	EX_thymd_e		id in bigg(bounds different)		(-0.00283, 1000.0)	(0.0, 1000.0)		
+rea	EX_trp__L_e	EX_trp__L_e		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	EX_tyr__L_e	EX_tyr__L_e		id in bigg(bounds different)		(0.0, 0.01)	(0.0, 1000.0)		
+rea	EX_ura_e	EX_ura_e		id in bigg(bounds different)		(-0.01222, 1000.0)	(0.0, 1000.0)		
+rea	EX_val__L_e	EX_val__L_e		id in bigg(bounds different)		(-0.05, -0.01)	(0.0, 1000.0)		
+rea	EX_xan_e	EX_xan_e		id in bigg(bounds different)		(-0.00901, 1000.0)	(0.0, 1000.0)		
+rea	EX_zn2_e	EX_zn2_e		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	FABM	FABM		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	FABM1	FABM1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	FABM2	FABM2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	FBA	FBA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	FOLR2	FOLR2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	FOLt	FOLt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	FORt2	FORt2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	FRDx	FRDx		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	G3PD	G3PD		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	G3PD1ir	G3PD1ir		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	G3PD2	G3PD2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	G3PD4	G3PD4		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	G5SADs	G5SADs		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	G6PDH2r	G6PDH2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	G6PI	G6PI		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GALM	GALM		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GALT	GALT		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GALUi	GALUi		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GAPD	GAPD		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GARFT	GARFT		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GCALDt	GCALDt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GHMT2r	GHMT2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GK1	GK1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GK2	GK2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GLCNt2ir	GLCNt2ir		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GLUABUTt7	GLUABUTt7		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GLUR	GLUR		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GLYCt	GLYCt		id in bigg(bounds different)		(-1000.0, 0.0)	(0.0, 1000.0)		
+rea	GTHOr	GTHOr		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	GTHPi	GTHPi		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	GUI1	GUI1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	GUI2	GUI2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	H2Ot	H2Ot		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	H2St1	H2St1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	HCO3E	HCO3E		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	HMGCOAR	HMGCOAR		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	HMGCOAS	HMGCOAS		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	HSDy	HSDy		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	HSERTA	HSERTA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ICDHyr	ICDHyr		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	ICHORS	ICHORS		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ILETA	ILETA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	IMPC	IMPC		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	INSt2	INSt2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	IPDDI	IPDDI		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	IPPMIa	IPPMIa		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	IPPMIb	IPPMIb		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	KARA1	KARA1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	KARA2	KARA2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	LCTSt	LCTSt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	LDH_L	LDH_L		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	LEUTA	LEUTA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	LYSt2r	LYSt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	L_LACt2r	L_LACt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	M1PD	M1PD		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	MAN6PI	MAN6PI		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	MANAO	MANAO		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	MPL	MPL		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	MTHFC	MTHFC		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	MTHFD	MTHFD		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	MTHFR3	MTHFR3		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NADH4	NADH4		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	NADHPO	NADHPO		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	NDPK1	NDPK1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NDPK2	NDPK2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NDPK3	NDPK3		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NDPK4	NDPK4		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NDPK5	NDPK5		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NDPK6	NDPK6		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NDPK7	NDPK7		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NDPK8	NDPK8		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NH3c	NH3c		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NH4t	NH4t		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NNAM	NNAM		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	NOX2	NOX2		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	O2t	O2t		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	OCBT_1	OCBT_1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	OHPBAT	OHPBAT		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	OIVD1r	OIVD1r		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	OIVD2	OIVD2		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	OIVD3	OIVD3		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	ORNTAC_1	ORNTAC_1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	OROATP	OROATP		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	ORPT	ORPT		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PACALDt	PACALDt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PDH	PDH		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	PEAt	PEAt		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PFL	PFL		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PGAMT	PGAMT		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PGI	PGI		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PGK	PGK		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PGM	PGM		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PGMT	PGMT		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PGMT_B	PGMT_B		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PGSA_LLA	PGSA_LLA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PHEt2r	PHEt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PNTOt2	PNTOt2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	POR	POR		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PPM	PPM		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PPM2	PPM2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PRAIi	PRAIi		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PRASCSi	PRASCSi		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PRMICI	PRMICI		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PROTS_LLA	PROTS_LLA		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	PROTS_LLA_v2	PROTS_LLA_v2		id in bigg(bounds different)		(0.0, 0.0)	(0.0, 1000.0)		
+rea	PRPPS	PRPPS		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PSCVT	PSCVT		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PTAr	PTAr		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PTPATi	PTPATi		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PUNP1	PUNP1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PUNP2	PUNP2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PUNP3	PUNP3		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PUNP4	PUNP4		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PUNP5	PUNP5		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PUNP6	PUNP6		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PUNP7	PUNP7		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PYNP2r	PYNP2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PYNP4	PYNP4		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	PYRt2	PYRt2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	RPE	RPE		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	RPI	RPI		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	S7PI_1	S7PI_1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	SERAT	SERAT		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	SERt2r	SERt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	SHK3Dr	SHK3Dr		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	SUCCt2r	SUCCt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	SUCD1	SUCD1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	TDPDRE	TDPDRE		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	TDPDRR_1	TDPDRR_1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	THFGLUS	THFGLUS		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	THRA	THRA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	TKT1	TKT1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	TKT2	TKT2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	TMDPP	TMDPP		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	TMPK	TMPK		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	TPI	TPI		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	TRPTA	TRPTA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	TRPt2r	TRPt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	TYRt2r	TYRt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	UDPG4E	UDPG4E		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	UDPGD	UDPGD		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	VALTA	VALTA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	XYLI1	XYLI1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	XYLI2	XYLI2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	araphe1	araphe1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	araphe2	araphe2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	araphe3	araphe3		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	aratry1	aratry1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	aratry2	aratry2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	aratyr1	aratyr1		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	aratyr2	aratyr2		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	aratyr3	aratyr3		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	aratyr4	aratyr4		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
+rea	2H3MBt	2H3MBt		id in bigg(same)					
+rea	2H3MPt	2H3MPt		id in bigg(same)					
+rea	3MOPDC	3MOPDC		id in bigg(same)					
+rea	AB6PGH	AB6PGH		id in bigg(same)					
+rea	ACCOAC	ACCOAC		id in bigg(same)					
+rea	ACGALpts	ACGALpts		id in bigg(same)					
+rea	ACGAMT	ACGAMT		id in bigg(same)					
+rea	ACGApts	ACGApts		id in bigg(same)					
+rea	ACGK	ACGK		id in bigg(same)					
+rea	ACHBS	ACHBS		id in bigg(same)					
+rea	ACKILE	ACKILE		id in bigg(same)					
+rea	ACKLEU	ACKLEU		id in bigg(same)					
+rea	ACKVAL	ACKVAL		id in bigg(same)					
+rea	ACLDC	ACLDC		id in bigg(same)					
+rea	ACLS	ACLS		id in bigg(same)					
+rea	ACMANApts	ACMANApts		id in bigg(same)					
+rea	ACODA_1	ACODA_1		id in bigg(same)					
+rea	ACPS2	ACPS2		id in bigg(same)					
+rea	ACPSc	ACPSc		id in bigg(same)					
+rea	ADA	ADA		id in bigg(same)					
+rea	ADCL	ADCL		id in bigg(same)					
+rea	ADCS	ADCS		id in bigg(same)					
+rea	ADPDS	ADPDS		id in bigg(same)					
+rea	ADPRDP	ADPRDP		id in bigg(same)					
+rea	ADPT	ADPT		id in bigg(same)					
+rea	ADSL1r	ADSL1r		id in bigg(same)					
+rea	ADSL2r	ADSL2r		id in bigg(same)					
+rea	ADSS	ADSS		id in bigg(same)					
+rea	AEPabc	AEPabc		id in bigg(same)					
+rea	AGAT_LLA	AGAT_LLA		id in bigg(same)					
+rea	AGDC	AGDC		id in bigg(same)					
+rea	AHCYSNS	AHCYSNS		id in bigg(same)					
+rea	AHMMPS_1	AHMMPS_1		id in bigg(same)					
+rea	AIRCr	AIRCr		id in bigg(same)					
+rea	ALATRS_1	ALATRS_1		id in bigg(same)					
+rea	ALKP	ALKP		id in bigg(same)					
+rea	ALOX	ALOX		id in bigg(same)					
+rea	AMALT1	AMALT1		id in bigg(same)					
+rea	AMALT2	AMALT2		id in bigg(same)					
+rea	AMALT3	AMALT3		id in bigg(same)					
+rea	AMALT4	AMALT4		id in bigg(same)					
+rea	AMANAPEr	AMANAPEr		id in bigg(same)					
+rea	AMMQT8_2	AMMQT8_2		id in bigg(same)					
+rea	ANPRT	ANPRT		id in bigg(same)					
+rea	ANS	ANS		id in bigg(same)					
+rea	APRAUR	APRAUR		id in bigg(same)					
+rea	ARGDI_1	ARGDI_1		id in bigg(same)					
+rea	ARGSS	ARGSS		id in bigg(same)					
+rea	ARGTRS_1	ARGTRS_1		id in bigg(same)					
+rea	ARGabc	ARGabc		id in bigg(same)					
+rea	ARGt2r	ARGt2r		id in bigg(same)					
+rea	ASNN	ASNN		id in bigg(same)					
+rea	ASNS1	ASNS1		id in bigg(same)					
+rea	ASNTRS_1	ASNTRS_1		id in bigg(same)					
+rea	ASNt2r	ASNt2r		id in bigg(same)					
+rea	ASPCT	ASPCT		id in bigg(same)					
+rea	ASPTRS_1	ASPTRS_1		id in bigg(same)					
+rea	ASPt2r	ASPt2r		id in bigg(same)					
+rea	ATPM	ATPM		id in bigg(same)					
+rea	ATPPRT	ATPPRT		id in bigg(same)					
+rea	BGLA1	BGLA1		id in bigg(same)					
+rea	BG_CELLB	BG_CELLB		id in bigg(same)					
+rea	BIOMASS_LLA	BIOMASS_LLA		id in bigg(same)					
+rea	BTMAT1	BTMAT1		id in bigg(same)					
+rea	CBPS	CBPS		id in bigg(same)					
+rea	CELBpts	CELBpts		id in bigg(same)					
+rea	CFAS180	CFAS180		id in bigg(same)					
+rea	CGPT	CGPT		id in bigg(same)					
+rea	CHITN1	CHITN1		id in bigg(same)					
+rea	CHLabc	CHLabc		id in bigg(same)					
+rea	CHORM	CHORM		id in bigg(same)					
+rea	CHORS	CHORS		id in bigg(same)					
+rea	CMLDC	CMLDC		id in bigg(same)					
+rea	CPPPGO	CPPPGO		id in bigg(same)					
+rea	CRPT_25	CRPT_25		id in bigg(same)					
+rea	CS	CS		id in bigg(same)					
+rea	CSND	CSND		id in bigg(same)					
+rea	CTPS1	CTPS1		id in bigg(same)					
+rea	CTPS2	CTPS2		id in bigg(same)					
+rea	CYSDS	CYSDS		id in bigg(same)					
+rea	CYSS	CYSS		id in bigg(same)					
+rea	CYSTGL	CYSTGL		id in bigg(same)					
+rea	CYSTL	CYSTL		id in bigg(same)					
+rea	CYSTRS_1	CYSTRS_1		id in bigg(same)					
+rea	CYSt2r	CYSt2r		id in bigg(same)					
+rea	CYTD	CYTD		id in bigg(same)					
+rea	CYTDK1	CYTDK1		id in bigg(same)					
+rea	CYTDK2	CYTDK2		id in bigg(same)					
+rea	DADA	DADA		id in bigg(same)					
+rea	DADNK	DADNK		id in bigg(same)					
+rea	DAGGT_LLA	DAGGT_LLA		id in bigg(same)					
+rea	DAGK_LLA	DAGK_LLA		id in bigg(same)					
+rea	DALTAL_LLA	DALTAL_LLA		id in bigg(same)					
+rea	DAPDC	DAPDC		id in bigg(same)					
+rea	DB4PS	DB4PS		id in bigg(same)					
+rea	DCMPDA_1	DCMPDA_1		id in bigg(same)					
+rea	DCYTD	DCYTD		id in bigg(same)					
+rea	DDMAT5	DDMAT5		id in bigg(same)					
+rea	DDPA	DDPA		id in bigg(same)					
+rea	DEMAT4	DEMAT4		id in bigg(same)					
+rea	DGNSK	DGNSK		id in bigg(same)					
+rea	DHAD1	DHAD1		id in bigg(same)					
+rea	DHAD2	DHAD2		id in bigg(same)					
+rea	DHAPT	DHAPT		id in bigg(same)					
+rea	DHDPRy	DHDPRy		id in bigg(same)					
+rea	DHDPS	DHDPS		id in bigg(same)					
+rea	DHFS	DHFS		id in bigg(same)					
+rea	DHNAOT_1	DHNAOT_1		id in bigg(same)					
+rea	DHNPA_1	DHNPA_1		id in bigg(same)					
+rea	DHPPDA	DHPPDA		id in bigg(same)					
+rea	DHQS	DHQS		id in bigg(same)					
+rea	DINSK	DINSK		id in bigg(same)					
+rea	DMATT	DMATT		id in bigg(same)					
+rea	DNAS_LLA	DNAS_LLA		id in bigg(same)					
+rea	DPCOAK	DPCOAK		id in bigg(same)					
+rea	DPMVD	DPMVD		id in bigg(same)					
+rea	DRBK	DRBK		id in bigg(same)					
+rea	DRIBt2	DRIBt2		id in bigg(same)					
+rea	DRPA	DRPA		id in bigg(same)					
+rea	DURIK1	DURIK1		id in bigg(same)					
+rea	DUTPDP	DUTPDP		id in bigg(same)					
+rea	DXPS	DXPS		id in bigg(same)					
+rea	EDA	EDA		id in bigg(same)					
+rea	EX_2aeppn_e	EX_2aeppn_e		id in bigg(same)					
+rea	EX_2h3mb_e	EX_2h3mb_e		id in bigg(same)					
+rea	EX_2h3mp_e	EX_2h3mp_e		id in bigg(same)					
+rea	EX_2hxic__L_e	EX_2hxic__L_e		id in bigg(same)					
+rea	EX_2mba_e	EX_2mba_e		id in bigg(same)					
+rea	EX_2mbald_e	EX_2mbald_e		id in bigg(same)					
+rea	EX_2mpa_e	EX_2mpa_e		id in bigg(same)					
+rea	EX_3mba_e	EX_3mba_e		id in bigg(same)					
+rea	EX_3mbal_e	EX_3mbal_e		id in bigg(same)					
+rea	EX_4abut_e	EX_4abut_e		id in bigg(same)					
+rea	EX_acald_e	EX_acald_e		id in bigg(same)					
+rea	EX_acgala_e	EX_acgala_e		id in bigg(same)					
+rea	EX_acgam_e	EX_acgam_e		id in bigg(same)					
+rea	EX_acmana_e	EX_acmana_e		id in bigg(same)					
+rea	EX_actn__R_e	EX_actn__R_e		id in bigg(same)					
+rea	EX_akg_e	EX_akg_e		id in bigg(same)					
+rea	EX_ala__D_e	EX_ala__D_e		id in bigg(same)					
+rea	EX_asn__L_e	EX_asn__L_e		id in bigg(same)					
+rea	EX_btd_RR_e	EX_btd_RR_e		id in bigg(same)					
+rea	EX_bzal_e	EX_bzal_e		id in bigg(same)					
+rea	EX_cellb_e	EX_cellb_e		id in bigg(same)					
+rea	EX_ch4s_e	EX_ch4s_e		id in bigg(same)					
+rea	EX_chol_e	EX_chol_e		id in bigg(same)					
+rea	EX_cit_e	EX_cit_e		id in bigg(same)					
+rea	EX_dha_e	EX_dha_e		id in bigg(same)					
+rea	EX_diact_e	EX_diact_e		id in bigg(same)					
+rea	EX_drib_e	EX_drib_e		id in bigg(same)					
+rea	EX_fol_e	EX_fol_e		id in bigg(same)					
+rea	EX_fru_e	EX_fru_e		id in bigg(same)					
+rea	EX_gal_e	EX_gal_e		id in bigg(same)					
+rea	EX_galt_e	EX_galt_e		id in bigg(same)					
+rea	EX_gcald_e	EX_gcald_e		id in bigg(same)					
+rea	EX_glcn__D_e	EX_glcn__D_e		id in bigg(same)					
+rea	EX_gln__L_e	EX_gln__L_e		id in bigg(same)					
+rea	EX_glyb_e	EX_glyb_e		id in bigg(same)					
+rea	EX_glyc3p_e	EX_glyc3p_e		id in bigg(same)					
+rea	EX_glyc_e	EX_glyc_e		id in bigg(same)					
+rea	EX_h2s_e	EX_h2s_e		id in bigg(same)					
+rea	EX_hxan_e	EX_hxan_e		id in bigg(same)					
+rea	EX_lcts_e	EX_lcts_e		id in bigg(same)					
+rea	EX_mal__L_e	EX_mal__L_e		id in bigg(same)					
+rea	EX_malt_e	EX_malt_e		id in bigg(same)					
+rea	EX_man_e	EX_man_e		id in bigg(same)					
+rea	EX_met__D_e	EX_met__D_e		id in bigg(same)					
+rea	EX_mnl_e	EX_mnl_e		id in bigg(same)					
+rea	EX_nmn_e	EX_nmn_e		id in bigg(same)					
+rea	EX_o2_e	EX_o2_e		id in bigg(same)					
+rea	EX_pacald_e	EX_pacald_e		id in bigg(same)					
+rea	EX_pea_e	EX_pea_e		id in bigg(same)					
+rea	EX_ppi_e	EX_ppi_e		id in bigg(same)					
+rea	EX_ptrc_e	EX_ptrc_e		id in bigg(same)					
+rea	EX_pyr_e	EX_pyr_e		id in bigg(same)					
+rea	EX_rib__D_e	EX_rib__D_e		id in bigg(same)					
+rea	EX_sbt__D_e	EX_sbt__D_e		id in bigg(same)					
+rea	EX_ser__D_e	EX_ser__D_e		id in bigg(same)					
+rea	EX_so4_e	EX_so4_e		id in bigg(same)					
+rea	EX_spmd_e	EX_spmd_e		id in bigg(same)					
+rea	EX_succ_e	EX_succ_e		id in bigg(same)					
+rea	EX_sucr_e	EX_sucr_e		id in bigg(same)					
+rea	EX_tre_e	EX_tre_e		id in bigg(same)					
+rea	FBP	FBP		id in bigg(same)					
+rea	FE2abc	FE2abc		id in bigg(same)					
+rea	FE3abc	FE3abc		id in bigg(same)					
+rea	FLVR_1	FLVR_1		id in bigg(same)					
+rea	FMETDF	FMETDF		id in bigg(same)					
+rea	FMETTRS_1	FMETTRS_1		id in bigg(same)					
+rea	FMNAT	FMNAT		id in bigg(same)					
+rea	FOLD3	FOLD3		id in bigg(same)					
+rea	FRUK	FRUK		id in bigg(same)					
+rea	FRUpts	FRUpts		id in bigg(same)					
+rea	FTHFCL_1	FTHFCL_1		id in bigg(same)					
+rea	FTHFLi	FTHFLi		id in bigg(same)					
+rea	G1PACT	G1PACT		id in bigg(same)					
+rea	G1PTMT	G1PTMT		id in bigg(same)					
+rea	G3PCT	G3PCT		id in bigg(same)					
+rea	G5SD	G5SD		id in bigg(same)					
+rea	G6PDA	G6PDA		id in bigg(same)					
+rea	GALK2	GALK2		id in bigg(same)					
+rea	GALTAL	GALTAL		id in bigg(same)					
+rea	GALTpts	GALTpts		id in bigg(same)					
+rea	GALt2	GALt2		id in bigg(same)					
+rea	GAT1_LLA	GAT1_LLA		id in bigg(same)					
+rea	GF6PTA	GF6PTA		id in bigg(same)					
+rea	GLCP	GLCP		id in bigg(same)					
+rea	GLCS1	GLCS1		id in bigg(same)					
+rea	GLCpts	GLCpts		id in bigg(same)					
+rea	GLGC	GLGC		id in bigg(same)					
+rea	GLNS	GLNS		id in bigg(same)					
+rea	GLNTRS2	GLNTRS2		id in bigg(same)					
+rea	GLNabc	GLNabc		id in bigg(same)					
+rea	GLU5K	GLU5K		id in bigg(same)					
+rea	GLUDC	GLUDC		id in bigg(same)					
+rea	GLUPRT	GLUPRT		id in bigg(same)					
+rea	GLUSy	GLUSy		id in bigg(same)					
+rea	GLUTRS2	GLUTRS2		id in bigg(same)					
+rea	GLUTRS_2	GLUTRS_2		id in bigg(same)					
+rea	GLUabc	GLUabc		id in bigg(same)					
+rea	GLYBabc	GLYBabc		id in bigg(same)					
+rea	GLYC3Pt6	GLYC3Pt6		id in bigg(same)					
+rea	GLYK	GLYK		id in bigg(same)					
+rea	GLYTRS_1	GLYTRS_1		id in bigg(same)					
+rea	GMPR	GMPR		id in bigg(same)					
+rea	GMPS2	GMPS2		id in bigg(same)					
+rea	GND	GND		id in bigg(same)					
+rea	GNKr	GNKr		id in bigg(same)					
+rea	GPDDA1	GPDDA1		id in bigg(same)					
+rea	GPDDA2	GPDDA2		id in bigg(same)					
+rea	GPDDA3	GPDDA3		id in bigg(same)					
+rea	GPDDA4	GPDDA4		id in bigg(same)					
+rea	GPDDA5	GPDDA5		id in bigg(same)					
+rea	GRTT	GRTT		id in bigg(same)					
+rea	GTPCI	GTPCI		id in bigg(same)					
+rea	GTPCII	GTPCII		id in bigg(same)					
+rea	GTPDPK	GTPDPK		id in bigg(same)					
+rea	GUAPRT	GUAPRT		id in bigg(same)					
+rea	GUAt2r	GUAt2r		id in bigg(same)					
+rea	HARAAT	HARAAT		id in bigg(same)					
+rea	HBUHL1	HBUHL1		id in bigg(same)					
+rea	HBUR1	HBUR1		id in bigg(same)					
+rea	HCYSMT	HCYSMT		id in bigg(same)					
+rea	HDDHL5	HDDHL5		id in bigg(same)					
+rea	HDDR5	HDDR5		id in bigg(same)					
+rea	HDEHL4	HDEHL4		id in bigg(same)					
+rea	HDER4	HDER4		id in bigg(same)					
+rea	HDMAT7	HDMAT7		id in bigg(same)					
+rea	HEMAT2	HEMAT2		id in bigg(same)					
+rea	HETZK	HETZK		id in bigg(same)					
+rea	HEX1	HEX1		id in bigg(same)					
+rea	HEX7	HEX7		id in bigg(same)					
+rea	HHDHL7	HHDHL7		id in bigg(same)					
+rea	HHDR7	HHDR7		id in bigg(same)					
+rea	HHYHL2	HHYHL2		id in bigg(same)					
+rea	HHYR2	HHYR2		id in bigg(same)					
+rea	HIBD	HIBD		id in bigg(same)					
+rea	HISTD	HISTD		id in bigg(same)					
+rea	HISTP	HISTP		id in bigg(same)					
+rea	HISTRS_1	HISTRS_1		id in bigg(same)					
+rea	HISt2r	HISt2r		id in bigg(same)					
+rea	HMPK1	HMPK1		id in bigg(same)					
+rea	HOCHL3	HOCHL3		id in bigg(same)					
+rea	HOCR3	HOCR3		id in bigg(same)					
+rea	HODHL8	HODHL8		id in bigg(same)					
+rea	HODR8	HODR8		id in bigg(same)					
+rea	HPPK	HPPK		id in bigg(same)					
+rea	HSK	HSK		id in bigg(same)					
+rea	HSST	HSST		id in bigg(same)					
+rea	HSTPTr	HSTPTr		id in bigg(same)					
+rea	HTDHL6	HTDHL6		id in bigg(same)					
+rea	HTDR6	HTDR6		id in bigg(same)					
+rea	HXANt2r	HXANt2r		id in bigg(same)					
+rea	HXPRT	HXPRT		id in bigg(same)					
+rea	IG3PS_1	IG3PS_1		id in bigg(same)					
+rea	IGPDH_1	IGPDH_1		id in bigg(same)					
+rea	IGPS	IGPS		id in bigg(same)					
+rea	ILETRS_1	ILETRS_1		id in bigg(same)					
+rea	IMPD	IMPD		id in bigg(same)					
+rea	ITCY	ITCY		id in bigg(same)					
+rea	LACZ	LACZ		id in bigg(same)					
+rea	LEUTRS_1	LEUTRS_1		id in bigg(same)					
+rea	LPGS_LLA	LPGS_LLA		id in bigg(same)					
+rea	LTAS_LLA	LTAS_LLA		id in bigg(same)					
+rea	LYSTRS_1	LYSTRS_1		id in bigg(same)					
+rea	MACPMT	MACPMT		id in bigg(same)					
+rea	MALLAC	MALLAC		id in bigg(same)					
+rea	MALT	MALT		id in bigg(same)					
+rea	MALTATr	MALTATr		id in bigg(same)					
+rea	MALTabc	MALTabc		id in bigg(same)					
+rea	MALt2r	MALt2r		id in bigg(same)					
+rea	MANpts	MANpts		id in bigg(same)					
+rea	MCMAT2	MCMAT2		id in bigg(same)					
+rea	MCMAT3	MCMAT3		id in bigg(same)					
+rea	MCMAT4	MCMAT4		id in bigg(same)					
+rea	MCMAT5	MCMAT5		id in bigg(same)					
+rea	MCMAT6	MCMAT6		id in bigg(same)					
+rea	MCMAT7	MCMAT7		id in bigg(same)					
+rea	MCMAT8	MCMAT8		id in bigg(same)					
+rea	METAT	METAT		id in bigg(same)					
+rea	METB1	METB1		id in bigg(same)					
+rea	METDabc	METDabc		id in bigg(same)					
+rea	METGL	METGL		id in bigg(same)					
+rea	METS	METS		id in bigg(same)					
+rea	METTRS_1	METTRS_1		id in bigg(same)					
+rea	METabc	METabc		id in bigg(same)					
+rea	METt2r	METt2r		id in bigg(same)					
+rea	MEVK1	MEVK1		id in bigg(same)					
+rea	MHPGLUT	MHPGLUT		id in bigg(same)					
+rea	MI1PP	MI1PP		id in bigg(same)					
+rea	MNLpts	MNLpts		id in bigg(same)					
+rea	MNNH	MNNH		id in bigg(same)					
+rea	MNabc	MNabc		id in bigg(same)					
+rea	MTAN	MTAN		id in bigg(same)					
+rea	NACt	NACt		id in bigg(same)					
+rea	NADK	NADK		id in bigg(same)					
+rea	NADN	NADN		id in bigg(same)					
+rea	NADS1	NADS1		id in bigg(same)					
+rea	NAPRT	NAPRT		id in bigg(same)					
+rea	NMNAT	NMNAT		id in bigg(same)					
+rea	NMNP	NMNP		id in bigg(same)					
+rea	NNATr	NNATr		id in bigg(same)					
+rea	NOX	NOX		id in bigg(same)					
+rea	NPHS	NPHS		id in bigg(same)					
+rea	OCDMAT8	OCDMAT8		id in bigg(same)					
+rea	OCMAT3	OCMAT3		id in bigg(same)					
+rea	OMPDC	OMPDC		id in bigg(same)					
+rea	ORNCD_1	ORNCD_1		id in bigg(same)					
+rea	P5CR	P5CR		id in bigg(same)					
+rea	PAPPT1	PAPPT1		id in bigg(same)					
+rea	PAP_LLA	PAP_LLA		id in bigg(same)					
+rea	PC	PC		id in bigg(same)					
+rea	PFK	PFK		id in bigg(same)					
+rea	PFK_2	PFK_2		id in bigg(same)					
+rea	PGCD	PGCD		id in bigg(same)					
+rea	PGGT2	PGGT2		id in bigg(same)					
+rea	PGL	PGL		id in bigg(same)					
+rea	PGPP_LLA	PGPP_LLA		id in bigg(same)					
+rea	PHETRS_1	PHETRS_1		id in bigg(same)					
+rea	PHPYROX	PHPYROX		id in bigg(same)					
+rea	PIabc	PIabc		id in bigg(same)					
+rea	PMEVK	PMEVK		id in bigg(same)					
+rea	PMPK	PMPK		id in bigg(same)					
+rea	PNTK	PNTK		id in bigg(same)					
+rea	PPA	PPA		id in bigg(same)					
+rea	PPCDC	PPCDC		id in bigg(same)					
+rea	PPIabc	PPIabc		id in bigg(same)					
+rea	PPNCL	PPNCL		id in bigg(same)					
+rea	PPND	PPND		id in bigg(same)					
+rea	PPNDH	PPNDH		id in bigg(same)					
+rea	PPYRDC	PPYRDC		id in bigg(same)					
+rea	PRAGSr	PRAGSr		id in bigg(same)					
+rea	PRAIS_1	PRAIS_1		id in bigg(same)					
+rea	PRAMPC_1	PRAMPC_1		id in bigg(same)					
+rea	PRATPP	PRATPP		id in bigg(same)					
+rea	PREN	PREN		id in bigg(same)					
+rea	PRFGS_1	PRFGS_1		id in bigg(same)					
+rea	PROTRS_1	PROTRS_1		id in bigg(same)					
+rea	PROTS_LLA_v3	PROTS_LLA_v3		id in bigg(same)					
+rea	PROabc	PROabc		id in bigg(same)					
+rea	PROt3	PROt3		id in bigg(same)					
+rea	PSERT	PSERT		id in bigg(same)					
+rea	PSP_L	PSP_L		id in bigg(same)					
+rea	PTAILE	PTAILE		id in bigg(same)					
+rea	PTALEU	PTALEU		id in bigg(same)					
+rea	PTAVAL	PTAVAL		id in bigg(same)					
+rea	PTRCabc	PTRCabc		id in bigg(same)					
+rea	PYK	PYK		id in bigg(same)					
+rea	PYROX_1	PYROX_1		id in bigg(same)					
+rea	RBFK	RBFK		id in bigg(same)					
+rea	RBFSa	RBFSa		id in bigg(same)					
+rea	RBFSb	RBFSb		id in bigg(same)					
+rea	RBK	RBK		id in bigg(same)					
+rea	RHCYS	RHCYS		id in bigg(same)					
+rea	RIBFLVt2	RIBFLVt2		id in bigg(same)					
+rea	RIBabc	RIBabc		id in bigg(same)					
+rea	RIBt2	RIBt2		id in bigg(same)					
+rea	RNAS_LLA	RNAS_LLA		id in bigg(same)					
+rea	RNDR1	RNDR1		id in bigg(same)					
+rea	RNDR2	RNDR2		id in bigg(same)					
+rea	RNDR3	RNDR3		id in bigg(same)					
+rea	RNDR4	RNDR4		id in bigg(same)					
+rea	RNTR1	RNTR1		id in bigg(same)					
+rea	RNTR2	RNTR2		id in bigg(same)					
+rea	RNTR3	RNTR3		id in bigg(same)					
+rea	RNTR4	RNTR4		id in bigg(same)					
+rea	S6PG	S6PG		id in bigg(same)					
+rea	SBTpts	SBTpts		id in bigg(same)					
+rea	SERD_L	SERD_L		id in bigg(same)					
+rea	SERTRS_1	SERTRS_1		id in bigg(same)					
+rea	SHKK	SHKK		id in bigg(same)					
+rea	SHSL1	SHSL1		id in bigg(same)					
+rea	SO4t2	SO4t2		id in bigg(same)					
+rea	SPMDAT1	SPMDAT1		id in bigg(same)					
+rea	SPMDAT2	SPMDAT2		id in bigg(same)					
+rea	SPMDabc	SPMDabc		id in bigg(same)					
+rea	SPODM	SPODM		id in bigg(same)					
+rea	SPP	SPP		id in bigg(same)					
+rea	SUCBZL	SUCBZL		id in bigg(same)					
+rea	SUCBZS	SUCBZS		id in bigg(same)					
+rea	SUCR	SUCR		id in bigg(same)					
+rea	SUCpts	SUCpts		id in bigg(same)					
+rea	TDMAT6	TDMAT6		id in bigg(same)					
+rea	TDPGDH_1	TDPGDH_1		id in bigg(same)					
+rea	THDPS	THDPS		id in bigg(same)					
+rea	THMDt2	THMDt2		id in bigg(same)					
+rea	THMabc	THMabc		id in bigg(same)					
+rea	THRD_L	THRD_L		id in bigg(same)					
+rea	THRS	THRS		id in bigg(same)					
+rea	THRTRS_1	THRTRS_1		id in bigg(same)					
+rea	TMDK1	TMDK1		id in bigg(same)					
+rea	TMDK2	TMDK2		id in bigg(same)					
+rea	TMDPK	TMDPK		id in bigg(same)					
+rea	TMN	TMN		id in bigg(same)					
+rea	TMPPP	TMPPP		id in bigg(same)					
+rea	TRDR	TRDR		id in bigg(same)					
+rea	TRE6PH	TRE6PH		id in bigg(same)					
+rea	TREpts	TREpts		id in bigg(same)					
+rea	TRPS1	TRPS1		id in bigg(same)					
+rea	TRPS2	TRPS2		id in bigg(same)					
+rea	TRPTRS_1	TRPTRS_1		id in bigg(same)					
+rea	TYRTRS_1	TYRTRS_1		id in bigg(same)					
+rea	UAAGDS	UAAGDS		id in bigg(same)					
+rea	UAAGLS1_1	UAAGLS1_1		id in bigg(same)					
+rea	UAGCVT	UAGCVT		id in bigg(same)					
+rea	UAGDP	UAGDP		id in bigg(same)					
+rea	UAGPT1	UAGPT1		id in bigg(same)					
+rea	UAMAGS	UAMAGS		id in bigg(same)					
+rea	UAMAS	UAMAS		id in bigg(same)					
+rea	UAPGR	UAPGR		id in bigg(same)					
+rea	UDCPDP	UDCPDP		id in bigg(same)					
+rea	UDCPDPS	UDCPDPS		id in bigg(same)					
+rea	UDCPKr	UDCPKr		id in bigg(same)					
+rea	UDPGALM	UDPGALM		id in bigg(same)					
+rea	UGLDDS1	UGLDDS1		id in bigg(same)					
+rea	UGT1_LLA	UGT1_LLA		id in bigg(same)					
+rea	UGT2_LLA	UGT2_LLA		id in bigg(same)					
+rea	UMPK	UMPK		id in bigg(same)					
+rea	UPPRT	UPPRT		id in bigg(same)					
+rea	URAt2	URAt2		id in bigg(same)					
+rea	URIDK2r	URIDK2r		id in bigg(same)					
+rea	URIK1	URIK1		id in bigg(same)					
+rea	URIK2	URIK2		id in bigg(same)					
+rea	URIK3	URIK3		id in bigg(same)					
+rea	VALTRS_1	VALTRS_1		id in bigg(same)					
+rea	XANt2	XANt2		id in bigg(same)					
+rea	XPPT	XPPT		id in bigg(same)					
+rea	ZNabc	ZNabc		id in bigg(same)					
+rea	kaasIII	kaasIII		id in bigg(same)					
+rea	unkFol	unkFol		id in bigg(same)					
+rea	2HXICt_copy1	2HXICt	2HXICt	not in bigg[id in bigg(same)]					keep
+rea	2HXICt_copy2	2HXICt	2HXICt	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	ALAt2r_copy1	ALAt2r	ALAt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	ALAt2r_copy2	ALAt2r	ALAt2r	not in bigg[id in bigg(same)]					keep
+rea	CBMKr_copy1	CBMKr	CBMKr	not in bigg[id in bigg(same)]					keep
+rea	CBMKr_copy2	CBMKr	CBMKr	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	DPR_copy1	DPR	DPR	not in bigg[id in bigg(same)]					keep
+rea	DPR_copy2	DPR	DPR	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	GLYt2r_copy1	GLYt2r	GLYt2r	not in bigg[id in bigg(same)]					keep
+rea	GLYt2r_copy2	GLYt2r	GLYt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	ILEt2r_copy1	ILEt2r	ILEt2r	not in bigg[id in bigg(bounds different)]		(0.0, 0.0)	(0.0, 1000.0)		replaced
+rea	ILEt2r_copy2	ILEt2r	ILEt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	LEUt2r_copy1	LEUt2r	LEUt2r	not in bigg[id in bigg(bounds different)]		(0.0, 0.0)	(0.0, 1000.0)		replaced
+rea	LEUt2r_copy2	LEUt2r	LEUt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	PHETA1_copy1	PHETA1	PHETA1	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	PHETA1_copy2	PHETA1	PHETA1	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	PYNP1_copy1	PYNP1	PYNP1	not in bigg[id in bigg(same)]					keep
+rea	PYNP1_copy2	PYNP1	PYNP1	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	THRt2r_copy1	THRt2r	THRt2r	not in bigg[id in bigg(same)]					keep
+rea	THRt2r_copy2	THRt2r	THRt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	TMDS_copy1	TMDS	TMDS	not in bigg[id in bigg(same)]					keep
+rea	TMDS_copy2	TMDS	TMDS	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	TYRTA_copy1	TYRTA	TYRTA	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	TYRTA_copy2	TYRTA	TYRTA	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	VALt2r_copy1	VALt2r	VALt2r	not in bigg[id in bigg(bounds different)]		(0.0, 0.0)	(0.0, 1000.0)		replaced
+rea	VALt2r_copy2	VALt2r	VALt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	YUMPS_copy1	YUMPS	YUMPS	not in bigg[id in bigg(same)]					keep
+rea	YUMPS_copy2	YUMPS	YUMPS	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
