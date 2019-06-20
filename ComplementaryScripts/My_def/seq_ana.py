@@ -66,7 +66,7 @@ def gbk2faa(input,output,locus_tag = 'locus_tag',remove_duplicate = True):
     geneAA.close()
 
 
-def blastp_pairwise(qseq_file,sseq_file,out_dir = ''):
+def blastp_pairwise(qseq_file,sseq_file,out_dir = '',diamond = True):
 
     '''
 
@@ -78,13 +78,28 @@ def blastp_pairwise(qseq_file,sseq_file,out_dir = ''):
 
     os.system('mkdir blast_tmps')
 
-    mk_db = 'makeblastdb -in '+ qseq_file +' -dbtype prot -out blast_tmps/qseq_db -parse_seqids\n' \
-            'makeblastdb -in '+ sseq_file +' -dbtype prot -out blast_tmps/sseq_db -parse_seqids'
-    os.system(mk_db)
-    print('blasting...')
-    blastp_cmd ='blastp -db blast_tmps/qseq_db -query ' + sseq_file + ' -out '+ out_dir +'blast_result_s_in_q.csv -evalue 1 -outfmt "6 qseqid sseqid evalue pident length bitscore ppos qcovs" \n' \
-                'blastp -db blast_tmps/sseq_db -query ' + qseq_file + ' -out '+ out_dir +'blast_result_q_in_s.csv -evalue 1 -outfmt "6 qseqid sseqid evalue pident length bitscore ppos qcovs"'
-    os.system(blastp_cmd)
+
+    if diamond:
+        mk_db = 'diamond makedb --in '+ qseq_file +' -d blast_tmps/qseq_db \n' \
+                'diamond makedb --in '+ sseq_file +' -d blast_tmps/sseq_db '
+        os.system(mk_db)
+        print('diamond blasting...')
+        options = ' --top 10 --more-sensitive '
+        #options = ''
+        diamond_blastp_cmd ='diamond blastp -d blast_tmps/qseq_db -q ' + sseq_file + options +' -o '+ out_dir +\
+                            'blast_result_s_in_q.csv --evalue 1 --outfmt 6 qseqid sseqid evalue pident length bitscore ppos qcovhsp \n' \
+                            'diamond blastp -d blast_tmps/sseq_db -q ' + qseq_file + options + ' -o '+ out_dir +\
+                            'blast_result_q_in_s.csv --evalue 1 --outfmt 6 qseqid sseqid evalue pident length bitscore ppos qcovhsp'
+        os.system(diamond_blastp_cmd)
+
+    else:
+        mk_db = 'makeblastdb -in '+ qseq_file +' -dbtype prot -out blast_tmps/qseq_db -parse_seqids\n' \
+                'makeblastdb -in '+ sseq_file +' -dbtype prot -out blast_tmps/sseq_db -parse_seqids'
+        os.system(mk_db)
+        print('blasting...')
+        blastp_cmd ='blastp -db blast_tmps/qseq_db -query ' + sseq_file + ' -out '+ out_dir +'blast_result_s_in_q.csv -evalue 1 -outfmt "6 qseqid sseqid evalue pident length bitscore ppos qcovs" \n' \
+                    'blastp -db blast_tmps/sseq_db -query ' + qseq_file + ' -out '+ out_dir +'blast_result_q_in_s.csv -evalue 1 -outfmt "6 qseqid sseqid evalue pident length bitscore ppos qcovs"'
+        os.system(blastp_cmd)
 
     os.system('rm -r blast_tmps')
     print('out put files are ' + out_dir + 'blast_result_s_in_q.csv and blast_result_q_in_s.csv')
