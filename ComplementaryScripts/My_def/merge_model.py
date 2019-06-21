@@ -9,6 +9,38 @@ import pandas as pd
 import re
 import imp
 
+def gpr2log( gpr_i, othergeneset,inset = True, notinset = False, emptyset = '' ):
+    torf = ''
+    if  not gpr_i :
+        if emptyset == '' :
+            new_gpr_i = gpr_i
+        else:
+            new_gpr_i = emptyset
+    else:
+        _, geneset = cobra.core.gene.parse_gpr(gpr_i)
+        new_gpr_i = gpr_i
+        for gen_i in geneset:
+            if gen_i in othergeneset:
+                temp_gen_i = inset
+            else:
+                temp_gen_i = notinset
+            new_gpr_i = new_gpr_i.replace(gen_i, str(temp_gen_i))
+
+        if (inset == True and notinset == False):
+            torf = eval(new_gpr_i)
+    return new_gpr_i,torf
+
+def eva_gprinset( reaction , othergeneset, emptyset = '' ):
+
+    torf = ''
+    if not reaction.genes:
+        return emptyset
+    for gene_i in reaction.genes:
+        gene_i.functional = False
+        if gene_i.id in othergeneset:
+            gene_i.functional = True
+    return reaction.functional
+
 def dir_rea_metabolites(rea_metbolites):
     '''
     convert reaction.metabolites to str
@@ -160,20 +192,27 @@ def judge(model1,old_id,model2,new_id):
 
 
 def note_rea_from(rea,notes):
+    if type(notes) == str:
+        notes = [notes]
+
     if 'from' not in rea.notes:
-        rea.notes['from'] = [notes]
+        rea.notes['from'] = notes
+
     else:
         if type(rea.notes['from']) == set:
             rea.notes['from'] = list(rea.notes['from'])
+
         elif type(rea.notes['from']) == str:
             rea.notes['from'] = [rea.notes['from']]
-        rea.notes['from'].append(notes)
-
-    rea.notes['from'] = list(set(rea.notes['from']))
+        rea.notes['from'] = rea.notes['from']+ notes
+    temp = rea.notes['from']
+    #print(temp)
+    rea.notes['from'] = list(set(temp))
 
 def note_model_from(model,notes):
     for rea in model.reactions:
-        rea = note_rea_from(rea, notes)
+        note_rea_from(rea, notes)
+
 
 if __name__=='__main__':
     os.chdir('../../ComplementaryData/Step_02_DraftModels/')

@@ -4,15 +4,12 @@
 '''
 useful functions def self
 '''
-
-from select_blast import select_blast
-from eva_gprinset import eva_gprinset
-from gpr2log import gpr2log
-from io_outtxt import  io_outtxt
 from mapIDsViaMNXref import mapIDsViaMNXref
 from venn3_samesize import venn3_samesize
 
-from output_txt import output_txt
+import io_file
+import get_draft_from_template
 import model_report
 import merge_model
 import seq_ana
+
