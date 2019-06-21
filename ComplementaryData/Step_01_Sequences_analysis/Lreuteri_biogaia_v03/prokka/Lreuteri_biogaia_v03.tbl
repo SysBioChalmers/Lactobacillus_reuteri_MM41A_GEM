@@ -328,7 +328,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_00067
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 78017	77289	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_011953361.1
@@ -499,7 +499,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667110.1
 			locus_tag	MBLCLPDI_00101
-			product	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
+			product	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 118648	120585	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003669647.1
@@ -800,12 +800,12 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667088.1
 			locus_tag	MBLCLPDI_00162
-			product	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
+			product	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 183385	184914	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667087.1
 			locus_tag	MBLCLPDI_00163
-			product	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
+			product	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
 185094	185213	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667696.1
@@ -820,7 +820,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667110.1
 			locus_tag	MBLCLPDI_00166
-			product	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
+			product	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 187515	188231	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_011953376.1
@@ -1314,7 +1314,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_00265
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 284290	285672	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667243.1
@@ -1883,7 +1883,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667418.1
 			locus_tag	MBLCLPDI_00380
-			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 400136	398199	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667420.1
@@ -2096,7 +2096,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667418.1
 			locus_tag	MBLCLPDI_00423
-			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 444590	444462	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003668550.1
@@ -2130,7 +2130,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667418.1
 			locus_tag	MBLCLPDI_00430
-			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 451668	453050	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667477.1
@@ -2712,7 +2712,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_00546
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 558388	558840	CDS
 			EC_number	2.8.3.16
 			dbxref	COG:COG1804
@@ -3832,7 +3832,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_00774
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 764029	764793	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_012390531.1
@@ -4027,7 +4027,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_00813
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 806262	805519	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003668144.1
@@ -4658,7 +4658,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003666944.1
 			locus_tag	MBLCLPDI_00940
-			note	DUF2479 domain-containing protein, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			note	DUF2479 domain-containing protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 			product	hypothetical protein
 918053	918457	CDS
 			inference	ab initio prediction:Prodigal:2.6
@@ -5442,7 +5442,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667418.1
 			locus_tag	MBLCLPDI_01097
-			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 1064638	1065519	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003666875.1
@@ -5602,7 +5602,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_01129
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 1096430	1097389	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667700.1
@@ -5683,17 +5683,17 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667088.1
 			locus_tag	MBLCLPDI_01145
-			product	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
+			product	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 1111975	1112103	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667087.1
 			locus_tag	MBLCLPDI_01146
-			product	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
+			product	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
 1112087	1113505	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667087.1
 			locus_tag	MBLCLPDI_01147
-			product	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
+			product	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
 1113983	1113874	rRNA
 			locus_tag	MBLCLPDI_01148
 			product	5S ribosomal RNA
@@ -6055,7 +6055,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_01220
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 1199110	1197911	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003666953.1
@@ -6095,7 +6095,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003666944.1
 			locus_tag	MBLCLPDI_01228
-			note	DUF2479 domain-containing protein, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			note	DUF2479 domain-containing protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 			product	hypothetical protein
 1204311	1203166	CDS
 			inference	ab initio prediction:Prodigal:2.6
@@ -6212,7 +6212,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_01251
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 1226901	1226803	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			locus_tag	MBLCLPDI_01252
@@ -7393,7 +7393,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667418.1
 			locus_tag	MBLCLPDI_01491
-			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 1434937	1434716	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003668550.1
@@ -7438,7 +7438,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_01500
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 1447023	1445446	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003668625.1
@@ -7518,7 +7518,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_01516
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 1467013	1465535	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003668652.1
@@ -8220,7 +8220,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_01656
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 1594236	1592761	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003668799.1
@@ -8581,12 +8581,12 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667418.1
 			locus_tag	MBLCLPDI_01728
-			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 1670165	1670386	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667418.1
 			locus_tag	MBLCLPDI_01729
-			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+			product	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 1670622	1670410	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003668936.1
@@ -9343,7 +9343,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667110.1
 			locus_tag	MBLCLPDI_01880
-			product	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
+			product	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 1823981	1824547	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003669160.1
@@ -10230,7 +10230,7 @@
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003664118.1
 			locus_tag	MBLCLPDI_02057
-			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+			product	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 1993065	1992394	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003669410.1

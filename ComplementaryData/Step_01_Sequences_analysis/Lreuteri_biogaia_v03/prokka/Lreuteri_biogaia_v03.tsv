@@ -65,7 +65,7 @@ MBLCLPDI_00063	CDS	666				DNA-binding response regulator, Lactobacillus reuteri 
 MBLCLPDI_00064	CDS	1248				sensor histidine kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00065	CDS	1182				chloride channel protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00066	CDS	1341				glutamate--cysteine ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_00067	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_00067	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_00068	CDS	729				gamma-glutamyl-gamma-aminobutyrate hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00069	CDS	867				aldo/keto reductase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00070	CDS	1788				glycerophosphodiester phosphodiesterase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -99,7 +99,7 @@ MBLCLPDI_00097	CDS	1251				NAD(P)H-dependent oxidoreductase, Lactobacillus reute
 MBLCLPDI_00098	CDS	927				FAD:protein FMN transferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00099	CDS	1383				group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00100	CDS	1824				surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_00101	CDS	480				IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
+MBLCLPDI_00101	CDS	480				IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_00102	CDS	1938				surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00103	CDS	1308				serine--tRNA ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00104	CDS	1464				glutamine ABC transporter substrate-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -160,11 +160,11 @@ MBLCLPDI_00158	rRNA	2919				23S ribosomal RNA
 MBLCLPDI_00159	rRNA	112				5S ribosomal RNA
 MBLCLPDI_00160	tRNA	75				tRNA-Thr(agt)
 MBLCLPDI_00161	CDS	189				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_00162	CDS	357				IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
-MBLCLPDI_00163	CDS	1530				IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
+MBLCLPDI_00162	CDS	357				IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
+MBLCLPDI_00163	CDS	1530				IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
 MBLCLPDI_00164	CDS	120				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00165	CDS	489				transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_00166	CDS	969				IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
+MBLCLPDI_00166	CDS	969				IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_00167	CDS	717				ADP-ribose pyrophosphatase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00168	CDS	1434				nicotinate phosphoribosyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00169	CDS	546				cysteine hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -263,7 +263,7 @@ MBLCLPDI_00261	CDS	1380				UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine 
 MBLCLPDI_00262	CDS	1497				ATP-dependent helicase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00263	CDS	837				IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
 MBLCLPDI_00264	CDS	915				glutaminase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_00265	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_00265	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_00266	CDS	1383				group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00267	CDS	1290				D-alanyl-lipoteichoic acid biosynthesis protein DltD, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00268	CDS	240				D-alanine--poly(phosphoribitol) ligase subunit DltC, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -378,7 +378,7 @@ MBLCLPDI_00376	CDS	789				glutamate 5-kinase, Lactobacillus reuteri MM4-1A, whol
 MBLCLPDI_00377	CDS	786				carbon-nitrogen family hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00378	CDS	1179				pyridoxal phosphate-dependent aminotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00379	CDS	966				ketopantoate reductase family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_00380	CDS	1611				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+MBLCLPDI_00380	CDS	1611				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 MBLCLPDI_00381	CDS	1938				ABC transporter ATP-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00382	CDS	645				transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00383	CDS	180				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -421,14 +421,14 @@ MBLCLPDI_00419	CDS	942				sporulation regulator WhiA, Lactobacillus reuteri MM4-
 MBLCLPDI_00420	CDS	114				hypothetical protein
 MBLCLPDI_00421	CDS	132				hypothetical protein
 MBLCLPDI_00422	CDS	594				ATP-dependent Clp protease proteolytic subunit, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_00423	CDS	1491				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+MBLCLPDI_00423	CDS	1491				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 MBLCLPDI_00424	CDS	129				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00425	tRNA	72				tRNA-Arg(ccg)
 MBLCLPDI_00426	CDS	1008				type I glyceraldehyde-3-phosphate dehydrogenase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00427	CDS	1206				phosphoglycerate kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00428	CDS	750				triose-phosphate isomerase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00429	CDS	1323				phosphopyruvate hydratase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_00430	CDS	1611				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+MBLCLPDI_00430	CDS	1611				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 MBLCLPDI_00431	CDS	1383				amino acid permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00432	CDS	1551				ClC family H(+)/Cl(-) exchange transporter, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00433	CDS	240				preprotein translocase subunit SecG, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -544,7 +544,7 @@ MBLCLPDI_00542	CDS	744				hypothetical protein, Lactobacillus reuteri MM4-1A, wh
 MBLCLPDI_00543	CDS	750				peroxide stress protein YaaA, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00544	CDS	1731				oxalyl-CoA decarboxylase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00545	CDS	855	frc_1	2.8.3.16	COG1804	Formyl-CoA:oxalate CoA-transferase
-MBLCLPDI_00546	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_00546	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_00547	CDS	453	frc_2	2.8.3.16	COG1804	Formyl-CoA:oxalate CoA-transferase
 MBLCLPDI_00548	CDS	1383				group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00549	CDS	1398				NCS2 family permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -772,7 +772,7 @@ MBLCLPDI_00770	CDS	876				elongation factor Ts, Lactobacillus reuteri MM4-1A, wh
 MBLCLPDI_00771	CDS	723				UMP kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00772	CDS	564				ribosome-recycling factor, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00773	CDS	1173				group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_00774	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_00774	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_00775	CDS	765				isoprenyl transferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00776	CDS	786				phosphatidate cytidylyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00777	CDS	1275				RIP metalloprotease RseP, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -811,7 +811,7 @@ MBLCLPDI_00809	CDS	2238				bifunctional (p)ppGpp synthetase/guanosine-3',5'-bis(
 MBLCLPDI_00810	CDS	438				D-aminoacyl-tRNA deacylase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00811	CDS	849				aminoglycoside phosphotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00812	CDS	1803				aspartate--tRNA ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_00813	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_00813	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_00814	CDS	744				amino acid ABC transporter ATP-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00815	CDS	1512				ABC transporter permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_00816	CDS	192				30S ribosomal protein S21, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -1095,7 +1095,7 @@ MBLCLPDI_01093	CDS	675				transposase, Lactobacillus reuteri MM4-1A, whole genom
 MBLCLPDI_01094	CDS	855				patatin family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01095	CDS	648				site-specific integrase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01096	CDS	891				EamA/RhaT family transporter, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01097	CDS	1611				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+MBLCLPDI_01097	CDS	1611				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 MBLCLPDI_01098	CDS	882				ISL3 family transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01099	CDS	339				ISL3 family transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01100	CDS	690				respiratory nitrate reductase subunit gamma, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -1127,7 +1127,7 @@ MBLCLPDI_01125	CDS	1383				group II intron reverse transcriptase/maturase, Lacto
 MBLCLPDI_01126	CDS	3093				YSIRK signal domain/LPXTG anchor domain surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01127	CDS	657				IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 MBLCLPDI_01128	CDS	264				helix-turn-helix domain-containing protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01129	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_01129	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_01130	CDS	960				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01131	CDS	432				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01132	CDS	495				Crp/Fnr family transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -1143,9 +1143,9 @@ MBLCLPDI_01141	CDS	1260				chloride channel protein, Lactobacillus reuteri MM4-1
 MBLCLPDI_01142	CDS	2307				hypothetical protein
 MBLCLPDI_01143	CDS	642				PAP2 family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01144	CDS	189				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01145	CDS	357				IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
-MBLCLPDI_01146	CDS	129				IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
-MBLCLPDI_01147	CDS	1419				IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
+MBLCLPDI_01145	CDS	357				IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
+MBLCLPDI_01146	CDS	129				IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
+MBLCLPDI_01147	CDS	1419				IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
 MBLCLPDI_01148	rRNA	110				5S ribosomal RNA
 MBLCLPDI_01149	rRNA	2919				23S ribosomal RNA
 MBLCLPDI_01150	rRNA	1573				16S ribosomal RNA
@@ -1218,7 +1218,7 @@ MBLCLPDI_01216	CDS	1383				group II intron reverse transcriptase/maturase, Lacto
 MBLCLPDI_01217	CDS	828				exodeoxyribonuclease III, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01218	CDS	333				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01219	CDS	225				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01220	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_01220	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_01221	CDS	1200				N-acetylmuramoyl-L-alanine amidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01222	CDS	372				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01223	CDS	327				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -1249,7 +1249,7 @@ MBLCLPDI_01247	CDS	438				hypothetical protein, Lactobacillus reuteri MM4-1A, wh
 MBLCLPDI_01248	CDS	474				phage terminase small subunit P27 family, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01249	CDS	537				HNH endonuclease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01250	CDS	180				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01251	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_01251	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_01252	CDS	99				hypothetical protein
 MBLCLPDI_01253	CDS	843				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01254	CDS	423				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -1489,7 +1489,7 @@ MBLCLPDI_01487	CDS	375				IS3 family transposase, Lactobacillus reuteri MM4-1A C
 MBLCLPDI_01488	CDS	852				IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_01489	CDS	357				transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01490	CDS	219				transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01491	CDS	1383				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+MBLCLPDI_01491	CDS	1383				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 MBLCLPDI_01492	CDS	222				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01493	CDS	348				transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01494	CDS	615				transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -1498,7 +1498,7 @@ MBLCLPDI_01496	CDS	237				hypothetical protein, Lactobacillus reuteri MM4-1A, wh
 MBLCLPDI_01497	CDS	4467				dextransucrase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01498	CDS	882				hydrolase Nlp/P60, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01499	CDS	1374				group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01500	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_01500	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_01501	CDS	1578				peptide chain release factor 3, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01502	CDS	1467				transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01503	CDS	1569				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -1514,7 +1514,7 @@ MBLCLPDI_01512	CDS	975				glycosyl transferase, Lactobacillus reuteri MM4-1A, wh
 MBLCLPDI_01513	CDS	570				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01514	CDS	1317				hydrolase Nlp/P60, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01515	CDS	1599				N-acetylmuramoyl-L-alanine amidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01516	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_01516	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_01517	CDS	1479				mannosyl-glycoprotein endo-beta-N-acetylglucosamidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01518	CDS	1068				acyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01519	CDS	1017				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -1654,7 +1654,7 @@ MBLCLPDI_01652	tRNA	72				tRNA-Gly(gcc)
 MBLCLPDI_01653	tRNA	85				tRNA-Leu(tag)
 MBLCLPDI_01654	tRNA	75				tRNA-Val(tac)
 MBLCLPDI_01655	CDS	642				deoxynucleoside kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01656	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_01656	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_01657	CDS	1476				amino acid permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01658	CDS	456				N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01659	CDS	675				phosphatase PAP2 family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -1726,8 +1726,8 @@ MBLCLPDI_01724	CDS	882				phosphate ABC transporter permease PtsA, Lactobacillus
 MBLCLPDI_01725	CDS	900				phosphate ABC transporter permease subunit PstC, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01726	CDS	873				phosphate ABC transporter substrate-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01727	CDS	711				DNA-binding response regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01728	CDS	510				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
-MBLCLPDI_01729	CDS	222				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence
+MBLCLPDI_01728	CDS	510				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
+MBLCLPDI_01729	CDS	222				IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
 MBLCLPDI_01730	CDS	213				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01731	CDS	1014				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01732	CDS	531				N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -1878,7 +1878,7 @@ MBLCLPDI_01876	CDS	684				cobalt-precorrin-8 methylmutase, Lactobacillus reuteri
 MBLCLPDI_01877	CDS	960				cobalamin biosynthesis protein CobD, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01878	CDS	1365				cobyrinic acid a,c-diamide synthase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01879	CDS	1089				threonine-phosphate decarboxylase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_01880	CDS	969				IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence
+MBLCLPDI_01880	CDS	969				IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_01881	CDS	567				cob(I)yrinic acid a,c-diamide adenosyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01882	CDS	843				GNAT family N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_01883	CDS	450				flavodoxin, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
@@ -2055,7 +2055,7 @@ MBLCLPDI_02053	CDS	1164				GGDEF domain-containing protein, Lactobacillus reuter
 MBLCLPDI_02054	CDS	498				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_02055	CDS	1332				glycosyl transferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_02056	CDS	828				diguanylate phosphodiesterase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
-MBLCLPDI_02057	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence
+MBLCLPDI_02057	CDS	459				IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence
 MBLCLPDI_02058	CDS	672				type 1 glutamine amidotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_02059	CDS	363				hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 MBLCLPDI_02060	CDS	645				NADH-flavin reductase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence

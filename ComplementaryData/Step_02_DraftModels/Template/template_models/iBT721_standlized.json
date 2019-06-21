@@ -95,7 +95,7 @@
 "formula":"X"
 },
 {
-"id":"isobut_c",
+"id":"2mpa_c",
 "name":"2_methylpropanoic_acid",
 "compartment":"default",
 "formula":"X"
@@ -107,7 +107,7 @@
 "formula":"X"
 },
 {
-"id":"isobut_e",
+"id":"2mpa_e",
 "name":"2_methylpropanoic_acid",
 "compartment":"default",
 "formula":"X"
@@ -149,7 +149,7 @@
 "formula":"X"
 },
 {
-"id":"isoval_e",
+"id":"3mba_e",
 "name":"3_methylbutanoic_acid",
 "compartment":"default",
 "formula":"X"
@@ -437,7 +437,7 @@
 "formula":"C7H14N2O3"
 },
 {
-"id":"orn__L_c",
+"id":"orn_c",
 "name":"L_Ornithine",
 "compartment":"default",
 "formula":"X"
@@ -1125,7 +1125,7 @@
 "formula":"C6H12O6"
 },
 {
-"id":"btd__RR_c",
+"id":"btd_RR_c",
 "name":"R_R__2_3_Butanediol",
 "compartment":"default",
 "formula":"X"
@@ -1315,7 +1315,7 @@
 "formula":"CO2"
 },
 {
-"id":"dtdp6dm_c",
+"id":"dtdprmn_c",
 "name":"dTDP_6_deoxy_L_mannose",
 "compartment":"default",
 "formula":"C16H24N2O15P2"
@@ -1417,7 +1417,7 @@
 "formula":"H2S"
 },
 {
-"id":"cysth__L_c",
+"id":"cyst__L_c",
 "name":"L_Cystathionine",
 "compartment":"default",
 "formula":"X"
@@ -2394,7 +2394,7 @@
 "formula":"C17H20N4O6"
 },
 {
-"id":"ribflvRD_c",
+"id":"rbflvrd_c",
 "name":"Reduced_riboflavin",
 "compartment":"default",
 "formula":"C17H22N4O6"
@@ -2436,7 +2436,7 @@
 "formula":"C6H11O9P"
 },
 {
-"id":"5fothf_c",
+"id":"5fthf_c",
 "name":"5_Formyltetrahydrofolate",
 "compartment":"default",
 "formula":"C20H21N7O7"
@@ -2478,7 +2478,7 @@
 "formula":"C6H11O9P"
 },
 {
-"id":"dtdpglc_c",
+"id":"dtdpglu_c",
 "name":"dTDPglucose",
 "compartment":"default",
 "formula":"C16H24N2O16P2"
@@ -2514,7 +2514,7 @@
 "formula":"C6H9O9P"
 },
 {
-"id":"g6p__B_c",
+"id":"g6p_B_c",
 "name":"beta-D-glucose 6-phosphate",
 "compartment":"default",
 "formula":"C6H11O9P"
@@ -2604,7 +2604,7 @@
 "formula":"C10H12N5O9P2"
 },
 {
-"id":"glcn__D_c",
+"id":"glcn_c",
 "name":"D_Gluconate",
 "compartment":"default",
 "formula":"X"
@@ -3222,7 +3222,7 @@
 "formula":"C6H10O7P"
 },
 {
-"id":"Moco_c",
+"id":"moco_c",
 "name":"Molybdenum_cofactor",
 "compartment":"default",
 "formula":"X"
@@ -3240,7 +3240,7 @@
 "formula":"C6H11O9P"
 },
 {
-"id":"g1p__B_c",
+"id":"g1p_B_c",
 "name":"beta D-Glucose 1-phosphate",
 "compartment":"default",
 "formula":"C6H11O9P"
@@ -3270,7 +3270,7 @@
 "formula":"MCHOS"
 },
 {
-"id":"MPT_c",
+"id":"mpt_c",
 "name":"molybdopterin",
 "compartment":"default",
 "formula":"X"
@@ -4116,10 +4116,10 @@
 "id":"2MPALDH",
 "name":"2 methylpropanal dehydrogenase acid forming",
 "metabolites":{
+"2mpa_c":1.0,
 "2mpal_c":-1.0,
 "h2o_c":-1.0,
 "h_c":2.0,
-"isobut_c":1.0,
 "nad_c":-1.0,
 "nadh_c":1.0
 },
@@ -4142,10 +4142,10 @@
 "id":"2MPAt6",
 "name":"2 methylpropanoic acid transport H symport",
 "metabolites":{
+"2mpa_c":-1.0,
+"2mpa_e":1.0,
 "h_c":-1.0,
-"h_e":1.0,
-"isobut_c":-1.0,
-"isobut_e":1.0
+"h_e":1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -4224,10 +4224,10 @@
 "id":"3MBAt6",
 "name":"3 methylbutanoic acid transport H symport",
 "metabolites":{
+"3mba_e":1.0,
 "h_c":-1.0,
 "h_e":1.0,
-"isoval_c":-1.0,
-"isoval_e":1.0
+"isoval_c":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -4548,7 +4548,7 @@
 "ac_c":1.0,
 "acorn_c":-1.0,
 "h2o_c":-1.0,
-"orn__L_c":1.0
+"orn_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -5638,7 +5638,7 @@
 "name":"R R butanediol dehydrogenase",
 "metabolites":{
 "actn__R_c":1.0,
-"btd__RR_c":-1.0,
+"btd_RR_c":-1.0,
 "h_c":1.0,
 "nad_c":-1.0,
 "nadh_c":1.0
@@ -5651,8 +5651,8 @@
 "id":"BTDt1_RR",
 "name":"R R butanediol transport inout via diffusion reversible",
 "metabolites":{
-"btd_RR_e":1.0,
-"btd__RR_c":-1.0
+"btd_RR_c":-1.0,
+"btd_RR_e":1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -5917,8 +5917,8 @@
 "name":"CPS synthase complex LPL specific",
 "metabolites":{
 "CPS_LPL_c":1.0,
-"dtdp6dm_c":-1.0,
 "dtdp_c":1.0,
+"dtdprmn_c":-1.0,
 "h2o_c":-5.0,
 "h_c":6.0,
 "udp_c":3.0,
@@ -5935,8 +5935,8 @@
 "name":"CPS synthase complex LPL specific",
 "metabolites":{
 "CPS_LPL2_c":1.0,
-"dtdp6dm_c":-2.0,
 "dtdp_c":2.0,
+"dtdprmn_c":-2.0,
 "h2o_c":-4.0,
 "h_c":5.0,
 "udp_c":1.0,
@@ -6057,7 +6057,7 @@
 "metabolites":{
 "2obut_c":1.0,
 "cys__L_c":1.0,
-"cysth__L_c":-1.0,
+"cyst__L_c":-1.0,
 "h2o_c":-1.0,
 "nh4_c":1.0
 },
@@ -6069,7 +6069,7 @@
 "id":"CYSTL",
 "name":"cystathionine b lyase",
 "metabolites":{
-"cysth__L_c":-1.0,
+"cyst__L_c":-1.0,
 "h2o_c":-1.0,
 "hcys__L_c":1.0,
 "nh4_c":1.0,
@@ -6944,7 +6944,7 @@
 "id":"EX_2mpa_LPAREN_e_RPAREN_",
 "name":"2 methylpropanoic acid exchange",
 "metabolites":{
-"isobut_e":-1.0
+"2mpa_e":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -6984,7 +6984,7 @@
 "id":"EX_3mba_LPAREN_e_RPAREN_",
 "name":"3 methylbutanoic acid exchange",
 "metabolites":{
-"isoval_e":-1.0
+"3mba_e":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -8556,7 +8556,7 @@
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
-"ribflvRD_c":1.0,
+"rbflvrd_c":1.0,
 "ribflv_c":-1.0
 },
 "lower_bound":0.0,
@@ -8661,7 +8661,7 @@
 "id":"FTHFCL",
 "name":"5 formyltetrahydrofolate cyclo ligase",
 "metabolites":{
-"5fothf_c":-1.0,
+"5fthf_c":-1.0,
 "adp_c":1.0,
 "atp_c":-1.0,
 "methf_c":1.0,
@@ -8734,7 +8734,7 @@
 "id":"G1PTMT",
 "name":"glucose 1 phosphate thymidylyltransferase",
 "metabolites":{
-"dtdpglc_c":1.0,
+"dtdpglu_c":1.0,
 "dttp_c":-1.0,
 "g1p_c":-1.0,
 "h_c":-1.0,
@@ -8844,7 +8844,7 @@
 "id":"G6PI",
 "name":"Glucose 6 phosphate isomerase",
 "metabolites":{
-"g6p__B_c":1.0,
+"g6p_B_c":1.0,
 "g6p_c":-1.0
 },
 "lower_bound":-1000.0,
@@ -9054,8 +9054,8 @@
 "id":"GLCNt2ir",
 "name":"D gluconate transport via proton symport reversible",
 "metabolites":{
-"glcn__D_c":1.0,
 "glcn__D_e":-1.0,
+"glcn_c":1.0,
 "h_c":1.0,
 "h_e":-1.0
 },
@@ -9529,7 +9529,7 @@
 "6pgc_c":1.0,
 "adp_c":1.0,
 "atp_c":-1.0,
-"glcn__D_c":-1.0,
+"glcn_c":-1.0,
 "h_c":1.0
 },
 "lower_bound":0.0,
@@ -11287,10 +11287,10 @@
 "name":"Molybdopterin guanine dinucleotide synthase",
 "metabolites":{
 "MGD_c":1.0,
-"Moco_c":-1.0,
 "gtp_c":-1.0,
 "h2o_c":1.0,
 "h_c":-1.0,
+"moco_c":-1.0,
 "ppi_c":1.0
 },
 "lower_bound":0.0,
@@ -11314,7 +11314,7 @@
 "id":"MLTP4",
 "name":"Maltose phosphorylase",
 "metabolites":{
-"g1p__B_c":1.0,
+"g1p_B_c":1.0,
 "glc__D_c":1.0,
 "malt_c":-1.0,
 "pi_c":-1.0
@@ -11399,8 +11399,8 @@
 "id":"MOCOS",
 "name":"molybdenum cofactor synthase",
 "metabolites":{
-"MPT_c":-1.0,
-"Moco_c":1.0
+"moco_c":1.0,
+"mpt_c":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -11412,10 +11412,10 @@
 "metabolites":{
 "MCOOH_c":2.0,
 "MCOSH_c":-2.0,
-"MPT_c":1.0,
 "PreZ_c":-1.0,
 "h2o_c":-1.0,
-"h_c":3.0
+"h_c":3.0,
+"mpt_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -11903,7 +11903,7 @@
 "cbp_c":-1.0,
 "citr__L_c":1.0,
 "h_c":1.0,
-"orn__L_c":-1.0,
+"orn_c":-1.0,
 "pi_c":1.0
 },
 "lower_bound":-1000.0,
@@ -11971,7 +11971,7 @@
 "acglu_c":1.0,
 "acorn_c":-1.0,
 "glu__L_c":-1.0,
-"orn__L_c":1.0
+"orn_c":1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -12334,8 +12334,8 @@
 "id":"PGMT_B",
 "name":"b phosphoglucomutase",
 "metabolites":{
-"g1p__B_c":1.0,
-"g6p__B_c":-1.0
+"g1p_B_c":1.0,
+"g6p_B_c":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -13841,7 +13841,7 @@
 "ac_c":1.0,
 "achms_c":-1.0,
 "cys__L_c":-1.0,
-"cysth__L_c":1.0,
+"cyst__L_c":1.0,
 "h_c":1.0
 },
 "lower_bound":0.0,
@@ -14026,7 +14026,7 @@
 "name":"dTDP 4 dehydrorhamnose reductase",
 "metabolites":{
 "dtdp4d6dm_c":1.0,
-"dtdp6dm_c":-1.0,
+"dtdprmn_c":-1.0,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -14040,7 +14040,7 @@
 "name":"dTDPglucose 4 6 dehydratase",
 "metabolites":{
 "dtdp4d6dg_c":1.0,
-"dtdpglc_c":-1.0,
+"dtdpglu_c":-1.0,
 "h2o_c":1.0
 },
 "lower_bound":0.0,

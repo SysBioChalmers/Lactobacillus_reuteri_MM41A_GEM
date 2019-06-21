@@ -60572,8 +60572,8 @@
 "gene_reaction_rule":"b2406",
 "notes":{
 "initial_id":[
-"THMDt2pp_copy1",
-"THMDt2pp_copy2"
+"THMDt2pp_copy2",
+"THMDt2pp_copy1"
 ]
 },
 "annotation":{
@@ -62345,8 +62345,8 @@
 "gene_reaction_rule":"b2406",
 "notes":{
 "initial_id":[
-"ADNt2pp_copy1",
-"ADNt2pp_copy2"
+"ADNt2pp_copy2",
+"ADNt2pp_copy1"
 ]
 },
 "annotation":{
@@ -63194,8 +63194,8 @@
 "gene_reaction_rule":"b2406",
 "notes":{
 "initial_id":[
-"CYTDt2pp_copy1",
-"CYTDt2pp_copy2"
+"CYTDt2pp_copy2",
+"CYTDt2pp_copy1"
 ]
 },
 "annotation":{
@@ -84796,8 +84796,8 @@
 "gene_reaction_rule":"b0241 or b0929 or b1377 or b2215",
 "notes":{
 "initial_id":[
-"GLCtex_copy2",
-"GLCtex_copy1"
+"GLCtex_copy1",
+"GLCtex_copy2"
 ]
 },
 "annotation":{

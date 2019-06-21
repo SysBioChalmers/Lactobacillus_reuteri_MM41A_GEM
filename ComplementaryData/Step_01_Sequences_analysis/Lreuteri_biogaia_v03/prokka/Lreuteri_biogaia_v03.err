@@ -2260,7 +2260,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutamate--cysteine ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:75046-76386	MBLCLPDI_00066
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:76632-77090	MBLCLPDI_00067
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:76632-77090	MBLCLPDI_00067
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	gamma-glutamyl-gamma-aminobutyrate hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c78017-77289	MBLCLPDI_00068
@@ -2362,7 +2362,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:115935-117758	MBLCLPDI_00100
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:117835-118314	MBLCLPDI_00101
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:117835-118314	MBLCLPDI_00101
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:118648-120585	MBLCLPDI_00102
@@ -2527,10 +2527,10 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182784-182972	MBLCLPDI_00161
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182962-183318	MBLCLPDI_00162
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182962-183318	MBLCLPDI_00162
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:183385-184914	MBLCLPDI_00163
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:183385-184914	MBLCLPDI_00163
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:185094-185213	MBLCLPDI_00164
@@ -2539,7 +2539,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:185266-185754	MBLCLPDI_00165
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c187315-186347	MBLCLPDI_00166
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c187315-186347	MBLCLPDI_00166
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ADP-ribose pyrophosphatase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:187515-188231	MBLCLPDI_00167
@@ -2830,7 +2830,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutaminase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:282116-283030	MBLCLPDI_00264
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c283634-283176	MBLCLPDI_00265
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c283634-283176	MBLCLPDI_00265
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:284290-285672	MBLCLPDI_00266
@@ -3148,7 +3148,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ketopantoate reductase family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:395403-396368	MBLCLPDI_00379
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c398055-396445	MBLCLPDI_00380
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c398055-396445	MBLCLPDI_00380
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ABC transporter ATP-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c400136-398199	MBLCLPDI_00381
@@ -3277,7 +3277,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ATP-dependent Clp protease proteolytic subunit, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:442182-442775	MBLCLPDI_00422
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444332-442842	MBLCLPDI_00423
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444332-442842	MBLCLPDI_00423
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444590-444462	MBLCLPDI_00424
@@ -3295,7 +3295,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphopyruvate hydratase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:448345-449667	MBLCLPDI_00429
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:449838-451448	MBLCLPDI_00430
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:449838-451448	MBLCLPDI_00430
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:451668-453050	MBLCLPDI_00431
@@ -3634,7 +3634,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	Formyl-CoA:oxalate CoA-transferase	Complete_sequence_with_correct_origin:556740-557594	MBLCLPDI_00545
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:557737-558195	MBLCLPDI_00546
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:557737-558195	MBLCLPDI_00546
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	Formyl-CoA:oxalate CoA-transferase	Complete_sequence_with_correct_origin:558388-558840	MBLCLPDI_00547
@@ -4228,7 +4228,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:761623-762795	MBLCLPDI_00773
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	isoprenyl transferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:764029-764793	MBLCLPDI_00775
@@ -4345,7 +4345,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	aspartate--tRNA ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:802890-804692	MBLCLPDI_00812
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid ABC transporter ATP-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c806262-805519	MBLCLPDI_00814
@@ -5167,7 +5167,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	EamA/RhaT family transporter, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1061790-1062680	MBLCLPDI_01096
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1062864-1064474	MBLCLPDI_01097
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1062864-1064474	MBLCLPDI_01097
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ISL3 family transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1064638-1065519	MBLCLPDI_01098
@@ -5263,7 +5263,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	helix-turn-helix domain-containing protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1095457-1095194	MBLCLPDI_01128
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1096177-1095719	MBLCLPDI_01129
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1096177-1095719	MBLCLPDI_01129
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1096430-1097389	MBLCLPDI_01130
@@ -5311,13 +5311,13 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111374-1111562	MBLCLPDI_01144
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111552-1111908	MBLCLPDI_01145
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111552-1111908	MBLCLPDI_01145
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111975-1112103	MBLCLPDI_01146
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111975-1112103	MBLCLPDI_01146
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1112087-1113505	MBLCLPDI_01147
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1112087-1113505	MBLCLPDI_01147
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1119688-1119200	MBLCLPDI_01151
@@ -5527,7 +5527,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1195530-1195754	MBLCLPDI_01219
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1196675-1196217	MBLCLPDI_01220
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1196675-1196217	MBLCLPDI_01220
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetylmuramoyl-L-alanine amidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1199110-1197911	MBLCLPDI_01221
@@ -5620,7 +5620,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1225487-1225308	MBLCLPDI_01250
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1226605-1226147	MBLCLPDI_01251
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1226605-1226147	MBLCLPDI_01251
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein	Complete_sequence_with_correct_origin:c1226901-1226803	MBLCLPDI_01252
@@ -6289,7 +6289,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1433256-1433038	MBLCLPDI_01490
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434690-1433308	MBLCLPDI_01491
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434690-1433308	MBLCLPDI_01491
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434937-1434716	MBLCLPDI_01492
@@ -6316,7 +6316,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1444163-1442790	MBLCLPDI_01499
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1444815-1445273	MBLCLPDI_01500
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1444815-1445273	MBLCLPDI_01500
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	peptide chain release factor 3, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1447023-1445446	MBLCLPDI_01501
@@ -6364,7 +6364,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetylmuramoyl-L-alanine amidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1464542-1462944	MBLCLPDI_01515
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1465326-1464868	MBLCLPDI_01516
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1465326-1464868	MBLCLPDI_01516
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1467013-1465535	MBLCLPDI_01517
@@ -6766,7 +6766,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	deoxynucleoside kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1591892-1591251	MBLCLPDI_01655
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1592152-1592610	MBLCLPDI_01656
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1592152-1592610	MBLCLPDI_01656
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1594236-1592761	MBLCLPDI_01657
@@ -6979,10 +6979,10 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA-binding response regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1668451-1669161	MBLCLPDI_01727
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1669439-1669948	MBLCLPDI_01728
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1669439-1669948	MBLCLPDI_01728
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1670165-1670386	MBLCLPDI_01729
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1670165-1670386	MBLCLPDI_01729
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1670622-1670410	MBLCLPDI_01730
@@ -7435,7 +7435,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	threonine-phosphate decarboxylase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1822539-1821451	MBLCLPDI_01879
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1823852-1822884	MBLCLPDI_01880
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1823852-1822884	MBLCLPDI_01880
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cob(I)yrinic acid a,c-diamide adenosyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1823981-1824547	MBLCLPDI_01881
@@ -7966,7 +7966,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	diguanylate phosphodiesterase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1990752-1991579	MBLCLPDI_02056
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1992140-1991682	MBLCLPDI_02057
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1992140-1991682	MBLCLPDI_02057
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	type 1 glutamine amidotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1993065-1992394	MBLCLPDI_02058
@@ -8712,58 +8712,58 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lact
 
 DiscRep_SUB:SUSPECT_PRODUCT_NAMES::May contain database identifier more appropriate in note; remove from product name
 DiscRep_SUB:SUSPECT_PRODUCT_NAMES::63 features contains three or more numbers together that may be identifiers more appropriate in note
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:76632-77090	MBLCLPDI_00067
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:76632-77090	MBLCLPDI_00067
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:89307-89762	MBLCLPDI_00079
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:117835-118314	MBLCLPDI_00101
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182962-183318	MBLCLPDI_00162
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:183385-184914	MBLCLPDI_00163
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c187315-186347	MBLCLPDI_00166
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:117835-118314	MBLCLPDI_00101
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182962-183318	MBLCLPDI_00162
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:183385-184914	MBLCLPDI_00163
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c187315-186347	MBLCLPDI_00166
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:261343-261687	MBLCLPDI_00244
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c281623-280787	MBLCLPDI_00263
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c283634-283176	MBLCLPDI_00265
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c283634-283176	MBLCLPDI_00265
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:317731-318090	MBLCLPDI_00297
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:318161-319705	MBLCLPDI_00298
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:386000-387115	MBLCLPDI_00369
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c398055-396445	MBLCLPDI_00380
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444332-442842	MBLCLPDI_00423
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:449838-451448	MBLCLPDI_00430
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c398055-396445	MBLCLPDI_00380
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444332-442842	MBLCLPDI_00423
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:449838-451448	MBLCLPDI_00430
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c485252-484794	MBLCLPDI_00466
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c503861-503097	MBLCLPDI_00490
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:557737-558195	MBLCLPDI_00546
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:557737-558195	MBLCLPDI_00546
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c655574-654600	MBLCLPDI_00656
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c656563-656207	MBLCLPDI_00658
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c871684-870716	MBLCLPDI_00874
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1042636-1043094	MBLCLPDI_01065
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1058972-1058361	MBLCLPDI_01092
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1062864-1064474	MBLCLPDI_01097
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1062864-1064474	MBLCLPDI_01097
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1087107-1086259	MBLCLPDI_01122
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1095145-1094489	MBLCLPDI_01127
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1096177-1095719	MBLCLPDI_01129
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1096177-1095719	MBLCLPDI_01129
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1099816-1100115	MBLCLPDI_01134
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1100186-1101730	MBLCLPDI_01135
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111552-1111908	MBLCLPDI_01145
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111975-1112103	MBLCLPDI_01146
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1112087-1113505	MBLCLPDI_01147
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111552-1111908	MBLCLPDI_01145
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111975-1112103	MBLCLPDI_01146
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1112087-1113505	MBLCLPDI_01147
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1144702-1145670	MBLCLPDI_01172
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS21 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1148652-1147441	MBLCLPDI_01175
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1164129-1163785	MBLCLPDI_01187
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1172294-1173145	MBLCLPDI_01197
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1196675-1196217	MBLCLPDI_01220
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1226605-1226147	MBLCLPDI_01251
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1196675-1196217	MBLCLPDI_01220
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1226605-1226147	MBLCLPDI_01251
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1431662-1431288	MBLCLPDI_01487
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1432546-1431695	MBLCLPDI_01488
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434690-1433308	MBLCLPDI_01491
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434690-1433308	MBLCLPDI_01491
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1436035-1436664	MBLCLPDI_01495
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1444815-1445273	MBLCLPDI_01500
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1444815-1445273	MBLCLPDI_01500
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1454728-1455360	MBLCLPDI_01507
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1456344-1456811	MBLCLPDI_01509
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS21 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1459179-1457950	MBLCLPDI_01511
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1465326-1464868	MBLCLPDI_01516
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1592152-1592610	MBLCLPDI_01656
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1669439-1669948	MBLCLPDI_01728
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1670165-1670386	MBLCLPDI_01729
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1465326-1464868	MBLCLPDI_01516
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1592152-1592610	MBLCLPDI_01656
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1669439-1669948	MBLCLPDI_01728
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1670165-1670386	MBLCLPDI_01729
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1679751-1680293	MBLCLPDI_01740
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1680293-1680718	MBLCLPDI_01741
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1687537-1688931	MBLCLPDI_01749
@@ -8771,9 +8771,9 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, L
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1721754-1721410	MBLCLPDI_01780
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1755041-1755712	MBLCLPDI_01812
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1781408-1780959	MBLCLPDI_01838
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1823852-1822884	MBLCLPDI_01880
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1823852-1822884	MBLCLPDI_01880
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1865732-1865283	MBLCLPDI_01929
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1992140-1991682	MBLCLPDI_02057
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1992140-1991682	MBLCLPDI_02057
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c2013898-2012930	MBLCLPDI_02082
 
 FATAL: DiscRep_SUB:SUSPECT_PRODUCT_NAMES::Possible parsing error or incorrect formatting; remove inappr symbte symbols
@@ -8839,7 +8839,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA-binding response regul
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	sensor histidine kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:72463-73710	MBLCLPDI_00064
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	chloride channel protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:73713-74894	MBLCLPDI_00065
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutamate--cysteine ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:75046-76386	MBLCLPDI_00066
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:76632-77090	MBLCLPDI_00067
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:76632-77090	MBLCLPDI_00067
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	gamma-glutamyl-gamma-aminobutyrate hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c78017-77289	MBLCLPDI_00068
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	aldo/keto reductase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:78136-79002	MBLCLPDI_00069
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glycerophosphodiester phosphodiesterase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:79141-80928	MBLCLPDI_00070
@@ -8872,7 +8872,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	NAD(P)H-dependent oxidored
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	FAD:protein FMN transferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:112864-113790	MBLCLPDI_00098
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:114288-115670	MBLCLPDI_00099
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:115935-117758	MBLCLPDI_00100
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:117835-118314	MBLCLPDI_00101
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:117835-118314	MBLCLPDI_00101
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:118648-120585	MBLCLPDI_00102
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	serine--tRNA ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:121349-122656	MBLCLPDI_00103
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutamine ABC transporter substrate-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:122925-124388	MBLCLPDI_00104
@@ -8923,11 +8923,11 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	2,3-diphosphoglycerate-dep
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:174152-175201	MBLCLPDI_00153
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	tyrosine--tRNA ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:175554-176804	MBLCLPDI_00154
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182784-182972	MBLCLPDI_00161
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182962-183318	MBLCLPDI_00162
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:183385-184914	MBLCLPDI_00163
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182962-183318	MBLCLPDI_00162
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:183385-184914	MBLCLPDI_00163
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:185094-185213	MBLCLPDI_00164
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:185266-185754	MBLCLPDI_00165
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c187315-186347	MBLCLPDI_00166
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c187315-186347	MBLCLPDI_00166
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ADP-ribose pyrophosphatase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:187515-188231	MBLCLPDI_00167
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	nicotinate phosphoribosyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:188333-189766	MBLCLPDI_00168
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cysteine hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:189782-190327	MBLCLPDI_00169
@@ -9015,7 +9015,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	UDP-N-acetylmuramoyl-tripe
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ATP-dependent helicase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:279210-280706	MBLCLPDI_00262
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c281623-280787	MBLCLPDI_00263
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutaminase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:282116-283030	MBLCLPDI_00264
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c283634-283176	MBLCLPDI_00265
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c283634-283176	MBLCLPDI_00265
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:284290-285672	MBLCLPDI_00266
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	D-alanyl-lipoteichoic acid biosynthesis protein DltD, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c287045-285756	MBLCLPDI_00267
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	D-alanine--poly(phosphoribitol) ligase subunit DltC, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c287277-287038	MBLCLPDI_00268
@@ -9116,7 +9116,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutamate 5-kinase, Lactob
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	carbon-nitrogen family hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:393412-394197	MBLCLPDI_00377
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	pyridoxal phosphate-dependent aminotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:394211-395389	MBLCLPDI_00378
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ketopantoate reductase family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:395403-396368	MBLCLPDI_00379
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c398055-396445	MBLCLPDI_00380
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c398055-396445	MBLCLPDI_00380
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ABC transporter ATP-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c400136-398199	MBLCLPDI_00381
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:400377-401021	MBLCLPDI_00382
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:401042-401221	MBLCLPDI_00383
@@ -9157,13 +9157,13 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	RNase adapter RapZ, Lactob
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	gluconeogenesis factor, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:439339-440325	MBLCLPDI_00418
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	sporulation regulator WhiA, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:440344-441285	MBLCLPDI_00419
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ATP-dependent Clp protease proteolytic subunit, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:442182-442775	MBLCLPDI_00422
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444332-442842	MBLCLPDI_00423
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444332-442842	MBLCLPDI_00423
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444590-444462	MBLCLPDI_00424
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	type I glyceraldehyde-3-phosphate dehydrogenase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:445086-446093	MBLCLPDI_00426
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphoglycerate kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:446184-447389	MBLCLPDI_00427
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	triose-phosphate isomerase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:447505-448254	MBLCLPDI_00428
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphopyruvate hydratase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:448345-449667	MBLCLPDI_00429
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:449838-451448	MBLCLPDI_00430
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:449838-451448	MBLCLPDI_00430
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:451668-453050	MBLCLPDI_00431
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ClC family H(+)/Cl(-) exchange transporter, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:453168-454718	MBLCLPDI_00432
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	preprotein translocase subunit SecG, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:454785-455024	MBLCLPDI_00433
@@ -9268,7 +9268,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glyoxalase/bleomycin resis
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c553899-553156	MBLCLPDI_00542
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	peroxide stress protein YaaA, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:554152-554901	MBLCLPDI_00543
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	oxalyl-CoA decarboxylase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:555017-556747	MBLCLPDI_00544
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:557737-558195	MBLCLPDI_00546
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:557737-558195	MBLCLPDI_00546
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:559347-560729	MBLCLPDI_00548
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	NCS2 family permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:560915-562312	MBLCLPDI_00549
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	30S ribosomal protein S4, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c563049-562444	MBLCLPDI_00550
@@ -9452,7 +9452,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	elongation factor Ts, Lact
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	UMP kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:759837-760559	MBLCLPDI_00771
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ribosome-recycling factor, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:760564-761127	MBLCLPDI_00772
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:761623-762795	MBLCLPDI_00773
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	isoprenyl transferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:764029-764793	MBLCLPDI_00775
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphatidate cytidylyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:764813-765598	MBLCLPDI_00776
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	RIP metalloprotease RseP, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:765621-766895	MBLCLPDI_00777
@@ -9489,7 +9489,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	bifunctional (p)ppGpp synt
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	D-aminoacyl-tRNA deacylase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:801065-801502	MBLCLPDI_00810
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	aminoglycoside phosphotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c802508-801660	MBLCLPDI_00811
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	aspartate--tRNA ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:802890-804692	MBLCLPDI_00812
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid ABC transporter ATP-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c806262-805519	MBLCLPDI_00814
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ABC transporter permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c807763-806252	MBLCLPDI_00815
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	30S ribosomal protein S21, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:808064-808255	MBLCLPDI_00816
@@ -9734,7 +9734,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	patatin family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1060163-1061017	MBLCLPDI_01094
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	site-specific integrase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1061034-1061681	MBLCLPDI_01095
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	EamA/RhaT family transporter, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1061790-1062680	MBLCLPDI_01096
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1062864-1064474	MBLCLPDI_01097
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1062864-1064474	MBLCLPDI_01097
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ISL3 family transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1064638-1065519	MBLCLPDI_01098
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ISL3 family transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1065546-1065884	MBLCLPDI_01099
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	respiratory nitrate reductase subunit gamma, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1066689-1066000	MBLCLPDI_01100
@@ -9766,7 +9766,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse tr
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	YSIRK signal domain/LPXTG anchor domain surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1093606-1090514	MBLCLPDI_01126
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1095145-1094489	MBLCLPDI_01127
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	helix-turn-helix domain-containing protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1095457-1095194	MBLCLPDI_01128
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1096177-1095719	MBLCLPDI_01129
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1096177-1095719	MBLCLPDI_01129
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1096430-1097389	MBLCLPDI_01130
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1097405-1097836	MBLCLPDI_01131
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	Crp/Fnr family transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1098895-1099389	MBLCLPDI_01132
@@ -9781,9 +9781,9 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	thiamine phosphate synthas
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	chloride channel protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1107951-1106692	MBLCLPDI_01141
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	PAP2 family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1110560-1111201	MBLCLPDI_01143
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111374-1111562	MBLCLPDI_01144
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111552-1111908	MBLCLPDI_01145
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111975-1112103	MBLCLPDI_01146
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1112087-1113505	MBLCLPDI_01147
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111552-1111908	MBLCLPDI_01145
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111975-1112103	MBLCLPDI_01146
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1112087-1113505	MBLCLPDI_01147
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1119688-1119200	MBLCLPDI_01151
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1120726-1119719	MBLCLPDI_01152
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1121194-1120913	MBLCLPDI_01153
@@ -9849,7 +9849,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse tr
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	exodeoxyribonuclease III, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1195045-1194218	MBLCLPDI_01217
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1195380-1195048	MBLCLPDI_01218
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1195530-1195754	MBLCLPDI_01219
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1196675-1196217	MBLCLPDI_01220
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1196675-1196217	MBLCLPDI_01220
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetylmuramoyl-L-alanine amidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1199110-1197911	MBLCLPDI_01221
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1199471-1199100	MBLCLPDI_01222
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1199794-1199468	MBLCLPDI_01223
@@ -9878,7 +9878,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lact
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phage terminase small subunit P27 family, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1224559-1224086	MBLCLPDI_01248
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	HNH endonuclease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1225240-1224704	MBLCLPDI_01249
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1225487-1225308	MBLCLPDI_01250
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1226605-1226147	MBLCLPDI_01251
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1226605-1226147	MBLCLPDI_01251
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1227721-1226879	MBLCLPDI_01253
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1229047-1228625	MBLCLPDI_01254
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1229646-1229335	MBLCLPDI_01256
@@ -10089,7 +10089,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, La
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1432546-1431695	MBLCLPDI_01488
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1432899-1432543	MBLCLPDI_01489
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1433256-1433038	MBLCLPDI_01490
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434690-1433308	MBLCLPDI_01491
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434690-1433308	MBLCLPDI_01491
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434937-1434716	MBLCLPDI_01492
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1435405-1435058	MBLCLPDI_01493
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1436019-1435405	MBLCLPDI_01494
@@ -10098,7 +10098,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lact
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	dextransucrase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1441602-1437136	MBLCLPDI_01497
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hydrolase Nlp/P60, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1442639-1441758	MBLCLPDI_01498
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1444163-1442790	MBLCLPDI_01499
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1444815-1445273	MBLCLPDI_01500
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1444815-1445273	MBLCLPDI_01500
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	peptide chain release factor 3, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1447023-1445446	MBLCLPDI_01501
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1447210-1448676	MBLCLPDI_01502
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1450288-1448720	MBLCLPDI_01503
@@ -10114,7 +10114,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glycosyl transferase, Lact
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1461334-1460765	MBLCLPDI_01513
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hydrolase Nlp/P60, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1462718-1461402	MBLCLPDI_01514
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetylmuramoyl-L-alanine amidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1464542-1462944	MBLCLPDI_01515
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1465326-1464868	MBLCLPDI_01516
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1465326-1464868	MBLCLPDI_01516
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1467013-1465535	MBLCLPDI_01517
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	acyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1468192-1467125	MBLCLPDI_01518
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1469220-1468204	MBLCLPDI_01519
@@ -10236,7 +10236,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	CtsR family transcriptiona
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	alcohol dehydrogenase AdhP, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1589297-1588269	MBLCLPDI_01648
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	alpha/beta hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1589692-1590513	MBLCLPDI_01649
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	deoxynucleoside kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1591892-1591251	MBLCLPDI_01655
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1592152-1592610	MBLCLPDI_01656
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1592152-1592610	MBLCLPDI_01656
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1594236-1592761	MBLCLPDI_01657
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1595031-1594576	MBLCLPDI_01658
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphatase PAP2 family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1595776-1595102	MBLCLPDI_01659
@@ -10305,8 +10305,8 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphate ABC transporter 
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphate ABC transporter permease subunit PstC, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1667448-1666549	MBLCLPDI_01725
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphate ABC transporter substrate-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1668325-1667453	MBLCLPDI_01726
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA-binding response regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1668451-1669161	MBLCLPDI_01727
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1669439-1669948	MBLCLPDI_01728
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1670165-1670386	MBLCLPDI_01729
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1669439-1669948	MBLCLPDI_01728
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1670165-1670386	MBLCLPDI_01729
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1670622-1670410	MBLCLPDI_01730
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1671799-1670786	MBLCLPDI_01731
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1671915-1672445	MBLCLPDI_01732
@@ -10449,7 +10449,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cobalt-precorrin-8 methylm
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cobalamin biosynthesis protein CobD, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1820090-1819131	MBLCLPDI_01877
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cobyrinic acid a,c-diamide synthase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1821451-1820087	MBLCLPDI_01878
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	threonine-phosphate decarboxylase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1822539-1821451	MBLCLPDI_01879
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1823852-1822884	MBLCLPDI_01880
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1823852-1822884	MBLCLPDI_01880
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cob(I)yrinic acid a,c-diamide adenosyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1823981-1824547	MBLCLPDI_01881
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	GNAT family N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1825437-1824595	MBLCLPDI_01882
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	flavodoxin, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1825908-1825459	MBLCLPDI_01883
@@ -10616,7 +10616,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	GGDEF domain-containing pr
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1988947-1989444	MBLCLPDI_02054
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glycosyl transferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1989434-1990765	MBLCLPDI_02055
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	diguanylate phosphodiesterase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1990752-1991579	MBLCLPDI_02056
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1992140-1991682	MBLCLPDI_02057
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1992140-1991682	MBLCLPDI_02057
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	type 1 glutamine amidotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1993065-1992394	MBLCLPDI_02058
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1993529-1993167	MBLCLPDI_02059
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	NADH-flavin reductase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1994288-1993644	MBLCLPDI_02060
@@ -10726,7 +10726,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA-binding response regul
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	sensor histidine kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:72463-73710	MBLCLPDI_00064
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	chloride channel protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:73713-74894	MBLCLPDI_00065
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutamate--cysteine ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:75046-76386	MBLCLPDI_00066
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:76632-77090	MBLCLPDI_00067
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:76632-77090	MBLCLPDI_00067
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	gamma-glutamyl-gamma-aminobutyrate hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c78017-77289	MBLCLPDI_00068
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	aldo/keto reductase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:78136-79002	MBLCLPDI_00069
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glycerophosphodiester phosphodiesterase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:79141-80928	MBLCLPDI_00070
@@ -10759,7 +10759,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	NAD(P)H-dependent oxidored
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	FAD:protein FMN transferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:112864-113790	MBLCLPDI_00098
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:114288-115670	MBLCLPDI_00099
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:115935-117758	MBLCLPDI_00100
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:117835-118314	MBLCLPDI_00101
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:117835-118314	MBLCLPDI_00101
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:118648-120585	MBLCLPDI_00102
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	serine--tRNA ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:121349-122656	MBLCLPDI_00103
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutamine ABC transporter substrate-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:122925-124388	MBLCLPDI_00104
@@ -10810,11 +10810,11 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	2,3-diphosphoglycerate-dep
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:174152-175201	MBLCLPDI_00153
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	tyrosine--tRNA ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:175554-176804	MBLCLPDI_00154
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182784-182972	MBLCLPDI_00161
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182962-183318	MBLCLPDI_00162
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:183385-184914	MBLCLPDI_00163
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182962-183318	MBLCLPDI_00162
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:183385-184914	MBLCLPDI_00163
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:185094-185213	MBLCLPDI_00164
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:185266-185754	MBLCLPDI_00165
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c187315-186347	MBLCLPDI_00166
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c187315-186347	MBLCLPDI_00166
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ADP-ribose pyrophosphatase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:187515-188231	MBLCLPDI_00167
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	nicotinate phosphoribosyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:188333-189766	MBLCLPDI_00168
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cysteine hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:189782-190327	MBLCLPDI_00169
@@ -10902,7 +10902,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	UDP-N-acetylmuramoyl-tripe
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ATP-dependent helicase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:279210-280706	MBLCLPDI_00262
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c281623-280787	MBLCLPDI_00263
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutaminase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:282116-283030	MBLCLPDI_00264
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c283634-283176	MBLCLPDI_00265
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c283634-283176	MBLCLPDI_00265
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:284290-285672	MBLCLPDI_00266
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	D-alanyl-lipoteichoic acid biosynthesis protein DltD, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c287045-285756	MBLCLPDI_00267
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	D-alanine--poly(phosphoribitol) ligase subunit DltC, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c287277-287038	MBLCLPDI_00268
@@ -11003,7 +11003,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutamate 5-kinase, Lactob
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	carbon-nitrogen family hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:393412-394197	MBLCLPDI_00377
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	pyridoxal phosphate-dependent aminotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:394211-395389	MBLCLPDI_00378
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ketopantoate reductase family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:395403-396368	MBLCLPDI_00379
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c398055-396445	MBLCLPDI_00380
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c398055-396445	MBLCLPDI_00380
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ABC transporter ATP-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c400136-398199	MBLCLPDI_00381
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:400377-401021	MBLCLPDI_00382
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:401042-401221	MBLCLPDI_00383
@@ -11044,13 +11044,13 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	RNase adapter RapZ, Lactob
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	gluconeogenesis factor, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:439339-440325	MBLCLPDI_00418
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	sporulation regulator WhiA, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:440344-441285	MBLCLPDI_00419
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ATP-dependent Clp protease proteolytic subunit, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:442182-442775	MBLCLPDI_00422
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444332-442842	MBLCLPDI_00423
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444332-442842	MBLCLPDI_00423
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c444590-444462	MBLCLPDI_00424
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	type I glyceraldehyde-3-phosphate dehydrogenase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:445086-446093	MBLCLPDI_00426
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphoglycerate kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:446184-447389	MBLCLPDI_00427
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	triose-phosphate isomerase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:447505-448254	MBLCLPDI_00428
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphopyruvate hydratase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:448345-449667	MBLCLPDI_00429
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:449838-451448	MBLCLPDI_00430
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:449838-451448	MBLCLPDI_00430
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:451668-453050	MBLCLPDI_00431
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ClC family H(+)/Cl(-) exchange transporter, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:453168-454718	MBLCLPDI_00432
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	preprotein translocase subunit SecG, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:454785-455024	MBLCLPDI_00433
@@ -11155,7 +11155,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glyoxalase/bleomycin resis
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c553899-553156	MBLCLPDI_00542
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	peroxide stress protein YaaA, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:554152-554901	MBLCLPDI_00543
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	oxalyl-CoA decarboxylase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:555017-556747	MBLCLPDI_00544
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:557737-558195	MBLCLPDI_00546
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:557737-558195	MBLCLPDI_00546
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:559347-560729	MBLCLPDI_00548
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	NCS2 family permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:560915-562312	MBLCLPDI_00549
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	30S ribosomal protein S4, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c563049-562444	MBLCLPDI_00550
@@ -11339,7 +11339,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	elongation factor Ts, Lact
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	UMP kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:759837-760559	MBLCLPDI_00771
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ribosome-recycling factor, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:760564-761127	MBLCLPDI_00772
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:761623-762795	MBLCLPDI_00773
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	isoprenyl transferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:764029-764793	MBLCLPDI_00775
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphatidate cytidylyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:764813-765598	MBLCLPDI_00776
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	RIP metalloprotease RseP, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:765621-766895	MBLCLPDI_00777
@@ -11376,7 +11376,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	bifunctional (p)ppGpp synt
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	D-aminoacyl-tRNA deacylase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:801065-801502	MBLCLPDI_00810
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	aminoglycoside phosphotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c802508-801660	MBLCLPDI_00811
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	aspartate--tRNA ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:802890-804692	MBLCLPDI_00812
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid ABC transporter ATP-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c806262-805519	MBLCLPDI_00814
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ABC transporter permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c807763-806252	MBLCLPDI_00815
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	30S ribosomal protein S21, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:808064-808255	MBLCLPDI_00816
@@ -11621,7 +11621,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	patatin family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1060163-1061017	MBLCLPDI_01094
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	site-specific integrase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1061034-1061681	MBLCLPDI_01095
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	EamA/RhaT family transporter, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1061790-1062680	MBLCLPDI_01096
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1062864-1064474	MBLCLPDI_01097
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1062864-1064474	MBLCLPDI_01097
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ISL3 family transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1064638-1065519	MBLCLPDI_01098
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ISL3 family transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1065546-1065884	MBLCLPDI_01099
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	respiratory nitrate reductase subunit gamma, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1066689-1066000	MBLCLPDI_01100
@@ -11653,7 +11653,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse tr
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	YSIRK signal domain/LPXTG anchor domain surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1093606-1090514	MBLCLPDI_01126
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1095145-1094489	MBLCLPDI_01127
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	helix-turn-helix domain-containing protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1095457-1095194	MBLCLPDI_01128
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1096177-1095719	MBLCLPDI_01129
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1096177-1095719	MBLCLPDI_01129
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1096430-1097389	MBLCLPDI_01130
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1097405-1097836	MBLCLPDI_01131
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	Crp/Fnr family transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1098895-1099389	MBLCLPDI_01132
@@ -11668,9 +11668,9 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	thiamine phosphate synthas
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	chloride channel protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1107951-1106692	MBLCLPDI_01141
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	PAP2 family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1110560-1111201	MBLCLPDI_01143
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111374-1111562	MBLCLPDI_01144
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111552-1111908	MBLCLPDI_01145
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111975-1112103	MBLCLPDI_01146
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1112087-1113505	MBLCLPDI_01147
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111552-1111908	MBLCLPDI_01145
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111975-1112103	MBLCLPDI_01146
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1112087-1113505	MBLCLPDI_01147
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1119688-1119200	MBLCLPDI_01151
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1120726-1119719	MBLCLPDI_01152
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1121194-1120913	MBLCLPDI_01153
@@ -11736,7 +11736,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse tr
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	exodeoxyribonuclease III, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1195045-1194218	MBLCLPDI_01217
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1195380-1195048	MBLCLPDI_01218
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1195530-1195754	MBLCLPDI_01219
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1196675-1196217	MBLCLPDI_01220
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1196675-1196217	MBLCLPDI_01220
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetylmuramoyl-L-alanine amidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1199110-1197911	MBLCLPDI_01221
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1199471-1199100	MBLCLPDI_01222
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1199794-1199468	MBLCLPDI_01223
@@ -11765,7 +11765,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lact
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phage terminase small subunit P27 family, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1224559-1224086	MBLCLPDI_01248
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	HNH endonuclease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1225240-1224704	MBLCLPDI_01249
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1225487-1225308	MBLCLPDI_01250
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1226605-1226147	MBLCLPDI_01251
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1226605-1226147	MBLCLPDI_01251
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1227721-1226879	MBLCLPDI_01253
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1229047-1228625	MBLCLPDI_01254
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1229646-1229335	MBLCLPDI_01256
@@ -11976,7 +11976,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, La
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1432546-1431695	MBLCLPDI_01488
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1432899-1432543	MBLCLPDI_01489
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1433256-1433038	MBLCLPDI_01490
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434690-1433308	MBLCLPDI_01491
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434690-1433308	MBLCLPDI_01491
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1434937-1434716	MBLCLPDI_01492
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1435405-1435058	MBLCLPDI_01493
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1436019-1435405	MBLCLPDI_01494
@@ -11985,7 +11985,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lact
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	dextransucrase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1441602-1437136	MBLCLPDI_01497
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hydrolase Nlp/P60, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1442639-1441758	MBLCLPDI_01498
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1444163-1442790	MBLCLPDI_01499
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1444815-1445273	MBLCLPDI_01500
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1444815-1445273	MBLCLPDI_01500
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	peptide chain release factor 3, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1447023-1445446	MBLCLPDI_01501
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1447210-1448676	MBLCLPDI_01502
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1450288-1448720	MBLCLPDI_01503
@@ -12001,7 +12001,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glycosyl transferase, Lact
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1461334-1460765	MBLCLPDI_01513
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hydrolase Nlp/P60, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1462718-1461402	MBLCLPDI_01514
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetylmuramoyl-L-alanine amidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1464542-1462944	MBLCLPDI_01515
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1465326-1464868	MBLCLPDI_01516
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1465326-1464868	MBLCLPDI_01516
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1467013-1465535	MBLCLPDI_01517
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	acyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1468192-1467125	MBLCLPDI_01518
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1469220-1468204	MBLCLPDI_01519
@@ -12123,7 +12123,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	CtsR family transcriptiona
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	alcohol dehydrogenase AdhP, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1589297-1588269	MBLCLPDI_01648
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	alpha/beta hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1589692-1590513	MBLCLPDI_01649
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	deoxynucleoside kinase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1591892-1591251	MBLCLPDI_01655
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1592152-1592610	MBLCLPDI_01656
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1592152-1592610	MBLCLPDI_01656
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid permease, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1594236-1592761	MBLCLPDI_01657
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1595031-1594576	MBLCLPDI_01658
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphatase PAP2 family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1595776-1595102	MBLCLPDI_01659
@@ -12192,8 +12192,8 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphate ABC transporter 
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphate ABC transporter permease subunit PstC, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1667448-1666549	MBLCLPDI_01725
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphate ABC transporter substrate-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1668325-1667453	MBLCLPDI_01726
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA-binding response regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1668451-1669161	MBLCLPDI_01727
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1669439-1669948	MBLCLPDI_01728
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21725, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1670165-1670386	MBLCLPDI_01729
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1669439-1669948	MBLCLPDI_01728
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1670165-1670386	MBLCLPDI_01729
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1670622-1670410	MBLCLPDI_01730
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1671799-1670786	MBLCLPDI_01731
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1671915-1672445	MBLCLPDI_01732
@@ -12336,7 +12336,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cobalt-precorrin-8 methylm
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cobalamin biosynthesis protein CobD, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1820090-1819131	MBLCLPDI_01877
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cobyrinic acid a,c-diamide synthase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1821451-1820087	MBLCLPDI_01878
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	threonine-phosphate decarboxylase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1822539-1821451	MBLCLPDI_01879
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21723, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1823852-1822884	MBLCLPDI_01880
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1823852-1822884	MBLCLPDI_01880
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cob(I)yrinic acid a,c-diamide adenosyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1823981-1824547	MBLCLPDI_01881
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	GNAT family N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1825437-1824595	MBLCLPDI_01882
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	flavodoxin, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1825908-1825459	MBLCLPDI_01883
@@ -12503,7 +12503,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	GGDEF domain-containing pr
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1988947-1989444	MBLCLPDI_02054
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glycosyl transferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1989434-1990765	MBLCLPDI_02055
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	diguanylate phosphodiesterase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1990752-1991579	MBLCLPDI_02056
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1992140-1991682	MBLCLPDI_02057
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1992140-1991682	MBLCLPDI_02057
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	type 1 glutamine amidotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1993065-1992394	MBLCLPDI_02058
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1993529-1993167	MBLCLPDI_02059
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	NADH-flavin reductase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1994288-1993644	MBLCLPDI_02060
@@ -12563,7 +12563,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	efflux RND transporter per
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ATP-dependent Clp protease ATP-binding subunit, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:47317-49554	MBLCLPDI_00050
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ATP-dependent helicase/deoxyribonuclease subunit B, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:55696-59478	MBLCLPDI_00054
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ATP-dependent helicase/nuclease subunit A, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:59478-63656	MBLCLPDI_00055
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:76632-77090	MBLCLPDI_00067
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:76632-77090	MBLCLPDI_00067
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	gamma-glutamyl-gamma-aminobutyrate hydrolase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c78017-77289	MBLCLPDI_00068
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:89307-89762	MBLCLPDI_00079
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	gamma-glutamyl-gamma-aminobutyrate hydrolase family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:89890-90621	MBLCLPDI_00080
@@ -12588,7 +12588,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphoribosylformylglycin
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphoribosylformylglycinamidine cyclo-ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:168766-169803	MBLCLPDI_00148
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphoribosylglycinamide formyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:169813-170385	MBLCLPDI_00149
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	2,3-diphosphoglycerate-dependent phosphoglycerate mutase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:173298-173984	MBLCLPDI_00152
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182962-183318	MBLCLPDI_00162
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:182962-183318	MBLCLPDI_00162
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	SDR family NAD(P)-dependent oxidoreductase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c197050-196310	MBLCLPDI_00175
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphate-starvation-inducible protein PsiE, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c202907-202506	MBLCLPDI_00184
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	pyridine nucleotide-disulfide oxidoreductase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c210241-208886	MBLCLPDI_00191
@@ -12608,7 +12608,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse tr
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	fructose-1,6-bisphosphate aldolase, class II, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:273962-274828	MBLCLPDI_00256
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	low molecular weight phosphotyrosine protein phosphatase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c276007-275543	MBLCLPDI_00258
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:277759-279138	MBLCLPDI_00261
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c283634-283176	MBLCLPDI_00265
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c283634-283176	MBLCLPDI_00265
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:284290-285672	MBLCLPDI_00266
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	D-alanyl-lipoteichoic acid biosynthesis protein DltD, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c287045-285756	MBLCLPDI_00267
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	D-alanine--poly(phosphoribitol) ligase subunit DltC, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c287277-287038	MBLCLPDI_00268
@@ -12654,7 +12654,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphoenolpyruvate--prote
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ISLre2-like element ISLre2 family transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:536905-538287	MBLCLPDI_00525
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	replication-associated recombination protein A, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c551767-550463	MBLCLPDI_00538
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glyoxalase/bleomycin resistance/dioxygenase family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c553131-552724	MBLCLPDI_00541
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:557737-558195	MBLCLPDI_00546
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:557737-558195	MBLCLPDI_00546
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:559347-560729	MBLCLPDI_00548
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	cytochrome d ubiquinol oxidase subunit II, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:572540-573556	MBLCLPDI_00556
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	thiol reductant ABC exporter subunit CydD, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:573608-575293	MBLCLPDI_00557
@@ -12691,11 +12691,11 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phage gp6-like head-tail c
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	1-acyl-sn-glycerol-3-phosphate acyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c755706-755068	MBLCLPDI_00765
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	tRNA1(Val) (adenine(37)-N6)-methyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:755801-756556	MBLCLPDI_00766
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:761623-762795	MBLCLPDI_00773
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	transcription termination/antitermination protein NusA, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:773692-774879	MBLCLPDI_00781
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	50S ribosomal protein L11 methyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:796684-797643	MBLCLPDI_00806
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	16S rRNA (uracil(1498)-N(3))-methyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:797644-798384	MBLCLPDI_00807
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid ABC transporter ATP-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c806262-805519	MBLCLPDI_00814
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ISLre2-like element ISLre2 family transposase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c827288-825906	MBLCLPDI_00833
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	tRNA (adenine(22)-N(1))-methyltransferase TrmK, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:827513-828220	MBLCLPDI_00834
@@ -12742,10 +12742,10 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	peptide ABC transporter su
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1089919-1088537	MBLCLPDI_01125
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	YSIRK signal domain/LPXTG anchor domain surface protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1093606-1090514	MBLCLPDI_01126
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	helix-turn-helix domain-containing protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1095457-1095194	MBLCLPDI_01128
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1096177-1095719	MBLCLPDI_01129
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1096177-1095719	MBLCLPDI_01129
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	Crp/Fnr family transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1098895-1099389	MBLCLPDI_01132
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1099816-1100115	MBLCLPDI_01134
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111552-1111908	MBLCLPDI_01145
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1111552-1111908	MBLCLPDI_01145
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1164129-1163785	MBLCLPDI_01187
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	helix-turn-helix domain-containing protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1164734-1165309	MBLCLPDI_01189
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	L-serine ammonia-lyase, iron-sulfur-dependent, subunit alpha, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1176909-1176028	MBLCLPDI_01200
@@ -12753,10 +12753,10 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	5-methyltetrahydropteroylt
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	1,4-dihydroxy-2-naphthoate polyprenyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1185370-1184471	MBLCLPDI_01210
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	LacI family DNA-binding transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1191608-1190589	MBLCLPDI_01214
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1193722-1192340	MBLCLPDI_01216
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1196675-1196217	MBLCLPDI_01220
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1196675-1196217	MBLCLPDI_01220
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phage gp6-like head-tail connector protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1218221-1217853	MBLCLPDI_01241
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phage terminase small subunit P27 family, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1224559-1224086	MBLCLPDI_01248
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1226605-1226147	MBLCLPDI_01251
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1226605-1226147	MBLCLPDI_01251
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phage repressor protein/antirepressor Ant, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1237327-1236554	MBLCLPDI_01274
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	tRNA (guanosine(37)-N1)-methyltransferase TrmD, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1243694-1242936	MBLCLPDI_01283
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	signal recognition particle-docking protein FtsY, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1248231-1246705	MBLCLPDI_01289
@@ -12795,9 +12795,9 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	anaerobic ribonucleoside-t
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	phosphoenolpyruvate--protein phosphotransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1420372-1418642	MBLCLPDI_01475
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ATP-dependent Clp protease ATP-binding subunit, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1421221-1423425	MBLCLPDI_01478
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	group II intron reverse transcriptase/maturase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1444163-1442790	MBLCLPDI_01499
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1444815-1445273	MBLCLPDI_01500
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1444815-1445273	MBLCLPDI_01500
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	helix-turn-helix domain-containing protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1455748-1456347	MBLCLPDI_01508
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1465326-1464868	MBLCLPDI_01516
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1465326-1464868	MBLCLPDI_01516
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	mannosyl-glycoprotein endo-beta-N-acetylglucosamidase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1467013-1465535	MBLCLPDI_01517
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	lipopolysaccharide 1,6-galactosyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1470284-1469235	MBLCLPDI_01520
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	YihY/virulence factor BrkB family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1479855-1478965	MBLCLPDI_01531
@@ -12819,7 +12819,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA-directed RNA polymeras
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA-directed RNA polymerase subunit beta, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1583996-1580388	MBLCLPDI_01644
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	TetR/AcrR family transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1584835-1584233	MBLCLPDI_01645
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	ATP-dependent Clp protease ATP-binding subunit, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1587613-1585121	MBLCLPDI_01646
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1592152-1592610	MBLCLPDI_01656
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1592152-1592610	MBLCLPDI_01656
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	metal-dependent transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1598202-1597528	MBLCLPDI_01663
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	amino acid ABC transporter ATP-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1601687-1602427	MBLCLPDI_01668
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	glutamine ABC transporter substrate-binding protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1602440-1603270	MBLCLPDI_01669
@@ -12878,7 +12878,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	LysM peptidoglycan-binding
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	TetR/AcrR family transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1956796-1956284	MBLCLPDI_02021
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	5-methyltetrahydropteroyltriglutamate-- homocysteine S-methyltransferase, Lactobacillus reuteri MM4-1A,whole genome shotgun se>	Complete_sequence_with_correct_origin:1970626-1971762	MBLCLPDI_02035
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	folate family ECF transporter S component, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1983430-1983990	MBLCLPDI_02049
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21703, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1992140-1991682	MBLCLPDI_02057
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1992140-1991682	MBLCLPDI_02057
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	TetR/AcrR family transcriptional regulator, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1995522-1996100	MBLCLPDI_02062
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	PLP-dependent aminotransferase family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c2001552-2000359	MBLCLPDI_02067
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	carboxymuconolactone decarboxylase family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:2007312-2007632	MBLCLPDI_02076

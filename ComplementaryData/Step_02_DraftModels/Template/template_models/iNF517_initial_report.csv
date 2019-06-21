@@ -1375,31 +1375,31 @@ rea	XPPT	XPPT		id in bigg(same)
 rea	ZNabc	ZNabc		id in bigg(same)					
 rea	kaasIII	kaasIII		id in bigg(same)					
 rea	unkFol	unkFol		id in bigg(same)					
-rea	2HXICt_copy1	2HXICt	2HXICt	not in bigg[id in bigg(same)]					keep
-rea	2HXICt_copy2	2HXICt	2HXICt	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
-rea	ALAt2r_copy1	ALAt2r	ALAt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
-rea	ALAt2r_copy2	ALAt2r	ALAt2r	not in bigg[id in bigg(same)]					keep
-rea	CBMKr_copy1	CBMKr	CBMKr	not in bigg[id in bigg(same)]					keep
-rea	CBMKr_copy2	CBMKr	CBMKr	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
-rea	DPR_copy1	DPR	DPR	not in bigg[id in bigg(same)]					keep
-rea	DPR_copy2	DPR	DPR	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
-rea	GLYt2r_copy1	GLYt2r	GLYt2r	not in bigg[id in bigg(same)]					keep
-rea	GLYt2r_copy2	GLYt2r	GLYt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	2HXICt_copy1	2HXICt	2HXICt	not in bigg[id in bigg(same)]					replaced
+rea	2HXICt_copy2	2HXICt	2HXICt	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	ALAt2r_copy1	ALAt2r	ALAt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	ALAt2r_copy2	ALAt2r	ALAt2r	not in bigg[id in bigg(same)]					replaced
+rea	CBMKr_copy1	CBMKr	CBMKr	not in bigg[id in bigg(same)]					replaced
+rea	CBMKr_copy2	CBMKr	CBMKr	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	DPR_copy1	DPR	DPR	not in bigg[id in bigg(same)]					replaced
+rea	DPR_copy2	DPR	DPR	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	GLYt2r_copy1	GLYt2r	GLYt2r	not in bigg[id in bigg(same)]					replaced
+rea	GLYt2r_copy2	GLYt2r	GLYt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
 rea	ILEt2r_copy1	ILEt2r	ILEt2r	not in bigg[id in bigg(bounds different)]		(0.0, 0.0)	(0.0, 1000.0)		replaced
 rea	ILEt2r_copy2	ILEt2r	ILEt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
 rea	LEUt2r_copy1	LEUt2r	LEUt2r	not in bigg[id in bigg(bounds different)]		(0.0, 0.0)	(0.0, 1000.0)		replaced
 rea	LEUt2r_copy2	LEUt2r	LEUt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
-rea	PHETA1_copy1	PHETA1	PHETA1	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
-rea	PHETA1_copy2	PHETA1	PHETA1	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
-rea	PYNP1_copy1	PYNP1	PYNP1	not in bigg[id in bigg(same)]					keep
-rea	PYNP1_copy2	PYNP1	PYNP1	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
-rea	THRt2r_copy1	THRt2r	THRt2r	not in bigg[id in bigg(same)]					keep
-rea	THRt2r_copy2	THRt2r	THRt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
-rea	TMDS_copy1	TMDS	TMDS	not in bigg[id in bigg(same)]					keep
-rea	TMDS_copy2	TMDS	TMDS	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
-rea	TYRTA_copy1	TYRTA	TYRTA	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
-rea	TYRTA_copy2	TYRTA	TYRTA	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	PHETA1_copy1	PHETA1	PHETA1	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	PHETA1_copy2	PHETA1	PHETA1	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	PYNP1_copy1	PYNP1	PYNP1	not in bigg[id in bigg(same)]					replaced
+rea	PYNP1_copy2	PYNP1	PYNP1	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	THRt2r_copy1	THRt2r	THRt2r	not in bigg[id in bigg(same)]					replaced
+rea	THRt2r_copy2	THRt2r	THRt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	TMDS_copy1	TMDS	TMDS	not in bigg[id in bigg(same)]					replaced
+rea	TMDS_copy2	TMDS	TMDS	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
+rea	TYRTA_copy1	TYRTA	TYRTA	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	TYRTA_copy2	TYRTA	TYRTA	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
 rea	VALt2r_copy1	VALt2r	VALt2r	not in bigg[id in bigg(bounds different)]		(0.0, 0.0)	(0.0, 1000.0)		replaced
 rea	VALt2r_copy2	VALt2r	VALt2r	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep
-rea	YUMPS_copy1	YUMPS	YUMPS	not in bigg[id in bigg(same)]					keep
-rea	YUMPS_copy2	YUMPS	YUMPS	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		replaced
+rea	YUMPS_copy1	YUMPS	YUMPS	not in bigg[id in bigg(same)]					replaced
+rea	YUMPS_copy2	YUMPS	YUMPS	not in bigg[id in bigg(bounds different)]		(-1000.0, 1000.0)	(0.0, 1000.0)		keep

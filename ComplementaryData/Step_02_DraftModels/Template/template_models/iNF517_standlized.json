@@ -24,7 +24,7 @@
 }
 },
 {
-"id":"12dgr_LLA_c",
+"id":"12dgr_LRE_c",
 "name":"1 2 diacylglycerol  lactis specific ",
 "compartment":"c",
 "charge":0,
@@ -1980,7 +1980,7 @@
 }
 },
 {
-"id":"5fothf_c",
+"id":"5fthf_c",
 "name":"5 Formyltetrahydrofolate",
 "compartment":"c",
 "charge":-2,
@@ -2221,7 +2221,7 @@
 }
 },
 {
-"id":"CPS_LLA_c",
+"id":"CPS_LRE_c",
 "name":"Polysaccharide units Lactis specific",
 "compartment":"c",
 "charge":-2,
@@ -2231,7 +2231,7 @@
 }
 },
 {
-"id":"DNA_LLA_c",
+"id":"DNA_LRE_c",
 "name":"DNA composition  lactis specific ",
 "compartment":"c",
 "charge":-100,
@@ -2241,7 +2241,7 @@
 }
 },
 {
-"id":"LTAAlaGal_LLA_c",
+"id":"LTAAlaGal_LRE_c",
 "name":"Lipoteichoic acid  n16  with 0 38 ala and 062 gal ",
 "compartment":"c",
 "charge":0,
@@ -2251,7 +2251,7 @@
 }
 },
 {
-"id":"LTA_LLA_c",
+"id":"LTA_LRE_c",
 "name":"Lipoteichoic acid  n16  Lactis specific ",
 "compartment":"c",
 "charge":0,
@@ -2261,7 +2261,7 @@
 }
 },
 {
-"id":"LTAala_LLA_c",
+"id":"LTAala_LRE_c",
 "name":"Lipoteichoic acid  n16  with 038 ala substitutions ",
 "compartment":"c",
 "charge":0,
@@ -2327,7 +2327,7 @@
 }
 },
 {
-"id":"PROT_LLA_c",
+"id":"PROT_LRE_c",
 "name":"Protein for biomass  Lactis specific  v1",
 "compartment":"c",
 "charge":46,
@@ -2337,7 +2337,7 @@
 }
 },
 {
-"id":"PROT_LLA_v3_c",
+"id":"PROT_LRE_v3_c",
 "name":"Protein for biomass  lactis specific  v3",
 "compartment":"c",
 "charge":46,
@@ -2347,7 +2347,7 @@
 }
 },
 {
-"id":"RNA_LLA_c",
+"id":"RNA_LRE_c",
 "name":"RNA biosynthesis  lactis ",
 "compartment":"c",
 "charge":-100,
@@ -2649,7 +2649,7 @@
 }
 },
 {
-"id":"acgala_e",
+"id":"acgal_e",
 "name":"N Acetyl D galactosamine",
 "compartment":"e",
 "charge":0,
@@ -3177,7 +3177,7 @@
 }
 },
 {
-"id":"agly3p_LLA_c",
+"id":"agly3p_LRE_c",
 "name":"1 Acyl sn glycerol 3 phosphate  lactis specific ",
 "compartment":"c",
 "charge":-200,
@@ -4263,7 +4263,7 @@
 }
 },
 {
-"id":"cdpdag_LLA_c",
+"id":"cdpdag_LRE_c",
 "name":"CDPdiacylglycerol  lactis specific",
 "compartment":"c",
 "charge":-200,
@@ -4571,7 +4571,7 @@
 }
 },
 {
-"id":"clpn_LLA_c",
+"id":"clpn_LRE_c",
 "name":"Cardiolipin  lactis specific ",
 "compartment":"c",
 "charge":-200,
@@ -4933,7 +4933,7 @@
 }
 },
 {
-"id":"d12dg_LLA_c",
+"id":"d12dg_LRE_c",
 "name":"Diglucosyl 1 2 diacylglycerol",
 "compartment":"c",
 "charge":0,
@@ -5721,7 +5721,7 @@
 }
 },
 {
-"id":"dtdp6dm_c",
+"id":"dtdprmn_c",
 "name":"DTDP 6 deoxy L mannose",
 "compartment":"c",
 "charge":-2,
@@ -5803,7 +5803,7 @@
 }
 },
 {
-"id":"dtdpglc_c",
+"id":"dtdpglu_c",
 "name":"DTDPglucose",
 "compartment":"c",
 "charge":-2,
@@ -7411,7 +7411,7 @@
 }
 },
 {
-"id":"glcn__D_c",
+"id":"glcn_c",
 "name":"D Gluconate C6H11O7",
 "compartment":"c",
 "charge":-1,
@@ -9733,7 +9733,7 @@
 }
 },
 {
-"id":"lyspg_LLA_c",
+"id":"lyspg_LRE_c",
 "name":"1 lysyl phosphatidyl glycerol  lactis specific ",
 "compartment":"c",
 "charge":0,
@@ -9765,7 +9765,7 @@
 }
 },
 {
-"id":"m12dg_LLA_c",
+"id":"m12dg_LRE_c",
 "name":"Monoglucosyl 1 2 diacylglycerol",
 "compartment":"c",
 "charge":0,
@@ -11144,7 +11144,7 @@
 }
 },
 {
-"id":"orn__L_c",
+"id":"orn_c",
 "name":"L Ornithine C5H13N2O2",
 "compartment":"c",
 "charge":1,
@@ -11334,7 +11334,7 @@
 }
 },
 {
-"id":"pa_LLA_c",
+"id":"pa_LRE_c",
 "name":"Phosphatidic acid  Lactis specific ",
 "compartment":"c",
 "charge":-200,
@@ -11514,7 +11514,7 @@
 }
 },
 {
-"id":"pg_LLA_c",
+"id":"pg_LRE_c",
 "name":"Phospatidylglycerol  Lactis specific ",
 "compartment":"c",
 "charge":-100,
@@ -11524,7 +11524,7 @@
 }
 },
 {
-"id":"pgp_LLA_c",
+"id":"pgp_LRE_c",
 "name":"Phosphatidylglycerophosphate  lactis specific ",
 "compartment":"c",
 "charge":-300,
@@ -12594,7 +12594,7 @@
 }
 },
 {
-"id":"ribflvRD_c",
+"id":"rbflvrd_c",
 "name":"Reduced riboflavin C17H22N4O6",
 "compartment":"c",
 "charge":0,
@@ -15469,26 +15469,26 @@
 ],
 "reactions":[
 {
-"id":"BIOMASS_LLA",
+"id":"BIOMASS_LRE",
 "name":"Biomass equation LLA specific",
 "metabolites":{
-"CPS_LLA_c":-0.0064,
-"DNA_LLA_c":-0.00074,
-"LTAAlaGal_LLA_c":-0.00015,
+"CPS_LRE_c":-0.0064,
+"DNA_LRE_c":-0.00074,
+"LTAAlaGal_LRE_c":-0.00015,
 "PG_c":-0.119,
-"PROT_LLA_v3_c":-0.004201,
-"RNA_LLA_c":-0.00329,
+"PROT_LRE_v3_c":-0.004201,
+"RNA_LRE_c":-0.00329,
 "adp_c":39.4,
 "atp_c":-39.4,
-"clpn_LLA_c":-0.000138,
+"clpn_LRE_c":-0.000138,
 "coa_c":-0.0002,
-"d12dg_LLA_c":-9.6e-05,
+"d12dg_LRE_c":-9.6e-05,
 "h2o_c":-39.4,
 "h_c":39.4,
-"lyspg_LLA_c":-1.3e-05,
-"m12dg_LLA_c":-1.3e-05,
+"lyspg_LRE_c":-1.3e-05,
+"m12dg_LRE_c":-1.3e-05,
 "nad_c":-0.002,
-"pg_LLA_c":-6.1e-05,
+"pg_LRE_c":-6.1e-05,
 "pi_c":39.4,
 "thf_c":-1e-05,
 "thmpp_c":-1e-05,
@@ -15504,23 +15504,23 @@
 }
 },
 {
-"id":"BIOMASS_LLA_noATPnoH",
+"id":"BIOMASS_LRE_noATPnoH",
 "name":"Biomass equation LLA specific",
 "metabolites":{
-"CPS_LLA_c":-0.0064,
-"DNA_LLA_c":-0.00074,
-"LTAAlaGal_LLA_c":-0.00015,
+"CPS_LRE_c":-0.0064,
+"DNA_LRE_c":-0.00074,
+"LTAAlaGal_LRE_c":-0.00015,
 "PG_c":-0.119,
-"PROT_LLA_v3_c":-0.004201,
-"RNA_LLA_c":-0.00329,
-"clpn_LLA_c":-0.000138,
+"PROT_LRE_v3_c":-0.004201,
+"RNA_LRE_c":-0.00329,
+"clpn_LRE_c":-0.000138,
 "coa_c":-0.0002,
-"d12dg_LLA_c":-9.6e-05,
+"d12dg_LRE_c":-9.6e-05,
 "h2o_c":-1.0,
-"lyspg_LLA_c":-1.3e-05,
-"m12dg_LLA_c":-1.3e-05,
+"lyspg_LRE_c":-1.3e-05,
+"m12dg_LRE_c":-1.3e-05,
 "nad_c":-0.002,
-"pg_LLA_c":-6.1e-05,
+"pg_LRE_c":-6.1e-05,
 "thf_c":-1e-05,
 "thmpp_c":-1e-05,
 "udcpdp_c":-0.0002
@@ -15622,22 +15622,6 @@
 }
 },
 {
-"id":"2HXICt",
-"name":"",
-"metabolites":{
-"2hxic__L_c":-1.0,
-"2hxic__L_e":1.0,
-"h_c":-1.0,
-"h_e":1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"",
-"annotation":{
-"sbo":"SBO:0000375"
-}
-},
-{
 "id":"2MBALDH",
 "name":"2 methylbutanal dehydrogenase acid forming ",
 "metabolites":{
@@ -15727,6 +15711,22 @@
 "4.2.99.20"
 ],
 "metanetx.reaction":"MNXR94830",
+"sbo":"SBO:0000375"
+}
+},
+{
+"id":"2HXICt",
+"name":"",
+"metabolites":{
+"2hxic__L_c":-1.0,
+"2hxic__L_e":1.0,
+"h_c":-1.0,
+"h_e":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"",
+"annotation":{
 "sbo":"SBO:0000375"
 }
 },
@@ -15932,7 +15932,7 @@
 "name":"N acetylgalactosamine PTS",
 "metabolites":{
 "acgal6p_c":1.0,
-"acgala_e":-1.0,
+"acgal_e":-1.0,
 "pep_c":-1.0,
 "pyr_c":1.0
 },
@@ -16224,7 +16224,7 @@
 "ac_c":1.0,
 "acorn_c":-1.0,
 "h2o_c":-1.0,
-"orn__L_c":1.0
+"orn_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -16765,18 +16765,18 @@
 }
 },
 {
-"id":"AGAT_LLA",
+"id":"AGAT_LRE",
 "name":"1 Acyl glycerol 3 phosphate acyltransferase lactis specific specific ",
 "metabolites":{
 "2chdeacp_c":-0.03,
 "2cocdacp_c":-0.44,
 "2ctdeacp_c":-0.005,
 "acp_c":1.0,
-"agly3p_LLA_c":-0.01,
+"agly3p_LRE_c":-0.01,
 "cpocdacp_c":-0.13,
 "hdeacp_c":-0.295,
 "ocdacp_c":-0.01,
-"pa_LLA_c":0.01,
+"pa_LRE_c":0.01,
 "tdeacp_c":-0.09
 },
 "lower_bound":0.0,
@@ -17131,7 +17131,7 @@
 "h_c":1.0,
 "h_e":-1.0
 },
-"lower_bound":0.0,
+"lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"LLMG_RS01925 or LLMG_RS01930",
 "annotation":{
@@ -17520,8 +17520,8 @@
 "metabolites":{
 "arg__L_c":1.0,
 "arg__L_e":-1.0,
-"orn__L_c":-1.0,
-"orn__L_e":1.0
+"orn__L_e":1.0,
+"orn_c":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -17934,67 +17934,6 @@
 }
 },
 {
-"id":"TYRTA",
-"name":"",
-"metabolites":{
-"34hpp_c":1.0,
-"akg_c":-1.0,
-"glu__L_c":1.0,
-"tyr__L_c":-1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"(LLMG_RS00370 or LLMG_RS10105) or (LLMG_RS06585)",
-"annotation":{
-"biocyc":"META:TYROSINE-AMINOTRANSFERASE-RXN",
-"ec-code":[
-"2.6.1.1",
-"2.6.1.5",
-"2.6.1.57",
-"2.6.1.9"
-],
-"kegg.reaction":"R00734",
-"metanetx.reaction":"MNXR105000",
-"rhea":[
-"15093",
-"15094",
-"15095",
-"15096"
-],
-"sbo":"SBO:0000375"
-}
-},
-{
-"id":"PHETA1",
-"name":"",
-"metabolites":{
-"akg_c":-1.0,
-"glu__L_c":1.0,
-"phe__L_c":-1.0,
-"phpyr_c":1.0
-},
-"lower_bound":-1000.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"(LLMG_RS00370 or LLMG_RS10105) or (LLMG_RS06585)",
-"annotation":{
-"biocyc":[
-"META:PHEAMINOTRANS-RXN",
-"META:RXN-10814"
-],
-"ec-code":[
-"2.6.1.1",
-"2.6.1.42",
-"2.6.1.5",
-"2.6.1.57",
-"2.6.1.58",
-"2.6.1.9"
-],
-"kegg.reaction":"R00694",
-"metanetx.reaction":"MNXR102631",
-"sbo":"SBO:0000375"
-}
-},
-{
 "id":"ASPTRS_1",
 "name":"Aspartyl tRNA synthetase",
 "metabolites":{
@@ -18280,7 +18219,7 @@
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
-"orn__L_c":-1.0,
+"orn_c":-1.0,
 "pyr_c":-1.0
 },
 "lower_bound":-1000.0,
@@ -18302,7 +18241,7 @@
 "h_c":2.0,
 "nh4_c":-1.0
 },
-"lower_bound":0.0,
+"lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"LLMG_RS11580 or LLMG_RS11575",
 "annotation":{
@@ -18557,12 +18496,12 @@
 }
 },
 {
-"id":"CLPNS_LLA",
+"id":"CLPNS_LRE",
 "name":"Cardiolipin Synthase lactis specific ",
 "metabolites":{
-"clpn_LLA_c":0.01,
+"clpn_LRE_c":0.01,
 "glyc_c":1.0,
-"pg_LLA_c":-0.02
+"pg_LRE_c":-0.02
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -18639,12 +18578,12 @@
 }
 },
 {
-"id":"CPSS_LLA",
+"id":"CPSS_LRE",
 "name":"CPS synthase complex LLA specific",
 "metabolites":{
-"CPS_LLA_c":1.0,
-"dtdp6dm_c":-1.0,
+"CPS_LRE_c":1.0,
 "dtdp_c":1.0,
+"dtdprmn_c":-1.0,
 "h2o_c":-4.0,
 "h_c":5.0,
 "udp_c":2.0,
@@ -19213,11 +19152,11 @@
 }
 },
 {
-"id":"DAGGT_LLA",
+"id":"DAGGT_LRE",
 "name":"1 2 diacylglycerol 3 glucosyltransferase Lactis specific ",
 "metabolites":{
-"12dgr_LLA_c":-0.01,
-"d12dg_LLA_c":0.01,
+"12dgr_LRE_c":-0.01,
+"d12dg_LRE_c":0.01,
 "h_c":2.0,
 "udp_c":2.0,
 "udpg_c":-2.0
@@ -19231,14 +19170,14 @@
 }
 },
 {
-"id":"DAGK_LLA",
+"id":"DAGK_LRE",
 "name":"Diacylglycerol kinase Lactis specific ",
 "metabolites":{
-"12dgr_LLA_c":-0.01,
+"12dgr_LRE_c":-0.01,
 "adp_c":1.0,
 "atp_c":-1.0,
 "h_c":1.0,
-"pa_LLA_c":0.01
+"pa_LRE_c":0.01
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -19277,11 +19216,11 @@
 }
 },
 {
-"id":"DALTAL_LLA",
+"id":"DALTAL_LRE",
 "name":"D Alanine lipoteichoic acid ligase",
 "metabolites":{
-"LTA_LLA_c":-0.01,
-"LTAala_LLA_c":0.01,
+"LTA_LRE_c":-0.01,
+"LTAala_LRE_c":0.01,
 "adp_c":6.0,
 "ala__D_c":-6.0,
 "atp_c":-6.0,
@@ -19348,13 +19287,13 @@
 }
 },
 {
-"id":"DASYN_LLA",
+"id":"DASYN_LRE",
 "name":"CDP Diacylglycerol synthetase Lactis specific ",
 "metabolites":{
-"cdpdag_LLA_c":0.01,
+"cdpdag_LRE_c":0.01,
 "ctp_c":-1.0,
 "h_c":-1.0,
-"pa_LLA_c":-0.01,
+"pa_LRE_c":-0.01,
 "ppi_c":1.0
 },
 "lower_bound":-1000.0,
@@ -19985,10 +19924,10 @@
 }
 },
 {
-"id":"DNAS_LLA",
+"id":"DNAS_LRE",
 "name":"DNA synthesis LLA specific",
 "metabolites":{
-"DNA_LLA_c":0.01,
+"DNA_LRE_c":0.01,
 "adp_c":1.37,
 "atp_c":-1.37,
 "datp_c":-0.32,
@@ -20075,9 +20014,9 @@
 "nadph_c":-1.0,
 "pant__R_c":1.0
 },
-"lower_bound":0.0,
+"lower_bound":-1000.0,
 "upper_bound":1000.0,
-"gene_reaction_rule":"(LLMG_RS06475 or LLMG_RS05745) or (LLMG_RS05745)",
+"gene_reaction_rule":"(LLMG_RS05745) or (LLMG_RS06475 or LLMG_RS05745)",
 "annotation":{
 "biocyc":"META:2-DEHYDROPANTOATE-REDUCT-RXN",
 "ec-code":"1.1.1.169",
@@ -20574,7 +20513,7 @@
 "id":"EX_acgala_e",
 "name":"N Acetyl D galactosamine exchange",
 "metabolites":{
-"acgala_e":-1.0
+"acgal_e":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -22036,7 +21975,7 @@
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
-"ribflvRD_c":1.0,
+"rbflvrd_c":1.0,
 "ribflv_c":-1.0
 },
 "lower_bound":0.0,
@@ -22235,7 +22174,7 @@
 "id":"FTHFCL_1",
 "name":"5 formyltetrahydrofolate cyclo ligase",
 "metabolites":{
-"5fothf_c":-1.0,
+"5fthf_c":-1.0,
 "adp_c":1.0,
 "atp_c":-1.0,
 "methf_c":1.0,
@@ -22304,7 +22243,7 @@
 "id":"G1PTMT",
 "name":"Glucose 1 phosphate thymidylyltransferase",
 "metabolites":{
-"dtdpglc_c":1.0,
+"dtdpglu_c":1.0,
 "dttp_c":-1.0,
 "g1p_c":-1.0,
 "h_c":-1.0,
@@ -22670,8 +22609,8 @@
 "id":"GALTAL",
 "name":"Galactose lipoteichoic acid ligase",
 "metabolites":{
-"LTAAlaGal_LLA_c":0.01,
-"LTAala_LLA_c":-0.01,
+"LTAAlaGal_LRE_c":0.01,
+"LTAala_LRE_c":-0.01,
 "h_c":9.8,
 "udp_c":9.8,
 "udpgal_c":-9.8
@@ -22818,14 +22757,14 @@
 }
 },
 {
-"id":"GAT1_LLA",
+"id":"GAT1_LRE",
 "name":"Glycerol 3 phosphate acyltransferase Lactis specific ",
 "metabolites":{
 "2chdeacp_c":-0.03,
 "2cocdacp_c":-0.44,
 "2ctdeacp_c":-0.005,
 "acp_c":1.0,
-"agly3p_LLA_c":0.01,
+"agly3p_LRE_c":0.01,
 "cpocdacp_c":-0.13,
 "glyc3p_c":-1.0,
 "hdeacp_c":-0.295,
@@ -22953,8 +22892,8 @@
 "id":"GLCNt2ir",
 "name":"D gluconate transport via proton symport",
 "metabolites":{
-"glcn__D_c":1.0,
 "glcn__D_e":-1.0,
+"glcn_c":1.0,
 "h_c":1.0,
 "h_e":-1.0
 },
@@ -23499,7 +23438,7 @@
 "h_c":1.0,
 "h_e":-1.0
 },
-"lower_bound":0.0,
+"lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"LLMG_RS01925 or LLMG_RS01930",
 "annotation":{
@@ -23582,7 +23521,7 @@
 "6pgc_c":1.0,
 "adp_c":1.0,
 "atp_c":-1.0,
-"glcn__D_c":-1.0,
+"glcn_c":-1.0,
 "h_c":1.0
 },
 "lower_bound":0.0,
@@ -25465,12 +25404,12 @@
 }
 },
 {
-"id":"LPGS_LLA",
+"id":"LPGS_LRE",
 "name":"Lysylphosphatidyl glycerol synthetase",
 "metabolites":{
-"lyspg_LLA_c":0.01,
+"lyspg_LRE_c":0.01,
 "lystrna_c":-1.0,
-"pg_LLA_c":-0.01,
+"pg_LRE_c":-0.01,
 "trnalys_c":1.0
 },
 "lower_bound":0.0,
@@ -25482,13 +25421,13 @@
 }
 },
 {
-"id":"LTAS_LLA",
+"id":"LTAS_LRE",
 "name":"Lipoteichoic acid synthase LPL specific ",
 "metabolites":{
-"12dgr_LLA_c":0.16,
-"LTA_LLA_c":0.01,
-"d12dg_LLA_c":-0.01,
-"pg_LLA_c":-0.16
+"12dgr_LRE_c":0.16,
+"LTA_LRE_c":0.01,
+"d12dg_LRE_c":-0.01,
+"pg_LRE_c":-0.16
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -27118,7 +27057,7 @@
 "cbp_c":-1.0,
 "citr__L_c":1.0,
 "h_c":1.0,
-"orn__L_c":-1.0,
+"orn_c":-1.0,
 "pi_c":1.0
 },
 "lower_bound":-1000.0,
@@ -27330,7 +27269,7 @@
 "metabolites":{
 "h_c":1.0,
 "nh3_c":1.0,
-"orn__L_c":-1.0,
+"orn_c":-1.0,
 "pro__L_c":1.0
 },
 "lower_bound":0.0,
@@ -27348,7 +27287,7 @@
 "acglu_c":1.0,
 "acorn_c":-1.0,
 "glu__L_c":-1.0,
-"orn__L_c":1.0
+"orn_c":1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -27493,12 +27432,12 @@
 }
 },
 {
-"id":"PAP_LLA",
+"id":"PAP_LRE",
 "name":"Phosphatidic acid phosphatase",
 "metabolites":{
-"12dgr_LLA_c":0.01,
+"12dgr_LRE_c":0.01,
 "h2o_c":-1.0,
-"pa_LLA_c":-0.01,
+"pa_LRE_c":-0.01,
 "pi_c":1.0
 },
 "lower_bound":0.0,
@@ -27948,12 +27887,12 @@
 }
 },
 {
-"id":"PGPP_LLA",
+"id":"PGPP_LRE",
 "name":"Phosphatidylglycerol phosphate phosphatase Lactis specific ",
 "metabolites":{
 "h2o_c":-1.0,
-"pg_LLA_c":0.01,
-"pgp_LLA_c":-0.01,
+"pg_LRE_c":0.01,
+"pgp_LRE_c":-0.01,
 "pi_c":1.0
 },
 "lower_bound":0.0,
@@ -27965,20 +27904,50 @@
 }
 },
 {
-"id":"PGSA_LLA",
+"id":"PGSA_LRE",
 "name":"Phosphatidylglycerol synthase lactis specific ",
 "metabolites":{
-"cdpdag_LLA_c":-0.01,
+"cdpdag_LRE_c":-0.01,
 "cmp_c":1.0,
 "glyc3p_c":-1.0,
 "h_c":1.0,
-"pgp_LLA_c":0.01
+"pgp_LRE_c":0.01
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"LLMG_RS11155",
 "annotation":{
 "bigg.reaction":"PGSA_LLA",
+"sbo":"SBO:0000375"
+}
+},
+{
+"id":"PHETA1",
+"name":"",
+"metabolites":{
+"akg_c":-1.0,
+"glu__L_c":1.0,
+"phe__L_c":-1.0,
+"phpyr_c":1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(LLMG_RS06585) or (LLMG_RS00370 or LLMG_RS10105)",
+"annotation":{
+"biocyc":[
+"META:PHEAMINOTRANS-RXN",
+"META:RXN-10814"
+],
+"ec-code":[
+"2.6.1.1",
+"2.6.1.42",
+"2.6.1.5",
+"2.6.1.57",
+"2.6.1.58",
+"2.6.1.9"
+],
+"kegg.reaction":"R00694",
+"metanetx.reaction":"MNXR102631",
 "sbo":"SBO:0000375"
 }
 },
@@ -28667,10 +28636,10 @@
 }
 },
 {
-"id":"PROTS_LLA",
+"id":"PROTS_LRE",
 "name":"Protein synthesis LLA for lactis v1",
 "metabolites":{
-"PROT_LLA_c":0.001,
+"PROT_LRE_c":0.001,
 "adp_c":0.306,
 "alatrna_c":-0.086,
 "argtrna_c":-0.041,
@@ -28728,10 +28697,10 @@
 }
 },
 {
-"id":"PROTS_LLA_v2",
+"id":"PROTS_LRE_v2",
 "name":"Protein synthesis LLA for lactis v2",
 "metabolites":{
-"PROT_LLA_c":0.001,
+"PROT_LRE_c":0.001,
 "adp_c":0.306,
 "alatrna_c":-0.087,
 "argtrna_c":-0.042,
@@ -28789,10 +28758,10 @@
 }
 },
 {
-"id":"PROTS_LLA_v3",
+"id":"PROTS_LRE_v3",
 "name":"Protein synthesis LLA for lactis v3",
 "metabolites":{
-"PROT_LLA_v3_c":0.001,
+"PROT_LRE_v3_c":0.001,
 "adp_c":0.306,
 "alatrna_c":-0.087,
 "argtrna_c":-0.042,
@@ -28992,23 +28961,6 @@
 "21210",
 "21211"
 ],
-"sbo":"SBO:0000375"
-}
-},
-{
-"id":"YUMPS",
-"name":"",
-"metabolites":{
-"h2o_c":1.0,
-"psd5p_c":1.0,
-"r5p_c":-1.0,
-"ura_c":-1.0
-},
-"lower_bound":0.0,
-"upper_bound":1000.0,
-"gene_reaction_rule":"LLMG_RS02350 or LLMG_RS07220 or llmg_2518 or LLMG_RS01970 or LLMG_RS07670 or LLMG_RS12010 or LLMG_RS06045",
-"annotation":{
-"metanetx.reaction":"MNXR103310",
 "sbo":"SBO:0000375"
 }
 },
@@ -29388,7 +29340,7 @@
 "pi_c":1.0,
 "r1p_c":-1.0
 },
-"lower_bound":0.0,
+"lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"LLMG_RS05380",
 "annotation":{
@@ -29666,10 +29618,10 @@
 }
 },
 {
-"id":"RNAS_LLA",
+"id":"RNAS_LRE",
 "name":"RNA synthesis lactis specific",
 "metabolites":{
-"RNA_LLA_c":0.01,
+"RNA_LRE_c":0.01,
 "adp_c":0.4,
 "atp_c":-0.66,
 "ctp_c":-0.2,
@@ -30547,7 +30499,7 @@
 "name":"DTDP 4 dehydrorhamnose reductase",
 "metabolites":{
 "dtdp4d6dm_c":1.0,
-"dtdp6dm_c":-1.0,
+"dtdprmn_c":-1.0,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -30565,7 +30517,7 @@
 "name":"DTDPglucose 4 6 dehydratase",
 "metabolites":{
 "dtdp4d6dg_c":1.0,
-"dtdpglc_c":-1.0,
+"dtdpglu_c":-1.0,
 "h2o_c":1.0
 },
 "lower_bound":0.0,
@@ -30790,7 +30742,7 @@
 "thr__L_c":1.0,
 "thr__L_e":-1.0
 },
-"lower_bound":0.0,
+"lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"",
 "annotation":{
@@ -30967,7 +30919,7 @@
 "dump_c":-1.0,
 "mlthf_c":-1.0
 },
-"lower_bound":0.0,
+"lower_bound":-1000.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"LLMG_RS04905",
 "annotation":{
@@ -31299,6 +31251,37 @@
 "28880",
 "28881",
 "28882"
+],
+"sbo":"SBO:0000375"
+}
+},
+{
+"id":"TYRTA",
+"name":"",
+"metabolites":{
+"34hpp_c":1.0,
+"akg_c":-1.0,
+"glu__L_c":1.0,
+"tyr__L_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"(LLMG_RS06585) or (LLMG_RS00370 or LLMG_RS10105)",
+"annotation":{
+"biocyc":"META:TYROSINE-AMINOTRANSFERASE-RXN",
+"ec-code":[
+"2.6.1.1",
+"2.6.1.5",
+"2.6.1.57",
+"2.6.1.9"
+],
+"kegg.reaction":"R00734",
+"metanetx.reaction":"MNXR105000",
+"rhea":[
+"15093",
+"15094",
+"15095",
+"15096"
 ],
 "sbo":"SBO:0000375"
 }
@@ -31723,12 +31706,12 @@
 }
 },
 {
-"id":"UGT1_LLA",
+"id":"UGT1_LRE",
 "name":"UDP glucosyltransferase monoacylglycerol ",
 "metabolites":{
-"12dgr_LLA_c":-0.01,
+"12dgr_LRE_c":-0.01,
 "h_c":1.0,
-"m12dg_LLA_c":0.01,
+"m12dg_LRE_c":0.01,
 "udp_c":1.0,
 "udpg_c":-1.0
 },
@@ -31760,12 +31743,12 @@
 }
 },
 {
-"id":"UGT2_LLA",
+"id":"UGT2_LRE",
 "name":"UDP glucosyltransferase diacylglycerol ",
 "metabolites":{
-"d12dg_LLA_c":0.01,
+"d12dg_LRE_c":0.01,
 "h_c":1.0,
-"m12dg_LLA_c":-0.01,
+"m12dg_LRE_c":-0.01,
 "udp_c":1.0,
 "udpg_c":-1.0
 },
@@ -32143,6 +32126,23 @@
 "28548",
 "28549"
 ],
+"sbo":"SBO:0000375"
+}
+},
+{
+"id":"YUMPS",
+"name":"",
+"metabolites":{
+"h2o_c":1.0,
+"psd5p_c":1.0,
+"r5p_c":-1.0,
+"ura_c":-1.0
+},
+"lower_bound":-1000.0,
+"upper_bound":1000.0,
+"gene_reaction_rule":"LLMG_RS02350 or LLMG_RS07220 or llmg_2518 or LLMG_RS01970 or LLMG_RS07670 or LLMG_RS12010 or LLMG_RS06045",
+"annotation":{
+"metanetx.reaction":"MNXR103310",
 "sbo":"SBO:0000375"
 }
 },
