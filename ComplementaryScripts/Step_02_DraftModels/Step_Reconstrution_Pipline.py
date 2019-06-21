@@ -1,13 +1,22 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 # Created by lhao at 2019-02-27
-#balset pairwise and get bbh file
+
+
+"""pipeline.py
+:description : script to renconstract GEM for L reuteri
+:param : template models and seqs (standardizated) iNF517,iML1515,iBT721
+:returns: draft model : Lreu_draft_3_refined
+:rtype:
+"""
 
 import os
 import pandas as pd
 import re
 import My_def
 import cobra
+from importlib import  reload
+#reload(My_def)
 
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
@@ -73,7 +82,7 @@ def remove_sepcical_dup(Lreu_draft_3_refined):
         if rea.id.endswith('_1') or rea.id.endswith('_2'):
 
             try:
-                rea2 = Lreu_draft_3.reactions.get_by_id(re.sub('_.$','',rea.id))
+                rea2 = Lreu_draft_3_refined.reactions.get_by_id(re.sub('_.$','',rea.id))
                 if rea2.reaction == rea.reaction:
                     # keep no _1 or _2 (rea2) one
                     rea2.gene_reaction_rule = My_def.merge_model.merge_gprule(rea.gene_reaction_rule, rea2.gene_reaction_rule)
@@ -112,22 +121,25 @@ def remove_sepcical_dup(Lreu_draft_3_refined):
 
 # %% <general step: load data: seqs, template models >
 
+print('----- loading data -----')
 os.chdir('../../ComplementaryData/Step_02_DraftModels/Template/')
+os.system('cp ../../Step_01_Sequences_analysis/Lreuteri_biogaia_v03/Lreuteri_biogaia_v03.faa ../Lreuteri_biogaia_v03_2.faa')
 
-Lreu_seq = '../Lreuteri_biogaia_v03.faa'
+Lreu_seq = '../Lreuteri_biogaia_v03_2.faa'
 iNF517_seq = 'template_seqs/iNF517.faa'
-iML1515_seq = 'template_seqs/iML1515.faa'
 iBT721_seq = 'template_seqs/iBT721.faa'
+iML1515_seq = 'template_seqs/iML1515.faa'
 
 iNF517 = cobra.io.load_json_model('template_models/iNF517_standlized.json')
-iML1515 = cobra.io.load_json_model('template_models/iML1515_standlized.json')
 iBT721 = cobra.io.load_json_model('template_models/iBT721_standlized.json')
+iML1515 = cobra.io.load_json_model('template_models/iML1515_standlized.json')
 
 # %% <general step: blast and get draft models. steps details could be find in in get_Lreu_from_tp function (above)>
 
+print('----- blasting and geting draft models  -----')
 Lreu_from_iNF517 = get_Lreu_from_tp(Lreu_seq,iNF517_seq,iNF517)
-Lreu_from_iML1515 = get_Lreu_from_tp(Lreu_seq,iML1515_seq,iML1515)
 Lreu_from_iBT721 = get_Lreu_from_tp(Lreu_seq,iBT721_seq,iBT721)
+Lreu_from_iML1515 = get_Lreu_from_tp(Lreu_seq,iML1515_seq,iML1515)
 
 
 # %% <special step: process Lreu_from_iML1515 (have periplasm(_p) compartment)>
@@ -135,21 +147,26 @@ Lreu_from_iBT721 = get_Lreu_from_tp(Lreu_seq,iBT721_seq,iBT721)
 Lreu_from_iML1515 = My_def.model_refine.remove_compartment(Lreu_from_iML1515,compartment = '_p')
 
 
-# %% <general step: add 'from' notes>
+# %% <general step: add 'from' notes and save models>
 
-Lreu_from_iML1515.id = 'Lreu_from_iML1515'
 Lreu_from_iNF517.id = 'Lreu_from_iNF517'
 Lreu_from_iBT721.id = 'Lreu_from_iBT721'
+Lreu_from_iML1515.id = 'Lreu_from_iML1515'
 
 My_def.merge_model.note_model_from(Lreu_from_iNF517, ['iNF517','BBH'])
 My_def.merge_model.note_model_from(Lreu_from_iBT721, ['iBT721','BBH'])
 My_def.merge_model.note_model_from(Lreu_from_iML1515, ['iML1515','BBH'])
 
+cobra.io.save_json_model(Lreu_from_iNF517,'Lreu_from_iNF517.json',sort=True)
+cobra.io.save_json_model(Lreu_from_iBT721,'Lreu_from_iBT721.json',sort=True)
+cobra.io.save_json_model(Lreu_from_iML1515,'Lreu_from_iML1515.json',sort=True)
+
 
 # %% <general step: select a main model, iNF517>
 
+print('----- Mergeing draft models  -----')
 Lreu_draft_1 = Lreu_from_iNF517.copy()
-cobra.io.save_json_model(Lreu_draft_1,'Lreu_draft_1,json',sort='True')
+cobra.io.save_json_model(Lreu_draft_1,'Lreu_draft_1.json',sort='True')
 
 
 # %% <general step: merge models, add unique reactions from other templates, iML1515 and iBT721>
@@ -169,12 +186,14 @@ Lreu_draft_2, report_df = My_def.merge_model.merge_draftmodels(Lreu_draft_2,Lreu
 # %% <general step: add exchange transport and biomass reactions >
     # code not general, depends on template model ex tran bio reaction ids
 
+print('----- add exchange transport and biomass reactions  -----')
 Lreu_draft_2 = add_inf517_etb_rea(Lreu_draft_2,iNF517)
-cobra.io.save_json_model(Lreu_draft_2,'Lreu_draft_2,json',sort='True')
+cobra.io.save_json_model(Lreu_draft_2,'Lreu_draft_2.json',sort='True')
 
 
 # %% <general step: check iNF517 and draft model FBA results >
 
+print('----- FBA result  -----')
 Lreu_draft_3 = Lreu_draft_2.copy()
 iNF517.solver = 'cplex'
 Lreu_draft_3.solver = 'glpk'
@@ -206,13 +225,15 @@ for rea in iNF517.reactions:
 
 # %% <general step: gap fill >
 
+print('----- Gap filling  -----')
+#note, if still failed , need change other way to gap fill, such as biomass partly gapfill, check template FVA even FBA results.
 #solution_biomass = cobra.flux_analysis.gapfill(Lreu_draft_2, iNF517)
-
+#filed
 # note: need to set integer_threshold=1e-10
 solution_biomass_f = cobra.flux_analysis.gapfilling.GapFiller(Lreu_draft_3, iNF517, demand_reactions=False, integer_threshold=1e-10)
 solution_biomass = solution_biomass_f.fill(iterations=1)[0]
 biomass_gaps_set = set([i.id for i in solution_biomass])
-print('biomass gaps:',solution_biomass)
+print('biomass gaps number:',len(biomass_gaps_set))
 
 reaset = set([i.id for i in Lreu_draft_3.reactions])
 metset = set([i.id for i in Lreu_draft_3.metabolites])
@@ -225,10 +246,12 @@ for i in biomass_gaps_set :
 
 Lreu_draft_3.objective = "BIOMASS_LRE"
 print('Lreu_draft_3 Biomass:',Lreu_draft_3.optimize())
-cobra.io.save_json_model(Lreu_draft_3,'Lreu_draft_3,json',sort='True')
+cobra.io.save_json_model(Lreu_draft_3,'Lreu_draft_3.json',sort='True')
 
 
 # %% <general step: refine the model check duplications >
+
+print('----- Refine  -----')
 # case: special '_1' or '_2' in reaid compare and keep only one
 
 Lreu_draft_3_refined = Lreu_draft_3.copy()
@@ -241,7 +264,7 @@ check_df = My_def.model_refine.remove_dup_rea(Lreu_draft_3_refined, remove = Fal
 #print(check_df)
 
 check_id = list(check_df['id'])
-
+print('Duplicate reactions: ')
 for i in list(check_id):
     rea = Lreu_draft_3_refined.reactions.get_by_id(i)
     print(rea,rea.bounds,rea.gene_reaction_rule,rea.notes)
@@ -280,7 +303,7 @@ Lreu_draft_3_refined = My_def.model_refine.remove_useless_mets(Lreu_draft_3_refi
 Lreu_draft_3_refined = My_def.model_refine.remove_useless_genes(Lreu_draft_3_refined)
 
 # %% <save >
-cobra.io.save_json_model(Lreu_draft_3_refined,'Lreu_draft_3_refined,json',sort='True')
+cobra.io.save_json_model(Lreu_draft_3_refined,'Lreu_draft_3_refined.json',sort='True')
 
 
-print ('done')
+print('=====  Done =====')

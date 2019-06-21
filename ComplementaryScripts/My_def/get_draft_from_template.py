@@ -27,7 +27,7 @@ def get_draft_from_template(tp_model1, blase_result_df,remove_missing_genes = Tr
 
     for rea in tp_model.reactions:
 
-        new_gpr_i, torf = My_def.gpr2log(rea.gene_reaction_rule, tp_gene_list)
+        new_gpr_i, torf = My_def.merge_model.gpr2log(rea.gene_reaction_rule, tp_gene_list)
 
         if not remove_missing_genes:
             if 'True' in new_gpr_i:

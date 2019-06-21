@@ -9,6 +9,7 @@
 :rtype: 
 """
 import cobra
+import pandas as pd
 def remove_compartment(model1,compartment = '_p'):
 
     model = model1.copy()

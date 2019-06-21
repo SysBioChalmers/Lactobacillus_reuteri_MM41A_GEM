@@ -8,7 +8,7 @@
 :returns: 
 :rtype: 
 """
-
+# note: not finissed
 
 import cobra
 import os
