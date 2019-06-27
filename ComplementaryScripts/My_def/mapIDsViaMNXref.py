@@ -21,7 +21,8 @@ def mapIDsViaMNXref(type,queryList,fromDB,toDB,dbdir = ''):
     '''
 
     if dbdir == '':
-        dbdir = '/Users/lhao/Documents/Git/MetaNetX3.1/'
+
+        dbdir = '/Users/lhao/Box Sync/Projects/Project_Lreuteri/Lactobacillus_reuteri_MM41A_GEM/ComplementaryData/MetaNetX3.1/'
 
     if type =='rxns':
         dbfile = 'reac_xref.tsv'
