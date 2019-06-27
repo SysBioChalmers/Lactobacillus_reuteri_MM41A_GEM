@@ -2820,8 +2820,8 @@
 "gene_reaction_rule":"MBLCLPDI_00210 or lp_2349_missing or lp_0350_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -2840,8 +2840,8 @@
 "gene_reaction_rule":"MBLCLPDI_01735",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -2859,8 +2859,8 @@
 "gene_reaction_rule":"MBLCLPDI_00215",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -2880,8 +2880,8 @@
 "gene_reaction_rule":"MBLCLPDI_00350 or lp_0329_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -2902,8 +2902,8 @@
 "gene_reaction_rule":"(lp_0592_missing and (lp_0362_missing or lp_0589_missing) and lp_0590_missing and lp_0591_missing and (MBLCLPDI_00822 or lp_0854_missing)) or (MBLCLPDI_01078 and (lp_1676_missing or lp_0362_missing) and MBLCLPDI_01080 and MBLCLPDI_01079 and (MBLCLPDI_00822 or lp_0854_missing))",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -2921,8 +2921,8 @@
 "gene_reaction_rule":"(lp_2647_missing and lp_2648_missing and lp_2649_missing and lp_2650_missing) and MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -2940,8 +2940,8 @@
 "gene_reaction_rule":"(lp_2531_missing and MBLCLPDI_01476 and MBLCLPDI_00506) or (lp_2969_missing and MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -2960,8 +2960,8 @@
 "gene_reaction_rule":"MBLCLPDI_00138",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -2979,8 +2979,8 @@
 "gene_reaction_rule":"MBLCLPDI_00611 or lp_0210_missing or lp_0310_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -2998,8 +2998,8 @@
 "gene_reaction_rule":"MBLCLPDI_00139",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3017,8 +3017,8 @@
 "gene_reaction_rule":"MBLCLPDI_00138",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3037,8 +3037,8 @@
 "gene_reaction_rule":"(MBLCLPDI_01292 and MBLCLPDI_00272) or (lp_1672_missing and MBLCLPDI_00272)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3057,8 +3057,8 @@
 "gene_reaction_rule":"MBLCLPDI_00354",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3076,8 +3076,8 @@
 "gene_reaction_rule":"MBLCLPDI_00275",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3094,8 +3094,8 @@
 "gene_reaction_rule":"MBLCLPDI_01614",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3113,8 +3113,8 @@
 "gene_reaction_rule":"MBLCLPDI_01614",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3132,8 +3132,8 @@
 "gene_reaction_rule":"MBLCLPDI_01814 or lp_2825_missing or MBLCLPDI_00108",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3152,8 +3152,8 @@
 "gene_reaction_rule":"MBLCLPDI_00696",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3172,8 +3172,8 @@
 "gene_reaction_rule":"lp_1790_missing or lp_2762_missing or MBLCLPDI_00682",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3190,8 +3190,8 @@
 "gene_reaction_rule":"MBLCLPDI_00142",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "ADSL1"
@@ -3211,8 +3211,8 @@
 "gene_reaction_rule":"MBLCLPDI_00142",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "ADSL2"
@@ -3236,8 +3236,8 @@
 "gene_reaction_rule":"MBLCLPDI_00074",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3260,8 +3260,8 @@
 "gene_reaction_rule":"MBLCLPDI_00765",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3279,8 +3279,8 @@
 "gene_reaction_rule":"MBLCLPDI_00684",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3300,8 +3300,8 @@
 "gene_reaction_rule":"lp_3492_missing or lp_1072_missing or MBLCLPDI_00098",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3319,8 +3319,8 @@
 "gene_reaction_rule":"MBLCLPDI_00150",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3338,8 +3338,8 @@
 "gene_reaction_rule":"(MBLCLPDI_00141 and MBLCLPDI_00140) or (MBLCLPDI_01598 and MBLCLPDI_00140)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "AIRC"
@@ -3362,8 +3362,8 @@
 "gene_reaction_rule":"MBLCLPDI_00526",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3379,8 +3379,8 @@
 "gene_reaction_rule":"MBLCLPDI_00273",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3401,8 +3401,8 @@
 "gene_reaction_rule":"MBLCLPDI_00583",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3421,8 +3421,8 @@
 "gene_reaction_rule":"MBLCLPDI_01747 or lp_1665_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3441,8 +3441,8 @@
 "gene_reaction_rule":"MBLCLPDI_01747 or lp_1665_missing or MBLCLPDI_00350",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3461,8 +3461,8 @@
 "gene_reaction_rule":"MBLCLPDI_00695",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3478,8 +3478,8 @@
 "gene_reaction_rule":"MBLCLPDI_00529",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3495,8 +3495,8 @@
 "gene_reaction_rule":"MBLCLPDI_00532",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3513,8 +3513,8 @@
 "gene_reaction_rule":"MBLCLPDI_00820",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3535,8 +3535,8 @@
 "gene_reaction_rule":"MBLCLPDI_00819",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3557,8 +3557,8 @@
 "gene_reaction_rule":"MBLCLPDI_01405",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3578,8 +3578,8 @@
 "gene_reaction_rule":"MBLCLPDI_00700 or lp_1346_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3597,8 +3597,8 @@
 "gene_reaction_rule":"MBLCLPDI_02065",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3621,8 +3621,8 @@
 "gene_reaction_rule":"MBLCLPDI_02103 or lp_3085_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3643,8 +3643,8 @@
 "gene_reaction_rule":"MBLCLPDI_02050",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3665,8 +3665,8 @@
 "gene_reaction_rule":"MBLCLPDI_02051 or lp_0956_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3685,8 +3685,8 @@
 "gene_reaction_rule":"MBLCLPDI_00129",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3704,8 +3704,8 @@
 "gene_reaction_rule":"lp_0979_missing or MBLCLPDI_00693",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3721,8 +3721,8 @@
 "gene_reaction_rule":"MBLCLPDI_00308",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3743,8 +3743,8 @@
 "gene_reaction_rule":"MBLCLPDI_00812",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3764,8 +3764,8 @@
 "gene_reaction_rule":"lp_2363_missing and MBLCLPDI_00516 and MBLCLPDI_00515 and MBLCLPDI_00514 and MBLCLPDI_00513 and lp_2368_missing and lp_2369_missing and MBLCLPDI_00510",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3784,8 +3784,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3808,8 +3808,8 @@
 "gene_reaction_rule":"(MBLCLPDI_00090 and MBLCLPDI_00091) or (lp_0526_missing and lp_0527_missing)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3828,8 +3828,8 @@
 "gene_reaction_rule":"MBLCLPDI_00233",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3847,8 +3847,8 @@
 "gene_reaction_rule":"(((lp_3008_missing and lp_3009_missing and lp_3010_missing) or (lp_2780_missing and lp_2781_missing)) and MBLCLPDI_01476 and MBLCLPDI_00506) or (MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3867,8 +3867,8 @@
 "gene_reaction_rule":"MBLCLPDI_00135 or lp_1696_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3889,8 +3889,8 @@
 "gene_reaction_rule":"(lp_0367_missing and lp_0368_missing) or (MBLCLPDI_00202 and MBLCLPDI_00201 and lp_1609_missing and lp_1610_missing)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3907,8 +3907,8 @@
 "gene_reaction_rule":"MBLCLPDI_00053",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3926,8 +3926,8 @@
 "gene_reaction_rule":"MBLCLPDI_02076",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3950,8 +3950,8 @@
 "gene_reaction_rule":"(lp_1177_missing and lp_1178_missing and MBLCLPDI_01521 and MBLCLPDI_01527 and lp_1181_missing and lp_1182_missing and lp_1183_missing and lp_1184_missing and lp_1185_missing) or (lp_1197_missing and lp_1198_missing and MBLCLPDI_01162 and lp_1201_missing and lp_1202_missing and lp_1203_missing and lp_1204_missing and lp_1205_missing and lp_1206_missing) or (lp_1215_missing and lp_1216_missing and lp_1220_missing and lp_1221_missing and lp_1222_missing and lp_1224_missing and lp_1225_missing and lp_1226_missing and lp_1227_missing) or (lp_2099_missing and lp_2100_missing and lp_2101_missing and lp_2102_missing and lp_2103_missing and lp_2104_missing and lp_2106_missing and lp_2107_missing and lp_2108_missing)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3974,8 +3974,8 @@
 "gene_reaction_rule":"(lp_1177_missing and lp_1178_missing and MBLCLPDI_01521 and MBLCLPDI_01527 and lp_1181_missing and lp_1182_missing and lp_1183_missing and lp_1184_missing and lp_1185_missing) or (lp_1197_missing and lp_1198_missing and MBLCLPDI_01162 and lp_1201_missing and lp_1202_missing and lp_1203_missing and lp_1204_missing and lp_1205_missing and lp_1206_missing) or (lp_1215_missing and lp_1216_missing and lp_1220_missing and lp_1221_missing and lp_1222_missing and lp_1224_missing and lp_1225_missing and lp_1226_missing and lp_1227_missing) or (lp_2099_missing and lp_2100_missing and lp_2101_missing and lp_2102_missing and lp_2103_missing and lp_2104_missing and lp_2106_missing and lp_2107_missing and lp_2108_missing)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -3994,8 +3994,8 @@
 "gene_reaction_rule":"MBLCLPDI_00354",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4013,8 +4013,8 @@
 "gene_reaction_rule":"MBLCLPDI_00275",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4035,8 +4035,8 @@
 "gene_reaction_rule":"MBLCLPDI_00248",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4059,8 +4059,8 @@
 "gene_reaction_rule":"MBLCLPDI_00248",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4079,8 +4079,8 @@
 "gene_reaction_rule":"MBLCLPDI_01711",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4099,8 +4099,8 @@
 "gene_reaction_rule":"lp_3517_missing or MBLCLPDI_00320",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4119,8 +4119,8 @@
 "gene_reaction_rule":"MBLCLPDI_00320 or lp_3517_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4141,8 +4141,8 @@
 "gene_reaction_rule":"MBLCLPDI_00330",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4162,8 +4162,8 @@
 "gene_reaction_rule":"(MBLCLPDI_00555 and MBLCLPDI_00556) and MBLCLPDI_00557 and MBLCLPDI_00558",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4182,8 +4182,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4202,8 +4202,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4221,8 +4221,8 @@
 "gene_reaction_rule":"MBLCLPDI_00850",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4240,8 +4240,8 @@
 "gene_reaction_rule":"MBLCLPDI_00850",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4260,8 +4260,8 @@
 "gene_reaction_rule":"MBLCLPDI_01425 or MBLCLPDI_01655",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4280,8 +4280,8 @@
 "gene_reaction_rule":"MBLCLPDI_01474 and MBLCLPDI_01473",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4301,8 +4301,8 @@
 "gene_reaction_rule":"(MBLCLPDI_00270 and MBLCLPDI_00269 and lp_2017_missing and MBLCLPDI_00267) or (MBLCLPDI_00270 and MBLCLPDI_00269 and lp_1406_missing and MBLCLPDI_00267)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4320,8 +4320,8 @@
 "gene_reaction_rule":"MBLCLPDI_00694",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4337,8 +4337,8 @@
 "gene_reaction_rule":"MBLCLPDI_00692",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4358,8 +4358,8 @@
 "gene_reaction_rule":"(MBLCLPDI_00270 and MBLCLPDI_00269 and lp_2017_missing and MBLCLPDI_00267) or (MBLCLPDI_00270 and MBLCLPDI_00269 and lp_1406_missing and MBLCLPDI_00267)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4378,8 +4378,8 @@
 "gene_reaction_rule":"MBLCLPDI_00776",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4397,8 +4397,8 @@
 "gene_reaction_rule":"MBLCLPDI_00966",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4417,8 +4417,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4437,8 +4437,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4457,8 +4457,8 @@
 "gene_reaction_rule":"MBLCLPDI_01655 or MBLCLPDI_01425",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4476,8 +4476,8 @@
 "gene_reaction_rule":"((lp_0166_missing and lp_0169_missing) and lp_0170_missing and MBLCLPDI_01476 and MBLCLPDI_00506) or ((lp_0168_missing and lp_0169_missing) and lp_0170_missing and MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4493,8 +4493,8 @@
 "gene_reaction_rule":"MBLCLPDI_01908",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4513,8 +4513,8 @@
 "gene_reaction_rule":"MBLCLPDI_00698",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4533,8 +4533,8 @@
 "gene_reaction_rule":"MBLCLPDI_00697 or lp_2685_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4553,8 +4553,8 @@
 "gene_reaction_rule":"MBLCLPDI_00858",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4575,8 +4575,8 @@
 "gene_reaction_rule":"MBLCLPDI_01413 or MBLCLPDI_00560",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4593,8 +4593,8 @@
 "gene_reaction_rule":"MBLCLPDI_01416",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4613,8 +4613,8 @@
 "gene_reaction_rule":"MBLCLPDI_00131",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4632,8 +4632,8 @@
 "gene_reaction_rule":"MBLCLPDI_00130",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4651,8 +4651,8 @@
 "gene_reaction_rule":"MBLCLPDI_01411",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4670,8 +4670,8 @@
 "gene_reaction_rule":"MBLCLPDI_01655 or MBLCLPDI_01425",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4689,8 +4689,8 @@
 "gene_reaction_rule":"MBLCLPDI_01313",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4708,8 +4708,8 @@
 "gene_reaction_rule":"MBLCLPDI_01412",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4728,8 +4728,8 @@
 "gene_reaction_rule":"MBLCLPDI_01380",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4749,8 +4749,8 @@
 "gene_reaction_rule":"MBLCLPDI_01001",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4769,8 +4769,8 @@
 "gene_reaction_rule":"lp_2532_missing or MBLCLPDI_02031",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4789,8 +4789,8 @@
 "gene_reaction_rule":"lp_0500_missing or MBLCLPDI_01422 or lp_3660_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4808,8 +4808,8 @@
 "gene_reaction_rule":"MBLCLPDI_00447",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4826,8 +4826,8 @@
 "gene_reaction_rule":"MBLCLPDI_00117",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4845,8 +4845,8 @@
 "gene_reaction_rule":"MBLCLPDI_00359",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4865,8 +4865,8 @@
 "gene_reaction_rule":"MBLCLPDI_00500",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4885,8 +4885,8 @@
 "gene_reaction_rule":"MBLCLPDI_00327",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4905,8 +4905,8 @@
 "gene_reaction_rule":"MBLCLPDI_01045",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4923,8 +4923,8 @@
 "gene_reaction_rule":"MBLCLPDI_00429 or lp_1920_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4942,8 +4942,8 @@
 "gene_reaction_rule":"lp_0841_missing or MBLCLPDI_00222 or MBLCLPDI_00365",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4960,8 +4960,8 @@
 "gene_reaction_rule":"MBLCLPDI_00256",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4980,8 +4980,8 @@
 "gene_reaction_rule":"MBLCLPDI_01718",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -4999,8 +4999,8 @@
 "gene_reaction_rule":"MBLCLPDI_01359 or MBLCLPDI_00712",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5019,8 +5019,8 @@
 "gene_reaction_rule":"MBLCLPDI_00787 or lp_0850_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5038,8 +5038,8 @@
 "gene_reaction_rule":"lp_2097_missing and MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5058,8 +5058,8 @@
 "gene_reaction_rule":"MBLCLPDI_01344",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5079,8 +5079,8 @@
 "gene_reaction_rule":"MBLCLPDI_00137",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "FTHFL"
@@ -5101,8 +5101,8 @@
 "gene_reaction_rule":"MBLCLPDI_00447",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5119,8 +5119,8 @@
 "gene_reaction_rule":"MBLCLPDI_01689",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5139,8 +5139,8 @@
 "gene_reaction_rule":"MBLCLPDI_00238",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5159,8 +5159,8 @@
 "gene_reaction_rule":"MBLCLPDI_00402",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5180,8 +5180,8 @@
 "gene_reaction_rule":"MBLCLPDI_00375",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5199,8 +5199,8 @@
 "gene_reaction_rule":"MBLCLPDI_01155",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5219,8 +5219,8 @@
 "gene_reaction_rule":"MBLCLPDI_01921",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5236,8 +5236,8 @@
 "gene_reaction_rule":"MBLCLPDI_00462",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5256,8 +5256,8 @@
 "gene_reaction_rule":"MBLCLPDI_01933",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5273,8 +5273,8 @@
 "gene_reaction_rule":"lp_1731_missing or MBLCLPDI_01697 or lp_0826_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5292,8 +5292,8 @@
 "gene_reaction_rule":"MBLCLPDI_00997",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5312,8 +5312,8 @@
 "gene_reaction_rule":"MBLCLPDI_01932",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5331,8 +5331,8 @@
 "gene_reaction_rule":"((lp_3599_missing and lp_3600_missing and lp_3601_missing) or (MBLCLPDI_01827 and lp_3547_missing and lp_3548_missing)) and MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5351,8 +5351,8 @@
 "gene_reaction_rule":"MBLCLPDI_00403",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "GALU"
@@ -5375,8 +5375,8 @@
 "gene_reaction_rule":"MBLCLPDI_00426",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5395,8 +5395,8 @@
 "gene_reaction_rule":"MBLCLPDI_00149",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5414,8 +5414,8 @@
 "gene_reaction_rule":"MBLCLPDI_00451",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5434,8 +5434,8 @@
 "gene_reaction_rule":"MBLCLPDI_00504",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5453,8 +5453,8 @@
 "gene_reaction_rule":"MBLCLPDI_01308 or MBLCLPDI_01794",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5472,8 +5472,8 @@
 "gene_reaction_rule":"MBLCLPDI_01308 or MBLCLPDI_01794",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5491,8 +5491,8 @@
 "gene_reaction_rule":"MBLCLPDI_00884",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "GLCNt2"
@@ -5513,8 +5513,8 @@
 "gene_reaction_rule":"(lp_2531_missing and MBLCLPDI_01476 and MBLCLPDI_00506) or ((lp_3520_missing and lp_3522_missing) and MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5535,8 +5535,8 @@
 "gene_reaction_rule":"MBLCLPDI_01337",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5559,8 +5559,8 @@
 "gene_reaction_rule":"MBLCLPDI_01593 and MBLCLPDI_01592 and MBLCLPDI_01594",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5581,8 +5581,8 @@
 "gene_reaction_rule":"(MBLCLPDI_00104 and MBLCLPDI_00105) or (MBLCLPDI_00567 and MBLCLPDI_00566 and MBLCLPDI_00565) or (MBLCLPDI_00814 and MBLCLPDI_00815) or (MBLCLPDI_01668 and MBLCLPDI_01669 and MBLCLPDI_01670 and MBLCLPDI_01671)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5601,8 +5601,8 @@
 "gene_reaction_rule":"lp_2498_missing or MBLCLPDI_00086 or lp_2844_missing or MBLCLPDI_00085 or lp_1311_missing or lp_1299_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5620,8 +5620,8 @@
 "gene_reaction_rule":"MBLCLPDI_00376",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5642,8 +5642,8 @@
 "gene_reaction_rule":"MBLCLPDI_00066 or lp_2324_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5663,8 +5663,8 @@
 "gene_reaction_rule":"MBLCLPDI_00147",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5680,8 +5680,8 @@
 "gene_reaction_rule":"MBLCLPDI_00591",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5702,8 +5702,8 @@
 "gene_reaction_rule":"MBLCLPDI_01336",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5721,8 +5721,8 @@
 "gene_reaction_rule":"MBLCLPDI_01927",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "GLUt2"
@@ -5746,8 +5746,8 @@
 "gene_reaction_rule":"(lp_0367_missing and lp_0368_missing) or (MBLCLPDI_00202 and MBLCLPDI_00201 and lp_1609_missing and lp_1610_missing)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5766,8 +5766,8 @@
 "gene_reaction_rule":"MBLCLPDI_00704",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5786,8 +5786,8 @@
 "gene_reaction_rule":"lp_0834_missing or MBLCLPDI_01192",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5808,8 +5808,8 @@
 "gene_reaction_rule":"MBLCLPDI_00829 and MBLCLPDI_00828",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5829,8 +5829,8 @@
 "gene_reaction_rule":"MBLCLPDI_00073",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5853,8 +5853,8 @@
 "gene_reaction_rule":"MBLCLPDI_01772",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5873,8 +5873,8 @@
 "gene_reaction_rule":"MBLCLPDI_01922 or lp_1251_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5893,8 +5893,8 @@
 "gene_reaction_rule":"MBLCLPDI_00882",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5912,8 +5912,8 @@
 "gene_reaction_rule":"MBLCLPDI_01814 or lp_2825_missing or MBLCLPDI_00108",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5932,8 +5932,8 @@
 "gene_reaction_rule":"lp_2344_missing or lp_1328_missing or MBLCLPDI_00070 or lp_1578_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5952,8 +5952,8 @@
 "gene_reaction_rule":"lp_2344_missing or lp_1328_missing or MBLCLPDI_00070 or lp_1578_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5972,8 +5972,8 @@
 "gene_reaction_rule":"lp_2344_missing or lp_1328_missing or MBLCLPDI_00070 or lp_1578_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -5992,8 +5992,8 @@
 "gene_reaction_rule":"lp_2344_missing or lp_1328_missing or MBLCLPDI_00070 or lp_1578_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6012,8 +6012,8 @@
 "gene_reaction_rule":"lp_2344_missing or lp_1328_missing or MBLCLPDI_00070 or lp_1578_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6032,8 +6032,8 @@
 "gene_reaction_rule":"lp_1372_missing or MBLCLPDI_01537 or lp_2989_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6051,8 +6051,8 @@
 "gene_reaction_rule":"MBLCLPDI_01313",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6071,8 +6071,8 @@
 "gene_reaction_rule":"lp_0369_missing or MBLCLPDI_01561 or lp_1253_missing or lp_1822_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "GTHRD"
@@ -6096,8 +6096,8 @@
 "gene_reaction_rule":"MBLCLPDI_00066",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6116,8 +6116,8 @@
 "gene_reaction_rule":"MBLCLPDI_01414",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6136,8 +6136,8 @@
 "gene_reaction_rule":"lp_0293_missing or MBLCLPDI_00648 or MBLCLPDI_00809",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6155,8 +6155,8 @@
 "gene_reaction_rule":"MBLCLPDI_00285",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6174,8 +6174,8 @@
 "gene_reaction_rule":"MBLCLPDI_00275 or MBLCLPDI_00549",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "GUAt2"
@@ -6195,8 +6195,8 @@
 "gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6215,8 +6215,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6235,8 +6235,8 @@
 "gene_reaction_rule":"MBLCLPDI_01170",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6253,8 +6253,8 @@
 "gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6273,8 +6273,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6291,8 +6291,8 @@
 "gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6311,8 +6311,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6331,8 +6331,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6351,8 +6351,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6371,8 +6371,8 @@
 "gene_reaction_rule":"MBLCLPDI_01138",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6391,8 +6391,8 @@
 "gene_reaction_rule":"MBLCLPDI_01341",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6409,8 +6409,8 @@
 "gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6429,8 +6429,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6447,8 +6447,8 @@
 "gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6467,8 +6467,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6489,8 +6489,8 @@
 "gene_reaction_rule":"lp_2561_missing or MBLCLPDI_02010",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6510,8 +6510,8 @@
 "gene_reaction_rule":"MBLCLPDI_00223",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6531,8 +6531,8 @@
 "gene_reaction_rule":"MBLCLPDI_00761",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6551,8 +6551,8 @@
 "gene_reaction_rule":"MBLCLPDI_01139",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6569,8 +6569,8 @@
 "gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6589,8 +6589,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6607,8 +6607,8 @@
 "gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6627,8 +6627,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6647,8 +6647,8 @@
 "gene_reaction_rule":"MBLCLPDI_01415",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6666,8 +6666,8 @@
 "gene_reaction_rule":"MBLCLPDI_01947",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6684,8 +6684,8 @@
 "gene_reaction_rule":"lp_1677_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6704,8 +6704,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6723,8 +6723,8 @@
 "gene_reaction_rule":"MBLCLPDI_00549",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "HXANt2"
@@ -6745,8 +6745,8 @@
 "gene_reaction_rule":"MBLCLPDI_00285",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6767,8 +6767,8 @@
 "gene_reaction_rule":"MBLCLPDI_00680",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6786,8 +6786,8 @@
 "gene_reaction_rule":"MBLCLPDI_00125 or lp_0399_missing or lp_2213_missing or MBLCLPDI_01967",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6804,8 +6804,8 @@
 "gene_reaction_rule":"MBLCLPDI_00150",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6825,8 +6825,8 @@
 "gene_reaction_rule":"MBLCLPDI_00122",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6844,8 +6844,8 @@
 "gene_reaction_rule":"MBLCLPDI_01814 or lp_2825_missing or MBLCLPDI_00108",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6861,8 +6861,8 @@
 "gene_reaction_rule":"MBLCLPDI_00999",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6881,8 +6881,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "CYTDK3"
@@ -6903,8 +6903,8 @@
 "gene_reaction_rule":"MBLCLPDI_00315 and MBLCLPDI_00316",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6923,8 +6923,8 @@
 "gene_reaction_rule":"MBLCLPDI_01848",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6943,8 +6943,8 @@
 "gene_reaction_rule":"MBLCLPDI_01407 or MBLCLPDI_00803",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6965,8 +6965,8 @@
 "gene_reaction_rule":"MBLCLPDI_01432",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -6984,8 +6984,8 @@
 "gene_reaction_rule":"MBLCLPDI_00125 or lp_0399_missing or lp_2213_missing or MBLCLPDI_01967",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7003,8 +7003,8 @@
 "gene_reaction_rule":"MBLCLPDI_01680",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7025,8 +7025,8 @@
 "gene_reaction_rule":"MBLCLPDI_00289",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7044,8 +7044,8 @@
 "gene_reaction_rule":"MBLCLPDI_01657",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7063,8 +7063,8 @@
 "gene_reaction_rule":"MBLCLPDI_01085",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7082,8 +7082,8 @@
 "gene_reaction_rule":"MBLCLPDI_01690",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7101,8 +7101,8 @@
 "gene_reaction_rule":"lp_2550_missing or lp_2878_missing or MBLCLPDI_00533",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "MALTAT"
@@ -7123,8 +7123,8 @@
 "gene_reaction_rule":"MBLCLPDI_00058",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7142,8 +7142,8 @@
 "gene_reaction_rule":"MBLCLPDI_02079 or lp_1119_missing or lp_0594_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7159,8 +7159,8 @@
 "gene_reaction_rule":"MBLCLPDI_01733",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7178,8 +7178,8 @@
 "gene_reaction_rule":"((lp_0576_missing and lp_0577_missing and lp_0586_missing and lp_0587_missing) or (lp_0575_missing and lp_0576_missing and lp_0577_missing)) and MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7199,8 +7199,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7220,8 +7220,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7241,8 +7241,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7262,8 +7262,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7283,8 +7283,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7304,8 +7304,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7325,8 +7325,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7344,8 +7344,8 @@
 "gene_reaction_rule":"MBLCLPDI_01924",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7365,8 +7365,8 @@
 "gene_reaction_rule":"MBLCLPDI_01433",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7387,8 +7387,8 @@
 "gene_reaction_rule":"MBLCLPDI_00228",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7407,8 +7407,8 @@
 "gene_reaction_rule":"MBLCLPDI_01002",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7428,8 +7428,8 @@
 "gene_reaction_rule":"MBLCLPDI_01108 and MBLCLPDI_01107",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7447,8 +7447,8 @@
 "gene_reaction_rule":"MBLCLPDI_00718",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7466,8 +7466,8 @@
 "gene_reaction_rule":"MBLCLPDI_00059 or lp_0028_missing or lp_1730_missing or lp_3530_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7485,8 +7485,8 @@
 "gene_reaction_rule":"((lp_0230_missing and lp_0232_missing) and MBLCLPDI_01476 and MBLCLPDI_00506) or (MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7508,8 +7508,8 @@
 "gene_reaction_rule":"(lp_1479_missing and MBLCLPDI_01104 and (MBLCLPDI_00553 and MBLCLPDI_00552)) or ((MBLCLPDI_00686 and MBLCLPDI_00685) and lp_1479_missing and MBLCLPDI_01104)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7525,8 +7525,8 @@
 "gene_reaction_rule":"MBLCLPDI_01106",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7546,8 +7546,8 @@
 "gene_reaction_rule":"lp_1479_missing and MBLCLPDI_01117",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7565,8 +7565,8 @@
 "gene_reaction_rule":"MBLCLPDI_00684",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7584,8 +7584,8 @@
 "gene_reaction_rule":"MBLCLPDI_01316",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7603,8 +7603,8 @@
 "gene_reaction_rule":"MBLCLPDI_01316",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7623,8 +7623,8 @@
 "gene_reaction_rule":"MBLCLPDI_00559 or lp_1069_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7643,8 +7643,8 @@
 "gene_reaction_rule":"MBLCLPDI_00649",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7665,8 +7665,8 @@
 "gene_reaction_rule":"MBLCLPDI_00311",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7685,8 +7685,8 @@
 "gene_reaction_rule":"MBLCLPDI_00168 or MBLCLPDI_00310",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7704,8 +7704,8 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7723,8 +7723,8 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7742,8 +7742,8 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7761,8 +7761,8 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7780,8 +7780,8 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7799,8 +7799,8 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7818,8 +7818,8 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7837,8 +7837,8 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7856,8 +7856,8 @@
 "gene_reaction_rule":"MBLCLPDI_00219",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7873,8 +7873,8 @@
 "gene_reaction_rule":"MBLCLPDI_01562",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7892,8 +7892,8 @@
 "gene_reaction_rule":"MBLCLPDI_00169",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "NNAMr"
@@ -7915,8 +7915,8 @@
 "gene_reaction_rule":"MBLCLPDI_01370",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "NNAT"
@@ -7937,8 +7937,8 @@
 "gene_reaction_rule":"MBLCLPDI_01115",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -7957,8 +7957,8 @@
 "gene_reaction_rule":"lp_0760_missing or lp_0766_missing or lp_1925_missing or lp_1941_missing or MBLCLPDI_00072 or lp_1350_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "NOX1"
@@ -7980,8 +7980,8 @@
 "gene_reaction_rule":"lp_0760_missing or lp_0766_missing or lp_1925_missing or lp_1941_missing or MBLCLPDI_00072 or lp_1350_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8001,8 +8001,8 @@
 "gene_reaction_rule":"MBLCLPDI_01103 and MBLCLPDI_01102 and MBLCLPDI_01101 and MBLCLPDI_01100",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8022,8 +8022,8 @@
 "gene_reaction_rule":"MBLCLPDI_01103 and MBLCLPDI_01102 and MBLCLPDI_01101 and MBLCLPDI_01100",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8042,8 +8042,8 @@
 "gene_reaction_rule":"MBLCLPDI_00468",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8062,8 +8062,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8082,8 +8082,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8101,8 +8101,8 @@
 "gene_reaction_rule":"MBLCLPDI_00132",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8120,8 +8120,8 @@
 "gene_reaction_rule":"MBLCLPDI_00133",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8140,8 +8140,8 @@
 "gene_reaction_rule":"MBLCLPDI_00374",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8159,8 +8159,8 @@
 "gene_reaction_rule":"MBLCLPDI_00670",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8180,8 +8180,8 @@
 "gene_reaction_rule":"(MBLCLPDI_00714 and MBLCLPDI_00713) and MBLCLPDI_00715 and MBLCLPDI_00716",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8197,8 +8197,8 @@
 "gene_reaction_rule":"MBLCLPDI_00450",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8215,8 +8215,8 @@
 "gene_reaction_rule":"(MBLCLPDI_01007 and MBLCLPDI_01404 and MBLCLPDI_00669) or (MBLCLPDI_01007 and MBLCLPDI_01404 and MBLCLPDI_01346)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8232,8 +8232,8 @@
 "gene_reaction_rule":"MBLCLPDI_00462",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8251,8 +8251,8 @@
 "gene_reaction_rule":"MBLCLPDI_00427",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8270,8 +8270,8 @@
 "gene_reaction_rule":"MBLCLPDI_00660",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8287,8 +8287,8 @@
 "gene_reaction_rule":"MBLCLPDI_01886 or lp_0900_missing or MBLCLPDI_01997 or lp_1785_missing or MBLCLPDI_00688 or lp_2785_missing or lp_2868_missing or MBLCLPDI_00152 or MBLCLPDI_00318",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8304,8 +8304,8 @@
 "gene_reaction_rule":"MBLCLPDI_00411",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8321,8 +8321,8 @@
 "gene_reaction_rule":"MBLCLPDI_00060 or lp_0066_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8341,8 +8341,8 @@
 "gene_reaction_rule":"MBLCLPDI_00571",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8360,8 +8360,8 @@
 "gene_reaction_rule":"MBLCLPDI_00048 or lp_2684_missing or lp_1739_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8382,8 +8382,8 @@
 "gene_reaction_rule":"MBLCLPDI_01353 and MBLCLPDI_01352",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8403,8 +8403,8 @@
 "gene_reaction_rule":"lp_0733_missing and MBLCLPDI_01726 and MBLCLPDI_01725 and MBLCLPDI_01724 and MBLCLPDI_01723 and lp_0750_missing and MBLCLPDI_01722",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8423,8 +8423,8 @@
 "gene_reaction_rule":"MBLCLPDI_01842 and lp_3551_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8440,8 +8440,8 @@
 "gene_reaction_rule":"MBLCLPDI_00411",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8459,8 +8459,8 @@
 "gene_reaction_rule":"MBLCLPDI_01000",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8478,8 +8478,8 @@
 "gene_reaction_rule":"MBLCLPDI_01139",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8498,8 +8498,8 @@
 "gene_reaction_rule":"MBLCLPDI_01775",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8517,8 +8517,8 @@
 "gene_reaction_rule":"MBLCLPDI_00873",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8536,8 +8536,8 @@
 "gene_reaction_rule":"MBLCLPDI_01306",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8555,8 +8555,8 @@
 "gene_reaction_rule":"MBLCLPDI_00366",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8575,8 +8575,8 @@
 "gene_reaction_rule":"MBLCLPDI_00032",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8597,8 +8597,8 @@
 "gene_reaction_rule":"MBLCLPDI_01306",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8619,8 +8619,8 @@
 "gene_reaction_rule":"MBLCLPDI_00151",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "PRAGS"
@@ -8643,8 +8643,8 @@
 "gene_reaction_rule":"MBLCLPDI_00148",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8665,8 +8665,8 @@
 "gene_reaction_rule":"MBLCLPDI_00143",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "PRASCS"
@@ -8692,8 +8692,8 @@
 "gene_reaction_rule":"MBLCLPDI_00146 and MBLCLPDI_00145 and lp_2726_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8714,8 +8714,8 @@
 "gene_reaction_rule":"MBLCLPDI_00778",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8734,8 +8734,8 @@
 "gene_reaction_rule":"MBLCLPDI_00239 or MBLCLPDI_00691",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8753,8 +8753,8 @@
 "gene_reaction_rule":"MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_01678 or lp_1319_missing or MBLCLPDI_00786 or MBLCLPDI_00650",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8772,8 +8772,8 @@
 "gene_reaction_rule":"MBLCLPDI_00439",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8792,8 +8792,8 @@
 "gene_reaction_rule":"MBLCLPDI_00723",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "PTPAT"
@@ -8817,8 +8817,8 @@
 "gene_reaction_rule":"MBLCLPDI_01802 and MBLCLPDI_01801 and MBLCLPDI_01800 and MBLCLPDI_01799",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8837,8 +8837,8 @@
 "gene_reaction_rule":"MBLCLPDI_00839",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8855,8 +8855,8 @@
 "gene_reaction_rule":"lp_1480_missing and lp_1492_missing and MBLCLPDI_01105",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8874,8 +8874,8 @@
 "gene_reaction_rule":"MBLCLPDI_00997",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8894,8 +8894,8 @@
 "gene_reaction_rule":"lp_0850_missing or MBLCLPDI_00787",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8914,8 +8914,8 @@
 "gene_reaction_rule":"lp_3660_missing or lp_0500_missing or MBLCLPDI_01422",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8934,8 +8934,8 @@
 "gene_reaction_rule":"MBLCLPDI_00530",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8954,8 +8954,8 @@
 "gene_reaction_rule":"MBLCLPDI_00530",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8971,8 +8971,8 @@
 "gene_reaction_rule":"MBLCLPDI_00531",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -8991,8 +8991,8 @@
 "gene_reaction_rule":"MBLCLPDI_00351 and MBLCLPDI_00352",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9011,8 +9011,8 @@
 "gene_reaction_rule":"MBLCLPDI_00351 and MBLCLPDI_00352",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9031,8 +9031,8 @@
 "gene_reaction_rule":"MBLCLPDI_00351 and MBLCLPDI_00352",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9051,8 +9051,8 @@
 "gene_reaction_rule":"MBLCLPDI_00351 and MBLCLPDI_00352",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9071,8 +9071,8 @@
 "gene_reaction_rule":"MBLCLPDI_01918 or MBLCLPDI_01454",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9091,8 +9091,8 @@
 "gene_reaction_rule":"MBLCLPDI_01918 or MBLCLPDI_01454",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9111,8 +9111,8 @@
 "gene_reaction_rule":"MBLCLPDI_01918 or MBLCLPDI_01454",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9131,8 +9131,8 @@
 "gene_reaction_rule":"MBLCLPDI_01918 or MBLCLPDI_01454",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9148,8 +9148,8 @@
 "gene_reaction_rule":"MBLCLPDI_01299",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9165,8 +9165,8 @@
 "gene_reaction_rule":"lp_0354_missing or MBLCLPDI_00325",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9185,8 +9185,8 @@
 "gene_reaction_rule":"MBLCLPDI_02022",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9205,8 +9205,8 @@
 "gene_reaction_rule":"MBLCLPDI_02022",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "SBTD_D"
@@ -9228,8 +9228,8 @@
 "gene_reaction_rule":"MBLCLPDI_02022",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9247,8 +9247,8 @@
 "gene_reaction_rule":"((lp_3652_missing and lp_3653_missing and lp_3654_missing) or (lp_3618_missing and lp_3619_missing and lp_3620_missing)) and MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9266,8 +9266,8 @@
 "gene_reaction_rule":"MBLCLPDI_00408 or lp_1923_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9285,8 +9285,8 @@
 "gene_reaction_rule":"MBLCLPDI_00378",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9303,8 +9303,8 @@
 "gene_reaction_rule":"MBLCLPDI_01201 and MBLCLPDI_01200",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9325,8 +9325,8 @@
 "gene_reaction_rule":"MBLCLPDI_00103 or lp_0501_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9347,8 +9347,8 @@
 "gene_reaction_rule":"MBLCLPDI_01802 and MBLCLPDI_01801 and MBLCLPDI_01800 and MBLCLPDI_01799",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9368,8 +9368,8 @@
 "gene_reaction_rule":"MBLCLPDI_00036",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9389,8 +9389,8 @@
 "gene_reaction_rule":"MBLCLPDI_00036",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9408,8 +9408,8 @@
 "gene_reaction_rule":"((lp_0185_missing or lp_3219_missing) and MBLCLPDI_01476 and MBLCLPDI_00506) or ((lp_3520_missing and lp_3522_missing) and MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9428,8 +9428,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9448,8 +9448,8 @@
 "gene_reaction_rule":"MBLCLPDI_01180",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9466,8 +9466,8 @@
 "gene_reaction_rule":"MBLCLPDI_01181",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9486,8 +9486,8 @@
 "gene_reaction_rule":"MBLCLPDI_00695",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9508,8 +9508,8 @@
 "gene_reaction_rule":"MBLCLPDI_01413 or MBLCLPDI_00560",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9527,8 +9527,8 @@
 "gene_reaction_rule":"MBLCLPDI_00107",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9549,8 +9549,8 @@
 "gene_reaction_rule":"MBLCLPDI_02025",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9569,8 +9569,8 @@
 "gene_reaction_rule":"MBLCLPDI_00500",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9589,8 +9589,8 @@
 "gene_reaction_rule":"MBLCLPDI_00500",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9609,8 +9609,8 @@
 "gene_reaction_rule":"MBLCLPDI_01298",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9628,8 +9628,8 @@
 "gene_reaction_rule":"MBLCLPDI_00857",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9648,8 +9648,8 @@
 "gene_reaction_rule":"MBLCLPDI_01140",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9665,8 +9665,8 @@
 "gene_reaction_rule":"MBLCLPDI_00428",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9685,8 +9685,8 @@
 "gene_reaction_rule":"MBLCLPDI_01813 or MBLCLPDI_00407",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9704,8 +9704,8 @@
 "gene_reaction_rule":"(lp_0264_missing and lp_0265_missing) and MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9723,8 +9723,8 @@
 "gene_reaction_rule":"MBLCLPDI_00048 or lp_2684_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9745,8 +9745,8 @@
 "gene_reaction_rule":"MBLCLPDI_00221",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9764,8 +9764,8 @@
 "gene_reaction_rule":"MBLCLPDI_00048 or lp_2684_missing or lp_1739_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9786,8 +9786,8 @@
 "gene_reaction_rule":"MBLCLPDI_00154",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9808,8 +9808,8 @@
 "gene_reaction_rule":"MBLCLPDI_02102",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9830,8 +9830,8 @@
 "gene_reaction_rule":"MBLCLPDI_00499",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9847,8 +9847,8 @@
 "gene_reaction_rule":"MBLCLPDI_00341",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9866,8 +9866,8 @@
 "gene_reaction_rule":"MBLCLPDI_00519 or MBLCLPDI_00250",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9886,8 +9886,8 @@
 "gene_reaction_rule":"MBLCLPDI_00238",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9906,8 +9906,8 @@
 "gene_reaction_rule":"MBLCLPDI_00672",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9928,8 +9928,8 @@
 "gene_reaction_rule":"MBLCLPDI_00671",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9950,8 +9950,8 @@
 "gene_reaction_rule":"MBLCLPDI_01385",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9970,8 +9970,8 @@
 "gene_reaction_rule":"MBLCLPDI_00444",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -9989,8 +9989,8 @@
 "gene_reaction_rule":"MBLCLPDI_01211 and lp_1134_missing and MBLCLPDI_00775",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10006,8 +10006,8 @@
 "gene_reaction_rule":"MBLCLPDI_00368 or lp_1200_missing or lp_2105_missing or lp_3481_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10023,8 +10023,8 @@
 "gene_reaction_rule":"MBLCLPDI_01524 or lp_1219_missing",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10045,8 +10045,8 @@
 "gene_reaction_rule":"MBLCLPDI_00261",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10064,8 +10064,8 @@
 "gene_reaction_rule":"MBLCLPDI_00771",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "URIDK1"
@@ -10086,8 +10086,8 @@
 "gene_reaction_rule":"MBLCLPDI_00505",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10105,8 +10105,8 @@
 "gene_reaction_rule":"MBLCLPDI_00509",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10124,8 +10124,8 @@
 "gene_reaction_rule":"MBLCLPDI_00771",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ],
 "initial_id":[
 "URIDK2"
@@ -10146,8 +10146,8 @@
 "gene_reaction_rule":"MBLCLPDI_00963",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10166,8 +10166,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10186,8 +10186,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10206,8 +10206,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10228,8 +10228,8 @@
 "gene_reaction_rule":"MBLCLPDI_00554",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10247,8 +10247,8 @@
 "gene_reaction_rule":"MBLCLPDI_01988",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10266,8 +10266,8 @@
 "gene_reaction_rule":"MBLCLPDI_01599",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10285,8 +10285,8 @@
 "gene_reaction_rule":"MBLCLPDI_01814 or lp_2825_missing or MBLCLPDI_00108",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10304,8 +10304,8 @@
 "gene_reaction_rule":"MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_01678 or lp_1319_missing or MBLCLPDI_00786 or MBLCLPDI_00650",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 },
@@ -10325,8 +10325,8 @@
 "gene_reaction_rule":"lp_0588_missing or MBLCLPDI_01087",
 "notes":{
 "from":[
-"iBT721",
-"BBH"
+"BBH",
+"iBT721"
 ]
 }
 }
