@@ -36,12 +36,11 @@ Lreu_seed.id = 'Lreu_seed'
 all_map = pd.DataFrame()
 #all_map = pd.read_csv('all_map.csv', sep = '\t')
 
-for model in [Lreu_seed]:#,iNF517,iML1515,Lreu_metacyc,Lreu_keegiBT721,iNF517,iML1515,Lreu_metacyc,Lreu_kegg,Lreu_caeveme,
+for model in [iNF517,iML1515,iBT721,Lreu_metacyc,Lreu_kegg,Lreu_caeveme,Lreu_seed]:     #,iNF517,iML1515,Lreu_metacyc,Lreu_keegiBT721,iNF517,iML1515,Lreu_metacyc,Lreu_kegg,Lreu_caeveme,
 
-    print(model.id)
+    print(model.id,'\tmaping:')
     if model.id in ['iBT721','iNF517','iML1515','Lreu_caeveme']:
         fromdb = 'bigg'
-
     elif  model.id =='Lreu_metacyc':
         fromdb = 'metacyc'
     elif model.id =='Lreu_kegg':
@@ -100,7 +99,7 @@ for model in [Lreu_seed]:#,iNF517,iML1515,Lreu_metacyc,Lreu_keegiBT721,iNF517,iM
 
     model_map['model'] = model.id
 
-    model_map.to_csv(model.id+'_map.csv',sep = '\t',index=False)
+    #model_map.to_csv(model.id+'_map.csv',sep = '\t',index=False)
 
     all_map = all_map.append(model_map)
 
@@ -113,7 +112,10 @@ for model in [Lreu_seed]:#,iNF517,iML1515,Lreu_metacyc,Lreu_keegiBT721,iNF517,iM
     locals()[model.id+'_map'] = model_map
 
 
-all_map.to_csv('all_map.csv', sep = '\t',index=False)
+all_map.to_csv('../../all_map.csv', sep = '\t',index=False)
+
+
+
 
 
 
