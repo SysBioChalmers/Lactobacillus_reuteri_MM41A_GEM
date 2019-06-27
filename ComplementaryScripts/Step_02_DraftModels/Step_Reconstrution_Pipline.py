@@ -164,6 +164,7 @@ cobra.io.save_json_model(Lreu_from_iML1515,'Lreu_from_iML1515.json',sort=True)
 
 # %% <general step: select a main model, iNF517>
 
+os.chdir('../')
 print('----- Mergeing draft models  -----')
 Lreu_draft_1 = Lreu_from_iNF517.copy()
 cobra.io.save_json_model(Lreu_draft_1,'Lreu_draft_1.json',sort='True')
@@ -280,7 +281,11 @@ keep_move_dic = {
                 'YUMPS':'PSUDS',
                 'G3PD1ir':'G3PD1',
                 'P5CR':'P5CRr',
-                'PROTS_LRE':'PROTS_LRE_v2'}
+                'PROTS_LRE':'PROTS_LRE_v2',
+                'PRAIS_1':'PRAIS',
+                'PROTRS_1':'PROTRS',
+                'TDPDRR_1':'TDPDRR',
+                                        }
 
 for k,v in keep_move_dic.items():
     rea1 = Lreu_draft_3_refined.reactions.get_by_id(k)
@@ -297,7 +302,7 @@ for i in Lreu_draft_3_refined.reactions:
         check_bounds_set.add(i.id)
 
 
-# %%  <general step: remove dead ends >
+# %%  <general step: remove remove_useless_mets >
 
 Lreu_draft_3_refined = My_def.model_refine.remove_useless_mets(Lreu_draft_3_refined)
 Lreu_draft_3_refined = My_def.model_refine.remove_useless_genes(Lreu_draft_3_refined)
