@@ -4,7 +4,7 @@ GEM for Lactobacillus reuteri ATCC PTA 6475/MM4-1A
 Requirements,
 - [Prokka](http://github.com) 
 - [Blast+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
-- [dimon](https://github.com/bbuchfink/diamond)
+- [Diamond](https://github.com/bbuchfink/diamond)
 - [Biopython](https://biopython.org/)
 - [cobrapy](https://opencobra.github.io/cobrapy/)
 
