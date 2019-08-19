@@ -302,7 +302,7 @@ for i in Lreu_draft_3_refined.reactions:
         check_bounds_set.add(i.id)
 
 
-# %%  <general step: remove remove_useless_mets >
+# %% <general step: remove remove_useless_mets >
 
 Lreu_draft_3_refined = My_def.model_refine.remove_useless_mets(Lreu_draft_3_refined)
 Lreu_draft_3_refined = My_def.model_refine.remove_useless_genes(Lreu_draft_3_refined)
