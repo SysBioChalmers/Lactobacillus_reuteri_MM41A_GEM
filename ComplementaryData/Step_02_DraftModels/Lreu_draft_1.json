@@ -11134,8 +11134,8 @@
 "gene_reaction_rule":"MBLCLPDI_02031",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11158,8 +11158,8 @@
 "gene_reaction_rule":"MBLCLPDI_02031",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11182,8 +11182,8 @@
 "gene_reaction_rule":"MBLCLPDI_02031",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11206,8 +11206,8 @@
 "gene_reaction_rule":"MBLCLPDI_01648",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11228,8 +11228,8 @@
 "gene_reaction_rule":"MBLCLPDI_00057",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11263,8 +11263,8 @@
 "gene_reaction_rule":"MBLCLPDI_00350",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11299,8 +11299,8 @@
 "gene_reaction_rule":"MBLCLPDI_01079 and LLMG_RS08940_missing and MBLCLPDI_01078 and MBLCLPDI_01080 and (MBLCLPDI_00822 or LLMG_RS10805_missing)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11332,8 +11332,8 @@
 "gene_reaction_rule":"MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11355,8 +11355,8 @@
 "gene_reaction_rule":"(MBLCLPDI_01476 and MBLCLPDI_00506) or (MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11380,8 +11380,8 @@
 "gene_reaction_rule":"MBLCLPDI_00138",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11413,8 +11413,8 @@
 "gene_reaction_rule":"LLMG_RS11480_missing or MBLCLPDI_00611",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11436,8 +11436,8 @@
 "gene_reaction_rule":"LLMG_RS11480_missing or MBLCLPDI_00611",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11459,8 +11459,8 @@
 "gene_reaction_rule":"LLMG_RS11480_missing or MBLCLPDI_00611",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11482,8 +11482,8 @@
 "gene_reaction_rule":"LLMG_RS11480_missing or MBLCLPDI_00611",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11518,8 +11518,8 @@
 "gene_reaction_rule":"LLMG_RS07390_missing or MBLCLPDI_00139",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11551,8 +11551,8 @@
 "gene_reaction_rule":"LLMG_RS06470_missing or LLMG_RS06480_missing or LLMG_RS06485_missing or MBLCLPDI_00138",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11584,8 +11584,8 @@
 "gene_reaction_rule":"MBLCLPDI_01087",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11619,8 +11619,8 @@
 "gene_reaction_rule":"MBLCLPDI_00215",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11653,8 +11653,8 @@
 "gene_reaction_rule":"LLMG_RS08960_missing and MBLCLPDI_00272",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11677,8 +11677,8 @@
 "gene_reaction_rule":"MBLCLPDI_01601",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11711,8 +11711,8 @@
 "gene_reaction_rule":"MBLCLPDI_00354 or LLMG_RS01565_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11745,8 +11745,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11781,8 +11781,8 @@
 "gene_reaction_rule":"MBLCLPDI_01614",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11814,8 +11814,8 @@
 "gene_reaction_rule":"MBLCLPDI_01614",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11840,8 +11840,8 @@
 "gene_reaction_rule":"MBLCLPDI_00696",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11864,8 +11864,8 @@
 "gene_reaction_rule":"MBLCLPDI_00682 or LLMG_RS10755_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11888,8 +11888,8 @@
 "gene_reaction_rule":"MBLCLPDI_00142",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11920,8 +11920,8 @@
 "gene_reaction_rule":"MBLCLPDI_00142",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11949,8 +11949,8 @@
 "gene_reaction_rule":"MBLCLPDI_00074",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -11988,8 +11988,8 @@
 "gene_reaction_rule":"MBLCLPDI_00765",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12011,8 +12011,8 @@
 "gene_reaction_rule":"MBLCLPDI_00684",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12046,8 +12046,8 @@
 "gene_reaction_rule":"LLMG_RS07320_missing or MBLCLPDI_00098",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12070,8 +12070,8 @@
 "gene_reaction_rule":"MBLCLPDI_00150",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12102,8 +12102,8 @@
 "gene_reaction_rule":"MBLCLPDI_00140 and MBLCLPDI_00141",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12135,8 +12135,8 @@
 "gene_reaction_rule":"MBLCLPDI_00526",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12166,8 +12166,8 @@
 "gene_reaction_rule":"MBLCLPDI_00273",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12202,8 +12202,8 @@
 "gene_reaction_rule":"MBLCLPDI_00583",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12225,8 +12225,8 @@
 "gene_reaction_rule":"MBLCLPDI_01438 or LLMG_RS01930_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12256,8 +12256,8 @@
 "gene_reaction_rule":"MBLCLPDI_01747",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12292,8 +12292,8 @@
 "gene_reaction_rule":"MBLCLPDI_01747 or MBLCLPDI_00350",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12328,8 +12328,8 @@
 "gene_reaction_rule":"MBLCLPDI_01928",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12366,8 +12366,8 @@
 "gene_reaction_rule":"MBLCLPDI_01207",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12391,8 +12391,8 @@
 "gene_reaction_rule":"MBLCLPDI_00964",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12425,8 +12425,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12462,8 +12462,8 @@
 "gene_reaction_rule":"MBLCLPDI_00494",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12485,8 +12485,8 @@
 "gene_reaction_rule":"LLMG_RS11565_missing or MBLCLPDI_01533",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12507,8 +12507,8 @@
 "gene_reaction_rule":"MBLCLPDI_00820",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12543,8 +12543,8 @@
 "gene_reaction_rule":"MBLCLPDI_00819",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12579,8 +12579,8 @@
 "gene_reaction_rule":"MBLCLPDI_01405",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12604,8 +12604,8 @@
 "gene_reaction_rule":"MBLCLPDI_00700",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12637,8 +12637,8 @@
 "gene_reaction_rule":"MBLCLPDI_02065",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12679,8 +12679,8 @@
 "gene_reaction_rule":"LLMG_RS01910_missing or MBLCLPDI_02103",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12715,8 +12715,8 @@
 "gene_reaction_rule":"MBLCLPDI_02051",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12742,8 +12742,8 @@
 "gene_reaction_rule":"MBLCLPDI_00129",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12775,8 +12775,8 @@
 "gene_reaction_rule":"MBLCLPDI_00693",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12806,8 +12806,8 @@
 "gene_reaction_rule":"MBLCLPDI_00308",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12842,8 +12842,8 @@
 "gene_reaction_rule":"MBLCLPDI_00812",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12867,8 +12867,8 @@
 "gene_reaction_rule":"MBLCLPDI_00510 and LLMG_RS09750_missing and MBLCLPDI_00515 and LLMG_RS09730_missing and MBLCLPDI_00516 and MBLCLPDI_00514 and LLMG_RS09755_missing and LLMG_RS09765_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12891,8 +12891,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12916,8 +12916,8 @@
 "gene_reaction_rule":"LLMG_RS11580_missing or MBLCLPDI_00469",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12953,8 +12953,8 @@
 "gene_reaction_rule":"MBLCLPDI_00091 and MBLCLPDI_00090",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -12986,8 +12986,8 @@
 "gene_reaction_rule":"(MBLCLPDI_01476 and LLMG_RS02230_missing and LLMG_RS02225_missing and LLMG_RS02240_missing and MBLCLPDI_00506) or (MBLCLPDI_01476 and MBLCLPDI_00506)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13011,8 +13011,8 @@
 "gene_reaction_rule":"MBLCLPDI_00135",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13037,8 +13037,8 @@
 "gene_reaction_rule":"MBLCLPDI_00201 and MBLCLPDI_00202",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13066,8 +13066,8 @@
 "gene_reaction_rule":"MBLCLPDI_01949",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13089,8 +13089,8 @@
 "gene_reaction_rule":"LLMG_RS11185_missing or MBLCLPDI_02076",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13116,8 +13116,8 @@
 "gene_reaction_rule":"MBLCLPDI_00354",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13152,8 +13152,8 @@
 "gene_reaction_rule":"MBLCLPDI_00248",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13190,8 +13190,8 @@
 "gene_reaction_rule":"MBLCLPDI_00248",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13224,8 +13224,8 @@
 "gene_reaction_rule":"MBLCLPDI_00320",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13262,8 +13262,8 @@
 "gene_reaction_rule":"MBLCLPDI_01948 or LLMG_RS08910_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13299,8 +13299,8 @@
 "gene_reaction_rule":"MBLCLPDI_00320",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13333,8 +13333,8 @@
 "gene_reaction_rule":"MBLCLPDI_00320",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13368,8 +13368,8 @@
 "gene_reaction_rule":"MBLCLPDI_00330",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13393,8 +13393,8 @@
 "gene_reaction_rule":"MBLCLPDI_00557 and MBLCLPDI_00556 and MBLCLPDI_00555 and MBLCLPDI_00558",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13418,8 +13418,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13455,8 +13455,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13491,8 +13491,8 @@
 "gene_reaction_rule":"MBLCLPDI_00850",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13527,8 +13527,8 @@
 "gene_reaction_rule":"MBLCLPDI_00850",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13564,8 +13564,8 @@
 "gene_reaction_rule":"MBLCLPDI_01614",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13602,8 +13602,8 @@
 "gene_reaction_rule":"LLMG_RS06755_missing or MBLCLPDI_01655",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13640,8 +13640,8 @@
 "gene_reaction_rule":"LLMG_RS12135_missing and MBLCLPDI_01474",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13664,8 +13664,8 @@
 "gene_reaction_rule":"MBLCLPDI_00825",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13687,8 +13687,8 @@
 "gene_reaction_rule":"MBLCLPDI_01438 or LLMG_RS01930_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13720,8 +13720,8 @@
 "gene_reaction_rule":"LLMG_RS06170_missing and MBLCLPDI_00270 and MBLCLPDI_00269 and MBLCLPDI_00267",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13743,8 +13743,8 @@
 "gene_reaction_rule":"MBLCLPDI_00694",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13777,8 +13777,8 @@
 "gene_reaction_rule":"MBLCLPDI_00776",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13800,8 +13800,8 @@
 "gene_reaction_rule":"MBLCLPDI_00966",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13826,8 +13826,8 @@
 "gene_reaction_rule":"MBLCLPDI_00726",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13850,8 +13850,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13874,8 +13874,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13898,8 +13898,8 @@
 "gene_reaction_rule":"MBLCLPDI_01655 or LLMG_RS06755_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13935,8 +13935,8 @@
 "gene_reaction_rule":"MBLCLPDI_01476 and LLMG_RS01350_missing and LLMG_RS01335_missing and LLMG_RS01355_missing and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13969,8 +13969,8 @@
 "gene_reaction_rule":"MBLCLPDI_00698",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -13995,8 +13995,8 @@
 "gene_reaction_rule":"MBLCLPDI_00697",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14022,8 +14022,8 @@
 "gene_reaction_rule":"MBLCLPDI_00560",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14061,8 +14061,8 @@
 "gene_reaction_rule":"MBLCLPDI_01210",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14085,8 +14085,8 @@
 "gene_reaction_rule":"LLMG_RS05610_missing and MBLCLPDI_00131",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14108,8 +14108,8 @@
 "gene_reaction_rule":"(LLMG_RS05610_missing and MBLCLPDI_00131) or LLMG_RS04850_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14139,8 +14139,8 @@
 "gene_reaction_rule":"MBLCLPDI_00130",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14173,8 +14173,8 @@
 "gene_reaction_rule":"MBLCLPDI_00964",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14197,8 +14197,8 @@
 "gene_reaction_rule":"MBLCLPDI_01655",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14221,8 +14221,8 @@
 "gene_reaction_rule":"MBLCLPDI_01313",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14255,8 +14255,8 @@
 "gene_reaction_rule":"MBLCLPDI_01380",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14290,8 +14290,8 @@
 "gene_reaction_rule":"MBLCLPDI_01001",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14324,8 +14324,8 @@
 "gene_reaction_rule":"MBLCLPDI_02031 or (LLMG_RS06475_missing or MBLCLPDI_02031)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14357,8 +14357,8 @@
 "gene_reaction_rule":"MBLCLPDI_00445",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14382,8 +14382,8 @@
 "gene_reaction_rule":"MBLCLPDI_00117",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14415,8 +14415,8 @@
 "gene_reaction_rule":"MBLCLPDI_01438 or LLMG_RS01930_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14440,8 +14440,8 @@
 "gene_reaction_rule":"MBLCLPDI_00359",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14478,8 +14478,8 @@
 "gene_reaction_rule":"MBLCLPDI_00500",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14515,8 +14515,8 @@
 "gene_reaction_rule":"LLMG_RS04195_missing or MBLCLPDI_00327",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14553,8 +14553,8 @@
 "gene_reaction_rule":"MBLCLPDI_01045",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14585,8 +14585,8 @@
 "gene_reaction_rule":"MBLCLPDI_00429",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14617,8 +14617,8 @@
 "gene_reaction_rule":"MBLCLPDI_00256",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14652,8 +14652,8 @@
 "gene_reaction_rule":"MBLCLPDI_00975",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14677,8 +14677,8 @@
 "gene_reaction_rule":"MBLCLPDI_01718",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14713,8 +14713,8 @@
 "gene_reaction_rule":"MBLCLPDI_00712",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14746,8 +14746,8 @@
 "gene_reaction_rule":"MBLCLPDI_01304",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14773,8 +14773,8 @@
 "gene_reaction_rule":"MBLCLPDI_00787",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14806,8 +14806,8 @@
 "gene_reaction_rule":"MBLCLPDI_01411",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14840,8 +14840,8 @@
 "gene_reaction_rule":"MBLCLPDI_01688",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14863,8 +14863,8 @@
 "gene_reaction_rule":"(MBLCLPDI_01476 and LLMG_RS07900_missing and MBLCLPDI_00506) or (MBLCLPDI_01476 and (LLMG_RS03765_missing or LLMG_RS03760_missing or LLMG_RS03755_missing) and MBLCLPDI_00506)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14889,8 +14889,8 @@
 "gene_reaction_rule":"MBLCLPDI_00137",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14922,8 +14922,8 @@
 "gene_reaction_rule":"MBLCLPDI_00238",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14951,8 +14951,8 @@
 "gene_reaction_rule":"MBLCLPDI_00402",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -14988,8 +14988,8 @@
 "gene_reaction_rule":"MBLCLPDI_00402",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15022,8 +15022,8 @@
 "gene_reaction_rule":"MBLCLPDI_00375",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15055,8 +15055,8 @@
 "gene_reaction_rule":"MBLCLPDI_01155",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15082,8 +15082,8 @@
 "gene_reaction_rule":"MBLCLPDI_01921",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15116,8 +15116,8 @@
 "gene_reaction_rule":"MBLCLPDI_00462",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15145,8 +15145,8 @@
 "gene_reaction_rule":"MBLCLPDI_01933",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15166,8 +15166,8 @@
 "gene_reaction_rule":"MBLCLPDI_01697",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15190,8 +15190,8 @@
 "gene_reaction_rule":"MBLCLPDI_01932",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15226,8 +15226,8 @@
 "gene_reaction_rule":"MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15251,8 +15251,8 @@
 "gene_reaction_rule":"MBLCLPDI_00403",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15287,8 +15287,8 @@
 "gene_reaction_rule":"MBLCLPDI_01213",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15320,8 +15320,8 @@
 "gene_reaction_rule":"LLMG_RS02785_missing or MBLCLPDI_00426",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15357,8 +15357,8 @@
 "gene_reaction_rule":"MBLCLPDI_00149",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15389,8 +15389,8 @@
 "gene_reaction_rule":"MBLCLPDI_00451",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15416,8 +15416,8 @@
 "gene_reaction_rule":"MBLCLPDI_00504",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15448,8 +15448,8 @@
 "gene_reaction_rule":"MBLCLPDI_01308",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15481,8 +15481,8 @@
 "gene_reaction_rule":"MBLCLPDI_01308",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15506,8 +15506,8 @@
 "gene_reaction_rule":"MBLCLPDI_00884",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15537,8 +15537,8 @@
 "gene_reaction_rule":"MBLCLPDI_01476 and (LLMG_RS03765_missing or LLMG_RS03760_missing or LLMG_RS03755_missing) and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15564,8 +15564,8 @@
 "gene_reaction_rule":"MBLCLPDI_01337",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15600,8 +15600,8 @@
 "gene_reaction_rule":"MBLCLPDI_01592 and MBLCLPDI_01593 and LLMG_RS00930_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15626,8 +15626,8 @@
 "gene_reaction_rule":"MBLCLPDI_00104 and MBLCLPDI_00105",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15658,8 +15658,8 @@
 "gene_reaction_rule":"MBLCLPDI_00376",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15693,8 +15693,8 @@
 "gene_reaction_rule":"MBLCLPDI_00147",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15724,8 +15724,8 @@
 "gene_reaction_rule":"MBLCLPDI_00591",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15760,8 +15760,8 @@
 "gene_reaction_rule":"MBLCLPDI_01336",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15786,8 +15786,8 @@
 "gene_reaction_rule":"MBLCLPDI_01336",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15812,8 +15812,8 @@
 "gene_reaction_rule":"(MBLCLPDI_00201 and MBLCLPDI_00202) or (LLMG_RS05325_missing and LLMG_RS05330_missing)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15841,8 +15841,8 @@
 "gene_reaction_rule":"LLMG_RS04450_missing or MBLCLPDI_01908 or LLMG_RS11665_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15873,8 +15873,8 @@
 "gene_reaction_rule":"LLMG_RS05335_missing or MBLCLPDI_01192",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15909,8 +15909,8 @@
 "gene_reaction_rule":"MBLCLPDI_00829 and MBLCLPDI_00828",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15932,8 +15932,8 @@
 "gene_reaction_rule":"MBLCLPDI_01438 or LLMG_RS01930_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -15964,8 +15964,8 @@
 "gene_reaction_rule":"MBLCLPDI_00073",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16002,8 +16002,8 @@
 "gene_reaction_rule":"MBLCLPDI_01772",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16036,8 +16036,8 @@
 "gene_reaction_rule":"LLMG_RS12405_missing or MBLCLPDI_01922",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16059,7 +16059,7 @@
 }
 },
 {
-"id":"GNKr",
+"id":"GNK",
 "name":"Gluconokinase",
 "metabolites":{
 "6pgc_c":1.0,
@@ -16073,8 +16073,8 @@
 "gene_reaction_rule":"MBLCLPDI_00882",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16107,8 +16107,8 @@
 "gene_reaction_rule":"MBLCLPDI_00070 or LLMG_RS00415_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16144,8 +16144,8 @@
 "gene_reaction_rule":"MBLCLPDI_00070 or LLMG_RS00415_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16181,8 +16181,8 @@
 "gene_reaction_rule":"MBLCLPDI_00070 or LLMG_RS00415_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16214,8 +16214,8 @@
 "gene_reaction_rule":"MBLCLPDI_00070 or LLMG_RS00415_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16241,8 +16241,8 @@
 "gene_reaction_rule":"MBLCLPDI_00070 or LLMG_RS00415_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16274,8 +16274,8 @@
 "gene_reaction_rule":"MBLCLPDI_01313",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16308,8 +16308,8 @@
 "gene_reaction_rule":"MBLCLPDI_01561",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16342,8 +16342,8 @@
 "gene_reaction_rule":"MBLCLPDI_01414",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16377,8 +16377,8 @@
 "gene_reaction_rule":"MBLCLPDI_00966",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16402,8 +16402,8 @@
 "gene_reaction_rule":"MBLCLPDI_00648 or MBLCLPDI_00809",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16435,8 +16435,8 @@
 "gene_reaction_rule":"LLMG_RS05050_missing or MBLCLPDI_00285",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16472,8 +16472,8 @@
 "gene_reaction_rule":"MBLCLPDI_00549",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16495,8 +16495,8 @@
 "gene_reaction_rule":"MBLCLPDI_01089 or LLMG_RS08935_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16519,8 +16519,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16543,8 +16543,8 @@
 "gene_reaction_rule":"MBLCLPDI_00667",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16578,8 +16578,8 @@
 "gene_reaction_rule":"MBLCLPDI_01089 or LLMG_RS08935_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16602,8 +16602,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16624,8 +16624,8 @@
 "gene_reaction_rule":"MBLCLPDI_01089 or LLMG_RS08935_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16648,8 +16648,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16672,8 +16672,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16696,8 +16696,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16720,8 +16720,8 @@
 "gene_reaction_rule":"MBLCLPDI_01138",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16754,8 +16754,8 @@
 "gene_reaction_rule":"MBLCLPDI_01341",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16791,8 +16791,8 @@
 "gene_reaction_rule":"MBLCLPDI_00994",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16819,8 +16819,8 @@
 "gene_reaction_rule":"LLMG_RS08935_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16843,8 +16843,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16865,8 +16865,8 @@
 "gene_reaction_rule":"MBLCLPDI_01089 or LLMG_RS08935_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16889,8 +16889,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16915,8 +16915,8 @@
 "gene_reaction_rule":"MBLCLPDI_02010 or LLMG_RS06580_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16940,8 +16940,8 @@
 "gene_reaction_rule":"MBLCLPDI_00223",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16967,8 +16967,8 @@
 "gene_reaction_rule":"MBLCLPDI_00761",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -16993,8 +16993,8 @@
 "gene_reaction_rule":"LLMG_RS02355_missing or MBLCLPDI_01139",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17025,8 +17025,8 @@
 "gene_reaction_rule":"MBLCLPDI_01089 or LLMG_RS08935_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17049,8 +17049,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17071,8 +17071,8 @@
 "gene_reaction_rule":"LLMG_RS08935_missing or MBLCLPDI_01089",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17095,8 +17095,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17119,8 +17119,8 @@
 "gene_reaction_rule":"MBLCLPDI_01414",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17143,8 +17143,8 @@
 "gene_reaction_rule":"MBLCLPDI_01947",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17176,8 +17176,8 @@
 "gene_reaction_rule":"MBLCLPDI_01947",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17208,8 +17208,8 @@
 "gene_reaction_rule":"MBLCLPDI_01089 or LLMG_RS08935_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17232,8 +17232,8 @@
 "gene_reaction_rule":"MBLCLPDI_01084",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17255,8 +17255,8 @@
 "gene_reaction_rule":"MBLCLPDI_00549",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17279,8 +17279,8 @@
 "gene_reaction_rule":"LLMG_RS05050_missing or MBLCLPDI_00285",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17315,8 +17315,8 @@
 "gene_reaction_rule":"MBLCLPDI_00680",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17338,8 +17338,8 @@
 "gene_reaction_rule":"MBLCLPDI_01967",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17360,8 +17360,8 @@
 "gene_reaction_rule":"MBLCLPDI_00150",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17398,8 +17398,8 @@
 "gene_reaction_rule":"MBLCLPDI_00122",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17429,8 +17429,8 @@
 "gene_reaction_rule":"MBLCLPDI_00999",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17463,8 +17463,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17490,8 +17490,8 @@
 "gene_reaction_rule":"LLMG_RS07210_missing or LLMG_RS02010_missing or MBLCLPDI_00803",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17526,8 +17526,8 @@
 "gene_reaction_rule":"MBLCLPDI_01432",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17549,8 +17549,8 @@
 "gene_reaction_rule":"MBLCLPDI_01967",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17575,8 +17575,8 @@
 "gene_reaction_rule":"MBLCLPDI_00289",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17598,8 +17598,8 @@
 "gene_reaction_rule":"MBLCLPDI_01657 or LLMG_RS01980_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17629,8 +17629,8 @@
 "gene_reaction_rule":"MBLCLPDI_01085",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17652,8 +17652,8 @@
 "gene_reaction_rule":"MBLCLPDI_01690",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17675,8 +17675,8 @@
 "gene_reaction_rule":"MBLCLPDI_00461 or LLMG_RS08595_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17703,8 +17703,8 @@
 "gene_reaction_rule":"MBLCLPDI_01733",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17730,8 +17730,8 @@
 "gene_reaction_rule":"MBLCLPDI_01476 and (LLMG_RS03765_missing or LLMG_RS03760_missing or LLMG_RS03755_missing) and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17756,8 +17756,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17781,8 +17781,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17806,8 +17806,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17831,8 +17831,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17856,8 +17856,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17881,8 +17881,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17906,8 +17906,8 @@
 "gene_reaction_rule":"MBLCLPDI_01083",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17931,8 +17931,8 @@
 "gene_reaction_rule":"MBLCLPDI_01433",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17967,8 +17967,8 @@
 "gene_reaction_rule":"(MBLCLPDI_00208 and MBLCLPDI_00207 and MBLCLPDI_00209) or (MBLCLPDI_00208 and MBLCLPDI_00207 and LLMG_RS01740_missing) or (MBLCLPDI_00208 and MBLCLPDI_00207 and LLMG_RS01730_missing) or (MBLCLPDI_00208 and MBLCLPDI_00207 and LLMG_RS01750_missing)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -17999,8 +17999,8 @@
 "gene_reaction_rule":"MBLCLPDI_00320",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18035,8 +18035,8 @@
 "gene_reaction_rule":"MBLCLPDI_00228",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18061,8 +18061,8 @@
 "gene_reaction_rule":"(MBLCLPDI_00208 and MBLCLPDI_00207 and LLMG_RS01730_missing) or (MBLCLPDI_00208 and MBLCLPDI_00207 and LLMG_RS01740_missing) or (MBLCLPDI_00208 and MBLCLPDI_00207 and MBLCLPDI_00209) or (MBLCLPDI_00208 and MBLCLPDI_00207 and LLMG_RS01750_missing)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18097,8 +18097,8 @@
 "gene_reaction_rule":"MBLCLPDI_01002",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18130,8 +18130,8 @@
 "gene_reaction_rule":"MBLCLPDI_00718",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18163,8 +18163,8 @@
 "gene_reaction_rule":"MBLCLPDI_01476 and LLMG_RS00140_missing and LLMG_RS00150_missing and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18187,8 +18187,8 @@
 "gene_reaction_rule":"MBLCLPDI_00059 or LLMG_RS02310_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18223,8 +18223,8 @@
 "gene_reaction_rule":"MBLCLPDI_00684",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18259,8 +18259,8 @@
 "gene_reaction_rule":"MBLCLPDI_01316",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18291,8 +18291,8 @@
 "gene_reaction_rule":"MBLCLPDI_01316",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18324,8 +18324,8 @@
 "gene_reaction_rule":"MBLCLPDI_00559 or LLMG_RS08715_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18355,8 +18355,8 @@
 "gene_reaction_rule":"MBLCLPDI_00072",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18389,8 +18389,8 @@
 "gene_reaction_rule":"MBLCLPDI_00649",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18425,8 +18425,8 @@
 "gene_reaction_rule":"MBLCLPDI_00311",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18462,8 +18462,8 @@
 "gene_reaction_rule":"MBLCLPDI_00310",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18493,8 +18493,8 @@
 "gene_reaction_rule":"MBLCLPDI_00839",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18526,8 +18526,8 @@
 "gene_reaction_rule":"MBLCLPDI_00839",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18557,8 +18557,8 @@
 "gene_reaction_rule":"MBLCLPDI_01562",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18593,8 +18593,8 @@
 "gene_reaction_rule":"LLMG_RS01240_missing or MBLCLPDI_01370",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18630,8 +18630,8 @@
 "gene_reaction_rule":"LLMG_RS01240_missing or MBLCLPDI_01370",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18667,8 +18667,8 @@
 "gene_reaction_rule":"LLMG_RS08890_missing or MBLCLPDI_00072",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18704,8 +18704,8 @@
 "gene_reaction_rule":"MBLCLPDI_00072 or LLMG_RS08890_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18726,8 +18726,8 @@
 "gene_reaction_rule":"MBLCLPDI_00973",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18759,8 +18759,8 @@
 "gene_reaction_rule":"MBLCLPDI_00468 or LLMG_RS08815_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18796,8 +18796,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18820,8 +18820,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18845,8 +18845,8 @@
 "gene_reaction_rule":"MBLCLPDI_00715 and MBLCLPDI_00714 and MBLCLPDI_00713 and MBLCLPDI_00716",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18883,8 +18883,8 @@
 "gene_reaction_rule":"MBLCLPDI_00715 and MBLCLPDI_00714 and MBLCLPDI_00713 and MBLCLPDI_00716",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18918,8 +18918,8 @@
 "gene_reaction_rule":"MBLCLPDI_00715 and MBLCLPDI_00714 and MBLCLPDI_00713 and MBLCLPDI_00716",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18953,8 +18953,8 @@
 "gene_reaction_rule":"MBLCLPDI_00132",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -18986,8 +18986,8 @@
 "gene_reaction_rule":"MBLCLPDI_00133",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19020,8 +19020,8 @@
 "gene_reaction_rule":"MBLCLPDI_00374",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19052,8 +19052,8 @@
 "gene_reaction_rule":"MBLCLPDI_00670",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19079,8 +19079,8 @@
 "gene_reaction_rule":"MBLCLPDI_00715 and MBLCLPDI_00714 and MBLCLPDI_00713 and MBLCLPDI_00716",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19116,8 +19116,8 @@
 "gene_reaction_rule":"MBLCLPDI_00450",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19148,8 +19148,8 @@
 "gene_reaction_rule":"(MBLCLPDI_01404 and MBLCLPDI_01007 and MBLCLPDI_00669) or (MBLCLPDI_01404 and MBLCLPDI_01007 and MBLCLPDI_01346)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19169,8 +19169,8 @@
 "gene_reaction_rule":"MBLCLPDI_00462",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19195,8 +19195,8 @@
 "gene_reaction_rule":"MBLCLPDI_00427",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19228,8 +19228,8 @@
 "gene_reaction_rule":"MBLCLPDI_00660",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19259,8 +19259,8 @@
 "gene_reaction_rule":"MBLCLPDI_00688 or MBLCLPDI_00152 or LLMG_RS07955_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19297,8 +19297,8 @@
 "gene_reaction_rule":"MBLCLPDI_00450",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19329,8 +19329,8 @@
 "gene_reaction_rule":"MBLCLPDI_00060",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19363,8 +19363,8 @@
 "gene_reaction_rule":"MBLCLPDI_00571",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19386,8 +19386,8 @@
 "gene_reaction_rule":"LLMG_RS06585_missing or (MBLCLPDI_00832 or LLMG_RS10105_missing)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19425,8 +19425,8 @@
 "gene_reaction_rule":"MBLCLPDI_01352 and MBLCLPDI_01353",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19450,8 +19450,8 @@
 "gene_reaction_rule":"MBLCLPDI_01726 and MBLCLPDI_01724 and LLMG_RS09490_missing and MBLCLPDI_01723 and MBLCLPDI_01725 and LLMG_RS09515_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19482,8 +19482,8 @@
 "gene_reaction_rule":"LLMG_RS02355_missing or MBLCLPDI_01139",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19516,8 +19516,8 @@
 "gene_reaction_rule":"MBLCLPDI_01775",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19549,8 +19549,8 @@
 "gene_reaction_rule":"MBLCLPDI_00873",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19582,8 +19582,8 @@
 "gene_reaction_rule":"MBLCLPDI_01306",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19618,8 +19618,8 @@
 "gene_reaction_rule":"MBLCLPDI_01726 and MBLCLPDI_01724 and LLMG_RS09490_missing and MBLCLPDI_01723 and MBLCLPDI_01725 and LLMG_RS09515_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19640,8 +19640,8 @@
 "gene_reaction_rule":"MBLCLPDI_00118",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19668,8 +19668,8 @@
 "gene_reaction_rule":"MBLCLPDI_00118",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19708,8 +19708,8 @@
 "gene_reaction_rule":"MBLCLPDI_01306",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19736,8 +19736,8 @@
 "gene_reaction_rule":"MBLCLPDI_00151",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19750,7 +19750,7 @@
 }
 },
 {
-"id":"PRAIS_1",
+"id":"PRAIS",
 "name":"Phosphoribosylaminoimidazole synthetase",
 "metabolites":{
 "adp_c":1.0,
@@ -19765,8 +19765,8 @@
 "gene_reaction_rule":"MBLCLPDI_00148",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19799,8 +19799,8 @@
 "gene_reaction_rule":"MBLCLPDI_00143",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19825,8 +19825,8 @@
 "gene_reaction_rule":"MBLCLPDI_01211",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19853,8 +19853,8 @@
 "gene_reaction_rule":"MBLCLPDI_00145 and LLMG_RS04955_missing and MBLCLPDI_00146",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19871,7 +19871,7 @@
 }
 },
 {
-"id":"PROTRS_1",
+"id":"PROTRS",
 "name":"Prolyl tRNA synthetase",
 "metabolites":{
 "amp_c":1.0,
@@ -19887,8 +19887,8 @@
 "gene_reaction_rule":"MBLCLPDI_00778",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19911,8 +19911,8 @@
 "gene_reaction_rule":"MBLCLPDI_00239 or LLMG_RS10225_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19936,8 +19936,8 @@
 "gene_reaction_rule":"MBLCLPDI_00439",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19959,8 +19959,8 @@
 "gene_reaction_rule":"MBLCLPDI_00439",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -19982,8 +19982,8 @@
 "gene_reaction_rule":"MBLCLPDI_00439",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20005,8 +20005,8 @@
 "gene_reaction_rule":"MBLCLPDI_00439",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20039,8 +20039,8 @@
 "gene_reaction_rule":"MBLCLPDI_00723",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20075,8 +20075,8 @@
 "gene_reaction_rule":"MBLCLPDI_01800 and MBLCLPDI_01802 and MBLCLPDI_01801 and MBLCLPDI_01799",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20107,8 +20107,8 @@
 "gene_reaction_rule":"MBLCLPDI_00120",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20140,8 +20140,8 @@
 "gene_reaction_rule":"MBLCLPDI_00120",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20173,8 +20173,8 @@
 "gene_reaction_rule":"MBLCLPDI_00120",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20209,8 +20209,8 @@
 "gene_reaction_rule":"MBLCLPDI_00120",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20245,8 +20245,8 @@
 "gene_reaction_rule":"MBLCLPDI_00120",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20281,8 +20281,8 @@
 "gene_reaction_rule":"MBLCLPDI_00120",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20317,8 +20317,8 @@
 "gene_reaction_rule":"MBLCLPDI_00120",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20354,8 +20354,8 @@
 "gene_reaction_rule":"MBLCLPDI_00839",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20387,8 +20387,8 @@
 "gene_reaction_rule":"MBLCLPDI_00119",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20412,8 +20412,8 @@
 "gene_reaction_rule":"MBLCLPDI_00119",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20436,8 +20436,8 @@
 "gene_reaction_rule":"MBLCLPDI_00787",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20470,8 +20470,8 @@
 "gene_reaction_rule":"MBLCLPDI_00965",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20498,8 +20498,8 @@
 "gene_reaction_rule":"MBLCLPDI_00967",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20532,8 +20532,8 @@
 "gene_reaction_rule":"MBLCLPDI_00445",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20558,8 +20558,8 @@
 "gene_reaction_rule":"MBLCLPDI_00352 and MBLCLPDI_00351",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20586,8 +20586,8 @@
 "gene_reaction_rule":"MBLCLPDI_00352 and MBLCLPDI_00351",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20614,8 +20614,8 @@
 "gene_reaction_rule":"MBLCLPDI_00352 and MBLCLPDI_00351",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20642,8 +20642,8 @@
 "gene_reaction_rule":"MBLCLPDI_00352 and MBLCLPDI_00351",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20670,8 +20670,8 @@
 "gene_reaction_rule":"LLMG_RS07755_missing or MBLCLPDI_01454",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20697,8 +20697,8 @@
 "gene_reaction_rule":"LLMG_RS07755_missing or MBLCLPDI_01454",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20724,8 +20724,8 @@
 "gene_reaction_rule":"LLMG_RS07755_missing or MBLCLPDI_01454",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20751,8 +20751,8 @@
 "gene_reaction_rule":"LLMG_RS07755_missing or MBLCLPDI_01454",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20775,8 +20775,8 @@
 "gene_reaction_rule":"LLMG_RS04875_missing or MBLCLPDI_01299",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20806,8 +20806,8 @@
 "gene_reaction_rule":"MBLCLPDI_00325 or LLMG_RS04880_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20831,8 +20831,8 @@
 "gene_reaction_rule":"MBLCLPDI_01476 and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20854,8 +20854,8 @@
 "gene_reaction_rule":"MBLCLPDI_01200 and MBLCLPDI_01201",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20897,8 +20897,8 @@
 "gene_reaction_rule":"MBLCLPDI_00103",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20923,8 +20923,8 @@
 "gene_reaction_rule":"MBLCLPDI_01800 and MBLCLPDI_01802 and MBLCLPDI_01801 and MBLCLPDI_01799",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20957,8 +20957,8 @@
 "gene_reaction_rule":"MBLCLPDI_00974",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -20990,8 +20990,8 @@
 "gene_reaction_rule":"MBLCLPDI_00097",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21022,8 +21022,8 @@
 "gene_reaction_rule":"(MBLCLPDI_01476 and MBLCLPDI_00506) or (MBLCLPDI_01476 and LLMG_RS07195_missing and MBLCLPDI_00506)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21047,8 +21047,8 @@
 "gene_reaction_rule":"MBLCLPDI_01077",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21057,7 +21057,7 @@
 }
 },
 {
-"id":"TDPDRR_1",
+"id":"TDPDRR",
 "name":"DTDP 4 dehydrorhamnose reductase",
 "metabolites":{
 "dtdp4d6dm_c":1.0,
@@ -21071,8 +21071,8 @@
 "gene_reaction_rule":"MBLCLPDI_01180",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21093,8 +21093,8 @@
 "gene_reaction_rule":"MBLCLPDI_01181",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21119,8 +21119,8 @@
 "gene_reaction_rule":"MBLCLPDI_00560",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21143,8 +21143,8 @@
 "gene_reaction_rule":"MBLCLPDI_00504",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21182,8 +21182,8 @@
 "gene_reaction_rule":"MBLCLPDI_02025",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21206,8 +21206,8 @@
 "gene_reaction_rule":"MBLCLPDI_00500",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21243,8 +21243,8 @@
 "gene_reaction_rule":"MBLCLPDI_00500",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21267,8 +21267,8 @@
 "gene_reaction_rule":"MBLCLPDI_01298",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21300,8 +21300,8 @@
 "gene_reaction_rule":"MBLCLPDI_00119",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21337,8 +21337,8 @@
 "gene_reaction_rule":"MBLCLPDI_01140",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21368,8 +21368,8 @@
 "gene_reaction_rule":"MBLCLPDI_00428",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21402,8 +21402,8 @@
 "gene_reaction_rule":"MBLCLPDI_00407 or MBLCLPDI_01813",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21432,8 +21432,8 @@
 "gene_reaction_rule":"MBLCLPDI_00088",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21471,8 +21471,8 @@
 "gene_reaction_rule":"MBLCLPDI_01476 and LLMG_RS02305_missing and MBLCLPDI_00506",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21496,8 +21496,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21532,8 +21532,8 @@
 "gene_reaction_rule":"MBLCLPDI_00221",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21555,8 +21555,8 @@
 "gene_reaction_rule":"LLMG_RS06585_missing or (MBLCLPDI_00832 or LLMG_RS10105_missing)",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21595,8 +21595,8 @@
 "gene_reaction_rule":"MBLCLPDI_00154",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21621,8 +21621,8 @@
 "gene_reaction_rule":"MBLCLPDI_02102",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21649,8 +21649,8 @@
 "gene_reaction_rule":"MBLCLPDI_00499 or MBLCLPDI_02102",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21672,8 +21672,8 @@
 "gene_reaction_rule":"MBLCLPDI_00519 or MBLCLPDI_00250",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21706,8 +21706,8 @@
 "gene_reaction_rule":"MBLCLPDI_00238",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21732,8 +21732,8 @@
 "gene_reaction_rule":"MBLCLPDI_00672",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21760,8 +21760,8 @@
 "gene_reaction_rule":"MBLCLPDI_00671",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21796,8 +21796,8 @@
 "gene_reaction_rule":"MBLCLPDI_01385",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21830,8 +21830,8 @@
 "gene_reaction_rule":"MBLCLPDI_00444",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21863,8 +21863,8 @@
 "gene_reaction_rule":"LLMG_RS05635_missing and MBLCLPDI_00775",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21891,8 +21891,8 @@
 "gene_reaction_rule":"MBLCLPDI_00368",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21922,8 +21922,8 @@
 "gene_reaction_rule":"MBLCLPDI_01524",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21957,8 +21957,8 @@
 "gene_reaction_rule":"MBLCLPDI_00261",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -21986,8 +21986,8 @@
 "gene_reaction_rule":"MBLCLPDI_00672",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22010,8 +22010,8 @@
 "gene_reaction_rule":"MBLCLPDI_00672",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22033,8 +22033,8 @@
 "gene_reaction_rule":"MBLCLPDI_00771",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22070,8 +22070,8 @@
 "gene_reaction_rule":"MBLCLPDI_00505",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22103,8 +22103,8 @@
 "gene_reaction_rule":"MBLCLPDI_00509",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22134,8 +22134,8 @@
 "gene_reaction_rule":"MBLCLPDI_00771",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22172,8 +22172,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22209,8 +22209,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22243,8 +22243,8 @@
 "gene_reaction_rule":"MBLCLPDI_01350",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22272,8 +22272,8 @@
 "gene_reaction_rule":"MBLCLPDI_00554",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22295,8 +22295,8 @@
 "gene_reaction_rule":"MBLCLPDI_01967",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22318,8 +22318,8 @@
 "gene_reaction_rule":"MBLCLPDI_01988",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22352,8 +22352,8 @@
 "gene_reaction_rule":"MBLCLPDI_01599",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22388,8 +22388,8 @@
 "gene_reaction_rule":"MBLCLPDI_01604 or MBLCLPDI_00786 or llmg_2518_missing or MBLCLPDI_00650 or MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_00845",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22414,8 +22414,8 @@
 "gene_reaction_rule":"MBLCLPDI_00235 and LLMG_RS12025_missing and LLMG_RS12035_missing",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22446,8 +22446,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22469,8 +22469,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22492,8 +22492,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22515,8 +22515,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22538,8 +22538,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22561,8 +22561,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22584,8 +22584,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22607,8 +22607,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{
@@ -22630,8 +22630,8 @@
 "gene_reaction_rule":"MBLCLPDI_00832",
 "notes":{
 "from":[
-"iNF517",
-"BBH"
+"BBH",
+"iNF517"
 ]
 },
 "annotation":{

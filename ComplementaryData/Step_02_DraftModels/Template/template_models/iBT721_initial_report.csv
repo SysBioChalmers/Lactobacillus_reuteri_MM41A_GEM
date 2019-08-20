@@ -824,31 +824,31 @@ rea	UDPG4E	UDPG4E		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)
 rea	VALTA	VALTA		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
 rea	VALt2r	VALt2r		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
 rea	YUMPS	YUMPS		id in bigg(bounds different)		(-1000.0, 1000.0)	(0.0, 1000.0)		
-rea	2MPAt6	2MPAt6		id in bigg(mets different)		h_c + isobut_c <=> h_e + isobut_e	2mpa_c + h_c --> 2mpa_e + h_e	[{'isobut_e', 'isobut_c'}, {'2mpa_c', '2mpa_e'}]	manual check
-rea	3MBAt6	3MBAt6		id in bigg(mets different)		h_c + isoval_c <=> h_e + isoval_e	3mba_c + h_c --> 3mba_e + h_e	[{'isoval_c', 'isoval_e'}, {'3mba_e', '3mba_c'}]	manual check
+rea	2MPAt6	2MPAt6		id in bigg(mets different)		h_c + isobut_c <=> h_e + isobut_e	2mpa_c + h_c --> 2mpa_e + h_e	[{'isobut_c', 'isobut_e'}, {'2mpa_c', '2mpa_e'}]	manual check
+rea	3MBAt6	3MBAt6		id in bigg(mets different)		h_c + isoval_c <=> h_e + isoval_e	3mba_c + h_c --> 3mba_e + h_e	[{'isoval_e', 'isoval_c'}, {'3mba_c', '3mba_e'}]	manual check
 rea	3MOBDC	3MOBDC		id in bigg(mets different)		3mob_c + h_c --> 2mpal_c + co2_c	3mob_c + h_c --> 2mppal_c + co2_c	[{'2mpal_c'}, {'2mppal_c'}]	manual check
 rea	4MOPDC	4MOPDC		id in bigg(mets different)		4mop_c + h_c --> 3mbal_c + co2_c	4mop_c + h_c --> 3mbald_c + co2_c	[{'3mbal_c'}, {'3mbald_c'}]	manual check
 rea	ACGALpts	ACGALpts		id in bigg(mets different)		acgal_e + pep_c --> acgal6p_c + pyr_c	acgala_e + pep_c --> acgal6p_c + pyr_c	[{'acgal_e'}, {'acgala_e'}]	manual check
 rea	ACODA	ACODA		id in bigg(mets different)		acorn_c + h2o_c --> ac_c + orn__L_c	acorn_c + h2o_c --> ac_c + orn_c	[{'orn__L_c'}, {'orn_c'}]	manual check
 rea	AHMMPS	AHMMPS		id in bigg(mets different)		air_c + h2o_c --> 4ahmmp_c + gcald_c + 0.5 o2_c + pi_c	air_c + 2.0 h_c --> 4ahmmp_c + gcald_c + pi_c	[{'h2o_c', 'o2_c'}, {'h_c'}]	manual check
 rea	ALATRS	ALATRS		id in bigg(mets different)		ala__L_c + atp_c + trnaala_c --> alatrna_c + amp_c + h_c + ppi_c	ala__L_c + atp_c + trnaala_c --> alatrna_c + amp_c + ppi_c	[{'h_c'}, set()]	manual check
-rea	APAT	APAT		id in bigg(mets different)		accoa_c + h2o_c + thdp_c <=> acamoxm_c + coa_c	atp_m + ppa_m --> ppad_m + ppi_m	[{'acamoxm_c', 'h2o_c', 'thdp_c', 'coa_c', 'accoa_c'}, {'ppa_m', 'ppad_m', 'atp_m', 'ppi_m'}]	manual check
+rea	APAT	APAT		id in bigg(mets different)		accoa_c + h2o_c + thdp_c <=> acamoxm_c + coa_c	atp_m + ppa_m --> ppad_m + ppi_m	[{'accoa_c', 'thdp_c', 'acamoxm_c', 'h2o_c', 'coa_c'}, {'atp_m', 'ppad_m', 'ppa_m', 'ppi_m'}]	manual check
 rea	ARGTRS	ARGTRS		id in bigg(mets different)		arg__L_c + atp_c + trnaarg_c --> amp_c + argtrna_c + h_c + ppi_c	arg__L_c + atp_c + trnaarg_c --> amp_c + argtrna_c + ppi_c	[{'h_c'}, set()]	manual check
 rea	ASNTRS	ASNTRS		id in bigg(mets different)		asn__L_c + atp_c + trnaasn_c --> amp_c + asntrna_c + h_c + ppi_c	asn__L_c + atp_c + trnaasn_c --> amp_c + asntrna_c + ppi_c	[{'h_c'}, set()]	manual check
 rea	ASPTRS	ASPTRS		id in bigg(mets different)		asp__L_c + atp_c + trnaasp_c --> amp_c + asptrna_c + h_c + ppi_c	asp__L_c + atp_c + trnaasp_c --> amp_c + asptrna_c + ppi_c	[{'h_c'}, set()]	manual check
-rea	ASPt6	ASPt6		id in bigg(mets different)		asp__L_e + h_e <=> asp__L_c + h_c	asp__L_e + h_e + k_c + 3.0 na1_e --> asp__L_c + h_c + k_e + 3.0 na1_c	[set(), {'na1_c', 'k_e', 'k_c', 'na1_e'}]	manual check
+rea	ASPt6	ASPt6		id in bigg(mets different)		asp__L_e + h_e <=> asp__L_c + h_c	asp__L_e + h_e + k_c + 3.0 na1_e --> asp__L_c + h_c + k_e + 3.0 na1_c	[set(), {'k_e', 'na1_e', 'k_c', 'na1_c'}]	manual check
 rea	BTDD_RR	BTDD_RR		id in bigg(mets different)		btd__RR_c + nad_c <=> actn__R_c + h_c + nadh_c	btd_RR_c + nad_c --> actn__R_c + h_c + nadh_c	[{'btd__RR_c'}, {'btd_RR_c'}]	manual check
 rea	CYSTGL	CYSTGL		id in bigg(mets different)		cysth__L_c + h2o_c --> 2obut_c + cys__L_c + nh4_c	cyst__L_c + h2o_c --> 2obut_c + cys__L_c + nh4_c	[{'cysth__L_c'}, {'cyst__L_c'}]	manual check
 rea	CYSTL	CYSTL		id in bigg(mets different)		cysth__L_c + h2o_c --> hcys__L_c + nh4_c + pyr_c	cyst__L_c + h2o_c --> hcys__L_c + nh4_c + pyr_c	[{'cysth__L_c'}, {'cyst__L_c'}]	manual check
 rea	CYSTRS	CYSTRS		id in bigg(mets different)		atp_c + cys__L_c + trnacys_c --> amp_c + cystrna_c + h_c + ppi_c	atp_c + cys__L_c + trnacys_c --> amp_c + cystrna_c + ppi_c	[{'h_c'}, set()]	manual check
 rea	DHNPA	DHNPA		id in bigg(mets different)		dhnpt_c --> 2ahhmp_c + gcald_c	dhnpt_c --> 2ahhmp_c + gcald_c + h_c	[set(), {'h_c'}]	manual check
-rea	DHPS3	DHPS3		id in bigg(mets different)		2ahhmd_c + 4abz_c --> dhpt_c + ppi_c	6hmhptpp_c + Brfap_c --> dhrfap_c + ppi_c	[{'2ahhmd_c', '4abz_c', 'dhpt_c'}, {'dhrfap_c', '6hmhptpp_c', 'Brfap_c'}]	manual check
+rea	DHPS3	DHPS3		id in bigg(mets different)		2ahhmd_c + 4abz_c --> dhpt_c + ppi_c	6hmhptpp_c + Brfap_c --> dhrfap_c + ppi_c	[{'2ahhmd_c', '4abz_c', 'dhpt_c'}, {'6hmhptpp_c', 'dhrfap_c', 'Brfap_c'}]	manual check
 rea	DNMPPA	DNMPPA		id in bigg(mets different)		dhpmp_c + h2o_c --> dhnpt_c + h_c + pi_c	dhpmp_c + h2o_c --> dhnpt_c + pi_c	[{'h_c'}, set()]	manual check
 rea	DNTPPA	DNTPPA		id in bigg(mets different)		ahdt_c + h2o_c --> dhpmp_c + ppi_c	ahdt_c + h2o_c --> dhpmp_c + h_c + ppi_c	[set(), {'h_c'}]	manual check
 rea	FLVR	FLVR		id in bigg(mets different)		h_c + nadph_c + ribflv_c --> nadp_c + ribflvRD_c	h_c + nadph_c + ribflv_c --> nadp_c + rbflvrd_c	[{'ribflvRD_c'}, {'rbflvrd_c'}]	manual check
 rea	FTHFCL	FTHFCL		id in bigg(mets different)		5fothf_c + atp_c --> adp_c + methf_c + pi_c	5fthf_c + atp_c --> adp_c + methf_c + pi_c	[{'5fothf_c'}, {'5fthf_c'}]	manual check
-rea	G3PD1	G3PD1		id in bigg(mets different)		glyc3p_c + nad_c <=> dhap_c + h_c + nadh_c	dhap_h + h_h + nadh_h --> glyc3p_h + nad_h	[{'dhap_c', 'nad_c', 'h_c', 'glyc3p_c', 'nadh_c'}, {'glyc3p_h', 'dhap_h', 'nadh_h', 'nad_h', 'h_h'}]	manual check
-rea	G3PO	G3PO		id in bigg(mets different)		glyc3p_c + o2_c --> dhap_c + h2o2_c	dhap_h + h2o2_h --> glyc3p_h + o2_h	[{'glyc3p_c', 'dhap_c', 'o2_c', 'h2o2_c'}, {'dhap_h', 'h2o2_h', 'glyc3p_h', 'o2_h'}]	manual check
+rea	G3PD1	G3PD1		id in bigg(mets different)		glyc3p_c + nad_c <=> dhap_c + h_c + nadh_c	dhap_h + h_h + nadh_h --> glyc3p_h + nad_h	[{'h_c', 'dhap_c', 'nadh_c', 'nad_c', 'glyc3p_c'}, {'nad_h', 'h_h', 'nadh_h', 'glyc3p_h', 'dhap_h'}]	manual check
+rea	G3PO	G3PO		id in bigg(mets different)		glyc3p_c + o2_c --> dhap_c + h2o2_c	dhap_h + h2o2_h --> glyc3p_h + o2_h	[{'dhap_c', 'h2o2_c', 'glyc3p_c', 'o2_c'}, {'dhap_h', 'o2_h', 'h2o2_h', 'glyc3p_h'}]	manual check
 rea	G6PI	G6PI		id in bigg(mets different)		g6p_c <=> g6p__B_c	g6p_c --> g6p_B_c	[{'g6p__B_c'}, {'g6p_B_c'}]	manual check
 rea	GLUTRS	GLUTRS		id in bigg(mets different)		atp_c + glu__L_c + trnaglu_c --> amp_c + glutrna_c + h_c + ppi_c	atp_c + glu__L_c + trnaglu_c --> amp_c + glutrna_c + ppi_c	[{'h_c'}, set()]	manual check
 rea	GLYTRS	GLYTRS		id in bigg(mets different)		atp_c + gly_c + trnagly_c --> amp_c + glytrna_c + h_c + ppi_c	atp_c + gly_c + trnagly_c --> amp_c + glytrna_c + ppi_c	[{'h_c'}, set()]	manual check
@@ -861,13 +861,13 @@ rea	ILETRS	ILETRS		id in bigg(mets different)		atp_c + ile__L_c + trnaile_c --> 
 rea	LEUTRS	LEUTRS		id in bigg(mets different)		atp_c + leu__L_c + trnaleu_c --> amp_c + h_c + leutrna_c + ppi_c	atp_c + leu__L_c + trnaleu_c --> amp_c + leutrna_c + ppi_c	[{'h_c'}, set()]	manual check
 rea	LYSTRS	LYSTRS		id in bigg(mets different)		atp_c + lys__L_c + trnalys_c --> amp_c + h_c + lystrna_c + ppi_c	atp_c + lys__L_c + trnalys_c --> amp_c + lystrna_c + ppi_c	[{'h_c'}, set()]	manual check
 rea	METTRS	METTRS		id in bigg(mets different)		atp_c + met__L_c + trnamet_c --> amp_c + h_c + mettrna_c + ppi_c	atp_c + met__L_c + trnamet_c --> amp_c + mettrna_c + ppi_c	[{'h_c'}, set()]	manual check
-rea	MOCOS	MOCOS		id in bigg(mets different)		MPT_c <=> Moco_c	2.0 h_c + mobd_c + mptamp_c --> amp_c + cu2_c + h2o_c + moco_c	[{'Moco_c', 'MPT_c'}, {'mptamp_c', 'mobd_c', 'h2o_c', 'cu2_c', 'amp_c', 'moco_c', 'h_c'}]	manual check
-rea	MPTS	MPTS		id in bigg(mets different)		2.0 MCOSH_c + PreZ_c + h2o_c --> 2.0 MCOOH_c + MPT_c + 3.0 h_c	cpmp_c + cu2_c + 2.0 moadcosh_c --> 5.0 h_c + 2.0 moadcoo_c + mpt_c	[{'h2o_c', 'MCOOH_c', 'PreZ_c', 'MCOSH_c', 'MPT_c'}, {'mpt_c', 'cu2_c', 'moadcosh_c', 'moadcoo_c', 'cpmp_c'}]	manual check
+rea	MOCOS	MOCOS		id in bigg(mets different)		MPT_c <=> Moco_c	2.0 h_c + mobd_c + mptamp_c --> amp_c + cu2_c + h2o_c + moco_c	[{'MPT_c', 'Moco_c'}, {'mobd_c', 'amp_c', 'cu2_c', 'h_c', 'h2o_c', 'mptamp_c', 'moco_c'}]	manual check
+rea	MPTS	MPTS		id in bigg(mets different)		2.0 MCOSH_c + PreZ_c + h2o_c --> 2.0 MCOOH_c + MPT_c + 3.0 h_c	cpmp_c + cu2_c + 2.0 moadcosh_c --> 5.0 h_c + 2.0 moadcoo_c + mpt_c	[{'MPT_c', 'MCOSH_c', 'h2o_c', 'MCOOH_c', 'PreZ_c'}, {'mpt_c', 'cu2_c', 'moadcoo_c', 'moadcosh_c', 'cpmp_c'}]	manual check
 rea	OCBT	OCBT		id in bigg(mets different)		cbp_c + orn__L_c <=> citr__L_c + h_c + pi_c	cbp_c + orn_c --> citr__L_c + h_c + pi_c	[{'orn__L_c'}, {'orn_c'}]	manual check
 rea	ORNTAC	ORNTAC		id in bigg(mets different)		acorn_c + glu__L_c <=> acglu_c + orn__L_c	acorn_c + glu__L_c --> acglu_c + orn_c	[{'orn__L_c'}, {'orn_c'}]	manual check
-rea	PGMT_B	PGMT_B		id in bigg(mets different)		g6p__B_c <=> g1p__B_c	g6p_B_c --> g1p_B_c	[{'g1p__B_c', 'g6p__B_c'}, {'g1p_B_c', 'g6p_B_c'}]	manual check
+rea	PGMT_B	PGMT_B		id in bigg(mets different)		g6p__B_c <=> g1p__B_c	g6p_B_c --> g1p_B_c	[{'g6p__B_c', 'g1p__B_c'}, {'g6p_B_c', 'g1p_B_c'}]	manual check
 rea	PHETRS	PHETRS		id in bigg(mets different)		atp_c + phe__L_c + trnaphe_c --> amp_c + h_c + phetrna_c + ppi_c	atp_c + phe__L_c + trnaphe_c --> amp_c + phetrna_c + ppi_c	[{'h_c'}, set()]	manual check
-rea	PRAI	PRAI		id in bigg(mets different)		pran_c <=> 2cpr5p_c	pran_h --> 2cpr5p_h	[{'pran_c', '2cpr5p_c'}, {'pran_h', '2cpr5p_h'}]	manual check
+rea	PRAI	PRAI		id in bigg(mets different)		pran_c <=> 2cpr5p_c	pran_h --> 2cpr5p_h	[{'pran_c', '2cpr5p_c'}, {'2cpr5p_h', 'pran_h'}]	manual check
 rea	PRAIS	PRAIS		id in bigg(mets different)		atp_c + fpram_c --> adp_c + air_c + h_c + pi_c	atp_c + fpram_c --> adp_c + air_c + 2.0 h_c + pi_c	[set(), set()]	manual check
 rea	PRAMPC	PRAMPC		id in bigg(mets different)		h2o_c + h_c + prbamp_c --> prfp_c	h2o_c + prbamp_c --> prfp_c	[{'h_c'}, set()]	manual check
 rea	PRFGS	PRFGS		id in bigg(mets different)		atp_c + fgam_c + gln__L_c + h2o_c --> adp_c + fpram_c + glu__L_c + 2.0 h_c + pi_c	atp_c + fgam_c + gln__L_c + h2o_c --> adp_c + fpram_c + glu__L_c + h_c + pi_c	[set(), set()]	manual check
@@ -875,7 +875,7 @@ rea	PROTRS	PROTRS		id in bigg(mets different)		atp_c + pro__L_c + trnapro_c --> 
 rea	PSUDS	PSUDS		id in bigg(mets different)		r5p_c + ura_c --> h2o_c + psd5p_c	2.0 h_c + r5p_c + ura_c --> h2o_c + psd5p_c	[set(), {'h_c'}]	manual check
 rea	PYDXK	PYDXK		id in bigg(mets different)		atp_c + pydx_c --> adp_c + 2.0 h_c + pydx5p_c	atp_c + pydx_c --> adp_c + h_c + pydx5p_c	[set(), set()]	manual check
 rea	PYDXPP	PYDXPP		id in bigg(mets different)		h2o_c + h_c + pydx5p_c --> pi_c + pydx_c	h2o_c + pydx5p_c --> pi_c + pydx_c	[{'h_c'}, set()]	manual check
-rea	PYROX	PYROX		id in bigg(mets different)		h_c + o2_c + pi_c + pyr_c --> actp_c + co2_c + h2o2_c	h_c + nadh_c + o2_c + ura_c --> nad_c + uracp_c	[{'pi_c', 'co2_c', 'pyr_c', 'actp_c', 'h2o2_c'}, {'ura_c', 'nadh_c', 'nad_c', 'uracp_c'}]	manual check
+rea	PYROX	PYROX		id in bigg(mets different)		h_c + o2_c + pi_c + pyr_c --> actp_c + co2_c + h2o2_c	h_c + nadh_c + o2_c + ura_c --> nad_c + uracp_c	[{'h2o2_c', 'actp_c', 'co2_c', 'pi_c', 'pyr_c'}, {'nadh_c', 'nad_c', 'uracp_c', 'ura_c'}]	manual check
 rea	SERTRS	SERTRS		id in bigg(mets different)		atp_c + ser__L_c + trnaser_c --> amp_c + h_c + ppi_c + sertrna_c	atp_c + ser__L_c + trnaser_c --> amp_c + ppi_c + sertrna_c	[{'h_c'}, set()]	manual check
 rea	TDPDRR	TDPDRR		id in bigg(mets different)		dtdp6dm_c + nadp_c <=> dtdp4d6dm_c + h_c + nadph_c	dtdp4d6dm_c + h_c + nadph_c --> dtdprmn_c + nadp_c	[{'dtdp6dm_c'}, {'dtdprmn_c'}]	manual check
 rea	TDPGDH	TDPGDH		id in bigg(mets different)		dtdpglc_c --> dtdp4d6dg_c + h2o_c	dtdpglu_c --> dtdp4d6dg_c + h2o_c	[{'dtdpglc_c'}, {'dtdpglu_c'}]	manual check
@@ -883,7 +883,7 @@ rea	THRTRS	THRTRS		id in bigg(mets different)		atp_c + thr__L_c + trnathr_c --> 
 rea	TRPTRS	TRPTRS		id in bigg(mets different)		atp_c + trnatrp_c + trp__L_c --> amp_c + h_c + ppi_c + trptrna_c	atp_c + trnatrp_c + trp__L_c --> amp_c + ppi_c + trptrna_c	[{'h_c'}, set()]	manual check
 rea	TYRTRS	TYRTRS		id in bigg(mets different)		atp_c + trnatyr_c + tyr__L_c --> amp_c + h_c + ppi_c + tyrtrna_c	atp_c + trnatyr_c + tyr__L_c --> amp_c + ppi_c + tyrtrna_c	[{'h_c'}, set()]	manual check
 rea	UAAGLS1	UAAGLS1		id in bigg(mets different)		atp_c + lys__L_c + uamag_c --> adp_c + 2.0 h_c + pi_c + uAgl_c	atp_c + lys__L_c + uamag_c --> adp_c + h_c + pi_c + uAgl_c	[set(), set()]	manual check
-rea	UGMDDS2	UGMDDS2		id in bigg(mets different)		alalac_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmdalac_c	alaala_c + atp_c + uggmd_c --> adp_c + h_c + pi_c + uggmda_c	[{'ugmd_c', 'ugmdalac_c', 'alalac_c'}, {'uggmd_c', 'alaala_c', 'uggmda_c'}]	manual check
+rea	UGMDDS2	UGMDDS2		id in bigg(mets different)		alalac_c + atp_c + ugmd_c --> adp_c + h_c + pi_c + ugmdalac_c	alaala_c + atp_c + uggmd_c --> adp_c + h_c + pi_c + uggmda_c	[{'ugmd_c', 'ugmdalac_c', 'alalac_c'}, {'alaala_c', 'uggmda_c', 'uggmd_c'}]	manual check
 rea	VALTRS	VALTRS		id in bigg(mets different)		atp_c + trnaval_c + val__L_c --> amp_c + h_c + ppi_c + valtrna_c	atp_c + trnaval_c + val__L_c --> amp_c + ppi_c + valtrna_c	[{'h_c'}, set()]	manual check
 rea	3MOPDC	3MOPDC		id in bigg(same)					
 rea	ABTA	ABTA		id in bigg(same)					
