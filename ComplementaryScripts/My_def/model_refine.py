@@ -51,7 +51,7 @@ def remove_useless_genes(model1):
     return model
 
 
-def remove_dup_rea(model1, remove = False ,skip_met = []):
+def check_duplicate_rea(model1, cofacters_set,remove = False , ):
     model = model1.copy()
     rea_id = []
     rea_mets = []
@@ -60,10 +60,11 @@ def remove_dup_rea(model1, remove = False ,skip_met = []):
         rea_id.append(rea.id)
         rea_me = set()
         for  i in rea.metabolites:
-            rea_me.add(i.id)
+            if i.id not in cofacters_set:
+                rea_me.add(i.id)
         rea_mets.append(str(rea_me))
 
-    rea_pd = pd.DataFrame(zip(rea_id,rea_mets),columns=['id','mets']).sort_values(by = ['mets'])
+    rea_pd = pd.DataFrame(list(zip(rea_id,rea_mets)),columns=['id','mets']).sort_values(by = ['mets'])
 
     check_df = rea_pd[rea_pd['mets'].duplicated(keep = False)]
     return check_df

@@ -16,7 +16,7 @@ import re
 import My_def
 import cobra
 from importlib import  reload
-#reload(My_def)
+reload(My_def)
 
 pd.set_option('display.max_rows', 500)
 pd.set_option('display.max_columns', 500)
@@ -68,55 +68,8 @@ def add_inf517_etb_rea(Lreu_draft_2,iNF517):
             rea.notes['from'] = ['iNF517','atp']
             Lreu_draft_2.add_reaction(rea)
             reaset.add(rea.id)
+
     return Lreu_draft_2
-
-
-def remove_sepcical_dup(Lreu_draft_3_refined):
-    #case '_1' or '_2' in reaid compare and keep only one
-
-    # use:Lreu_draft_3_refined = remove_sepcical_dup(Lreu_draft_3_refined)
-
-    model = Lreu_draft_3_refined.copy()
-    for rea in model.reactions:
-
-        if rea.id.endswith('_1') or rea.id.endswith('_2'):
-
-            try:
-                rea2 = Lreu_draft_3_refined.reactions.get_by_id(re.sub('_.$','',rea.id))
-                if rea2.reaction == rea.reaction:
-                    # keep no _1 or _2 (rea2) one
-                    rea2.gene_reaction_rule = My_def.merge_model.merge_gprule(rea.gene_reaction_rule, rea2.gene_reaction_rule)
-                    rea2.notes['from'] = rea2.notes['from']+rea.notes['from']
-                    rea2.notes['from'] = list(set(rea2.notes['from']))
-
-                    rea.remove_from_model()
-
-                else:
-                    # keep have _1 or _2 (rea) one
-                    #print(rea)
-                    #print(rea2)
-
-                    # manual checked:just keep only one (iMl1515 one)
-                    #pass
-                    #GLUTRS_2: atp_c + glu__L_c + trnaglu_c --> amp_c + glutrna_c + h_c + ppi_c
-                    # GLUTRS: atp_c + glu__L_c + trnaglu_c --> amp_c + glutrna_c + ppi_c
-                    # PRAIS_1: atp_c + fpram_c --> adp_c + air_c + h_c + pi_c
-                    # PRAIS: atp_c + fpram_c --> adp_c + air_c + 2.0 h_c + pi_c
-                    # TDPDRR_1: dtdprmn_c + nadp_c <=> dtdp4d6dm_c + h_c + nadph_c
-                    # TDPDRR: dtdp4d6dm_c + h_c + nadph_c --> dtdprmn_c + nadp_c
-
-                    rea.gene_reaction_rule = My_def.merge_model.merge_gprule(rea.gene_reaction_rule, rea2.gene_reaction_rule)
-                    rea.notes['from'] = rea2.notes['from']+rea.notes['from']
-                    rea.notes['from'] = list(set(rea.notes['from']))
-
-                    if rea.bounds==(0,0):
-                        rea.bounds = rea2.bounds
-
-                    rea2.remove_from_model()
-
-            except  KeyError:
-                pass
-    return model
 
 
 # %% <general step: load data: seqs, template models >
@@ -126,13 +79,17 @@ os.chdir('../../ComplementaryData/Step_02_DraftModels/Template/')
 os.system('cp ../../Step_01_Sequences_analysis/Lreuteri_biogaia_v03/Lreuteri_biogaia_v03.faa ../Lreuteri_biogaia_v03_2.faa')
 
 Lreu_seq = '../Lreuteri_biogaia_v03_2.faa'
+
 iNF517_seq = 'template_seqs/iNF517.faa'
 iBT721_seq = 'template_seqs/iBT721.faa'
 iML1515_seq = 'template_seqs/iML1515.faa'
+Lreuteri_530_seq = 'template_seqs/Lreuteri_530.faa'
 
 iNF517 = cobra.io.load_json_model('template_models/iNF517_standlized.json')
 iBT721 = cobra.io.load_json_model('template_models/iBT721_standlized.json')
 iML1515 = cobra.io.load_json_model('template_models/iML1515_standlized.json')
+Lreuteri_530 = cobra.io.load_json_model('template_models/Lreuteri_530_standlized.json')
+
 
 # %% <general step: blast and get draft models. steps details could be find in in get_Lreu_from_tp function (above)>
 
@@ -140,26 +97,29 @@ print('----- blasting and geting draft models  -----')
 Lreu_from_iNF517 = get_Lreu_from_tp(Lreu_seq,iNF517_seq,iNF517)
 Lreu_from_iBT721 = get_Lreu_from_tp(Lreu_seq,iBT721_seq,iBT721)
 Lreu_from_iML1515 = get_Lreu_from_tp(Lreu_seq,iML1515_seq,iML1515)
-
+Lreu_from_Lreuteri_530 = get_Lreu_from_tp(Lreu_seq,Lreuteri_530_seq,Lreuteri_530)
 
 # %% <special step: process Lreu_from_iML1515 (have periplasm(_p) compartment)>
 
 Lreu_from_iML1515 = My_def.model_refine.remove_compartment(Lreu_from_iML1515,compartment = '_p')
 
 
-# %% <general step: add 'from' notes and save models>
+# %% <general step: add reaction 'from' notes and save models>
 
 Lreu_from_iNF517.id = 'Lreu_from_iNF517'
 Lreu_from_iBT721.id = 'Lreu_from_iBT721'
 Lreu_from_iML1515.id = 'Lreu_from_iML1515'
+Lreu_from_Lreuteri_530.id = 'Lreu_from_iML1515'
 
 My_def.merge_model.note_model_from(Lreu_from_iNF517, ['iNF517','BBH'])
 My_def.merge_model.note_model_from(Lreu_from_iBT721, ['iBT721','BBH'])
 My_def.merge_model.note_model_from(Lreu_from_iML1515, ['iML1515','BBH'])
+My_def.merge_model.note_model_from(Lreu_from_Lreuteri_530, ['Lreu_from_Lreuteri_530','BBH'])
 
 cobra.io.save_json_model(Lreu_from_iNF517,'Lreu_from_iNF517.json',sort=True)
 cobra.io.save_json_model(Lreu_from_iBT721,'Lreu_from_iBT721.json',sort=True)
 cobra.io.save_json_model(Lreu_from_iML1515,'Lreu_from_iML1515.json',sort=True)
+cobra.io.save_json_model(Lreu_from_Lreuteri_530,'Lreu_from_Lreuteri_530.json',sort=True)
 
 
 # %% <general step: select a main model, iNF517>
@@ -173,16 +133,24 @@ cobra.io.save_json_model(Lreu_draft_1,'Lreu_draft_1.json',sort='True')
 # %% <general step: merge models, add unique reactions from other templates, iML1515 and iBT721>
 
 #   option 1
-# by cobra function
+#   by cobra function
 #filed
 #Lreu = Lreu.merge(Lreu_from_iML1515,inplace=False)
 #Lreu = Lreu.merge(Lreu_from_iBT721,inplace=False)
 
 #   option 2
 # by def function
-Lreu_draft_2, report_df = My_def.merge_model.merge_draftmodels(Lreu_draft_1,Lreu_from_iML1515)
-Lreu_draft_2, report_df = My_def.merge_model.merge_draftmodels(Lreu_draft_2,Lreu_from_iBT721)
 
+
+#Lreu_draft_2, report_df = My_def.merge_model.merge_draftmodels(Lreu_draft_1,Lreu_from_Lreuteri_530)
+print('\033[1;31;47m'+'Draft model compare with iML1515 report (same reaid , differetnt equation)')
+Lreu_draft_2, report_df_from_iML1515 = My_def.merge_model.merge_draftmodels(Lreu_draft_1,Lreu_from_iML1515)
+print('\033[1;31;47m'+'Draft model compare with iML1515 report (same reaid , differetnt equation')
+Lreu_draft_2, report_df_from_1BT721 = My_def.merge_model.merge_draftmodels(Lreu_draft_2,Lreu_from_iBT721)
+print('\033[1;31;47m'+'Draft model compare with iML1515 report (same reaid , differetnt equation')
+Lreu_draft_2, report_df_from_1BT721 = My_def.merge_model.merge_draftmodels(Lreu_draft_2,Lreu_from_Lreuteri_530)
+
+print('\033[0;34;48m')
 
 # %% <general step: add exchange transport and biomass reactions >
     # code not general, depends on template model ex tran bio reaction ids
@@ -250,65 +218,8 @@ print('Lreu_draft_3 Biomass:',Lreu_draft_3.optimize())
 cobra.io.save_json_model(Lreu_draft_3,'Lreu_draft_3.json',sort='True')
 
 
-# %% <general step: refine the model check duplications >
-
-print('----- Refine  -----')
-# case: special '_1' or '_2' in reaid compare and keep only one
-
-Lreu_draft_3_refined = Lreu_draft_3.copy()
-Lreu_draft_3_refined = remove_sepcical_dup(Lreu_draft_3_refined)
-
-
-# case: general check duplaction
-
-check_df = My_def.model_refine.remove_dup_rea(Lreu_draft_3_refined, remove = False ,skip_met = [])
-#print(check_df)
-
-check_id = list(check_df['id'])
-print('Duplicate reactions: ')
-for i in list(check_id):
-    rea = Lreu_draft_3_refined.reactions.get_by_id(i)
-    print(rea,rea.bounds,rea.gene_reaction_rule,rea.notes)
-
-# Manual Check: get the list from above report
-# keep_move_dic{keep: remove}
-
-keep_move_dic = {
-                'GNKr':'GNK',
-                'FOLD3':'DHPS3',
-                'ATPM':'NTP1',
-                'MPL':'MLTP4',
-                'YUMPS':'PSUDS',
-                'G3PD1ir':'G3PD1',
-                'P5CR':'P5CRr',
-                'PROTS_LRE':'PROTS_LRE_v2',
-                'PRAIS_1':'PRAIS',
-                'PROTRS_1':'PROTRS',
-                'TDPDRR_1':'TDPDRR',
-                                        }
-
-for k,v in keep_move_dic.items():
-    rea1 = Lreu_draft_3_refined.reactions.get_by_id(k)
-    rea2 = Lreu_draft_3_refined.reactions.get_by_id(v)
-    rea1.gene_reaction_rule = My_def.merge_model.merge_gprule(rea1.gene_reaction_rule, rea2.gene_reaction_rule)
-    rea1.notes['from'] = list(set(rea1.notes['from']+rea2.notes['from']))
-    Lreu_draft_3_refined.reactions.get_by_id(v).remove_from_model()
-
-
-# %% <general step: check bounds == (0.0,0.0) >
-check_bounds_set = set()
-for i in Lreu_draft_3_refined.reactions:
-    if i.bounds == (0.0,0.0):
-        check_bounds_set.add(i.id)
-
-
-# %% <general step: remove remove_useless_mets >
-
-Lreu_draft_3_refined = My_def.model_refine.remove_useless_mets(Lreu_draft_3_refined)
-Lreu_draft_3_refined = My_def.model_refine.remove_useless_genes(Lreu_draft_3_refined)
-
-# %% <save >
-cobra.io.save_json_model(Lreu_draft_3_refined,'Lreu_draft_3_refined.json',sort='True')
-
-
 print('=====  Done =====')
+
+
+
+

@@ -157,7 +157,8 @@ if  __name__ == '__main__':
     bigg_met_df = pd.read_csv('../../../bigg_database/bigg_met_df.csv', sep='\t')
     #bigg_model = cobra.io.read_sbml_model('../../../bigg_database/universe_draft.xml')
 
-    case = ['iBT721','iNF517','iML1515']
+    case = ['iBT721','iNF517','iML1515','Lreuteri_530']       #['iBT721','iNF517','iML1515']
+
     # %% <iBT721 standardization>
     if 'iBT721' in case:
         print('----- Processing iBT721 -----')
@@ -228,13 +229,34 @@ if  __name__ == '__main__':
         iML1515_initial_report.to_csv('iML1515_initial_report.csv', sep='\t', index=False)
         #cobra.io.save_json_model(iML1515, iML1515.id + '_standlized.json')
 
+    if 'Lreuteri_530' in case:
+        print('----- Processing Lreuteri_530 -----')
+        Lreuteri_530 = cobra.io.read_sbml_model('Lreuteri_530.xml')
+        Lreuteri_530.id = 'Lreuteri_530'
+
+        met_report_df = met_report(Lreuteri_530, bigg_met_df, compartment='_')
+        Lreuteri_530 = standardlize_met(Lreuteri_530, met_report_df)
+        rea_report_df = rea_report(Lreuteri_530, bigg_rea_df)
+        Lreuteri_530 = standardlize_rea(Lreuteri_530, rea_report_df)
+        Lreuteri_530.reactions.get_by_id('THRt2r').id = 'THRt2'
+        Lreuteri_530.reactions.get_by_id('LEUt2r').id = 'LEUt2'
+
+        # save
+        Lreuteri_530_initial_report = met_report_df.append(rea_report_df)
+        Lreuteri_530_initial_report.to_csv('Lreuteri_530_initial_report.csv', sep='\t', index=False)
+
+
+        cobra.io.save_json_model(Lreuteri_530, Lreuteri_530.id + '_standlized.json')
+
+
     # %% <Manual handling> Manual handling according to the reports
-    #
+    # beacuse of the BIGG database id not unique(same met or rea have more id), there are some mets- and rea- id not unique we found. we need to
+    # combine them  into one id.
     print('----- Manual handling -----')
-    modellist = ['iNF517','iBT721','iML1515']
+    modellist =['iNF517','iBT721','iML1515','Lreuteri_530']         #['iNF517','iBT721','iML1515']
 
     # remove met id duplactions
-    manual_dic = {'g6p_B_c':'g6p__B_c',
+    manual_merge_met_dic = {'g6p_B_c':'g6p__B_c',
                   'g1p_B_c':'g1p__B_c',
                   '5fthf_c':'5fothf_c',
                   'glcn_c':'glcn__D_c',
@@ -253,17 +275,67 @@ if  __name__ == '__main__':
                   }
 
     for model in modellist:
-        for k,v in manual_dic.items():
+        print('----- Merge Duplicate mets Processing %s -----'%model)
+        for k,v in manual_merge_met_dic.items():
             locals()[model] = My_def.merge_model.merge_metabolitesid(locals()[model], k, v)
+    # %%
+    manual_merge_rea_dic = {
+                "PRAIS" : "PRAIS_1",
+                "HEX1":"GLUK",
+                "GNK":"GNKr",
+                "CTPS1":"CTPS1__1",
+                "GLUCYS":"GLUCYSL",
+                "ATPM":"NTP1",
+                "FOLD3":"DHPS3",
+                "MPL":"MLTP4",
+                "LACZ":"GALSZ",
+                "PHETA1":"ASPTA6",
+                "ADNUC":"PNS1",
+                "PPGPPDP":"G35DP",
+                "GNNUC":"PNS2",
+                "INSH":"PNS3",
+                "XTSNH":"PNS4",
+                "URIH":"PYRNS1",
+                "G3PD1ir":"G3PD1",
+                "TDPDRR":"TDPDRR_1",
+                "GLUt2r":"GLUt6",
+                "DHPPDA":"DHPPDA__1",
+                "GALt2":"GALt",
+                "MALTt2":"MALTt",
+                "THRt2r":"THRt3",
+                "TYRt2r":"TYRt6",
+                "LEUt2r":"LEUt6",
+                "LYSt2r":"LYSt6",
+                "P5CR":"P5CRr",
+                "PTA2":"PDUL",
+                "PROTRS":"PROTRS_1",
+                "YUMPS":"PSUDS",
+                'PROTS_LRE':'PROTS_LRE_v2',
+                'MALt2r':'MALt6',
+                "GLUTRS" : "GLUTRS_2",
+                "ILEt2r":"ILEt6",
+                #"LEUt2r":"LEUt2",
+                "FMETTRS":"FMETTRS_1",
+                                        }
+    #Lreuteri_530reaction id: THRt2r and THRt3 removed last one!!! check it by hand!!!
+    #Lreuteri_530reaction id: LEUt2r and LEUt6 removed last one!!! check it by hand!!!
+
+    for model in modellist:
+        print('----- Merge Duplicate reas Processing %s -----'%model)
+        for k,v in manual_merge_rea_dic.items():
+            locals()[model] = My_def.merge_model.merge_reactionsid(locals()[model], k, v)
+
+
     # %% save
     print('----- Save models -----')
     cobra.io.save_json_model(iBT721, iBT721.id + '_standlized.json')
     cobra.io.save_json_model(iNF517, iNF517.id + '_standlized.json')
     cobra.io.save_json_model(iML1515, iML1515.id + '_standlized.json')
-
+    cobra.io.save_json_model(Lreuteri_530, Lreuteri_530.id + '_standlized.json')
     # %% <seq processing>
 
     print('----- seq processing -----')
+
     os.chdir('../template_seqs/')
 
     # %%
@@ -273,7 +345,9 @@ if  __name__ == '__main__':
                     'iNF517',
                     'iMP429',
                     'iYO844',
-                    'iML1515']
+                    'iML1515',
+                    'Lreuteri_530'
+                    ]
 
     for i in templatelist:
         gbk_file = i + '.gbff'

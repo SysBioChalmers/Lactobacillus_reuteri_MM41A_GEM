@@ -145,9 +145,10 @@ def merge_draftmodels(model1, model2, inplace = False):
         data.append(rowlist)
     report_df = pd.DataFrame(data,index=None,columns = ['rea_id', 'add_skip','describ','fea1','fea2','dif'])
 
-    print('\033[0;31;47m')
+    print('\033[1;34;47m')
     print('mets different reaction list')
     print(report_df[report_df['describ'].str.contains('mets different')])
+
     #display(report_df[report_df['describ'].str.contains('mets different')])
 
     return model.copy(),report_df
@@ -168,6 +169,24 @@ def merge_metabolitesid(model1, new_id, old_id):
         print(new_id + ' already in model!!!')
 
     except KeyError:
+        print(old_id + ' not in model!!! skiped')
+
+    return model
+def merge_reactionsid(model1, new_id, old_id):
+    model = model1.copy()
+
+    try:
+        model.reactions.get_by_id(old_id).id = new_id
+
+    except ValueError:
+
+        print('\033[1;34;47m')
+        print(model.id + 'reaction id: '+new_id+ " and " + old_id + ' removed last one!!! check it by hand!!!')
+        print('\033[0;30;48m')
+        model.reactions.get_by_id(old_id).remove_from_model()
+
+    except KeyError:
+        pass
         print(old_id + ' not in model!!! skiped')
 
     return model

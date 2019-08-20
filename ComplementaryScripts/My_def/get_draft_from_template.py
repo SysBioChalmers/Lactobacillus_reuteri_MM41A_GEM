@@ -22,8 +22,8 @@ def get_draft_from_template(tp_model1, blase_result_df,remove_missing_genes = Tr
     tp_model = tp_model1.copy()
     model = cobra.Model()
     model.description = 'GEM from template' + tp_model.id
-    tp_gene_list = blase_result_df['qseqid'].to_list()
-    my_gene_list = blase_result_df['sseqid'].to_list()
+    tp_gene_list = blase_result_df['qseqid'].tolist()
+    my_gene_list = blase_result_df['sseqid'].tolist()
 
     for rea in tp_model.reactions:
 
