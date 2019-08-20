@@ -1,0 +1,774 @@
+THRt4pp	na1_p + thr__L_p <=> na1_c + thr__L_c	0	-1000.0	1000.0	
+NTPTP2	gtp_c + h2o_c <=> gsn_c + pppi_c	0	-1000.0	1000.0	
+ASNN	asn__L_c + h2o_c <=> asp__L_c + nh4_c	0	-1000.0	1000.0	
+ACGK	acglu_c + atp_c <=> acg5p_c + adp_c	0	-1000.0	1000.0	
+TPI	dhap_c <=> g3p_c	0	-1000.0	1000.0	
+HSST	hom__L_c + succoa_c <=> coa_c + suchms_c	0	-1000.0	1000.0	
+GART	atp_c + for_c + gar_c <=> adp_c + fgam_c + h_c + pi_c	0	-1000.0	1000.0	
+ARGSS	asp__L_c + atp_c + citr__L_c <=> amp_c + argsuc_c + h_c + ppi_c	0	-1000.0	1000.0	
+KARA1	23dhmb_c + nadp_c <=> alac__S_c + h_c + nadph_c	0	-1000.0	1000.0	
+CYSTL	cyst__L_c + h2o_c <=> hcys__L_c + nh4_c + pyr_c	0	-1000.0	1000.0	
+CU2tpp	cu2_p <=> cu2_c	0	-1000.0	1000.0	
+LEUTAi	4mop_c + glu__L_c <=> akg_c + leu__L_c	0	-1000.0	1000.0	
+CYStex	cys__L_e <=> cys__L_p	0	-1000.0	1000.0	
+IPMD	3c2hmp_c + nad_c <=> 3c4mop_c + h_c + nadh_c	0	-1000.0	1000.0	
+GLYtex	gly_e <=> gly_p	0	-1000.0	1000.0	
+NDPK2	atp_c + udp_c <=> adp_c + utp_c	0	-1000.0	1000.0	
+UAGDP	acgam1p_c + h_c + utp_c <=> ppi_c + uacgam_c	0	-1000.0	1000.0	
+PGMT	g1p_c <=> g6p_c	0	-1000.0	1000.0	
+ASNS2	asp__L_c + atp_c + nh4_c <=> amp_c + asn__L_c + h_c + ppi_c	0	-1000.0	1000.0	
+MTHFC	h2o_c + methf_c <=> 10fthf_c + h_c	0	-1000.0	1000.0	
+LDH_L	lac__L_c + nad_c <=> h_c + nadh_c + pyr_c	0	-1000.0	1000.0	
+TALA	g3p_c + s7p_c <=> e4p_c + f6p_c	0	-1000.0	1000.0	
+TYRTA	akg_c + tyr__L_c <=> 34hpp_c + glu__L_c	0	-1000.0	1000.0	
+GK1	atp_c + gmp_c <=> adp_c + gdp_c	0	-1000.0	1000.0	
+PGAMT	gam1p_c <=> gam6p_c	0	-1000.0	1000.0	
+PPKr	atp_c + pi_c <=> adp_c + ppi_c	0	-1000.0	1000.0	
+PAPPT3	udcpp_c + ugmda_c <=> uagmda_c + ump_c	0	-1000.0	1000.0	
+HSK	atp_c + hom__L_c <=> adp_c + h_c + phom_c	0	-1000.0	1000.0	
+GAPD	g3p_c + nad_c + pi_c <=> 13dpg_c + h_c + nadh_c	0	-1000.0	1000.0	
+ACALD	acald_c + coa_c + nad_c <=> accoa_c + h_c + nadh_c	0	-1000.0	1000.0	
+FBP	fdp_c + h2o_c <=> f6p_c + pi_c	0	-1000.0	1000.0	
+TDPGDH	dtdpglu_c <=> dtdp4d6dg_c + h2o_c	0	-1000.0	1000.0	
+DHQS	2dda7p_c <=> 3dhq_c + pi_c	0	-1000.0	1000.0	
+RPI	r5p_c <=> ru5p__D_c	0	-1000.0	1000.0	
+PGI	g6p_c <=> f6p_c	0	-1000.0	1000.0	
+PFL	coa_c + pyr_c <=> accoa_c + for_c	0	-1000.0	1000.0	
+TYRtex	tyr__L_e <=> tyr__L_p	0	-1000.0	1000.0	
+PSP_L	h2o_c + pser__L_c <=> pi_c + ser__L_c	0	-1000.0	1000.0	
+THRD_L	thr__L_c <=> 2obut_c + nh4_c	0	-1000.0	1000.0	
+ACKr	ac_c + atp_c <=> actp_c + adp_c	0	-1000.0	1000.0	
+IPPMIb	2ippm_c + h2o_c <=> 3c3hmp_c	0	-1000.0	1000.0	
+PPM2	2dr1p_c <=> 2dr5p_c	0	-1000.0	1000.0	
+MLTP2	malthx_c + pi_c <=> g1p_c + maltpt_c	0	-1000.0	1000.0	
+PRAIS	atp_c + fpram_c <=> adp_c + air_c + 2.0 h_c + pi_c	0	-1000.0	1000.0	
+METtex	met__L_e <=> met__L_p	0	-1000.0	1000.0	
+NDPK4	atp_c + dtdp_c <=> adp_c + dttp_c	0	-1000.0	1000.0	
+NTPP2	gtp_c + h2o_c <=> gmp_c + h_c + ppi_c	0	-1000.0	1000.0	
+MTHFD	mlthf_c + nadp_c <=> methf_c + nadph_c	0	-1000.0	1000.0	
+ASPTA	akg_c + asp__L_c <=> glu__L_c + oaa_c	0	-1000.0	1000.0	
+LEUtex	leu__L_e <=> leu__L_p	0	-1000.0	1000.0	
+LEUabcpp	atp_c + h2o_c + leu__L_p <=> adp_c + h_c + leu__L_c + pi_c	0	-1000.0	1000.0	
+DHORTS	dhor__S_c + h2o_c <=> cbasp_c + h_c	0	-1000.0	1000.0	
+PRFGS	atp_c + fgam_c + gln__L_c + h2o_c <=> adp_c + fpram_c + glu__L_c + h_c + pi_c	0	-1000.0	1000.0	
+NH4tpp	nh4_p <=> nh4_c	0	-1000.0	1000.0	
+DRPA	2dr5p_c <=> acald_c + g3p_c	0	-1000.0	1000.0	
+IMPD	h2o_c + imp_c + nad_c <=> h_c + nadh_c + xmp_c	0	-1000.0	1000.0	
+THRS	h2o_c + phom_c <=> pi_c + thr__L_c	0	-1000.0	1000.0	
+ICDHyr	icit_c + nadp_c <=> akg_c + co2_c + nadph_c	0	-1000.0	1000.0	
+ASPK	asp__L_c + atp_c <=> 4pasp_c + adp_c	0	-1000.0	1000.0	
+UAPGR	h_c + nadph_c + uaccg_c <=> nadp_c + uamr_c	0	-1000.0	1000.0	
+RNTR2c	fldrd_c + gtp_c <=> dgtp_c + fldox_c + h2o_c	0	-1000.0	1000.0	
+DURIPP	duri_c + pi_c <=> 2dr1p_c + ura_c	0	-1000.0	1000.0	
+MLTP1	maltpt_c + pi_c <=> g1p_c + maltttr_c	0	-1000.0	1000.0	
+ILEabcpp	atp_c + h2o_c + ile__L_p <=> adp_c + h_c + ile__L_c + pi_c	0	-1000.0	1000.0	
+PPCK	atp_c + oaa_c <=> adp_c + co2_c + pep_c	0	-1000.0	1000.0	
+PRAMPC	h2o_c + prbamp_c <=> prfp_c	0	-1000.0	1000.0	
+IPPS	3mob_c + accoa_c + h2o_c <=> 3c3hmp_c + coa_c + h_c	0	-1000.0	1000.0	
+ALAt4pp	ala__L_p + na1_p <=> ala__L_c + na1_c	0	-1000.0	1000.0	
+G6PDA	gam6p_c + h2o_c <=> f6p_c + nh4_c	0	-1000.0	1000.0	
+DUTPDP	dutp_c + h2o_c <=> dump_c + h_c + ppi_c	0	-1000.0	1000.0	
+PTAr	accoa_c + pi_c <=> actp_c + coa_c	0	-1000.0	1000.0	
+FUM	fum_c + h2o_c <=> mal__L_c	0	-1000.0	1000.0	
+PPM	r1p_c <=> r5p_c	0	-1000.0	1000.0	
+SHSL1	cys__L_c + suchms_c <=> cyst__L_c + h_c + succ_c	0	-1000.0	1000.0	
+ASNS1	asp__L_c + atp_c + gln__L_c + h2o_c <=> amp_c + asn__L_c + glu__L_c + h_c + ppi_c	0	-1000.0	1000.0	
+FE3HOXexs	fe3_e + fe3hox_un_e <=> fe3hox_e	0	-1000.0	1000.0	
+ACtex	ac_e <=> ac_p	0	-1000.0	1000.0	
+OAADC	h_c + oaa_c <=> co2_c + pyr_c	0	-1000.0	1000.0	
+SERAT	accoa_c + ser__L_c <=> acser_c + coa_c	0	-1000.0	1000.0	
+OCBT	cbp_c + orn_c <=> citr__L_c + h_c + pi_c	0	-1000.0	1000.0	
+AKGDH	akg_c + coa_c + nad_c <=> co2_c + nadh_c + succoa_c	0	-1000.0	1000.0	
+BUTCT	accoa_c + but_c <=> ac_c + btcoa_c	0	-1000.0	1000.0	
+PRAGSr	atp_c + gly_c + pram_c <=> adp_c + gar_c + h_c + pi_c	0	-1000.0	1000.0	
+DGK1	atp_c + dgmp_c <=> adp_c + dgdp_c	0	-1000.0	1000.0	
+PSCVT	pep_c + skm5p_c <=> 3psme_c + pi_c	0	-1000.0	1000.0	
+HYPOE	h2o_c + pyam5p_c <=> pi_c + pydam_c	0	-1000.0	1000.0	
+GARFT	10fthf_c + gar_c <=> fgam_c + h_c + thf_c	0	-1000.0	1000.0	
+H2St1pp	h2s_c <=> h2s_p	0	-1000.0	1000.0	
+ACHBS	2obut_c + h_c + pyr_c <=> 2ahbut_c + co2_c	0	-1000.0	1000.0	
+CS	accoa_c + h2o_c + oaa_c <=> cit_c + coa_c + h_c	0	-1000.0	1000.0	
+ADK1	amp_c + atp_c <=> 2.0 adp_c	0	-1000.0	1000.0	
+CYSabcpp	atp_c + cys__L_p + h2o_c <=> adp_c + cys__L_c + h_c + pi_c	0	-1000.0	1000.0	
+KAT1	aacoa_c + coa_c <=> 2.0 accoa_c	0	-1000.0	1000.0	
+DAPDC	26dap__M_c + h_c <=> co2_c + lys__L_c	0	-1000.0	1000.0	
+NADTRHD	nad_c + nadph_c <=> nadh_c + nadp_c	0	-1000.0	1000.0	
+PROt4pp	na1_p + pro__L_p <=> na1_c + pro__L_c	0	-1000.0	1000.0	
+PIuabcpp	atp_c + h2o_c + pi_p <=> adp_c + h_c + 2.0 pi_c	0	-1000.0	1000.0	
+TKT1	r5p_c + xu5p__D_c <=> g3p_c + s7p_c	0	-1000.0	1000.0	
+G1PTT	dttp_c + g1p_c + h_c <=> dtdpglu_c + ppi_c	0	-1000.0	1000.0	
+PRATPP	h2o_c + prbatp_c <=> h_c + ppi_c + prbamp_c	0	-1000.0	1000.0	
+ZN2tpp	zn2_p <=> zn2_c	0	-1000.0	1000.0	
+ALAALAr	2.0 ala__D_c + atp_c <=> adp_c + alaala_c + h_c + pi_c	0	-1000.0	1000.0	
+CBPS	2.0 atp_c + gln__L_c + h2o_c + hco3_c <=> 2.0 adp_c + cbp_c + glu__L_c + 2.0 h_c + pi_c	0	-1000.0	1000.0	
+PSERT	3php_c + glu__L_c <=> akg_c + pser__L_c	0	-1000.0	1000.0	
+HCO3E	co2_c + h2o_c <=> h_c + hco3_c	0	-1000.0	1000.0	
+DHDPRy	23dhdp_c + h_c + nadph_c <=> nadp_c + thdp_c	0	-1000.0	1000.0	
+DTMPK	atp_c + dtmp_c <=> adp_c + dtdp_c	0	-1000.0	1000.0	
+UDCPDP	h2o_c + udcpdp_c <=> h_c + pi_c + udcpp_c	0	-1000.0	1000.0	
+PGK	3pg_c + atp_c <=> 13dpg_c + adp_c	0	-1000.0	1000.0	
+UAMAS	ala__L_c + atp_c + uamr_c <=> adp_c + h_c + pi_c + uama_c	0	-1000.0	1000.0	
+ARGSL	argsuc_c <=> arg__L_c + fum_c	0	-1000.0	1000.0	
+DHAD1	23dhmb_c <=> 3mob_c + h2o_c	0	-1000.0	1000.0	
+ALAtex	ala__L_e <=> ala__L_p	0	-1000.0	1000.0	
+RNTR3c	ctp_c + fldrd_c <=> dctp_c + fldox_c + h2o_c	0	-1000.0	1000.0	
+CHORM	chor_c <=> pphn_c	0	-1000.0	1000.0	
+CHORS	3psme_c <=> chor_c + pi_c	0	-1000.0	1000.0	
+VALabcpp	atp_c + h2o_c + val__L_p <=> adp_c + h_c + pi_c + val__L_c	0	-1000.0	1000.0	
+H2Stex	h2s_e <=> h2s_p	0	-1000.0	1000.0	
+THRAi	thr__L_c <=> acald_c + gly_c	0	-1000.0	1000.0	
+ME1	mal__L_c + nad_c <=> co2_c + nadh_c + pyr_c	0	-1000.0	1000.0	
+ORPT	orot5p_c + ppi_c <=> orot_c + prpp_c	0	-1000.0	1000.0	
+GLCptspp	glc__D_p + pep_c <=> g6p_c + pyr_c	0	-1000.0	1000.0	
+IPPMIa	3c2hmp_c <=> 2ippm_c + h2o_c	0	-1000.0	1000.0	
+THRabcpp	atp_c + h2o_c + thr__L_p <=> adp_c + h_c + pi_c + thr__L_c	0	-1000.0	1000.0	
+GMPS2	atp_c + gln__L_c + h2o_c + xmp_c <=> amp_c + glu__L_c + gmp_c + 2.0 h_c + ppi_c	0	-1000.0	1000.0	
+METS	5mthf_c + hcys__L_c <=> h_c + met__L_c + thf_c	0	-1000.0	1000.0	
+PGCD	3pg_c + nad_c <=> 3php_c + h_c + nadh_c	0	-1000.0	1000.0	
+OMPDC	h_c + orot5p_c <=> co2_c + ump_c	0	-1000.0	1000.0	
+SUCD1	fad_c + succ_c <=> fadh2_c + fum_c	0	-1000.0	1000.0	
+PPA2	h2o_c + pppi_c <=> h_c + pi_c + ppi_c	0	-1000.0	1000.0	
+Htex	h_e <=> h_p	0	-1000.0	1000.0	
+GF6PTA	f6p_c + gln__L_c <=> gam6p_c + glu__L_c	0	-1000.0	1000.0	
+GLUSy	akg_c + gln__L_c + h_c + nadph_c <=> 2.0 glu__L_c + nadp_c	0	-1000.0	1000.0	
+GLYt4pp	gly_p + na1_p <=> gly_c + na1_c	0	-1000.0	1000.0	
+AIRC2	air_c + atp_c + hco3_c <=> 5caiz_c + adp_c + h_c + pi_c	0	-1000.0	1000.0	
+CO2tex	co2_e <=> co2_p	0	-1000.0	1000.0	
+NADK	atp_c + nad_c <=> adp_c + h_c + nadp_c	0	-1000.0	1000.0	
+GLUR	glu__D_c <=> glu__L_c	0	-1000.0	1000.0	
+ALAt2pp	ala__L_p + h_p <=> ala__L_c + h_c	0	-1000.0	1000.0	
+AGPR	acg5sa_c + nadp_c + pi_c <=> acg5p_c + h_c + nadph_c	0	-1000.0	1000.0	
+PFK	atp_c + f6p_c <=> adp_c + fdp_c + h_c	0	-1000.0	1000.0	
+GLNtex	gln__L_e <=> gln__L_p	0	-1000.0	1000.0	
+TRPtex	trp__L_e <=> trp__L_p	0	-1000.0	1000.0	
+NAMNPP	atp_c + h2o_c + nac_c + prpp_c <=> adp_c + nicrnt_c + pi_c + ppi_c	0	-1000.0	1000.0	
+PROtex	pro__L_e <=> pro__L_p	0	-1000.0	1000.0	
+DAPE	26dap_LL_c <=> 26dap__M_c	0	-1000.0	1000.0	
+CD2tpp	cd2_p <=> cd2_c	0	-1000.0	1000.0	
+NAt3_2pp	2.0 h_p + na1_c <=> 2.0 h_c + na1_p	0	-1000.0	1000.0	
+CTPS2	atp_c + gln__L_c + h2o_c + utp_c <=> adp_c + ctp_c + glu__L_c + 2.0 h_c + pi_c	0	-1000.0	1000.0	
+IMPC	h2o_c + imp_c <=> fprica_c	0	-1000.0	1000.0	
+NH4tex	nh4_e <=> nh4_p	0	-1000.0	1000.0	
+PGM	2pg_c <=> 3pg_c	0	-1000.0	1000.0	
+UDPG4E	udpg_c <=> udpgal_c	0	-1000.0	1000.0	
+ZN2abcpp	atp_c + h2o_c + zn2_c <=> adp_c + h_c + pi_c + zn2_p	0	-1000.0	1000.0	
+DHAD2	23dhmp_c <=> 3mop_c + h2o_c	0	-1000.0	1000.0	
+G5SD	glu5p_c + h_c + nadph_c <=> glu5sa_c + nadp_c + pi_c	0	-1000.0	1000.0	
+CYSS	acser_c + h2s_c <=> ac_c + cys__L_c + h_c	0	-1000.0	1000.0	
+ACLS	h_c + 2.0 pyr_c <=> alac__S_c + co2_c	0	-1000.0	1000.0	
+PPNDH	h_c + pphn_c <=> co2_c + h2o_c + phpyr_c	0	-1000.0	1000.0	
+GUAPRT	gua_c + prpp_c <=> gmp_c + ppi_c	0	-1000.0	1000.0	
+IG3PS	gln__L_c + prlp_c <=> aicar_c + eig3p_c + glu__L_c + h_c	0	-1000.0	1000.0	
+MLTG5	h2o_c + malthp_c <=> glc__D_c + malthx_c	0	-1000.0	1000.0	
+CO2tpp	co2_p <=> co2_c	0	-1000.0	1000.0	
+MTHFR2	2.0 h_c + mlthf_c + nadh_c <=> 5mthf_c + nad_c	0	-1000.0	1000.0	
+UAAGDS	26dap__M_c + atp_c + uamag_c <=> adp_c + h_c + pi_c + ugmd_c	0	-1000.0	1000.0	
+PUNP4	dgsn_c + pi_c <=> 2dr1p_c + gua_c	0	-1000.0	1000.0	
+GALUi	g1p_c + h_c + utp_c <=> ppi_c + udpg_c	0	-1000.0	1000.0	
+HSTPT	glu__L_c + imacp_c <=> akg_c + hisp_c	0	-1000.0	1000.0	
+ADK3	amp_c + gtp_c <=> adp_c + gdp_c	0	-1000.0	1000.0	
+HISTP	h2o_c + hisp_c <=> histd_c + pi_c	0	-1000.0	1000.0	
+THRtex	thr__L_e <=> thr__L_p	0	-1000.0	1000.0	
+SERtex	ser__L_e <=> ser__L_p	0	-1000.0	1000.0	
+COBALT2abcpp	atp_c + cobalt2_c + h2o_c <=> adp_c + cobalt2_p + h_c + pi_c	0	-1000.0	1000.0	
+VALTA	akg_c + val__L_c <=> 3mob_c + glu__L_c	0	-1000.0	1000.0	
+PPND	nad_c + pphn_c <=> 34hpp_c + co2_c + nadh_c	0	-1000.0	1000.0	
+CU2abcpp	atp_c + cu2_c + h2o_c <=> adp_c + cu2_p + h_c + pi_c	0	-1000.0	1000.0	
+OMCDC	3c4mop_c + h_c <=> 4mop_c + co2_c	0	-1000.0	1000.0	
+TDPDRE	dtdp4d6dg_c <=> dtdp4d6dm_c	0	-1000.0	1000.0	
+ADSL2r	25aics_c <=> aicar_c + fum_c	0	-1000.0	1000.0	
+ASPCT	asp__L_c + cbp_c <=> cbasp_c + h_c + pi_c	0	-1000.0	1000.0	
+HISTD	h2o_c + histd_c + 2.0 nad_c <=> 3.0 h_c + his__L_c + 2.0 nadh_c	0	-1000.0	1000.0	
+PUNP3	gsn_c + pi_c <=> gua_c + r1p_c	0	-1000.0	1000.0	
+SERt4pp	na1_p + ser__L_p <=> na1_c + ser__L_c	0	-1000.0	1000.0	
+DDPA	e4p_c + h2o_c + pep_c <=> 2dda7p_c + pi_c	0	-1000.0	1000.0	
+ACONTb	acon_C_c + h2o_c <=> icit_c	0	-1000.0	1000.0	
+NI2abcpp	atp_c + h2o_c + ni2_c <=> adp_c + h_c + ni2_p + pi_c	0	-1000.0	1000.0	
+TDPDRR	dtdp4d6dm_c + h_c + nadph_c <=> dtdprmn_c + nadp_c	0	-1000.0	1000.0	
+ILETA	akg_c + ile__L_c <=> 3mop_c + glu__L_c	0	-1000.0	1000.0	
+MLTP3	malthp_c + pi_c <=> g1p_c + malthx_c	0	-1000.0	1000.0	
+G5SADs	glu5sa_c <=> 1pyr5c_c + h2o_c + h_c	0	-1000.0	1000.0	
+CD2abcpp	atp_c + cd2_c + h2o_c <=> adp_c + cd2_p + h_c + pi_c	0	-1000.0	1000.0	
+ADSL1r	dcamp_c <=> amp_c + fum_c	0	-1000.0	1000.0	
+PRMICI	prfp_c <=> prlp_c	0	-1000.0	1000.0	
+TKT2	e4p_c + xu5p__D_c <=> f6p_c + g3p_c	0	-1000.0	1000.0	
+ACt2rpp	ac_p + h_p <=> ac_c + h_c	0	-1000.0	1000.0	
+PPA	h2o_c + ppi_c <=> h_c + 2.0 pi_c	0	-1000.0	1000.0	
+DHDPS	aspsa_c + pyr_c <=> 23dhdp_c + 2.0 h2o_c + h_c	0	-1000.0	1000.0	
+SUCCt3pp	h_p + succ_c <=> h_c + succ_p	0	-1000.0	1000.0	
+RNTR1c	atp_c + fldrd_c <=> datp_c + fldox_c + h2o_c	0	-1000.0	1000.0	
+SHK3Dr	3dhsk_c + h_c + nadph_c <=> nadp_c + skm_c	0	-1000.0	1000.0	
+GLCabcpp	atp_c + glc__D_p + h2o_c <=> adp_c + glc__D_c + h_c + pi_c	0	-1000.0	1000.0	
+DHQTi	3dhq_c <=> 3dhsk_c + h2o_c	0	-1000.0	1000.0	
+MLTG4	h2o_c + malthx_c <=> glc__D_c + maltpt_c	0	-1000.0	1000.0	
+METabcpp	atp_c + h2o_c + met__L_p <=> adp_c + h_c + met__L_c + pi_c	0	-1000.0	1000.0	
+PPK2r	atp_c + ppi_c <=> adp_c + pppi_c	0	-1000.0	1000.0	
+HSDy	hom__L_c + nadp_c <=> aspsa_c + h_c + nadph_c	0	-1000.0	1000.0	
+NTPP1	dgtp_c + h2o_c <=> dgmp_c + h_c + ppi_c	0	-1000.0	1000.0	
+ACACT1r	2.0 accoa_c <=> aacoa_c + coa_c	0	-1000.0	1000.0	
+ENO	2pg_c <=> h2o_c + pep_c	0	-1000.0	1000.0	
+SUCCtex	succ_e <=> succ_p	0	-1000.0	1000.0	
+IGPDH	eig3p_c <=> h2o_c + imacp_c	0	-1000.0	1000.0	
+KARA2	2ahbut_c + h_c + nadph_c <=> 23dhmp_c + nadp_c	0	-1000.0	1000.0	
+AICART	10fthf_c + aicar_c <=> fprica_c + thf_c	0	-1000.0	1000.0	
+PYK	adp_c + h_c + pep_c <=> atp_c + pyr_c	0	-1000.0	1000.0	
+ECOAH1	3hbcoa_c <=> b2coa_c + h2o_c	0	-1000.0	1000.0	
+ASAD	aspsa_c + nadp_c + pi_c <=> 4pasp_c + h_c + nadph_c	0	-1000.0	1000.0	
+SHKK	atp_c + skm_c <=> adp_c + h_c + skm5p_c	0	-1000.0	1000.0	
+FLDR	fldox_c + h_c + nadph_c <=> fldrd_c + nadp_c	0	-1000.0	1000.0	
+UGMDDS	alaala_c + atp_c + ugmd_c <=> adp_c + h_c + pi_c + ugmda_c	0	-1000.0	1000.0	
+RPE	ru5p__D_c <=> xu5p__D_c	0	-1000.0	1000.0	
+UAGCVT	pep_c + uacgam_c <=> pi_c + uaccg_c	0	-1000.0	1000.0	
+NACtex	nac_e <=> nac_p	0	-1000.0	1000.0	
+FORtppi	for_c <=> for_p	0	-1000.0	1000.0	
+ACOTA	acorn_c + akg_c <=> acg5sa_c + glu__L_c	0	-1000.0	1000.0	
+GLNabcpp	atp_c + gln__L_p + h2o_c <=> adp_c + gln__L_c + h_c + pi_c	0	-1000.0	1000.0	
+H2Otpp	h2o_p <=> h2o_c	0	-1000.0	1000.0	
+ACONTa	cit_c <=> acon_C_c + h2o_c	0	-1000.0	1000.0	
+ATPPRT	atp_c + prpp_c <=> ppi_c + prbatp_c	0	-1000.0	1000.0	
+UAMAGS	atp_c + glu__D_c + uama_c <=> adp_c + h_c + pi_c + uamag_c	0	-1000.0	1000.0	
+GLNS	atp_c + glu__L_c + nh4_c <=> adp_c + gln__L_c + h_c + pi_c	0	-1000.0	1000.0	
+PRPPS	atp_c + r5p_c <=> amp_c + h_c + prpp_c	0	-1000.0	1000.0	
+G1PACT	accoa_c + gam1p_c <=> acgam1p_c + coa_c + h_c	0	-1000.0	1000.0	
+UMPK	atp_c + ump_c <=> adp_c + udp_c	0	-1000.0	1000.0	
+GLUDy	glu__L_c + h2o_c + nadp_c <=> akg_c + h_c + nadph_c + nh4_c	0	-1000.0	1000.0	
+UAGPT3	uacgam_c + uagmda_c <=> h_c + uaagmda_c + udp_c	0	-1000.0	1000.0	
+GLUPRT	gln__L_c + h2o_c + prpp_c <=> glu__L_c + ppi_c + pram_c	0	-1000.0	1000.0	
+ILEtex	ile__L_e <=> ile__L_p	0	-1000.0	1000.0	
+VALtex	val__L_e <=> val__L_p	0	-1000.0	1000.0	
+MLTG3	h2o_c + maltpt_c <=> glc__D_c + maltttr_c	0	-1000.0	1000.0	
+FORtex	for_e <=> for_p	0	-1000.0	1000.0	
+GLU5K	atp_c + glu__L_c <=> adp_c + glu5p_c	0	-1000.0	1000.0	
+FBA	fdp_c <=> dhap_c + g3p_c	0	-1000.0	1000.0	
+NTPTP1	dgtp_c + h2o_c <=> dgsn_c + pppi_c	0	-1000.0	1000.0	
+PYDAMK	atp_c + pydam_c <=> adp_c + h_c + pyam5p_c	0	-1000.0	1000.0	
+ADSS	asp__L_c + gtp_c + imp_c <=> dcamp_c + gdp_c + 2.0 h_c + pi_c	0	-1000.0	1000.0	
+H2Otex	h2o_e <=> h2o_p	0	-1000.0	1000.0	
+AIRC3	5aizc_c <=> 5caiz_c	0	-1000.0	1000.0	
+NI2uabcpp	atp_c + h2o_c + ni2_p <=> adp_c + h_c + ni2_c + pi_c	0	-1000.0	1000.0	
+P5CR	1pyr5c_c + 2.0 h_c + nadph_c <=> nadp_c + pro__L_c	0	-1000.0	1000.0	
+COBALT2tpp	cobalt2_p <=> cobalt2_c	0	-1000.0	1000.0	
+NNATr	atp_c + h_c + nicrnt_c <=> dnad_c + ppi_c	0	-1000.0	1000.0	
+Biomass	0.001831 m106 + 0.000447 m115 + 0.011843 m12 + 0.2411 m155 + 0.2632 m156 + 0.2632 m158 + 0.2958 m188 + 0.3432 m217 + 0.1759 m231 + 0.1379 m235 + 0.000223 m256 + 0.1441 m283 + 0.1335 m284 + 0.02702 m285 + 0.000223 m288 + 0.2151 m301 + 0.02702 m304 + 0.02617 m311 + 0.124 m358 + 0.1537 m45 + 0.4232 m48 + 0.2905 m51 + 0.02617 m510 + 0.09474 m526 + 0.404 m54 + 0.05684 m546 + 40.0 m6 + 0.2537 m63 + 0.2211 m69 + 0.5137 m72 + 0.2158 m75 + 40.0 m8 + 0.1294 m806 + 0.2411 m82 + 0.09158 m93 + 0.6126 m94 --> 0.7739 m114 + m4 + 40.0 m5 + 40.0 m7 + 40.0 m9	0	0.0	1000.0	
+NTPP91	m283 + m8 --> m114 + m277 + m7	0	0.0	1000.0	
+PRASCS	m155 + m294 + m6 <=> m296 + m5 + m7 + m9	0	-1000.0	1000.0	
+RHEA_30794	m304 + m99 <=> m305 + m7 + m98	0	-1000.0	1000.0	
+EX_m16	m16 <=> 	0	-inf	inf	
+NADFAD	2.0 m107 + m117 <=> 2.0 m106 + m118	0	-1000.0	1000.0	
+EX_m24	m24 <=> 	0	-inf	inf	
+EX_m71	m71 <=> 	0	-inf	inf	
+EX_m738	m738 <=> 	0	-inf	inf	
+EX_m4	m4 <=> 	0	-inf	inf	
+LACtex	m26 --> m27	0	0.0	1000.0	
+EX_m18	m18 <=> 	0	-inf	inf	
+EX_m41	m41 <=> 	0	-inf	inf	
+Ex_Butyrate_1	m7 + m786 --> m17 + m787	0	0.0	1000.0	
+EX_m792	m792 <=> 	0	-inf	inf	
+RHEA_21411	m106 + m231 + m8 <-- m107 + m12 + m232 + m7	0	-1000.0	0.0	
+HEX12	m100 + m6 --> m5 + m7 + m97	0	0.0	1000.0	
+Ex_Butyrate	m787 --> m788	0	0.0	1000.0	
+EX_m27	m27 <=> 	0	-inf	inf	
+RHEA_24387	m158 + m374 + m6 + m8 --> m106 + m114 + m139 + m156 + m7	0	0.0	1000.0	
+GUAPRT1	m150 + m265 --> m114 + m273	0	0.0	1000.0	
+EX_m68	m68 <=> 	0	-inf	inf	
+NACtex1	m376 <=> m377	0	-1000.0	1000.0	
+PHETA	m127 + m231 <-- m156 + m232	0	-1000.0	0.0	
+RHEA_31103	2.0 m106 + m246 <=> 2.0 m107 + 2.0 m7 + m793	0	-1000.0	1000.0	
+EX_m11	m11 <=> 	0	-inf	inf	
+DCD1_2	m285 --> m12 + m309	0	0.0	1000.0	
+RHEA_29046	m116 + m288 + m290 + m7 --> m115 + m246 + m289	0	0.0	1000.0	
+EX_m62	m62 <=> 	0	-inf	inf	
+RHEA_23991	m127 + m219 <=> m156 + m222 + m7 + m8	0	-1000.0	1000.0	
+EX_m739	m739 <=> 	0	-inf	inf	
+EX_m44	m44 <=> 	0	-inf	inf	
+ATPM	m6 + m8 --> m5 + m7 + m9	0	0.4	0.4	
+COBALabcpp	m6 + m770 + m8 --> m5 + m7 + m769 + m9	0	0.0	1000.0	
+EX_m14	m14 <=> 	0	-inf	inf	
+EX_m2	m2 <=> 	0	-inf	inf	
+RHEA_30298	m301 + m99 <=> m307 + m7 + m98	0	-1000.0	1000.0	
+RHEA_12175	m101 + m12 --> m327 + m8	0	0.0	1000.0	
+EX_m35	m35 <=> 	0	-inf	inf	
+FTHFL	m246 + m36 + m6 <=> m256 + m5 + m9	0	-1000.0	1000.0	
+EX_m795	m795 <=> 	0	-inf	inf	
+FLDR1	m116 + m286 + m7 --> m115 + m287	0	0.0	1000.0	
+EX_m378	m378 <=> 	0	-inf	inf	
+RHEA_13756	m107 + m127 + m158 --> m106 + 2.0 m156	0	0.0	1000.0	
+RHEA_16200	m115 + m789 <=> m116 + m384 + m7	0	-1000.0	1000.0	
+FOLATEabcpp	m6 + m794 + m8 --> m5 + m7 + m793 + m9	0	0.0	1000.0	
+Ex_Phosphate	m14 <=> m13	0	-1000.0	1000.0	
+RHEA_10759	m6 + m9 + m99 --> m114 + m139 + m7 + m98	0	0.0	1000.0	
+POX1	m117 + m125 + m99 <=> m118 + m124 + m22	0	-1000.0	1000.0	
+EX_m47	m47 <=> 	0	-inf	inf	
+EX_m96	m96 <=> 	0	-inf	inf	
+FOLATEtex	m795 <=> m794	0	-1000.0	1000.0	
+TRPabcpp	m6 + m791 + m8 --> m5 + m546 + m7 + m9	0	0.0	1000.0	
+ILEt4pp	m17 + m51 --> m49 + m7	0	0.0	1000.0	
+EX_m21	m21 <=> 	0	-inf	inf	
+TYRt4pp	m65 + m78 --> m235 + m64	0	0.0	1000.0	
+LACt2rpp	m17 + m26 <=> m25 + m7	0	-1000.0	1000.0	
+EX_m74	m74 <=> 	0	-inf	inf	
+EX_m159	m159 <=> 	0	-inf	inf	
+EX_m53	m53 <=> 	0	-inf	inf	
+ACOAD1f_but	2.0 m107 + m117 + m386 --> 2.0 m106 + m118 + m385	0	0.0	1000.0	
+RXN_11302	m357 + 2.0 m8 --> m345 + 2.0 m348 + m358	0	0.0	1000.0	
+EX_m33	m33 <=> 	0	-inf	inf	
+EX_m593	m593 <=> 	0	-inf	inf	
+EX_m92	m92 <=> 	0	-inf	inf	
+RHEA_13068	m6 + m8 --> m5 + m7 + m9	0	0.0	1000.0	
+GLCtexi	m2 --> m1	0	1.0	1.0	
+SOTA11	m156 + m179 <=> m177 + m178	0	-1000.0	1000.0	
+CPSS_LPL2	m335 + m508 + 2.0 m513 + 4.0 m8 <=> m277 + m282 + 2.0 m315 + 5.0 m7 + m806	0	-1000.0	1000.0	
+VALt4pp	m17 + m48 --> m46 + m7	0	0.0	1000.0	
+EX_m50	m50 <=> 	0	-inf	inf	
+DHORD8	m128 + m274 --> m275 + m31	0	0.0	1000.0	
+EX_m788	m788 <=> 	0	-inf	inf	
+LEUt4pp	m17 + m54 --> m52 + m7	0	0.0	1000.0	
+RHEA_22827	m154 + m291 <=> m314 + m9	0	-1000.0	1000.0	
+EX_m79	m79 <=> 	0	-inf	inf	
+3OAS160	m391 + m415 + m7 --> m22 + m372 + m416	0	0.0	1000.0	
+PUNP1	m263 + m9 <=> m149 + m239	0	-1000.0	1000.0	
+MALTtexi	m645 --> m644	0	0.0	0.0	
+COBALT2tex	m771 <=> m770	0	-1000.0	1000.0	
+CD2tex	m768 <=> m767	0	-1000.0	1000.0	
+FACOAL161t2pp	m125 + m17 + m500 + m6 --> m114 + m139 + m501 + m7	0	0.0	1000.0	
+EAR100y	m116 + m406 + m7 --> m115 + m407	0	0.0	1000.0	
+Rhea_12547	2.0 m158 + 2.0 m6 + m604 + 2.0 m8 <=> 2.0 m156 + 2.0 m5 + m605 + 2.0 m7 + 2.0 m9	0	-1000.0	1000.0	
+SUCRtex	m668 <=> m667	0	-1000.0	1000.0	
+LCARR	m107 + m141 + m7 <=> m106 + m140	0	-1000.0	1000.0	
+FE3DCITabcpp	m6 + m726 + m8 --> 2.0 m121 + m5 + m588 + m7 + m9	0	0.0	1000.0	
+DHFS1	m156 + m556 + m6 --> m5 + m555 + m7 + m9	0	0.0	1000.0	
+FECRMUtpp	m17 + m729 --> m7 + m730	0	0.0	1000.0	
+DNTPPA	m559 + m8 --> m114 + m557 + m7	0	0.0	1000.0	
+G3PAT160	m419 + m441 --> m372 + m445	0	0.0	1000.0	
+FE2tex	m733 <=> m732	0	-1000.0	1000.0	
+FFSD	m666 + m8 --> m665 + m97	0	0.0	1000.0	
+G3PAT120	m411 + m441 --> m372 + m442	0	0.0	1000.0	
+FEOXAMR1	m131 + 2.0 m740 --> m130 + 2.0 m7 + 2.0 m714 + 2.0 m742	0	0.0	1000.0	
+RHEA_24391	m149 + m291 <=> m317 + m9	0	-1000.0	1000.0	
+ARGTRS	m188 + m517 + m6 --> m114 + m139 + m516	0	0.0	1000.0	
+G3PAT141	m432 + m441 --> m372 + m444	0	0.0	1000.0	
+MALTTTRabcpp	m6 + m652 + m8 --> m5 + m659 + m7 + m9	0	0.0	1000.0	
+FRUpts2pp	m672 + m98 --> m101 + m99	0	0.0	1000.0	
+AMALT1	m656 + m658 --> m100 + m659	0	0.0	1000.0	
+3OAR161	m116 + m433 + m7 --> m115 + m434	0	0.0	1000.0	
+3HAD160	m417 --> m418 + m8	0	0.0	1000.0	
+FE3HOXR3	m717 + 2.0 m734 --> m582 + 2.0 m7 + 2.0 m714 + 2.0 m736	0	0.0	1000.0	
+ACOAD7f	m130 + m489 <=> m131 + m490	0	-1000.0	1000.0	
+Rhea_22015	m244 + m599 <=> m240 + m600 + m7	0	-1000.0	1000.0	
+LCTStex	m695 --> m694	0	0.0	0.0	
+PROTRS	m539 + m6 + m69 --> m114 + m139 + m538	0	0.0	1000.0	
+Rhea_11495	m614 + m7 <=> m22 + m613	0	-1000.0	1000.0	
+MLTG2	m659 + m8 --> m100 + m658	0	0.0	1000.0	
+GLYC3Pabcpp	m6 + m706 + m8 --> m441 + m5 + m7 + m9	0	0.0	1000.0	
+G3PIabcpp	m6 + m782 + m8 --> m478 + m5 + m7 + m9	0	0.0	1000.0	
+DASYN120	m284 + m449 + m7 --> m114 + m456	0	0.0	1000.0	
+URAt2pp	m17 + m777 --> m291 + m7	0	0.0	0.0	
+PFK_2	m6 + m681 --> m5 + m680 + m7	0	0.0	1000.0	
+PUNP5	m269 + m9 <=> m149 + m268	0	-1000.0	1000.0	
+GALKr	m6 + m692 <=> m5 + m693 + m7	0	-1000.0	1000.0	
+MGSA	m103 --> m142 + m9	0	0.0	1000.0	
+RHEA_30730	m311 + m99 <=> m310 + m7 + m98	0	-1000.0	1000.0	
+Rhea_11531	m6 + m608 <=> m606 + m607	0	-1000.0	1000.0	
+PGSA161	m441 + m460 --> m279 + m467 + m7	0	0.0	1000.0	
+TRPTRS	m546 + m548 + m6 --> m114 + m139 + m547	0	0.0	1000.0	
+TREptspp	m641 + m98 --> m642 + m99	0	0.0	1000.0	
+THRA2i	m163 --> m153 + m94	0	0.0	1000.0	
+HPYRRx	m107 + m169 + m7 --> m106 + m168	0	0.0	1000.0	
+PGSA120	m441 + m456 --> m279 + m463 + m7	0	0.0	1000.0	
+GALtex	m691 --> m690	0	0.0	0.0	
+Rhea_23259	4.0 m158 + 4.0 m6 + m606 + 4.0 m8 <=> 4.0 m156 + 4.0 m5 + m609 + 4.0 m7 + 4.0 m9	0	-1000.0	1000.0	
+CPGNR1	m131 + 2.0 m723 --> m130 + 2.0 m7 + 2.0 m714 + 2.0 m724	0	0.0	1000.0	
+DHFS	m156 + m556 + m6 --> m5 + m555 + m7 + m9	0	0.0	1000.0	
+MALTHXabcpp	m6 + m650 + m8 --> m5 + m660 + m7 + m9	0	0.0	1000.0	
+MALTabcpp	m6 + m644 + m8 --> m5 + m656 + m7 + m9	0	0.0	1000.0	
+3HAD161	m434 --> m435 + m8	0	0.0	1000.0	
+DMPPS	m107 + m339 + m7 --> m106 + m341 + m8	0	0.0	1000.0	
+PYDXK	m564 + m6 --> m5 + m563 + m7	0	0.0	1000.0	
+OBTFL	m125 + m196 <=> m36 + m383	0	-1000.0	1000.0	
+3HAD60	m397 --> m398 + m8	0	0.0	1000.0	
+3OAS120	m391 + m407 + m7 --> m22 + m372 + m408	0	0.0	1000.0	
+3OAR181	m116 + m437 + m7 --> m115 + m438	0	0.0	1000.0	
+ARBTNR3	2.0 m712 + m717 --> m582 + 2.0 m7 + 2.0 m714 + 2.0 m715	0	0.0	1000.0	
+ASNTRS	m519 + m6 + m82 --> m114 + m139 + m518	0	0.0	1000.0	
+ACOAD4f	m130 + m483 <=> m131 + m484	0	-1000.0	1000.0	
+EX_m673	m673 <=> 	0	-inf	inf	
+EX_m655	m655 <=> 	0	-inf	inf	
+HXPRT	m150 + m268 --> m114 + m261	0	0.0	1000.0	
+4HTHRS	m561 + m8 --> m562 + m9	0	0.0	1000.0	
+GRTT	m342 + m343 --> m114 + m344	0	0.0	1000.0	
+DASYN160	m284 + m452 + m7 --> m114 + m459	0	0.0	1000.0	
+PTA2	m383 + m9 <=> m125 + m381	0	-1000.0	1000.0	
+14GLUCANtexi	m647 --> m646	0	0.0	0.0	
+ALATRS	m515 + m6 + m72 --> m114 + m139 + m514	0	0.0	1000.0	
+HCYSMT	m238 + m244 --> m240 + m45 + m7	0	0.0	1000.0	
+GALCTND	m679 --> m678 + m8	0	0.0	1000.0	
+G3PAT140	m415 + m441 --> m372 + m443	0	0.0	1000.0	
+CODH2r	2.0 m117 + m143 + m8 <=> 2.0 m118 + m22 + 2.0 m7	0	-1000.0	1000.0	
+3OAR180	m116 + m420 + m7 <=> m115 + m421	0	-1000.0	1000.0	
+FECRMabcpp	m6 + m728 + m8 --> m5 + m7 + m727 + m9	0	0.0	1000.0	
+FEOXAMabcpp	m6 + m741 + m8 --> m5 + m7 + m740 + m9	0	0.0	1000.0	
+URIK2	m301 + m317 --> m277 + m307 + m7	0	0.0	1000.0	
+GLBRAN2	m111 --> m112	0	0.0	0.0	
+3OAS161	m391 + m432 + m7 --> m22 + m372 + m433	0	0.0	1000.0	
+URIDK2r	m290 + m6 <=> m320 + m5	0	-1000.0	1000.0	
+AGPAT160	m419 + m445 --> m372 + m452	0	0.0	1000.0	
+EX_m651	m651 <=> 	0	-inf	inf	
+GLCP	m111 + m9 --> m110	0	0.0	0.0	
+UDPGALM	m508 --> m507	0	0.0	1000.0	
+FE3HOXR1	m131 + 2.0 m734 --> m130 + 2.0 m7 + 2.0 m714 + 2.0 m736	0	0.0	1000.0	
+EX_m765	m765 <=> 	0	-inf	inf	
+EX_m66	m66 <=> 	0	-inf	inf	
+EX_m756	m756 <=> 	0	-inf	inf	
+GPDDA2	m473 + m8 --> m441 + m472 + m7	0	0.0	1000.0	
+GUI1	m625 <=> m624	0	-1000.0	1000.0	
+LACZ	m696 + m8 --> m100 + m692	0	0.0	1000.0	
+5DOAN	m583 + m8 --> m239 + m584	0	0.0	1000.0	
+DPCOAK	m370 + m6 --> m125 + m5 + m7	0	0.0	1000.0	
+3HAD141	m430 --> m431 + m8	0	0.0	1000.0	
+PPTtex	m773 <=> m772	0	-1000.0	1000.0	
+EX_m749	m749 <=> 	0	-inf	inf	
+ACGAptspp	m321 + m98 --> m326 + m99	0	0.0	1000.0	
+ACNML	m334 --> m333 + m99	0	0.0	1000.0	
+EAR100x	m107 + m406 + m7 --> m106 + m407	0	0.0	1000.0	
+ALLPI	m636 <=> m635	0	-1000.0	1000.0	
+3OAS181	m391 + m436 + m7 --> m22 + m372 + m437	0	0.0	1000.0	
+PUNP2	m264 + m9 <=> m154 + m239	0	-1000.0	1000.0	
+FEOXAMR2	m716 + 2.0 m740 --> m581 + 2.0 m7 + 2.0 m714 + 2.0 m742	0	0.0	1000.0	
+ACGS	m124 + m156 --> m125 + m178 + m7	0	0.0	1000.0	
+GPDDA5	m478 + m8 --> m441 + m477 + m7	0	0.0	1000.0	
+XANt2pp	m17 + m797 --> m271 + m7	0	0.0	0.0	
+DCD1_1	m281 <=> m12 + m290	0	-1000.0	1000.0	
+MALTPTtexi	m649 --> m648	0	0.0	0.0	
+UPPRT	m150 + m291 --> m114 + m277	0	0.0	1000.0	
+CPGNR2	m716 + 2.0 m723 --> m581 + 2.0 m7 + 2.0 m714 + 2.0 m724	0	0.0	1000.0	
+DXPS	m104 + m7 + m99 --> m22 + m336	0	0.0	1000.0	
+EX_m759	m759 <=> 	0	-inf	inf	
+SDPTA	m127 + m220 <=> m156 + m221	0	-1000.0	1000.0	
+HEXTT	m342 + m347 --> m114 + m346	0	0.0	1000.0	
+T2DECAI	m406 <=> m424	0	-1000.0	1000.0	
+RHCCE	m241 --> m238 + m248	0	0.0	1000.0	
+THI80_2	m578 + m6 --> m5 + m580	0	0.0	1000.0	
+HPYRRy1	m107 + m169 + m7 --> m106 + m168	0	0.0	1000.0	
+3HAD100	m405 --> m406 + m8	0	0.0	1000.0	
+FEOXAMUtpp	m17 + m742 --> m7 + m743	0	0.0	1000.0	
+OHPBAT	m156 + m560 <=> m127 + m561	0	-1000.0	1000.0	
+DM_2hymeph	m700 --> m701	0	0.0	1000.0	
+UGLT	m335 + m693 <=> m110 + m508	0	-1000.0	1000.0	
+Ktex	m800 --> m799	0	0.0	0.0	
+3HAD180	m421 --> m422 + m8	0	0.0	1000.0	
+RBFK	m582 + m6 --> m5 + m581 + m7	0	0.0	1000.0	
+PGSA181	m441 + m462 --> m279 + m469 + m7	0	0.0	1000.0	
+G3PGabcpp	m6 + m781 + m8 --> m476 + m5 + m7 + m9	0	0.0	1000.0	
+3OAS140	m391 + m411 + m7 --> m22 + m372 + m412	0	0.0	1000.0	
+EX_m719	m719 <=> 	0	-inf	inf	
+IPDPS	m107 + m339 + m7 --> m106 + m342 + m8	0	0.0	1000.0	
+EAR181x	m107 + m439 + m7 --> m106 + m440	0	0.0	1000.0	
+CPPPGO2	2.0 m244 + m594 --> 2.0 m22 + 2.0 m45 + 2.0 m583 + m595	0	0.0	1000.0	
+3HAD80	m401 --> m402 + m8	0	0.0	1000.0	
+DASYN161	m284 + m453 + m7 --> m114 + m460	0	0.0	1000.0	
+RHEA_12443	m106 + m224 + m8 <=> m107 + m127 + m217 + m7	0	-1000.0	1000.0	
+PSCLYStex	m677 <=> m676	0	-1000.0	1000.0	
+TUNGStex	m711 <=> m710	0	-1000.0	1000.0	
+EX_m695	m695 <=> 	0	-inf	inf	
+EAR80y	m116 + m402 + m7 --> m115 + m403	0	0.0	1000.0	
+NTPP10	m299 + m8 --> m114 + m298 + m7	0	0.0	1000.0	
+THRTRS	m545 + m6 + m63 --> m114 + m139 + m544	0	0.0	1000.0	
+ATPS4rpp	4.0 m17 + m5 + m9 --> m6 + 3.0 m7 + m8	0	0.0	0.0	
+3OAR40	m116 + m392 + m7 <=> m115 + m393	0	-1000.0	1000.0	
+ARBTNtpp	m17 + m715 --> m7 + m718	0	0.0	1000.0	
+ALLtex	m634 <=> m633	0	-1000.0	1000.0	
+NTPP9	m302 + m8 --> m114 + m261 + m7	0	0.0	1000.0	
+MALTHXtexi	m651 --> m650	0	0.0	0.0	
+ACCOAC	m124 + m190 + m6 --> m390 + m5 + m7 + m9	0	0.0	1000.0	
+ACOAD3f	m130 + m481 <=> m131 + m482	0	-1000.0	1000.0	
+G3PSabcpp	m6 + m783 + m8 --> m474 + m5 + m7 + m9	0	0.0	1000.0	
+CPGNabcpp	m6 + m721 + m8 --> m5 + m7 + m723 + m9	0	0.0	1000.0	
+PUNP7	m272 + m9 <=> m149 + m271	0	-1000.0	1000.0	
+AGPAT161	m436 + m446 --> m372 + m453	0	0.0	1000.0	
+ARBTNR1	m131 + 2.0 m712 --> m130 + 2.0 m7 + 2.0 m714 + 2.0 m715	0	0.0	1000.0	
+KAT2	m125 + m493 --> m124 + m385	0	0.0	1000.0	
+FE2tpp	m732 --> m714	0	0.0	1000.0	
+AMANAPEr	m332 <=> m326	0	-1000.0	1000.0	
+3HAD40	m393 --> m394 + m8	0	0.0	1000.0	
+XANtex	m796 --> m797	0	0.0	0.0	
+FRD2	m128 + m132 --> m133 + m31	0	0.0	1000.0	
+PGSA140	m441 + m457 --> m279 + m464 + m7	0	0.0	1000.0	
+AGMT	m186 + m8 --> m184 + m187	0	0.0	1000.0	
+GALabcpp	m6 + m690 + m8 --> m5 + m692 + m7 + m9	0	0.0	1000.0	
+EX_salcn	m698 <=> m697	0	-1000.0	1000.0	
+ACOAD5f	m130 + m485 <=> m131 + m486	0	-1000.0	1000.0	
+ARBTNtonex	m17 + m720 --> m7 + m713	0	0.0	1000.0	
+MALTTRabcpp	m6 + m654 + m8 --> m5 + m658 + m7 + m9	0	0.0	1000.0	
+GLGC	m110 + m6 + m7 --> m113 + m114	0	0.0	1000.0	
+HEX7	m6 + m665 --> m101 + m5 + m7	0	0.0	1000.0	
+CYTK1	m279 + m6 <=> m278 + m5	0	-1000.0	1000.0	
+FRUptspp	m672 + m98 --> m671 + m99	0	0.0	1000.0	
+GPDDA1	m471 + m8 --> m441 + m470 + m7	0	0.0	1000.0	
+ARBTNtex	m17 + m718 --> m7 + m719	0	0.0	1000.0	
+EAR141y	m116 + m431 + m7 --> m115 + m432	0	0.0	1000.0	
+EAR121y	m116 + m427 + m7 --> m115 + m428	0	0.0	1000.0	
+PPCDC	m368 + m7 --> m22 + m369	0	0.0	1000.0	
+SPMDAT1	m124 + m181 --> m125 + m180 + m7	0	0.0	1000.0	
+GPDDA4	m476 + m8 --> m441 + m475 + m7	0	0.0	1000.0	
+AMALT3	m656 + m661 --> m100 + m660	0	0.0	1000.0	
+DASYN141	m284 + m451 + m7 --> m114 + m458	0	0.0	1000.0	
+PGSA160	m441 + m459 --> m279 + m466 + m7	0	0.0	1000.0	
+EAR181y	m116 + m439 + m7 --> m115 + m440	0	0.0	1000.0	
+CA2tex	m759 <=> m758	0	-1000.0	1000.0	
+AB6PGH	m119 + m8 --> m120 + m97	0	0.0	1000.0	
+EAR120x	m107 + m410 + m7 --> m106 + m411	0	0.0	1000.0	
+3OAR121	m116 + m425 + m7 --> m115 + m426	0	0.0	1000.0	
+3HAD120	m409 --> m410 + m8	0	0.0	1000.0	
+DMATT	m341 + m342 --> m114 + m343	0	0.0	1000.0	
+ACPS1	m125 + m373 --> m371 + m372 + m7	0	0.0	1000.0	
+EXGlucoaldehyde_e	m37 <=> m38	0	-1000.0	1000.0	
+3HAD181	m438 --> m439 + m8	0	0.0	1000.0	
+EX_m705	m705 <=> 	0	-inf	inf	
+HPYRRy	m116 + m169 + m7 --> m115 + m168	0	0.0	1000.0	
+FACOAL180t2pp	m125 + m17 + m502 + m6 --> m114 + m139 + m491 + m7	0	0.0	1000.0	
+EAR121x	m107 + m427 + m7 --> m106 + m428	0	0.0	1000.0	
+PMPK	m569 + m6 --> m5 + m571	0	0.0	1000.0	
+GUI2	m627 <=> m628	0	-1000.0	1000.0	
+DADK	m312 + m6 <=> m310 + m5	0	-1000.0	1000.0	
+MELIBtex	m705 --> m704	0	0.0	0.0	
+AGPAT181	m440 + m448 --> m372 + m455	0	0.0	1000.0	
+METAT	m45 + m6 + m8 --> m114 + m244 + m9	0	0.0	1000.0	
+METTRS	m45 + m535 + m6 --> m114 + m139 + m522	0	0.0	1000.0	
+SERTRS	m541 + m6 + m75 --> m114 + m139 + m540	0	0.0	1000.0	
+ALTRH	m629 --> m630 + m8	0	0.0	1000.0	
+ACMUMptspp	m323 + m98 --> m325 + m99	0	0.0	1000.0	
+RMNtex	m623 <=> m622	0	-1000.0	1000.0	
+MALTPTabcpp	m6 + m648 + m8 --> m5 + m661 + m7 + m9	0	0.0	1000.0	
+3HAD121	m426 --> m427 + m8	0	0.0	1000.0	
+SALCpts	m698 + m98 --> m699 + m99	0	0.0	1000.0	
+FRUtex	m673 --> m672	0	0.0	0.0	
+ADPRDP	m8 + m805 --> m139 + m145 + 2.0 m7	0	0.0	1000.0	
+EX_Glucoaldehyde	m38 <=> m39	0	-1000.0	1000.0	
+ADK4	m139 + m302 <=> m319 + m5	0	-1000.0	1000.0	
+THZPSN	m235 + m336 + m6 + m93 --> m114 + m139 + m22 + m572 + m574 + m7 + m72 + m8	0	0.0	1000.0	
+5DGLCNtex	m640 <=> m639	0	-1000.0	1000.0	
+EX_m796	m796 <=> 	0	-inf	inf	
+MALTTTRtexi	m653 --> m652	0	0.0	0.0	
+RHEA_10483	m127 + m194 <=> m156 + m193	0	-1000.0	1000.0	
+CYTDK2	m301 + m318 --> m279 + m307 + m7	0	0.0	1000.0	
+Rhea_21899	m6 + m609 + m613 <=> m5 + m612 + m7 + m9	0	-1000.0	1000.0	
+GLCATr	m100 + m124 <=> m125 + m702	0	-1000.0	1000.0	
+TAGURr	m106 + m629 <=> m107 + m628 + m7	0	-1000.0	1000.0	
+PSCLYSt2pp	m17 + m676 --> m675 + m7	0	0.0	1000.0	
+DCYTD	m313 + m7 + m8 --> m12 + m314	0	0.0	1000.0	
+EX_m577	m577 <=> 	0	-inf	inf	
+HG2abcpp	m6 + m744 + m8 --> m5 + m7 + m745 + m9	0	0.0	1000.0	
+5DGLCNR	m116 + m637 + m7 <=> m115 + m638	0	-1000.0	1000.0	
+HG2tex	m746 <=> m745	0	-1000.0	1000.0	
+ACOAD8f	m130 + m491 <=> m131 + m492	0	-1000.0	1000.0	
+GLNTRS	m158 + m525 + m6 --> m114 + m139 + m524	0	0.0	1000.0	
+EX_m733	m733 <=> 	0	-inf	inf	
+GALTtex	m683 <=> m682	0	-1000.0	1000.0	
+AGPAT140	m415 + m443 --> m372 + m450	0	0.0	1000.0	
+HETZK	m575 + m6 --> m5 + m572 + m7	0	0.0	1000.0	
+MEPCT	m284 + m7 + m790 --> m114 + m338	0	0.0	1000.0	
+Kt3pp	m17 + m800 --> m7 + m798	0	0.0	0.0	
+DSBDR	m380 + m774 --> m379 + m775	0	0.0	1000.0	
+PGLYCP	m688 + m8 --> m689 + m9	0	0.0	1000.0	
+3OAR140	m116 + m412 + m7 <=> m115 + m413	0	-1000.0	1000.0	
+FACOAL141t2pp	m125 + m17 + m498 + m6 --> m114 + m139 + m497 + m7	0	0.0	1000.0	
+XPPT	m150 + m271 --> m114 + m262	0	0.0	1000.0	
+EAR40y	m116 + m394 + m7 --> m115 + m395	0	0.0	1000.0	
+PNTK	m366 + m6 --> m367 + m5 + m7	0	0.0	1000.0	
+FACOAL120t2pp	m125 + m17 + m495 + m6 --> m114 + m139 + m485 + m7	0	0.0	1000.0	
+URAtex	m778 --> m777	0	0.0	0.0	
+EX_m640	m640 <=> 	0	-inf	inf	
+MET17_1	m251 + m252 --> m19 + m45	0	0.0	1000.0	
+GLCP2	m112 + m9 --> m110	0	0.0	0.0	
+FRD3	m128 + m134 --> m135 + m31	0	0.0	1000.0	
+DASYN180	m284 + m454 + m7 --> m114 + m461	0	0.0	1000.0	
+ACOAD2f	m130 + m479 <=> m131 + m480	0	-1000.0	1000.0	
+EAR161y	m116 + m435 + m7 --> m115 + m436	0	0.0	1000.0	
+DASYN181	m284 + m455 + m7 --> m114 + m462	0	0.0	1000.0	
+MOBDabcpp	m6 + m751 + m8 --> m5 + m7 + m750 + m9	0	0.0	1000.0	
+HCYSMT2	m238 + m245 --> 2.0 m45 + m7	0	0.0	1000.0	
+EX_m799	m799 <=> 	0	-inf	inf	
+14GLUCANabcpp	m6 + m646 + m8 --> m5 + m662 + m7 + m9	0	0.0	1000.0	
+ACGAtex	m322 <=> m321	0	-1000.0	1000.0	
+TMDK1	m316 + m6 --> m289 + m5 + m7	0	0.0	1000.0	
+CU1abcpp	m6 + m761 + m8 --> m5 + m7 + m762 + m9	0	0.0	1000.0	
+SUCDi	m137 + m31 --> m128 + m136	0	0.0	1000.0	
+CU2tex	m765 <=> m764	0	-1000.0	1000.0	
+G3PAT180	m423 + m441 --> m372 + m447	0	0.0	1000.0	
+LEUTRS	m532 + m54 + m6 --> m114 + m139 + m531	0	0.0	1000.0	
+EX_m677	m677 <=> 	0	-inf	inf	
+AGDC	m326 + m8 --> m19 + m327	0	0.0	1000.0	
+EX_m771	m771 <=> 	0	-inf	inf	
+PGSA180	m441 + m461 --> m279 + m468 + m7	0	0.0	1000.0	
+3OAS141	m391 + m428 + m7 --> m22 + m372 + m429	0	0.0	1000.0	
+G3PEabcpp	m6 + m780 + m8 --> m473 + m5 + m7 + m9	0	0.0	1000.0	
+Rhea_17480	2.0 m244 + m602 <=> m22 + 2.0 m240 + m603 + m7	0	-1000.0	1000.0	
+3PEPTabcpp	m361 + m6 + m8 --> m360 + m5 + m7 + m9	0	0.0	1000.0	
+G3PCabcpp	m6 + m779 + m8 --> m471 + m5 + m7 + m9	0	0.0	1000.0	
+EAR60y	m116 + m398 + m7 --> m115 + m399	0	0.0	1000.0	
+GTPDPK	m301 + m6 --> m139 + m306 + m7	0	0.0	1000.0	
+MECDPS	m337 --> m279 + m340	0	0.0	1000.0	
+3OAR141	m116 + m429 + m7 --> m115 + m430	0	0.0	1000.0	
+DDGLK	m6 + m630 --> m5 + m632 + m7	0	0.0	1000.0	
+MALTTRtexi	m655 --> m654	0	0.0	0.0	
+CYTK2	m281 + m6 <=> m280 + m5	0	-1000.0	1000.0	
+NTPP11	m300 + m8 --> m114 + m262 + m7	0	0.0	1000.0	
+THIORDXi	m380 + m776 --> m379 + 2.0 m8	0	0.0	1000.0	
+KAS15	m124 + m391 + m7 --> m125 + m22 + m392	0	0.0	1000.0	
+G3PAT181	m440 + m441 --> m372 + m448	0	0.0	1000.0	
+EX_m768	m768 <=> 	0	-inf	inf	
+AGPAT180	m423 + m447 --> m372 + m454	0	0.0	1000.0	
+CYSTRS	m521 + m6 + m93 --> m114 + m139 + m520	0	0.0	1000.0	
+EAR60x	m107 + m398 + m7 --> m106 + m399	0	0.0	1000.0	
+GLUTRS	m156 + m597 + m6 --> m114 + m139 + m596	0	0.0	1000.0	
+NAtex	m65 <=> m66	0	-1000.0	1000.0	
+FE3abcpp	m6 + m731 + m8 --> m5 + m588 + m7 + m9	0	0.0	1000.0	
+MELIBt2pp	m17 + m704 --> m7 + m703	0	0.0	1000.0	
+ACOAD6f	m130 + m487 <=> m131 + m488	0	-1000.0	1000.0	
+EAR140y	m116 + m414 + m7 --> m115 + m415	0	0.0	1000.0	
+DNMPPA	m557 + m8 --> m558 + m9	0	0.0	1000.0	
+Rhea_12764	m244 + m598 <=> m240 + m599 + 2.0 m7	0	-1000.0	1000.0	
+G3PD2	m115 + m441 <=> m103 + m116 + m7	0	-1000.0	1000.0	
+EX_m39	m39 <=> 	0	-inf	inf	
+SPMDabcpp	m195 + m6 + m8 --> m181 + m5 + m7 + m9	0	0.0	1000.0	
+PPAt4pp	m65 + m760 --> m382 + m64	0	0.0	1000.0	
+PRO3_2	m116 + m191 --> m115 + m192	0	0.0	1000.0	
+Rhea_23411	m116 + m601 + 3.0 m7 <=> m115 + m602	0	-1000.0	1000.0	
+AHCYSNS	m240 + m8 --> m239 + m241	0	0.0	1000.0	
+EX_m778	m778 <=> 	0	-inf	inf	
+EX_m711	m711 <=> 	0	-inf	inf	
+AMALT2	m656 + m659 --> m100 + m661	0	0.0	1000.0	
+Rhea_12575	m6 + m609 + m611 <=> m5 + m610 + m7 + m9	0	-1000.0	1000.0	
+EX_m647	m647 <=> 	0	-inf	inf	
+LYSTRS	m217 + m534 + m6 --> m114 + m139 + m533	0	0.0	1000.0	
+EAR80x	m107 + m402 + m7 --> m106 + m403	0	0.0	1000.0	
+MECDPDH2	m107 + m340 --> m106 + m339 + m8	0	0.0	1000.0	
+FE3HOXabcpp	m6 + m735 + m8 --> m5 + m7 + m734 + m9	0	0.0	1000.0	
+R1PK	m149 + m6 --> m151 + m5 + m7	0	0.0	1000.0	
+3OAS60	m391 + m395 + m7 --> m22 + m372 + m396	0	0.0	1000.0	
+EAR120y	m116 + m410 + m7 --> m115 + m411	0	0.0	1000.0	
+FE3DHBZSabcpp	m586 + m6 + m8 --> m5 + m585 + m7 + m9	0	0.0	1000.0	
+PRO3_3	m107 + m191 --> m106 + m192	0	0.0	1000.0	
+SELNPS	m6 + m707 + m8 --> m139 + m708 + m9	0	0.0	1000.0	
+SPMS	m184 + m185 --> m181 + m183 + m7	0	0.0	1000.0	
+ACOATA	m124 + m372 <=> m125 + m389	0	-1000.0	1000.0	
+FECRMR3	m717 + 2.0 m727 --> m582 + 2.0 m7 + 2.0 m714 + 2.0 m729	0	0.0	1000.0	
+CPGNtonex	m17 + m722 --> m7 + m721	0	0.0	1000.0	
+EAR161x	m107 + m435 + m7 --> m106 + m436	0	0.0	1000.0	
+EDA	m632 --> m104 + m99	0	0.0	1000.0	
+MNNH	m631 --> m630 + m8	0	0.0	1000.0	
+GPDDA3	m474 + m8 --> m441 + m7 + m75	0	0.0	1000.0	
+EX_m649	m649 <=> 	0	-inf	inf	
+3OAS80	m391 + m399 + m7 --> m22 + m372 + m400	0	0.0	1000.0	
+SPMDAT2	m124 + m181 --> m125 + m182 + m7	0	0.0	1000.0	
+GALS3	m703 + m8 --> m100 + m692	0	0.0	1000.0	
+Zn2tex	m756 <=> m755	0	-1000.0	1000.0	
+MANptspp	m670 + m98 --> m669 + m99	0	0.0	1000.0	
+FE3HOXUtex	m17 + m736 --> m7 + m737	0	0.0	1000.0	
+TMPPP	m571 + m572 + m7 --> m114 + m573	0	0.0	1000.0	
+AGPAT141	m432 + m444 --> m372 + m451	0	0.0	1000.0	
+MCOATA	m372 + m390 <=> m125 + m391	0	-1000.0	1000.0	
+SDPDS	m220 + m8 --> m219 + m31	0	0.0	1000.0	
+PUNP6	m270 + m9 <=> m154 + m268	0	-1000.0	1000.0	
+CYTD	m318 + m7 + m8 --> m12 + m317	0	0.0	1000.0	
+3OAR100	m116 + m404 + m7 <=> m115 + m405	0	-1000.0	1000.0	
+EAR40x	m107 + m394 + m7 --> m106 + m395	0	0.0	1000.0	
+FE3DHBZR	m585 --> m587 + m588	0	0.0	1000.0	
+EAR180y	m116 + m422 + m7 --> m115 + m423	0	0.0	1000.0	
+G3PAT161	m436 + m441 --> m372 + m446	0	0.0	1000.0	
+FMETTRS	m256 + m522 --> m246 + m523 + m7	0	0.0	1000.0	
+RHEA_30894	m236 + m250 <=> m19 + m249 + m7	0	-1000.0	1000.0	
+ATHRDHr	m115 + m163 <=> m116 + m162 + m7	0	-1000.0	1000.0	
+PTPATi	m369 + m6 + m7 --> m114 + m370	0	0.0	1000.0	
+FEENTERabcpp	m590 + m6 + m8 --> m5 + m589 + m7 + m9	0	0.0	1000.0	
+PPNCL2	m284 + m367 + m93 --> m114 + m279 + m368 + m7	0	0.0	1000.0	
+3OAS180	m391 + m419 + m7 --> m22 + m372 + m420	0	0.0	1000.0	
+EX_m720	m720 <=> 	0	-inf	inf	
+EX_m746	m746 <=> 	0	-inf	inf	
+UDCPDPS	8.0 m342 + m344 --> 8.0 m114 + m345	0	0.0	1000.0	
+ADD	m239 + m7 + m8 --> m12 + m268	0	0.0	1000.0	
+MANtex	m674 --> m670	0	0.0	0.0	
+3OAS121	m391 + m424 + m7 --> m22 + m372 + m425	0	0.0	1000.0	
+MALTATr	m124 + m656 <=> m125 + m663	0	-1000.0	1000.0	
+FACOAL140t2pp	m125 + m17 + m496 + m6 --> m114 + m139 + m487 + m7	0	0.0	1000.0	
+TREtex	m643 <=> m641	0	-1000.0	1000.0	
+THI80_1	m579 + m6 --> m139 + m578	0	0.0	1000.0	
+EX_m722	m722 <=> 	0	-inf	inf	
+DASYN140	m284 + m450 + m7 --> m114 + m457	0	0.0	1000.0	
+GLCURabcrpp	m6 + m626 + m8 --> m5 + m625 + m7 + m9	0	0.0	1000.0	
+FACOAL181t2pp	m125 + m17 + m504 + m6 --> m114 + m139 + m503 + m7	0	0.0	1000.0	
+EX_m645	m645 <=> 	0	-inf	inf	
+TRDR	m116 + m379 + m7 --> m115 + m380	0	0.0	1000.0	
+FACOAL160t2pp	m125 + m17 + m499 + m6 --> m114 + m139 + m489 + m7	0	0.0	1000.0	
+PYDXNK	m566 + m6 --> m5 + m565 + m7	0	0.0	1000.0	
+EAR140x	m107 + m414 + m7 --> m106 + m415	0	0.0	1000.0	
+ILETRS	m51 + m530 + m6 --> m114 + m139 + m529	0	0.0	1000.0	
+MN2tpp	m748 --> m747	0	0.0	1000.0	
+EAR141x	m107 + m431 + m7 --> m106 + m432	0	0.0	1000.0	
+BIOabcpp	m6 + m8 + m803 --> m5 + m7 + m804 + m9	0	0.0	1000.0	
+FE3tex	m593 <=> m731	0	-1000.0	1000.0	
+THMtex	m577 <=> m576	0	-1000.0	1000.0	
+EAR180x	m107 + m422 + m7 --> m106 + m423	0	0.0	1000.0	
+DPR	m116 + m365 + m7 --> m115 + m364	0	0.0	1000.0	
+CPGNR3	m717 + 2.0 m723 --> m582 + 2.0 m7 + 2.0 m714 + 2.0 m724	0	0.0	1000.0	
+Rhea_22515	m603 + m7 <=> m604	0	-1000.0	1000.0	
+3OAR80	m116 + m400 + m7 <=> m115 + m401	0	-1000.0	1000.0	
+PGSA141	m441 + m458 --> m279 + m465 + m7	0	0.0	1000.0	
+3OAR160	m116 + m416 + m7 <=> m115 + m417	0	-1000.0	1000.0	
+HISTRS	m526 + m528 + m6 --> m114 + m139 + m527	0	0.0	1000.0	
+MANAO	m106 + m631 <=> m107 + m624 + m7	0	-1000.0	1000.0	
+3OAS100	m391 + m403 + m7 --> m22 + m372 + m404	0	0.0	1000.0	
+FE2abcpp	m6 + m732 + m8 --> m5 + m7 + m714 + m9	0	0.0	1000.0	
+PHETRS	m231 + m537 + m6 --> m114 + m139 + m536	0	0.0	1000.0	
+ACGAabcpp	m321 + m6 + m8 --> m5 + m7 + m802 + m9	0	0.0	1000.0	
+6PHBG	m699 + m8 --> m700 + m97	0	0.0	1000.0	
+TYRTRS	m235 + m550 + m6 --> m114 + m139 + m549	0	0.0	1000.0	
+SERD_L	m75 --> m12 + m99	0	0.0	0.0	
+MLTG1	m658 + m8 --> m100 + m656	0	0.0	1000.0	
+VALTRS	m48 + m552 + m6 --> m114 + m139 + m551	0	0.0	1000.0	
+FECRMR1	m131 + 2.0 m727 --> m130 + 2.0 m7 + 2.0 m714 + 2.0 m729	0	0.0	1000.0	
+CAt6pp	m65 + m757 <=> m64 + m758	0	-1000.0	1000.0	
+3HAD140	m413 --> m414 + m8	0	0.0	1000.0	
+RZ5PP	m620 + m8 --> m619 + m9	0	0.0	1000.0	
+CBLAT	m6 + m617 + m7 <=> m308 + m616	0	-1000.0	1000.0	
+DXPRIi	m116 + m336 + m7 --> m115 + m790	0	0.0	1000.0	
+ADOCBLS	m618 + m619 --> m273 + m616 + m7	0	0.0	1000.0	
+RHEA_16040	m154 + m801 <=> m316 + m9	0	-1000.0	1000.0	
+ARBTNabcpp	m6 + m713 + m8 --> m5 + m7 + m712 + m9	0	0.0	1000.0	
+EX_m653	m653 <=> 	0	-inf	inf	
+LACabc	m6 + m694 + m8 --> m5 + m696 + m7 + m9	0	0.0	1000.0	
+NNDMBRT	m375 + m621 --> m376 + m620 + m7	0	0.0	1000.0	
+DURIK1	m314 + m6 --> m290 + m5 + m7	0	0.0	1000.0	
+ALAR	m72 <=> m348	0	-1000.0	1000.0	
+FE3HOXR2	m716 + 2.0 m734 --> m581 + 2.0 m7 + 2.0 m714 + 2.0 m736	0	0.0	1000.0	
+CPGNUtpp	m17 + m724 --> m7 + m725	0	0.0	1000.0	
+EAR160y	m116 + m418 + m7 --> m115 + m419	0	0.0	1000.0	
+FACOAL60t2pp	m125 + m17 + m505 + m6 --> m114 + m139 + m479 + m7	0	0.0	1000.0	
+ADPT	m150 + m239 --> m114 + m139	0	0.0	1000.0	
+MALTptspp	m644 + m98 --> m657 + m99	0	0.0	1000.0	
+PPAKr	m381 + m5 <=> m382 + m6	0	-1000.0	1000.0	
+FACOAL80t2pp	m125 + m17 + m506 + m6 --> m114 + m139 + m481 + m7	0	0.0	1000.0	
+FECRMR2	m716 + 2.0 m727 --> m581 + 2.0 m7 + 2.0 m714 + 2.0 m729	0	0.0	1000.0	
+3OAR120	m116 + m408 + m7 <=> m115 + m409	0	-1000.0	1000.0	
+EAR160x	m107 + m418 + m7 --> m106 + m419	0	0.0	1000.0	
+TUNGSabcpp	m6 + m710 + m8 --> m5 + m7 + m709 + m9	0	0.0	1000.0	
+AGPAT120	m411 + m442 --> m372 + m449	0	0.0	1000.0	
+EX_m691	m691 <=> 	0	-inf	inf	
+ACMUMtex	m324 --> m323	0	0.0	1000.0	
+AMPMS2	m106 + m293 + m8 --> m107 + 2.0 m36 + m569 + 3.0 m7	0	0.0	1000.0	
+LCARS	m107 + m687 + m7 <=> m106 + m686	0	-1000.0	1000.0	
+CBIAT	m6 + m615 + m7 <=> m308 + m610	0	-1000.0	1000.0	
+3OAR60	m116 + m396 + m7 <=> m115 + m397	0	-1000.0	1000.0	
+FACOAL100t2pp	m125 + m17 + m494 + m6 --> m114 + m139 + m483 + m7	0	0.0	1000.0	
+RHEA_10491	m554 + m6 <=> m5 + m553 + m9	0	-1000.0	1000.0	
+FEOXAMR3	m717 + 2.0 m740 --> m582 + 2.0 m7 + 2.0 m714 + 2.0 m742	0	0.0	1000.0	
+ARBTNR2	2.0 m712 + m716 --> m581 + 2.0 m7 + 2.0 m714 + 2.0 m715	0	0.0	1000.0	
+AMALT4	m656 + m660 --> m100 + m664	0	0.0	1000.0	
+CDPMEK	m338 + m6 --> m337 + m5 + m7	0	0.0	1000.0	
+4PEPTabcpp	m363 + m6 + m8 --> m362 + m5 + m7 + m9	0	0.0	1000.0	
+MNtex	m749 <=> m748	0	-1000.0	1000.0	
+FRUK	m6 + m671 --> m102 + m5 + m7	0	0.0	1000.0	
+HMPK1	m570 + m6 --> m5 + m569 + m7	0	0.0	1000.0	
+ACOAD1f	m130 + m385 <=> m131 + m386	0	-1000.0	1000.0	
+GLCS1	m113 --> m111 + m5 + m7	0	0.0	0.0	
+SERTRS2	m543 + m6 + m75 --> m114 + m139 + m542	0	0.0	1000.0	
