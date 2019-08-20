@@ -3,7 +3,7 @@
 # Created by Hao Luo at 2019-06-18
 
 """seq_analysis.py
-:description : script to process the seqs of Lreuteri
+:description : script to process the seqs of three versions of Lreuteri
 :param : input three versions of genmoes
 :returns: out put processed seqs
 :rtype: 
