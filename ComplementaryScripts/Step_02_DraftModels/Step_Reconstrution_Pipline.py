@@ -217,7 +217,6 @@ Lreu_draft_3.objective = "BIOMASS_LRE"
 print('Lreu_draft_3 Biomass:',Lreu_draft_3.optimize())
 cobra.io.save_json_model(Lreu_draft_3,'Lreu_draft_3.json',sort='True')
 
-
 print('=====  Done =====')
 
 

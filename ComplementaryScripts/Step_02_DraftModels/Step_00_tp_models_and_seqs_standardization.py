@@ -302,7 +302,7 @@ if  __name__ == '__main__':
                 "DHPPDA":"DHPPDA__1",
                 "GALt2":"GALt",
                 "MALTt2":"MALTt",
-                "THRt2r":"THRt3",
+                "THRt2r":"THRt2",
                 "TYRt2r":"TYRt6",
                 "LEUt2r":"LEUt6",
                 "LYSt2r":"LYSt6",
