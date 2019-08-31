@@ -175,6 +175,15 @@ if  __name__ == '__main__':
         iBT721 = standardlize_met(iBT721, met_report_df)
         rea_report_df = rea_report(iBT721, bigg_rea_df)
         iBT721 = standardlize_rea(iBT721, rea_report_df)
+        #case _LLA sepcial mets(biomass composition) or id
+        for rea in iBT721.reactions:
+            if '_LPL' in rea.id:
+                rea.id = rea.id.replace('_LPL','_LRE')
+                rea.name = rea.name.replace('_LPL','_LRE')
+        for met in iBT721.metabolites:
+            if '_LPL' in met.id:
+                met.id = met.id.replace('_LPL', '_LRE')
+                met.name = met.name.replace('_LPL', '_LRE')
 
         # %% save report
         iBT721_initial_report = met_report_df.append(rea_report_df)
@@ -271,7 +280,20 @@ if  __name__ == '__main__':
                   '2mpa_c':'isobut_c',
                   '2mpa_e':'isobut_e',
                   '3mba_e':'isoval_e',
-                  'rbflvrd_c':'ribflvRD_c'
+                  'rbflvrd_c':'ribflvRD_c',
+                    'hexACP_c':'hexacp_c',
+                    'malACP_c':'malacp_c',
+                    'ACP_c':'acp_c',
+                    'hdeACP_c':'hdeacp_c',
+                    'ocACP_c':'octacp_c',
+                    'butACP_c':'butacp_c',
+                    'actACP_c':'aaacp_c',
+                    '3hbutACP_c':'3hbacp_c',
+                    'palmACP_c':'hdeacp_c',
+                    'octeACP_c':'2cocdacp_c',
+                    'but2eACP_c':'2beacp_c',
+                    'n6all26d_c':'al26da_c',
+
                   }
 
     for model in modellist:

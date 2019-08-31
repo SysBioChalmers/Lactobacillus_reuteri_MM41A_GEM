@@ -8,6 +8,7 @@ import os
 import pandas as pd
 import re
 import imp
+import My_def
 
 def gpr2log( gpr_i, othergeneset,inset = True, notinset = False, emptyset = '' ):
     torf = ''
@@ -145,7 +146,7 @@ def merge_draftmodels(model1, model2, inplace = False):
         data.append(rowlist)
     report_df = pd.DataFrame(data,index=None,columns = ['rea_id', 'add_skip','describ','fea1','fea2','dif'])
 
-    print('\033[1;34;47m')
+    print('\033[1;31;47m')
     print('mets different reaction list')
     print(report_df[report_df['describ'].str.contains('mets different')])
 
@@ -176,6 +177,18 @@ def merge_reactionsid(model1, new_id, old_id):
     model = model1.copy()
 
     try:
+        rea1 = model.reactions.get_by_id(new_id)
+    except:
+        try:
+            rea2 = model.reactions.get_by_id(old_id)
+            model.reactions.get_by_id(old_id).id = new_id
+
+            print(new_id +' not in model, just replase rea_id')
+        except:
+            print(old_id +' not in model')
+
+
+    try:
         model.reactions.get_by_id(old_id).id = new_id
 
     except ValueError:
@@ -183,6 +196,16 @@ def merge_reactionsid(model1, new_id, old_id):
         print('\033[1;34;47m')
         print(model.id + 'reaction id: '+new_id+ " and " + old_id + ' removed last one!!! check it by hand!!!')
         print('\033[0;30;48m')
+
+        rea1 = model.reactions.get_by_id(new_id)
+        rea2 = model.reactions.get_by_id(old_id)
+
+        rea1.gene_reaction_rule = My_def.merge_model.merge_gprule(rea1.gene_reaction_rule, rea2.gene_reaction_rule)
+        try:
+            rea1.notes['from'] = list(set(rea1.notes['from']+rea2.notes['from']))
+        except:
+            print(rea2.id+ ' no from')
+
         model.reactions.get_by_id(old_id).remove_from_model()
 
     except KeyError:
@@ -190,6 +213,9 @@ def merge_reactionsid(model1, new_id, old_id):
         print(old_id + ' not in model!!! skiped')
 
     return model
+
+
+
 
 def judge(model1,old_id,model2,new_id):
 

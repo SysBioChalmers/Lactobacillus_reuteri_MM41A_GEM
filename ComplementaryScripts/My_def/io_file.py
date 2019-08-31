@@ -28,6 +28,6 @@ def model2txt(model,outfile,sort=False):
             reaidlist.sort()
         for reaid in reaidlist:
             rea = model.reactions.get_by_id(reaid)
-            outline_list = [reaid, rea.reaction, str(rea.objective_coefficient),str(rea.lower_bound), str(rea.upper_bound),rea.gene_reaction_rule]
+            outline_list = [reaid, rea.reaction, str(rea.objective_coefficient),str(rea.lower_bound), str(rea.upper_bound),rea.gene_reaction_rule,str(rea.notes)]
             outf.write("\t".join(outline_list) + '\n')
 
