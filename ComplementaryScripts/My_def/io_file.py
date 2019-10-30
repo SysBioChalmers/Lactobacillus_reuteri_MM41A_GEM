@@ -31,3 +31,30 @@ def model2txt(model,outfile,sort=False):
             outline_list = [reaid, rea.reaction, str(rea.objective_coefficient),str(rea.lower_bound), str(rea.upper_bound),rea.gene_reaction_rule,str(rea.notes)]
             outf.write("\t".join(outline_list) + '\n')
 
+def GEM2CB(model,outfile,sort=False):
+
+    file = open(outfile,'w')
+
+    file.write('-ENZREV\n\n')
+
+    file.write('-ENZIRREV\n\n')
+
+    file.write('-METEXT\n\n')
+
+    METEXT = []
+    for met in model.metabolites:
+        if '_e' in met.id:
+            METEXT.append(met.id)
+
+    file.write(' '.join(METEXT))
+
+    file.write('\n-CAT\n')
+
+    for rea in model.reactions:
+        file.write(rea.id +' : ')
+        equ = rea.reaction
+        equ = equ.replace('-->','=>')
+        equ = equ.replace('<=>','=')
+        equ = equ.replace('<--','<=')
+        file.write(equ +' .\n')
+    file.close()

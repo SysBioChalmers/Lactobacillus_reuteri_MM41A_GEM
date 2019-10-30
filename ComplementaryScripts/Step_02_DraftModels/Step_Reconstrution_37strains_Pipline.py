@@ -185,7 +185,7 @@ for sp_name in name_list:
     print('\033[1;31;47m'+'Draft model compare with iML1515 report (same reaid , differetnt equation)')
     Lreu_draft_2, report_df_from_iML1515 = My_def.merge_model.merge_draftmodels(Lreu_draft_1,Lreu_from_iML1515)
     print('\033[1;31;47m'+'Draft model compare with iML1515 report (same reaid , differetnt equation')
-    Lreu_draft_2, report_df_from_1BT721 = My_def.merge_model.merge_draftmodels(Lreu_draft_2,Lreu_from_iBT721)
+    Lreu_draft_2, report_df_from_Lreuteri_530 = My_def.merge_model.merge_draftmodels(Lreu_draft_2,Lreu_from_iBT721)
     print('\033[1;31;47m'+'Draft model compare with iML1515 report (same reaid , differetnt equation')
     Lreu_draft_2, report_df_from_1BT721 = My_def.merge_model.merge_draftmodels(Lreu_draft_2,Lreu_from_Lreuteri_530)
 

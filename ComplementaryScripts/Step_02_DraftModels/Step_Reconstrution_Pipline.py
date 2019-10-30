@@ -145,10 +145,11 @@ cobra.io.save_json_model(Lreu_draft_1,'Lreu_draft_1.json',sort='True')
 #Lreu_draft_2, report_df = My_def.merge_model.merge_draftmodels(Lreu_draft_1,Lreu_from_Lreuteri_530)
 print('\033[1;31;47m'+'Draft model compare with iML1515 report (same reaid , differetnt equation)')
 Lreu_draft_2, report_df_from_iML1515 = My_def.merge_model.merge_draftmodels(Lreu_draft_1,Lreu_from_iML1515)
-print('\033[1;31;47m'+'Draft model compare with iML1515 report (same reaid , differetnt equation')
+print('\033[1;31;47m' + 'Draft model compare with Lreu_from_Lreuteri_530 report (same reaid , differetnt equation')
+Lreu_draft_2, report_df_from_Lreuteri_530 = My_def.merge_model.merge_draftmodels(Lreu_draft_2, Lreu_from_Lreuteri_530)
+print('\033[1;31;47m'+'Draft model compare with Lreu_from_iBT721 report (same reaid , differetnt equation')
 Lreu_draft_2, report_df_from_1BT721 = My_def.merge_model.merge_draftmodels(Lreu_draft_2,Lreu_from_iBT721)
-print('\033[1;31;47m'+'Draft model compare with iML1515 report (same reaid , differetnt equation')
-Lreu_draft_2, report_df_from_1BT721 = My_def.merge_model.merge_draftmodels(Lreu_draft_2,Lreu_from_Lreuteri_530)
+
 
 print('\033[0;34;48m')
 
@@ -216,6 +217,10 @@ for i in biomass_gaps_set :
 Lreu_draft_3.objective = "BIOMASS_LRE"
 print('Lreu_draft_3 Biomass:',Lreu_draft_3.optimize())
 cobra.io.save_json_model(Lreu_draft_3,'Lreu_draft_3.json',sort='True')
+
+print(len(Lreu_draft_1.reactions))
+print(len(Lreu_draft_2.reactions))
+print(len(Lreu_draft_3.reactions))
 
 print('=====  Done =====')
 

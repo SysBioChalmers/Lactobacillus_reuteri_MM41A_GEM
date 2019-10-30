@@ -114,23 +114,51 @@ for sp_name in name_list:
     # keep_move_dic{keep: remove}
 
     keep_move_dic = {
-                    "LEUt2r":"LEUt2",
+                    "MCOATA":"MACPMT",
+                "DALTAL_LRE":"DALTAL",
+                "KAS15":"kaasIII",
+                "ALATRS":"ALATRS_1",
+                "ASPTRS":"ASPTRS_1",
+                "CYSTRS":"CYSTRS_1",
+                "HISTRS":"HISTRS_1",
+                "LEUTRS":"LEUTRS_1",
+                "METTRS":"METTRS_1",
+                "PHETRS":"PHETRS_1",
+                "ARGTRS":"ARGTRS_1",
+                "SERTRS":"SERTRS_1",
+                "GLYTRS":"GLYTRS_1",
+                "ILETRS":"ILETRS_1",
+                "LYSTRS":"LYSTRS_1",
+                "THRTRS":"THRTRS_1",
+                "TRPTRS":"TRPTRS_1",
+                "TYRTRS":"TYRTRS_1",
+                "VALTRS":"VALTRS_1",
+                "ASNTRS":"ASNTRS_1",
 
-                    "ARBt2":"ARAB_Lt",
-                    "ARBt2r":"ARBt2",
-                    "SERt3":"SERt2r",
-                    "SERt2r":"SERt3",
+                "EAR40x":"BTMAT1",
+                "PRFGS":"PRFGS_1",
+                "PPA2":"EPPP",
 
-                    "AGAT_LRE":"AGAT_LPL",
-                    "CLPNS_LRE":"CLPNS_LPL",
-                    "CPSS_LRE":"CPSS_LPL",
-                    #"CPSS_LRE":"CPSS_LPL2",
-                    "DAGGT_LRE":"DAGGT_LPL",
-                    "DALTAL_LPL":"DALTAL",
-                    "GLTAL_LPL":"GLTAL",
-                    "DASYN_LRE":"LPGS_LPL",
-                    "PGSA_LRE":"PGSA_LPL"
-                    }
+                "LEUt2r":"LEUt2",
+
+                "ARBt2":"ARAB_Lt",
+                "ARBt2r":"ARBt2",
+                "SERt3":"SERt2r",
+                "SERt2r":"SERt3",
+                #"THRt2r":"THRt3",
+
+
+                "AGAT_LRE":"AGAT_LPL",
+                "CLPNS_LRE":"CLPNS_LPL",
+                "CPSS_LRE":"CPSS_LPL",
+                #"CPSS_LRE":"CPSS_LPL2",
+                "DAGGT_LRE":"DAGGT_LPL",
+                "DALTAL_LPL":"DALTAL",
+                "GLTAL_LPL":"GLTAL",
+                "DASYN_LRE":"LPGS_LPL",
+                "PGSA_LRE":"PGSA_LPL"
+                }
+
 
     for k,v in keep_move_dic.items():
         Lreu_draft_3_refined = My_def.merge_model.merge_reactionsid(Lreu_draft_3_refined, k, v)
@@ -141,7 +169,8 @@ for sp_name in name_list:
     for i in Lreu_draft_3_refined.reactions:
         if i.bounds == (0.0,0.0):
             check_bounds_set.add(i.id)
-
+    #Lreuteri_530 = cobra.io.load_json_model('../Step_02_DraftModels/Template/template_models/Lreuteri_530_standlized.json')
+    #Lreuteri_530.reactions.get_by_id('DM_2ahbut_c').id =  'EX_2ahbut_c'
     # %% <general step: add _missing tag remove remove_useless_mets and gens >
 
 
@@ -192,32 +221,32 @@ for sp_name in name_list:
 
 
 #%%
-
-carveme_reacount = []
-carveme_metcount = []
-carveme_genecount = []
-
-for sp_name in name_list:
-
-
-    carveme_model = cobra.io.read_sbml_model('../Step_02_DraftModels/other_Lreuteri_moldebuilding/CarveMe/'+ sp_name +'.xml')
-    locals()[sp_name+'_carveme_reaset'] = set([ i.id for i in carveme_model.reactions ])
-    locals()[sp_name+'_carveme_metset'] = set([ i.id for i in carveme_model.metabolites ])
-    locals()[sp_name+'_carveme_geneset'] = set([ i.id for i in carveme_model.genes ])
-
-    carveme_reacount.append(len(locals()[sp_name+'_reaset']))
-    carveme_metcount.append(len(locals()[sp_name+'_metset']))
-    carveme_genecount.append(len(locals()[sp_name+'_geneset']))
-
-core_carveme_rea = locals()[name_list[0]+'_carveme_reaset']
-pan_carveme_rea = locals()[name_list[0]+'_carveme_reaset']
-core_carveme_met = locals()[name_list[0]+'_carveme_metset']
-pan_carveme_met = locals()[name_list[0]+'_carveme_metset']
-
-
-for sp_name in name_list:
-    core_carveme_rea = core_carveme_rea & locals()[sp_name+'_carveme_reaset']
-    pan_carveme_rea = pan_carveme_rea | locals()[sp_name+'_carveme_reaset']
-    
-    core_carveme_met = core_carveme_met & locals()[sp_name+'_carveme_metset']
-    pan_carveme_met = pan_carveme_met | locals()[sp_name+'_carveme_metset']
+#
+# carveme_reacount = []
+# carveme_metcount = []
+# carveme_genecount = []
+#
+# for sp_name in name_list:
+#
+#
+#     carveme_model = cobra.io.read_sbml_model('../Step_02_DraftModels/other_Lreuteri_moldebuilding/CarveMe/'+ sp_name +'.xml')
+#     locals()[sp_name+'_carveme_reaset'] = set([ i.id for i in carveme_model.reactions ])
+#     locals()[sp_name+'_carveme_metset'] = set([ i.id for i in carveme_model.metabolites ])
+#     locals()[sp_name+'_carveme_geneset'] = set([ i.id for i in carveme_model.genes ])
+#
+#     carveme_reacount.append(len(locals()[sp_name+'_reaset']))
+#     carveme_metcount.append(len(locals()[sp_name+'_metset']))
+#     carveme_genecount.append(len(locals()[sp_name+'_geneset']))
+#
+# core_carveme_rea = locals()[name_list[0]+'_carveme_reaset']
+# pan_carveme_rea = locals()[name_list[0]+'_carveme_reaset']
+# core_carveme_met = locals()[name_list[0]+'_carveme_metset']
+# pan_carveme_met = locals()[name_list[0]+'_carveme_metset']
+#
+#
+# for sp_name in name_list:
+#     core_carveme_rea = core_carveme_rea & locals()[sp_name+'_carveme_reaset']
+#     pan_carveme_rea = pan_carveme_rea | locals()[sp_name+'_carveme_reaset']
+#
+#     core_carveme_met = core_carveme_met & locals()[sp_name+'_carveme_metset']
+#     pan_carveme_met = pan_carveme_met | locals()[sp_name+'_carveme_metset']

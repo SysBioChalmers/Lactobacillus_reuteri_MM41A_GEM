@@ -289,10 +289,13 @@ if  __name__ == '__main__':
                     'butACP_c':'butacp_c',
                     'actACP_c':'aaacp_c',
                     '3hbutACP_c':'3hbacp_c',
-                    'palmACP_c':'hdeacp_c',
+
                     'octeACP_c':'2cocdacp_c',
                     'but2eACP_c':'2beacp_c',
                     'n6all26d_c':'al26da_c',
+                    'dscl_c':'shcl_c',
+                    'scl_c':'srch_c',
+                    '3hbcoa_c':'3hbycoa_c'
 
                   }
 
