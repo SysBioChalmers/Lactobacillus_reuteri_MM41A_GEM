@@ -10,9 +10,10 @@
 """
 
 import os
+
+import cobra
 import numpy as np
 import pandas as pd
-import cobra
 
 os.chdir('../../ComplementaryData')
 # %% os.chdir('ComplementaryData/Step_03_Compare_Refine/')
@@ -27,7 +28,7 @@ model_list = [iHL622, iNF517, LbReueri, iBT721, iML1515]
 
 # %%
 info_dic = {'Model': ['iHL622', 'iNF517', 'LbReuteri', 'iBT721', 'iML1515'],
-            'Genes': [2019,2339,1943,3063,4243],
+            'Genes': [2019, 2339, 1943, 3063, 4243],
             'Included': [],
             'Included_persent': [],
             'Reactions': [],
@@ -52,8 +53,8 @@ for model in model_list:
     Exchange = 0
     if model.id == 'MODEL1507180045':
         for met_i in model.metabolites:
-            met_i_temp = met_i.id.replace('LSQBKT','')
-            met_i_temp = met_i_temp.replace('_RSQBKT','')
+            met_i_temp = met_i.id.replace('LSQBKT', '')
+            met_i_temp = met_i_temp.replace('_RSQBKT', '')
             met_i.id = met_i_temp
     rea_set = set([])
     for rea_i in model.reactions:
@@ -80,15 +81,14 @@ for model in model_list:
 
     Metabolites = len(model.metabolites)
     Cytosol = len([i for i in model.metabolites if i.id.endswith('_c')])
-    Others = Metabolites-Cytosol
+    Others = Metabolites - Cytosol
     info_dic['Metabolites'].append(Metabolites)
     info_dic['Cytosol'].append(Cytosol)
     info_dic['Others'].append(Others)
     # info_dic['Unique'].append(len(set([i.id.split('_')[0] for i in model.metabolites ])))
     info_dic['Unique'] = info_dic['Cytosol']
-info_dic['Included_persent'] = np.array(info_dic['Included'])/np.array(info_dic['Genes'])*100
-info_dic['With_GPR_persent'] = np.array(info_dic['With_GPR'])/np.array(info_dic['Reactions'])*100
-
+info_dic['Included_persent'] = np.array(info_dic['Included']) / np.array(info_dic['Genes']) * 100
+info_dic['With_GPR_persent'] = np.array(info_dic['With_GPR']) / np.array(info_dic['Reactions']) * 100
 
 info_table = pd.DataFrame(info_dic).T
 info_table.columns = info_table.iloc[0]

@@ -10,10 +10,12 @@
 """
 
 import os
-import pandas as pd
-import cobra
-import My_def
 import re
+
+import cobra
+import pandas as pd
+
+import My_def
 
 os.chdir('../../ComplementaryData/Step_02_DraftModels/Template/template_models/')
 iBT721 = cobra.io.load_json_model('iBT721_standlized.json')
@@ -30,22 +32,22 @@ Lreu_kegg.id = 'Lreu_kegg'
 Lreu_caeveme.id = 'Lreu_caeveme'
 Lreu_seed.id = 'Lreu_seed'
 
-
-#%%
+# %%
 
 all_map = pd.DataFrame()
-#all_map = pd.read_csv('all_map.csv', sep = '\t')
+# all_map = pd.read_csv('all_map.csv', sep = '\t')
 
-for model in [iNF517,iML1515,iBT721,Lreu_metacyc,Lreu_kegg,Lreu_caeveme,Lreu_seed]:     #,iNF517,iML1515,Lreu_metacyc,Lreu_keegiBT721,iNF517,iML1515,Lreu_metacyc,Lreu_kegg,Lreu_caeveme,
+for model in [iNF517, iML1515, iBT721, Lreu_metacyc, Lreu_kegg, Lreu_caeveme,
+              Lreu_seed]:  # ,iNF517,iML1515,Lreu_metacyc,Lreu_keegiBT721,iNF517,iML1515,Lreu_metacyc,Lreu_kegg,Lreu_caeveme,
 
-    print(model.id,'\tmaping:')
-    if model.id in ['iBT721','iNF517','iML1515','Lreu_caeveme']:
+    print(model.id, '\tmaping:')
+    if model.id in ['iBT721', 'iNF517', 'iML1515', 'Lreu_caeveme']:
         fromdb = 'bigg'
-    elif  model.id =='Lreu_metacyc':
+    elif model.id == 'Lreu_metacyc':
         fromdb = 'metacyc'
-    elif model.id =='Lreu_kegg':
+    elif model.id == 'Lreu_kegg':
         fromdb = 'kegg'
-    elif model.id =='Lreu_seed':
+    elif model.id == 'Lreu_seed':
         fromdb = 'seed'
 
     realist = [i.id for i in model.reactions]
@@ -54,52 +56,51 @@ for model in [iNF517,iML1515,iBT721,Lreu_metacyc,Lreu_kegg,Lreu_caeveme,Lreu_see
 
     trimmed_metlist = [re.sub('_..?$', '', i) for i in metlist]
 
-    if  model.id =='Lreu_metacyc':
+    if model.id == 'Lreu_metacyc':
         trimmed_realist = [re.sub(r'__45__', r'-', i) for i in realist]
         trimmed_metlist = [re.sub(r'__45__', r'-', i) for i in metlist]
         trimmed_realist = [re.sub(r'__46__', r'.', i) for i in trimmed_realist]
         trimmed_metlist = [re.sub(r'__46__', r'.', i) for i in trimmed_metlist]
         trimmed_realist = [re.sub(r'__43__', r'+', i) for i in trimmed_realist]
         trimmed_metlist = [re.sub(r'__43__', r'+', i) for i in trimmed_metlist]
-    elif model.id =='Lreu_seed':
+    elif model.id == 'Lreu_seed':
         trimmed_realist = [re.sub(r'_[cpeb](0?)$', '', i) for i in realist]
     else:
         trimmed_realist = realist
 
     # %% rea
-    metacyc_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('rxns',trimmed_realist,fromdb,'metacyc')
-    bigg_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('rxns',trimmed_realist,fromdb,'bigg')
-    kegg_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('rxns',trimmed_realist,fromdb,'kegg')
-    seed_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('rxns',trimmed_realist,fromdb,'seed')
+    metacyc_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('rxns', trimmed_realist, fromdb, 'metacyc')
+    bigg_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('rxns', trimmed_realist, fromdb, 'bigg')
+    kegg_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('rxns', trimmed_realist, fromdb, 'kegg')
+    seed_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('rxns', trimmed_realist, fromdb, 'seed')
 
-    metacyc_targetlist = [ str(i) for i  in metacyc_targetlist ]
-    kegg_targetlist = [ str(i) for i  in kegg_targetlist ]
-    seed_targetlist = [ str(i) for i  in seed_targetlist ]
-    MNX_IDlist = [ str(i) for i  in MNX_IDlist ]
+    metacyc_targetlist = [str(i) for i in metacyc_targetlist]
+    kegg_targetlist = [str(i) for i in kegg_targetlist]
+    seed_targetlist = [str(i) for i in seed_targetlist]
+    MNX_IDlist = [str(i) for i in MNX_IDlist]
 
-
-    rea_map= pd.DataFrame(list(zip( realist, bigg_targetlist ,MNX_IDlist ,metacyc_targetlist ,kegg_targetlist ,seed_targetlist)),
-                     columns=['id_in_tp','bigg','metnetx','metacyc','kegg','seed'])
+    rea_map = pd.DataFrame(
+        list(zip(realist, bigg_targetlist, MNX_IDlist, metacyc_targetlist, kegg_targetlist, seed_targetlist)),
+        columns=['id_in_tp', 'bigg', 'metnetx', 'metacyc', 'kegg', 'seed'])
     rea_map['type'] = 'rea'
 
     # %% mets
 
-    metacyc_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('mets',trimmed_metlist,fromdb,'metacyc')
-    bigg_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('mets',trimmed_metlist,fromdb,'bigg')
-    kegg_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('mets',trimmed_metlist,fromdb,'kegg')
-    seed_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('mets',trimmed_metlist,fromdb,'seed')
+    metacyc_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('mets', trimmed_metlist, fromdb, 'metacyc')
+    bigg_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('mets', trimmed_metlist, fromdb, 'bigg')
+    kegg_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('mets', trimmed_metlist, fromdb, 'kegg')
+    seed_targetlist, MNX_IDlist = My_def.mapIDsViaMNXref('mets', trimmed_metlist, fromdb, 'seed')
 
-
-    met_map= pd.DataFrame(list(zip( metlist, bigg_targetlist ,MNX_IDlist ,metacyc_targetlist ,kegg_targetlist ,seed_targetlist)),
-                     columns=['id_in_tp','bigg','metnetx','metacyc','kegg','seed'])
+    met_map = pd.DataFrame(
+        list(zip(metlist, bigg_targetlist, MNX_IDlist, metacyc_targetlist, kegg_targetlist, seed_targetlist)),
+        columns=['id_in_tp', 'bigg', 'metnetx', 'metacyc', 'kegg', 'seed'])
     met_map['type'] = 'met'
 
-
-    model_map = met_map.append(rea_map,ignore_index = True)
+    model_map = met_map.append(rea_map, ignore_index=True)
 
     model_map['model'] = model.id
 
-    #model_map.to_csv(model.id+'_map.csv',sep = '\t',index=False)
+    # model_map.to_csv(model.id+'_map.csv',sep = '\t',index=False)
 
     all_map = all_map.append(model_map)
 
@@ -107,15 +108,8 @@ for model in [iNF517,iML1515,iBT721,Lreu_metacyc,Lreu_kegg,Lreu_caeveme,Lreu_see
     #             all_map.type.isin(model_map.type)&
     #             all_map.id_in_tp.isin(model_map.id_in_tp),all_map.columns] = model_map[model_map.columns]
 
-    #all_map = all_map.update(model_map, how = 'inner',on= ['id_in_tp','type','model'],)
+    # all_map = all_map.update(model_map, how = 'inner',on= ['id_in_tp','type','model'],)
 
-    locals()[model.id+'_map'] = model_map
+    locals()[model.id + '_map'] = model_map
 
-
-all_map.to_csv('../../all_map.csv', sep = '\t',index=False)
-
-
-
-
-
-
+all_map.to_csv('../../all_map.csv', sep='\t', index=False)

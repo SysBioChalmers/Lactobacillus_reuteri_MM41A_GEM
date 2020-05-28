@@ -25,7 +25,7 @@ def _import_genome(fasta):
         if len(genome) > 1:
             warnings.warn(
                 '%s handles in the genome file.This may indicate that your genome is not completely assembled. \nBOFdat will parse the contigs but the stoichiometric coefficients may not be accurate.' % (
-                len(genome),))
+                    len(genome),))
     except:
         raise ImportError('The file provided cannot be imported.')
 
@@ -164,6 +164,7 @@ The option to update the coefficients of the metabolites in the biomass objectiv
 
 if __name__ == '__main__':
     import os
+
     os.chdir('../../ComplementaryData/')
     # path_to_fasta = 'sequences_processing/genomic_sequences/[Bacteroides]_pectinophilus_ATCC_43243_genomic.fna.gz'
     path_to_fasta = 'Step_01_Sequences_analysis/Lreuteri_biogaia_v03/Lreuteri_biogaia_v03.fas'

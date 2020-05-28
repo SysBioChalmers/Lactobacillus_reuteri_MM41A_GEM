@@ -610,16 +610,14 @@ for i in Lreu_draft_3_refined.metabolites:
 
 Lreu_draft_3_refined.id = 'iHL622'
 Lreu_draft_3_refined.name = 'Lactobacillus reuteri ATCC PTA 6475 /(str. MM4-1A)'
-Lreu_draft_3_refined.annotation = {'taxonomy': '548485', 'bigg.model': '',}
-Lreu_draft_3_refined.notes = {'Model From': ['iNF517', 'LbReuteri', 'iBT721','iML1515']}
-
+Lreu_draft_3_refined.annotation = {'taxonomy': '548485', 'bigg.model': '', }
+Lreu_draft_3_refined.notes = {'Model From': ['iNF517', 'LbReuteri', 'iBT721', 'iML1515']}
 
 cobra.io.write_sbml_model(Lreu_draft_3_refined, '../../ModelFiles/iHL622.xml')
 cobra.io.save_json_model(Lreu_draft_3_refined, '../../ModelFiles/iHL622.json', sort='True')
 My_def.io_file.model2txt(Lreu_draft_3_refined, '../../ModelFiles/iHL622.txt')
 cobra.io.save_matlab_model(Lreu_draft_3_refined, '../../ModelFiles/iHL622.mat')
 cobra.io.save_yaml_model(Lreu_draft_3_refined, '../../ModelFiles/iHL622.yml')
-
 
 # cobra.io.write_sbml_model(Lreu_draft_3_refined, '../../ModelFiles/Lreu_refined.xml')
 # cobra.io.save_json_model(Lreu_draft_3_refined, '../../ModelFiles/Lreu_refined.json', sort='True')
