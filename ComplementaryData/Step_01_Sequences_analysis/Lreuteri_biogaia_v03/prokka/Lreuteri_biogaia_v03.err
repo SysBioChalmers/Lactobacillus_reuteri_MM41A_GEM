@@ -4528,7 +4528,7 @@ DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	manganese-dependent inorganic pyrophosphatase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:869748-870683	MBLCLPDI_00873
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c871684-870716	MBLCLPDI_00874
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c871684-870716	MBLCLPDI_00874
 
 DiscRep_SUB:FEATURE_LOCATION_CONFLICT::Coding region xref gene does not exist
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	iron-sulfur cluster biosynthesis family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:871893-872282	MBLCLPDI_00875
@@ -8734,7 +8734,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family transposase, L
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS66 family insertion sequence hypothetical protein, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c656563-656207	MBLCLPDI_00658
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:763254-763712	MBLCLPDI_00774
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21740, whole genome shotgun sequence	Complete_sequence_with_correct_origin:804921-805379	MBLCLPDI_00813
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c871684-870716	MBLCLPDI_00874
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c871684-870716	MBLCLPDI_00874
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS200/IS605 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1042636-1043094	MBLCLPDI_01065
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS3 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c1058972-1058361	MBLCLPDI_01092
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS1182 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:1062864-1064474	MBLCLPDI_01097
@@ -9548,7 +9548,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA topoisomerase IV subun
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA topoisomerase IV subunit A, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:866690-869155	MBLCLPDI_00871
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	NUDIX domain-containing protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:869172-869639	MBLCLPDI_00872
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	manganese-dependent inorganic pyrophosphatase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:869748-870683	MBLCLPDI_00873
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c871684-870716	MBLCLPDI_00874
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c871684-870716	MBLCLPDI_00874
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	iron-sulfur cluster biosynthesis family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:871893-872282	MBLCLPDI_00875
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:872798-872938	MBLCLPDI_00877
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:872966-873460	MBLCLPDI_00878
@@ -11435,7 +11435,7 @@ Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA topoisomerase IV subun
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	DNA topoisomerase IV subunit A, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:866690-869155	MBLCLPDI_00871
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	NUDIX domain-containing protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:869172-869639	MBLCLPDI_00872
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	manganese-dependent inorganic pyrophosphatase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:869748-870683	MBLCLPDI_00873
-Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c871684-870716	MBLCLPDI_00874
+Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence	Complete_sequence_with_correct_origin:c871684-870716	MBLCLPDI_00874
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	iron-sulfur cluster biosynthesis family protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:871893-872282	MBLCLPDI_00875
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	hypothetical protein, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:872798-872938	MBLCLPDI_00877
 Lreuteri_biogaia_v03/prokka//Lreuteri_biogaia_v03:CDS	N-acetyltransferase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence	Complete_sequence_with_correct_origin:872966-873460	MBLCLPDI_00878

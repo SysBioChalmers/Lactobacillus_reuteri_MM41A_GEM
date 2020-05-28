@@ -4332,9 +4332,9 @@
 			product	manganese-dependent inorganic pyrophosphatase, Lactobacillus reuteri MM4-1A, whole genome shotgun sequence
 871684	870716	CDS
 			inference	ab initio prediction:Prodigal:2.6
-			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003668074.1
+			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003667057.1
 			locus_tag	MBLCLPDI_00874
-			product	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21738, whole genome shotgun sequence
+			product	IS30 family transposase, Lactobacillus reuteri MM4-1A Contig21713, whole genome shotgun sequence
 871893	872282	CDS
 			inference	ab initio prediction:Prodigal:2.6
 			inference	similar to AA sequence:Lreuteri_refseq_v02.faa:WP_003668071.1
