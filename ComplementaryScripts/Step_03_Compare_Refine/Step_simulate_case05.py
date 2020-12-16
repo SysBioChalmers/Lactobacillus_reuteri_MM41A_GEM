@@ -136,7 +136,7 @@ ax.set_ylabel('Percent of None (%)', fontsize=16)  # color = 'tab:blue'
 # ax.tick_params(axis='y')  # , labelcolor='tab:blue'
 ax.set_ylim((0, 160))
 ax.set_xlim((-1, 13))
-ax.set_title('Amino acid omitted Growth rate simulation', fontsize=18)
+ax.set_title('Unessential Amino acid omitted Growth rate simulation', fontsize=14)
 labels = aalist
 ax.set_xticks(x)
 ax.set_xticklabels(labels, fontsize=14)

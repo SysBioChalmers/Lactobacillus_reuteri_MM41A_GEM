@@ -156,7 +156,7 @@ ax.set_ylabel('Yield (g/g)', fontsize=16)  # color = 'tab:blue'
 # ax.tick_params(axis='y')  # , labelcolor='tab:blue'
 ax.set_ylim((0, 2.75))
 
-ax.set_title('Model yield ability of different productions', fontsize=18)
+ax.set_title('Model heoretical yield and experiment yield of different productions ')
 labels =['Lactate','Acetate','Ethanol','1,3-propanediol']
 ax.set_xticks(x)
 ax.set_xticklabels(labels, fontsize=12)
@@ -165,3 +165,17 @@ ax.legend(loc='best', fontsize=11)
 fig.tight_layout()
 plt.show()
 fig.savefig('Growth rate simulation case3.png')
+
+
+
+
+
+
+
+
+
+
+
+
+
+

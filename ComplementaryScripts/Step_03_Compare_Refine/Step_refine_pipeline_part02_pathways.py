@@ -212,7 +212,6 @@ for model_i in [Lreu_draft_3_refined, Lreuteri_530, iML1515, ]:  # iNF517
     Y_c = obj_value * 2 / (25 * 6)
 
     print('Y_g_g: ', Y_g_g, 'T_c: ', Y_c)
-
     solution = cobra.flux_analysis.pfba(model)  # model.optimize()
     My_def.io_file.solution2txt(solution, model, model.id + '_temp_flux.txt')
 

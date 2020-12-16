@@ -6,7 +6,7 @@ from Bio import SeqIO
 
 def do_blast(query_fasta,target_fasta):
     # query_fasta: fasta file for the organsims to be modelled
-    # target_fasta: fasata file that contains enzyme sequences in the template model
+    # target_fasta: fasata file that contains enzyme sequences in the templates model
     
     # combine two fasta files, do blast. Use default evalue. The blast results will be filetered based on evalue
     # in the BBH extraction step
@@ -99,7 +99,7 @@ def extract_BBHs(BBH_evalue,report=False,coverage=45):
 
 
 def get_all_rxns_in_BBH(template_model, BBHs):
-    # model file: template model file
+    # model file: templates model file
     # BBH, best bidirectional hit
 
     # get all reactions
@@ -196,7 +196,7 @@ def report_model_status(model):
 if __name__ =='__main__':
     # Modeling pipeline
 
-    # load template model
+    # load templates model
     #template_model = cobra.io.read_sbml_model('iJO1366.xml')
     os.chdir('../../ComplementaryData/Step_02_DraftModels/Template/')
     template_model = cobra.io.load_json_model('template_models/iBT721_standlized.json')

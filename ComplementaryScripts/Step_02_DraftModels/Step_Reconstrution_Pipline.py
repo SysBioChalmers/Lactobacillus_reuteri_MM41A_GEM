@@ -5,7 +5,7 @@
 
 """pipeline.py
 :description : script to renconstract GEM for L reuteri
-:param : template models and seqs (standardizated) iNF517,iML1515,iBT721
+:param : templates models and seqs (standardizated) iNF517,iML1515,iBT721
 :returns: draft model : Lreu_draft_3_refined
 :rtype:
 """
@@ -33,7 +33,7 @@ def get_Lreu_from_tp(qseq_file,sseq_file,tp_model):
 
     os.system('rm ' + blast_result_s_in_q )
     os.system('rm ' + blast_result_q_in_s)
-    # <step get draft model from template>
+    # <step get draft model from templates>
     # note: only extracted the matched reactions
     Lreu_py_tp = My_def.get_draft_from_template(tp_model, blast_result_df,remove_missing_genes = False)
     return Lreu_py_tp
@@ -72,7 +72,7 @@ def add_inf517_etb_rea(Lreu_draft_2,iNF517):
     return Lreu_draft_2
 
 
-# %% <general step: load data: seqs, template models >
+# %% <general step: load data: seqs, templates models >
 
 print('----- loading data -----')
 os.chdir('../../ComplementaryData/Step_02_DraftModels/Template/')
@@ -154,7 +154,7 @@ Lreu_draft_2, report_df_from_1BT721 = My_def.merge_model.merge_draftmodels(Lreu_
 print('\033[0;34;48m')
 
 # %% <general step: add exchange transport and biomass reactions >
-    # code not general, depends on template model ex tran bio reaction ids
+    # code not general, depends on templates model ex tran bio reaction ids
 
 print('----- add exchange transport and biomass reactions  -----')
 Lreu_draft_2 = add_inf517_etb_rea(Lreu_draft_2,iNF517)
@@ -196,7 +196,7 @@ for rea in iNF517.reactions:
 # %% <general step: gap fill >
 
 print('----- Gap filling  -----')
-#note, if still failed , need change other way to gap fill, such as biomass partly gapfill, check template FVA even FBA results.
+#note, if still failed , need change other way to gap fill, such as biomass partly gapfill, check templates FVA even FBA results.
 #solution_biomass = cobra.flux_analysis.gapfill(Lreu_draft_2, iNF517)
 #filed
 # note: need to set integer_threshold=1e-10

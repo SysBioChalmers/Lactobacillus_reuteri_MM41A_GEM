@@ -13,15 +13,15 @@ import My_def
 import re
 def get_draft_from_template(tp_model1, blase_result_df,remove_missing_genes = True):
     '''
-    build a model based on template model
-    :param tp_model: template model
+    build a model based on templates model
+    :param tp_model: templates model
     :param blase_result_df: balst result
     :return:  draft model
     '''
 
     tp_model = tp_model1.copy()
     model = cobra.Model()
-    model.description = 'GEM from template' + tp_model.id
+    model.description = 'GEM from templates' + tp_model.id
     tp_gene_list = blase_result_df['qseqid'].tolist()
     my_gene_list = blase_result_df['sseqid'].tolist()
 

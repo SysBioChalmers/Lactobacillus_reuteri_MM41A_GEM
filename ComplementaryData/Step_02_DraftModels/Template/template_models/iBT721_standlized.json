@@ -529,7 +529,7 @@
 "formula":"RHO"
 },
 {
-"id":"acp_c",
+"id":"ACP_c",
 "name":"Acyl_carrier_Protein",
 "compartment":"default",
 "charge":0,
@@ -648,7 +648,7 @@
 "formula":"C5H10O5"
 },
 {
-"id":"al26da_c",
+"id":"n6all26d_c",
 "name":"N6_Acetyl_LL_2_6_diaminoheptanedioate",
 "compartment":"default",
 "charge":0,
@@ -800,14 +800,14 @@
 "formula":"C16H28OX"
 },
 {
-"id":"2cocdacp_c",
+"id":"octeACP_c",
 "name":"cis_Octadec_2_enoyl_acyl_carrier_protein",
 "compartment":"default",
 "charge":0,
 "formula":"C18H32OX"
 },
 {
-"id":"agly3p_LPL_c",
+"id":"agly3p_LRE_c",
 "name":"1_Acyl_sn_glycerol_3_phosphate__Lb_plantarum_specific_",
 "compartment":"default",
 "charge":0,
@@ -821,7 +821,7 @@
 "formula":"C19H34OX"
 },
 {
-"id":"hdeacp_c",
+"id":"hdeACP_c",
 "name":"Hexadecanoyl_acyl_carrier_protein",
 "compartment":"default",
 "charge":0,
@@ -842,7 +842,7 @@
 "formula":"C25H45N2O8PRS"
 },
 {
-"id":"pa_LPL_c",
+"id":"pa_LRE_c",
 "name":"phosphatidic_acid__Lb_plantarum_specific_",
 "compartment":"default",
 "charge":0,
@@ -1328,14 +1328,14 @@
 }
 },
 {
-"id":"2beacp_c",
+"id":"but2eACP_c",
 "name":"But_2_enoyl_acyl_carrier_protein",
 "compartment":"default",
 "charge":0,
 "formula":"C4H4OX"
 },
 {
-"id":"butacp_c",
+"id":"butACP_c",
 "name":"Butyryl_acyl_carrier_protein",
 "compartment":"default",
 "charge":0,
@@ -1475,15 +1475,15 @@
 "formula":"C6H5O7"
 },
 {
-"id":"pg_LPL_c",
-"name":"Phospatidylglycerol__LPL_specific_",
+"id":"pg_LRE_c",
+"name":"Phospatidylglycerol__LRE_specific_",
 "compartment":"default",
 "charge":0,
 "formula":"X"
 },
 {
-"id":"clpn_LPL_c",
-"name":"Cardiolipin__LPL_specific_",
+"id":"clpn_LRE_c",
+"name":"Cardiolipin__LRE_specific_",
 "compartment":"default",
 "charge":0,
 "formula":"X"
@@ -1550,8 +1550,8 @@
 "formula":"C15H22N2O17P2"
 },
 {
-"id":"CPS_LPL_c",
-"name":"capsular_polysaccharide_linkage_unit__LPL_specific",
+"id":"CPS_LRE_c",
+"name":"capsular_polysaccharide_linkage_unit__LRE_specific",
 "compartment":"default",
 "charge":0,
 "formula":"X"
@@ -1571,8 +1571,8 @@
 "formula":"C9H11N2O12P2"
 },
 {
-"id":"CPS_LPL2_c",
-"name":"capsular_polysaccharide_linkage_unit__LPL_specific",
+"id":"CPS_LRE2_c",
+"name":"capsular_polysaccharide_linkage_unit__LRE_specific",
 "compartment":"default",
 "charge":0,
 "formula":"X"
@@ -1758,29 +1758,29 @@
 "formula":"C10H12N5O6P"
 },
 {
-"id":"dag_LPL_c",
-"name":"1_2_Diacylglycerol__LPL_specific",
+"id":"dag_LRE_c",
+"name":"1_2_Diacylglycerol__LRE_specific",
 "compartment":"default",
 "charge":0,
 "formula":"X"
 },
 {
-"id":"dgdag_LPL_c",
+"id":"dgdag_LRE_c",
 "name":"Diglucosyl_diacylglycerol",
 "compartment":"default",
 "charge":0,
 "formula":"X"
 },
 {
-"id":"LTA_LPL_c",
-"name":"lipoteichoic_acid__n25__LPL_specific_",
+"id":"LTA_LRE_c",
+"name":"lipoteichoic_acid__n25__LRE_specific_",
 "compartment":"default",
 "charge":0,
 "formula":"X"
 },
 {
-"id":"LTAala_LPL_c",
-"name":"Lipoteichoic_acid__n25__with_100_D_Ala_substitutions__LPL_specific_",
+"id":"LTAala_LRE_c",
+"name":"Lipoteichoic_acid__n25__with_100_D_Ala_substitutions__LRE_specific_",
 "compartment":"default",
 "charge":0,
 "formula":"X"
@@ -1814,8 +1814,8 @@
 "formula":"X"
 },
 {
-"id":"cdpdag_LPL_c",
-"name":"CDPdiacylglycerol__LPL_specific_",
+"id":"cdpdag_LRE_c",
+"name":"CDPdiacylglycerol__LRE_specific_",
 "compartment":"default",
 "charge":0,
 "formula":"X"
@@ -2080,8 +2080,8 @@
 "formula":"C10H13N2O14P3"
 },
 {
-"id":"DNA_LPL_c",
-"name":"DNA__LPL_specific",
+"id":"DNA_LRE_c",
+"name":"DNA__LRE_specific",
 "compartment":"default",
 "charge":0,
 "formula":"X"
@@ -3067,8 +3067,8 @@
 "formula":"C5H9N2O2R"
 },
 {
-"id":"LTAglc_LPL_c",
-"name":"Lipoteichoic_acid__n25_with_glucose_residues__LPL_specific_",
+"id":"LTAglc_LRE_c",
+"name":"Lipoteichoic_acid__n25_with_glucose_residues__LRE_specific_",
 "compartment":"default",
 "charge":0,
 "formula":"X"
@@ -3242,14 +3242,14 @@
 "formula":"C10H11N5O20P5"
 },
 {
-"id":"3hbacp_c",
+"id":"3hbutACP_c",
 "name":"3R__3_Hydroxybutanoyl_acyl_carrier_protein",
 "compartment":"default",
 "charge":0,
 "formula":"C4H6O2X"
 },
 {
-"id":"aaacp_c",
+"id":"actACP_c",
 "name":"Acetoacetyl_acyl_carrier_protein",
 "compartment":"default",
 "charge":0,
@@ -3291,7 +3291,7 @@
 "formula":"C6H8OX"
 },
 {
-"id":"hexacp_c",
+"id":"hexACP_c",
 "name":"Hexanoyl_acyl_carrier_protein",
 "compartment":"default",
 "charge":0,
@@ -3669,8 +3669,8 @@
 "formula":"C6H14N2OR"
 },
 {
-"id":"lyspg_LPL_c",
-"name":"1_lysyl_phosphatidyl_glycerol__LPL_specific_",
+"id":"lyspg_LRE_c",
+"name":"1_lysyl_phosphatidyl_glycerol__LRE_specific_",
 "compartment":"default",
 "charge":0,
 "formula":"X"
@@ -3690,7 +3690,7 @@
 "formula":"C6H13O9P"
 },
 {
-"id":"malacp_c",
+"id":"malACP_c",
 "name":"Malonyl_acyl_carrier_protein",
 "compartment":"default",
 "charge":0,
@@ -3718,7 +3718,7 @@
 "formula":"C6H11O9P"
 },
 {
-"id":"octacp_c",
+"id":"ocACP_c",
 "name":"Octanoyl_acyl_carrier_protein",
 "compartment":"default",
 "charge":0,
@@ -4064,8 +4064,8 @@
 "formula":"C2H2O6P"
 },
 {
-"id":"pgp_LPL_c",
-"name":"Phosphatidylglycerophosphate__LPL_specific_",
+"id":"pgp_LRE_c",
+"name":"Phosphatidylglycerophosphate__LRE_specific_",
 "compartment":"default",
 "charge":0,
 "formula":"X"
@@ -4253,7 +4253,7 @@
 "formula":"C5H10NOR"
 },
 {
-"id":"PROT_LPL_v60_c",
+"id":"PROT_LRE_v60_c",
 "name":"L_plantarum_specific_protein_composition_for_biomass_version_60",
 "compartment":"default",
 "charge":0,
@@ -4400,8 +4400,8 @@
 "formula":"C6H11O8P"
 },
 {
-"id":"RNA_LPL_c",
-"name":"RNA__LPL_specific",
+"id":"RNA_LRE_c",
+"name":"RNA__LRE_specific",
 "compartment":"default",
 "charge":0,
 "formula":"X"
@@ -5233,7 +5233,7 @@
 "id":"ACPS2",
 "name":"acyl carrier protein synthase",
 "metabolites":{
-"acp_c":1.0,
+"ACP_c":1.0,
 "apoACP_c":-1.0,
 "coa_c":-1.0,
 "h_c":1.0,
@@ -5392,9 +5392,9 @@
 "metabolites":{
 "26dap_LL_c":1.0,
 "ac_c":1.0,
-"al26da_c":-1.0,
 "h2o_c":-1.0,
-"h_c":-1.0
+"h_c":-1.0,
+"n6all26d_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -5433,9 +5433,9 @@
 "metabolites":{
 "acamoxm_c":1.0,
 "akg_c":-1.0,
-"al26da_c":-1.0,
 "glu__L_c":1.0,
-"h_c":-1.0
+"h_c":-1.0,
+"n6all26d_c":-1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -5535,17 +5535,17 @@
 "gene_reaction_rule":"( lp_0714 and lp_0715 and lp_0713 ) or ( lp_0714 and lp_0715 and lp_0712 )"
 },
 {
-"id":"AGAT_LPL",
+"id":"AGAT_LRE",
 "name":"1 Acyl glycerol 3 phosphate acyltransferase Lb plantarum specific",
 "metabolites":{
 "2chdeacp_c":-0.12,
-"2cocdacp_c":-0.32,
-"acp_c":1.0,
-"agly3p_LPL_c":-0.01,
+"ACP_c":1.0,
+"agly3p_LRE_c":-0.01,
 "cpocdacp_c":-0.25,
-"hdeacp_c":-0.26,
+"hdeACP_c":-0.26,
 "ocdacp_c":-0.02,
-"pa_LPL_c":0.01,
+"octeACP_c":-0.32,
+"pa_LRE_c":0.01,
 "tdeacp_c":-0.03
 },
 "lower_bound":0.0,
@@ -6324,8 +6324,8 @@
 "id":"BTMAT1",
 "name":"Butyryl acyl carrier proteinmalonyl CoA C acyltransferase",
 "metabolites":{
-"2beacp_c":-1.0,
-"butacp_c":1.0,
+"but2eACP_c":-1.0,
+"butACP_c":1.0,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0
@@ -6419,11 +6419,11 @@
 "id":"CFAS180",
 "name":"cyclopropane fatty acid synthase n180",
 "metabolites":{
-"2cocdacp_c":-1.0,
 "ahcys_c":1.0,
 "amet_c":-1.0,
 "cpocdacp_c":1.0,
-"h_c":1.0
+"h_c":1.0,
+"octeACP_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -6526,12 +6526,12 @@
 "gene_reaction_rule":"lp_0594"
 },
 {
-"id":"CLPNS_LPL",
+"id":"CLPNS_LRE",
 "name":"Cardiolipin Synthase LPL specific",
 "metabolites":{
-"clpn_LPL_c":0.01,
+"clpn_LRE_c":0.01,
 "glyc_c":1.0,
-"pg_LPL_c":-0.02
+"pg_LRE_c":-0.02
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -6575,10 +6575,10 @@
 "gene_reaction_rule":""
 },
 {
-"id":"CPSS_LPL",
+"id":"CPSS_LRE",
 "name":"CPS synthase complex LPL specific",
 "metabolites":{
-"CPS_LPL_c":1.0,
+"CPS_LRE_c":1.0,
 "dtdp_c":1.0,
 "dtdprmn_c":-1.0,
 "h2o_c":-5.0,
@@ -6593,10 +6593,10 @@
 "gene_reaction_rule":"( lp_1177 and lp_1178 and lp_1179 and lp_1180 and lp_1181 and lp_1182 and lp_1183 and lp_1184 and lp_1185 ) or ( lp_1197 and lp_1198 and lp_1199 and lp_1201 and lp_1202 and lp_1203 and lp_1204 and lp_1205 and lp_1206 ) or ( lp_1215 and lp_1216 and lp_1220 and lp_1221 and lp_1222 and lp_1224 and lp_1225 and lp_1226 and lp_1227 ) or ( lp_2099 and lp_2100 and lp_2101 and lp_2102 and lp_2103 and lp_2104 and lp_2106 and lp_2107 and lp_2108 )"
 },
 {
-"id":"CPSS_LPL2",
+"id":"CPSS_LRE2",
 "name":"CPS synthase complex LPL specific",
 "metabolites":{
-"CPS_LPL2_c":1.0,
+"CPS_LRE2_c":1.0,
 "dtdp_c":2.0,
 "dtdprmn_c":-2.0,
 "h2o_c":-4.0,
@@ -6878,11 +6878,11 @@
 "gene_reaction_rule":"lp_1329 or lp_1011"
 },
 {
-"id":"DAGGT_LPL",
+"id":"DAGGT_LRE",
 "name":"1 2 diacylglycerol 3 glucosyltransferase LPL specific",
 "metabolites":{
-"dag_LPL_c":-0.01,
-"dgdag_LPL_c":0.01,
+"dag_LRE_c":-0.01,
+"dgdag_LRE_c":0.01,
 "h_c":2.0,
 "udp_c":2.0,
 "udpg_c":-2.0
@@ -6892,14 +6892,14 @@
 "gene_reaction_rule":"lp_1275 and lp_1276"
 },
 {
-"id":"DAGK_LPL",
+"id":"DAGK_LRE",
 "name":"Diacylglycerol kinase LPL specific",
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"dag_LPL_c":-0.01,
+"dag_LRE_c":-0.01,
 "h_c":1.0,
-"pa_LPL_c":0.01
+"pa_LRE_c":0.01
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -6909,8 +6909,8 @@
 "id":"DALTAL",
 "name":"D Alanine lipoteichoic acid ligase",
 "metabolites":{
-"LTA_LPL_c":-0.01,
-"LTAala_LPL_c":0.01,
+"LTA_LRE_c":-0.01,
+"LTAala_LRE_c":0.01,
 "adp_c":25.0,
 "ala__D_c":-25.0,
 "atp_c":-25.0,
@@ -6960,13 +6960,13 @@
 "gene_reaction_rule":"( lp_2019 and lp_2018 and lp_2017 and lp_2016 ) or ( lp_2019 and lp_2018 and lp_1406 and lp_2016 )"
 },
 {
-"id":"DASYN_LPL",
+"id":"DASYN_LRE",
 "name":"CDP Diacylglycerol synthetase LPL specific",
 "metabolites":{
-"cdpdag_LPL_c":0.01,
+"cdpdag_LRE_c":0.01,
 "ctp_c":-1.0,
 "h_c":-1.0,
-"pa_LPL_c":-0.01,
+"pa_LRE_c":-0.01,
 "ppi_c":1.0
 },
 "lower_bound":-1000.0,
@@ -7287,10 +7287,10 @@
 "gene_reaction_rule":"lp_1602"
 },
 {
-"id":"DNAS_LPL",
+"id":"DNAS_LRE",
 "name":"DNA synthesis LPL specific",
 "metabolites":{
-"DNA_LPL_c":0.01,
+"DNA_LRE_c":0.01,
 "adp_c":1.37,
 "atp_c":-1.37,
 "datp_c":-0.28,
@@ -9179,8 +9179,8 @@
 "id":"FABM2",
 "name":"Fatty acid enoyl isomerase FabM reaction 181",
 "metabolites":{
-"2cocdacp_c":1.0,
-"2tocdacp_c":-1.0
+"2tocdacp_c":-1.0,
+"octeACP_c":1.0
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -9627,17 +9627,17 @@
 "gene_reaction_rule":"lp_2721"
 },
 {
-"id":"GAT1_LPL",
+"id":"GAT1_LRE",
 "name":"glycerol 3 phosphate acyltransferase Lb plantarum specific",
 "metabolites":{
 "2chdeacp_c":-0.12,
-"2cocdacp_c":-0.32,
-"acp_c":1.0,
-"agly3p_LPL_c":0.01,
+"ACP_c":1.0,
+"agly3p_LRE_c":0.01,
 "cpocdacp_c":-0.25,
 "glyc3p_c":-1.0,
-"hdeacp_c":-0.26,
+"hdeACP_c":-0.26,
 "ocdacp_c":-0.02,
+"octeACP_c":-0.32,
 "tdeacp_c":-0.03
 },
 "lower_bound":0.0,
@@ -9854,8 +9854,8 @@
 "id":"GLTAL",
 "name":"Glucose lipoteichoic acid ligase",
 "metabolites":{
-"LTA_LPL_c":-0.01,
-"LTAglc_LPL_c":0.01,
+"LTA_LRE_c":-0.01,
+"LTAglc_LRE_c":0.01,
 "h_c":25.0,
 "udp_c":25.0,
 "udpg_c":-25.0
@@ -10435,8 +10435,8 @@
 "id":"HBUHL1",
 "name":"3R 3 Hydroxybutanoyl acyl carrier protein hydro lyase",
 "metabolites":{
-"2beacp_c":1.0,
-"3hbacp_c":-1.0,
+"3hbutACP_c":-1.0,
+"but2eACP_c":1.0,
 "h2o_c":1.0
 },
 "lower_bound":0.0,
@@ -10447,8 +10447,8 @@
 "id":"HBUR1",
 "name":"3R 3 Hydroxybutanoyl acyl carrier proteinNADP oxidoreductase",
 "metabolites":{
-"3hbacp_c":1.0,
-"aaacp_c":-1.0,
+"3hbutACP_c":1.0,
+"actACP_c":-1.0,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -10542,7 +10542,7 @@
 "metabolites":{
 "2thdeacp_c":-1.0,
 "h_c":-1.0,
-"hdeacp_c":1.0,
+"hdeACP_c":1.0,
 "nad_c":1.0,
 "nadh_c":-1.0
 },
@@ -10556,7 +10556,7 @@
 "metabolites":{
 "2theacp_c":-1.0,
 "h_c":-1.0,
-"hexacp_c":1.0,
+"hexACP_c":1.0,
 "nad_c":1.0,
 "nadh_c":-1.0
 },
@@ -11426,12 +11426,12 @@
 "gene_reaction_rule":"lp_3586"
 },
 {
-"id":"LPGS_LPL",
+"id":"LPGS_LRE",
 "name":"lysylphosphatidyl glycerol synthetase",
 "metabolites":{
-"lyspg_LPL_c":0.01,
+"lyspg_LRE_c":0.01,
 "lystrna_c":-1.0,
-"pg_LPL_c":-0.01,
+"pg_LRE_c":-0.01,
 "trnalys_c":1.0
 },
 "lower_bound":0.0,
@@ -11439,13 +11439,13 @@
 "gene_reaction_rule":"lp_0690"
 },
 {
-"id":"LTAS_LPL",
+"id":"LTAS_LRE",
 "name":"Lipoteichoic acid synthase LPL specific",
 "metabolites":{
-"LTA_LPL_c":0.01,
-"dag_LPL_c":0.25,
-"dgdag_LPL_c":-0.01,
-"pg_LPL_c":-0.25
+"LTA_LRE_c":0.01,
+"dag_LRE_c":0.25,
+"dgdag_LRE_c":-0.01,
+"pg_LRE_c":-0.25
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -11522,9 +11522,9 @@
 "id":"MACPMT",
 "name":"Malonyl CoAacyl carrier protein S malonyltransferase",
 "metabolites":{
-"acp_c":-1.0,
+"ACP_c":-1.0,
 "coa_c":1.0,
-"malacp_c":1.0,
+"malACP_c":1.0,
 "malcoa_c":-1.0
 },
 "lower_bound":0.0,
@@ -11645,11 +11645,11 @@
 "name":"Butyryl acyl carrier proteinmalonyl acyl carrier proteinC acyltransferase decarboxylating",
 "metabolites":{
 "3oxhacp_c":1.0,
-"acp_c":1.0,
-"butacp_c":-1.0,
+"ACP_c":1.0,
+"butACP_c":-1.0,
 "co2_c":1.0,
 "h_c":-1.0,
-"malacp_c":-1.0
+"malACP_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -11660,11 +11660,11 @@
 "name":"Hexanoyl acyl carrier proteinmalonyl acyl carrier protein C acyltransferase",
 "metabolites":{
 "3oxocacp_c":1.0,
-"acp_c":1.0,
+"ACP_c":1.0,
 "co2_c":1.0,
 "h_c":-1.0,
-"hexacp_c":-1.0,
-"malacp_c":-1.0
+"hexACP_c":-1.0,
+"malACP_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -11675,11 +11675,11 @@
 "name":"Octanoyl acyl carrier proteinmalonyl acyl carrier protein C acyltransferase decarboxylating",
 "metabolites":{
 "3oxdeacp_c":1.0,
-"acp_c":1.0,
+"ACP_c":1.0,
 "co2_c":1.0,
 "h_c":-1.0,
-"malacp_c":-1.0,
-"octacp_c":-1.0
+"malACP_c":-1.0,
+"ocACP_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -11690,11 +11690,11 @@
 "name":"Decanoyl acyl carrier proteinmalonyl acyl carrier protein C acyltransferase",
 "metabolites":{
 "3oxddacp_c":1.0,
-"acp_c":1.0,
+"ACP_c":1.0,
 "co2_c":1.0,
 "decacp_c":-1.0,
 "h_c":-1.0,
-"malacp_c":-1.0
+"malACP_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -11705,11 +11705,11 @@
 "name":"Dodecanoyl acyl carrier proteinmalonyl acyl carrier protein C acyltransferase",
 "metabolites":{
 "3oxtdacp_c":1.0,
-"acp_c":1.0,
+"ACP_c":1.0,
 "co2_c":1.0,
 "ddeacp_c":-1.0,
 "h_c":-1.0,
-"malacp_c":-1.0
+"malACP_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -11720,10 +11720,10 @@
 "name":"Tetradecanoyl acyl carrier proteinmalonyl acyl carrier protein C acyltransferase",
 "metabolites":{
 "3oxhdacp_c":1.0,
-"acp_c":1.0,
+"ACP_c":1.0,
 "co2_c":1.0,
 "h_c":-1.0,
-"malacp_c":-1.0,
+"malACP_c":-1.0,
 "tdeacp_c":-1.0
 },
 "lower_bound":0.0,
@@ -11735,11 +11735,11 @@
 "name":"Hexadecanoyl acyl carrier proteinmalonyl acyl carrier protein C acyltransferase",
 "metabolites":{
 "3oxocdacp_c":1.0,
-"acp_c":1.0,
+"ACP_c":1.0,
 "co2_c":1.0,
 "h_c":-1.0,
-"hdeacp_c":-1.0,
-"malacp_c":-1.0
+"hdeACP_c":-1.0,
+"malACP_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -12594,7 +12594,7 @@
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0,
-"octacp_c":1.0
+"ocACP_c":1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -13004,12 +13004,12 @@
 "gene_reaction_rule":"lp_0027 or lp_0066"
 },
 {
-"id":"PGPP_LPL",
+"id":"PGPP_LRE",
 "name":"Phosphatidylglycerol phosphate phosphatase LPL specific",
 "metabolites":{
 "h2o_c":-1.0,
-"pg_LPL_c":0.01,
-"pgp_LPL_c":-0.01,
+"pg_LRE_c":0.01,
+"pgp_LRE_c":-0.01,
 "pi_c":1.0
 },
 "lower_bound":0.0,
@@ -13017,14 +13017,14 @@
 "gene_reaction_rule":""
 },
 {
-"id":"PGSA_LPL",
+"id":"PGSA_LRE",
 "name":"Phosphatidylglycerol synthase LPL specific",
 "metabolites":{
-"cdpdag_LPL_c":-0.01,
+"cdpdag_LRE_c":-0.01,
 "cmp_c":1.0,
 "glyc3p_c":-1.0,
 "h_c":1.0,
-"pgp_LPL_c":0.01
+"pgp_LRE_c":0.01
 },
 "lower_bound":-1000.0,
 "upper_bound":1000.0,
@@ -13516,10 +13516,10 @@
 "gene_reaction_rule":"lp_2048"
 },
 {
-"id":"PROTS_LPL_v60",
+"id":"PROTS_LRE_v60",
 "name":"protein synthesis LPL belonging to biomass version 60",
 "metabolites":{
-"PROT_LPL_v60_c":0.001,
+"PROT_LRE_v60_c":0.001,
 "adp_c":0.306,
 "alatrna_c":-0.125,
 "argtrna_c":-0.04,
@@ -14097,10 +14097,10 @@
 "gene_reaction_rule":"lp_3592"
 },
 {
-"id":"RNAS_LPL",
+"id":"RNAS_LRE",
 "name":"RNA synthesis Lplantarum specific",
 "metabolites":{
-"RNA_LPL_c":0.01,
+"RNA_LRE_c":0.01,
 "adp_c":0.4,
 "atp_c":-0.66,
 "ctp_c":-0.2,
@@ -15582,27 +15582,27 @@
 "gene_reaction_rule":"lp_1781 or lp_2653 or lp_1076 or lp_1888 or lp_0963 or lp_1319 or lp_2032 or lp_2221"
 },
 {
-"id":"biomass_LPL60",
+"id":"biomass_LRE60",
 "name":"biomass equation LPL specific",
 "metabolites":{
-"CPS_LPL2_c":-0.1294,
-"DNA_LPL_c":-0.000617,
-"LTA_LPL_c":-0.00013,
+"CPS_LRE2_c":-0.1294,
+"DNA_LRE_c":-0.000617,
+"LTA_LRE_c":-0.00013,
 "MGD_c":-1e-05,
 "PGlac2_c":-0.1462,
-"PROT_LPL_v60_c":-0.00243,
-"RNA_LPL_c":-0.002784,
+"PROT_LRE_v60_c":-0.00243,
+"RNA_LRE_c":-0.002784,
 "RTAglc_c":-0.01378,
 "adp_c":27.2,
 "atp_c":-27.2,
 "btn_c":-1e-05,
-"clpn_LPL_c":-1.8e-05,
+"clpn_LRE_c":-1.8e-05,
 "coa_c":-0.0002,
 "h2o_c":-27.2,
 "h_c":27.2,
-"lyspg_LPL_c":-0.000164,
+"lyspg_LRE_c":-0.000164,
 "nad_c":-0.002,
-"pg_LPL_c":-0.000625,
+"pg_LRE_c":-0.000625,
 "pi_c":27.2,
 "pydx5p_c":-1e-06,
 "thf_c":-1e-05,
@@ -15614,23 +15614,23 @@
 "gene_reaction_rule":""
 },
 {
-"id":"biomass_LPL_RETB_t576_NoATP",
+"id":"biomass_LRE_RETB_t576_NoATP",
 "name":"biomass equation LPL Retentostat B t576h No ATP costs",
 "metabolites":{
-"CPS_LPL2_c":-0.1294,
-"DNA_LPL_c":-0.000596,
-"LTA_LPL_c":-0.00013,
+"CPS_LRE2_c":-0.1294,
+"DNA_LRE_c":-0.000596,
+"LTA_LRE_c":-0.00013,
 "MGD_c":-1e-05,
 "PGlac2_c":-0.1462,
-"PROT_LPL_v60_c":-0.001717,
-"RNA_LPL_c":-0.002906,
+"PROT_LRE_v60_c":-0.001717,
+"RNA_LRE_c":-0.002906,
 "RTAglc_c":-0.01378,
 "btn_c":-1e-05,
-"clpn_LPL_c":-1.8e-05,
+"clpn_LRE_c":-1.8e-05,
 "coa_c":-0.0002,
-"lyspg_LPL_c":-0.000164,
+"lyspg_LRE_c":-0.000164,
 "nad_c":-0.002,
-"pg_LPL_c":-0.000625,
+"pg_LRE_c":-0.000625,
 "pydx5p_c":-1e-06,
 "thf_c":-1e-05,
 "thmpp_c":-1e-05,
@@ -15644,12 +15644,12 @@
 "id":"kaasIII",
 "name":"beta ketoacyl ACP synthase III",
 "metabolites":{
-"aaacp_c":1.0,
 "accoa_c":-1.0,
+"actACP_c":1.0,
 "co2_c":1.0,
 "coa_c":1.0,
 "h_c":-1.0,
-"malacp_c":-1.0
+"malACP_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -15659,7 +15659,7 @@
 "id":"added_biomass_sink",
 "name":"added_biomass_sink",
 "metabolites":{
-"PROT_LPL_v60_c":-1.0
+"PROT_LRE_v60_c":-1.0
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
