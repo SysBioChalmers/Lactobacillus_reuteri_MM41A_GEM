@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 #-*- coding: utf-8 -*-
 # Created by lhao at 2019-02-26
-# get models from template models and BBH file
+# get models from templates models and BBH file
 
 import os
 
@@ -15,15 +15,15 @@ import My_def
 
 def get_model_from_template(tp_model1, blase_result_df,remove_missing_genes = True):
     '''
-    build a model based on template model
-    :param tp_model: template model
+    build a model based on templates model
+    :param tp_model: templates model
     :param blase_result_df: balst result
     :return:  draft model
     '''
 
     tp_model = tp_model1.copy()
     model = Model()
-    model.description = 'GEM for L.reuteri by template' + tp_model.id
+    model.description = 'GEM for L.reuteri by templates' + tp_model.id
     tp_gene_list = blase_result_df['qseqid'].to_list()
     my_gene_list = blase_result_df['sseqid'].to_list()
 

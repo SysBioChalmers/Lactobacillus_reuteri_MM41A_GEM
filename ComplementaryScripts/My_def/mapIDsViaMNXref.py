@@ -26,8 +26,10 @@ def mapIDsViaMNXref(type,queryList,fromDB,toDB,dbdir = ''):
 
     if type =='rxns':
         dbfile = 'reac_xref.tsv'
+        print('seedR','keegR','metacycR','biggR')
     elif type == 'mets':
         dbfile = 'chem_xref.tsv'
+        print('seedM','keegC','metacycM','biggM')
 
     names = ['XREF', 'MNX_ID']
 
@@ -107,6 +109,9 @@ if __name__ == '__main__':
          'MNXR107867',
          'MNXR108282',
          'MNXR123144']
-    #queryList = ['h2o', '10fthf', 'abc', '10fthf5glu']
     print(mapIDsViaMNXref('rxns',queryList,'metanetx','bigg'))
+    queryList = ['h2o', '10fthf', 'abc', '10fthf5glu']
+    print(mapIDsViaMNXref('mets',queryList,'biggM','seedM'))
+    # targetlist, MNX_IDlist = mapIDsViaMNXref('mets',['h2o', '10fthf', 'abc', '10fthf5glu'],'bigg','seed')
+
 

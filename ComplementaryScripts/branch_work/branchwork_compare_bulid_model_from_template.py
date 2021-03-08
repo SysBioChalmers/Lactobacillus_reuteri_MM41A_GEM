@@ -19,7 +19,7 @@ import My_def
 
 # Modeling pipeline
 
-# load template model
+# load templates model
 #template_model = cobra.io.read_sbml_model('iJO1366.xml')
 os.chdir('../../ComplementaryData/Step_02_DraftModels/Template/')
 template_model = cobra.io.load_json_model('template_models/iML1515_standlized.json')

@@ -48277,8 +48277,8 @@
 "gene_reaction_rule":"b2265",
 "notes":{
 "initial_id":[
-"ICHORS_copy1",
-"ICHORS_copy2"
+"ICHORS_copy2",
+"ICHORS_copy1"
 ]
 },
 "annotation":{
@@ -60572,8 +60572,8 @@
 "gene_reaction_rule":"b2406",
 "notes":{
 "initial_id":[
-"THMDt2pp_copy1",
-"THMDt2pp_copy2"
+"THMDt2pp_copy2",
+"THMDt2pp_copy1"
 ]
 },
 "annotation":{
@@ -62345,8 +62345,8 @@
 "gene_reaction_rule":"b2406",
 "notes":{
 "initial_id":[
-"ADNt2pp_copy2",
-"ADNt2pp_copy1"
+"ADNt2pp_copy1",
+"ADNt2pp_copy2"
 ]
 },
 "annotation":{
@@ -63194,8 +63194,8 @@
 "gene_reaction_rule":"b2406",
 "notes":{
 "initial_id":[
-"CYTDt2pp_copy1",
-"CYTDt2pp_copy2"
+"CYTDt2pp_copy2",
+"CYTDt2pp_copy1"
 ]
 },
 "annotation":{
@@ -74999,7 +74999,7 @@
 },
 "lower_bound":6.86,
 "upper_bound":1000.0,
-"gene_reaction_rule":"",
+"gene_reaction_rule":"b0650 or b4161",
 "annotation":{
 "bigg.reaction":"ATPM",
 "biocyc":"META:ATPASE-RXN",

@@ -6,3 +6,7 @@ ComplementaryScripts/archive/
 
 ComplementaryScripts/My_def/__pycache__/
 /ComplementaryScripts/archive/
+!/ComplementaryScripts/Step_04_Pan_Core_mode/paper_plot_fig3.py
+!/ComplementaryData/Initial_data/cog-20.cog.csv
+!/ComplementaryData/MetaNetX3.1/chem_xref.tsv
+!/ComplementaryData/MetaNetX3.1/reac_xref.tsv

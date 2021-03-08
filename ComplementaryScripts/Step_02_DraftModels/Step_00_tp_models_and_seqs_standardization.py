@@ -3,8 +3,8 @@
 # Created by Hao Luo at 2019-05-17
 
 """Step_00_tp_models_standardization.py
-:description : script to process the template models (iBT517 & iNF517 & iML1515)
-:param :  template models
+:description : script to process the templates models (iBT517 & iNF517 & iML1515)
+:param :  templates models
 :returns:  standardlized models
 :rtype: model
 

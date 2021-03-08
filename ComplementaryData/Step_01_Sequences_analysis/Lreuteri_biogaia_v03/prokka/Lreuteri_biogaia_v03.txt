@@ -1,7 +1,7 @@
 organism: Genus species strain 
 contigs: 1
 bases: 2039427
-tRNA: 71
-CDS: 2019
 rRNA: 18
 tmRNA: 1
+CDS: 2019
+tRNA: 71
