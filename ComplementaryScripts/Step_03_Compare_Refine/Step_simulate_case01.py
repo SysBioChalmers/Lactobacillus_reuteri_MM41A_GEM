@@ -3,7 +3,7 @@
 # Created by Hao Luo at 2019-09-02
 
 """Step_simulate.py
-:description : script
+:description : script to simulate growth rate
 :param : 
 :returns: 
 :rtype: 
@@ -12,8 +12,15 @@
 import os
 
 import cobra
+import matplotlib
 import matplotlib.pyplot as plt
 import numpy as np
+
+matplotlib.rc('font', family="Arial")
+
+matplotlib.rcParams["font.family"] = 'Arial'  # 'sans-serif'
+matplotlib.rcParams['font.sans-serif'] = ['Arial']
+prop = {'family': 'Arial', 'size': 8}
 
 os.chdir('../../ComplementaryData/Step_03_Compare_Refine/')
 print('----- loading model -----')
@@ -36,7 +43,8 @@ experiment_medium = {
     'EX_glu__L_e': [-0.65, -0.24, -0.21, -0.37, -0.26, -0.38, -0.32],
     'EX_asn__L_e': [-0.31, 0.0, 0.0, -0.31, 0.00, 0.00, 0.0],
     'EX_ser__L_e': [-0.81, -0.56, -0.56, -0.64, -0.60, -0.68, -0.64],
-    'EX_arg__L_e': [-2.14, -0.67, -0.58, -1.13, -0.36, -0.47, -0.41], }
+    'EX_arg__L_e': [-2.14, -0.67, -0.58, -1.13, -0.36, -0.47, -0.41],
+}
 
 
 predict_result = []
@@ -60,6 +68,8 @@ predict_result = predict_result[0:3] + predict_result[4:6]
 print('Experiment Biomass:', experiment_result)
 print('iHL622 Biomass:', predict_result)
 
+# Experiment Biomass: [0.57, 0.68, 0.62, 0.74, 0.69]
+# iHL622 Biomass: [0.653, 0.744, 0.667, 0.866, 0.815]
 # %% <draw>
 # df = pd.DataFrame({'Experiment':experiment_result,
 #                    'Model':predict_result},)
@@ -73,29 +83,43 @@ print('iHL622 Biomass:', predict_result)
 # plt.show()
 
 import brewer2mpl
+from collections import OrderedDict
 
-fig, ax = plt.subplots(figsize=(6, 4))
+experiment_result = [0.57, 0.68, 0.62, 0.74, 0.69]
+predict_result = [0.653, 0.744, 0.667, 0.866, 0.815]
+
+cmaps = OrderedDict()
+fig, ax = plt.subplots(figsize=(3.5, 3))
+
 bmap = brewer2mpl.get_map('Set2', 'qualitative', 7)
 colors = bmap.mpl_colors
 
-plt.ylim((0.0, 1.0))
+# x = plt.cm.get_cmap('tab10')
+#
+# colors = x.colors
+
+# plt.ylim((0.0, 1.0))
 x = np.arange(0, 5)
+
 x = np.array([0.5, 1, 1.5, 2.25, 2.75])
 width = 0.15  # the width of the bars
 
-rects1 = ax.bar(x - width / 2, experiment_result, width, label='Experiment', color=colors[1])  #
-rects2 = ax.bar(x + width / 2, predict_result, width, label='Model', color=colors[0])  # ,
+rects1 = ax.bar(x - width / 2, experiment_result, width, label='Experiment', color=colors[1], )  #
+rects2 = ax.bar(x + width / 2, predict_result, width, label='Model', color=colors[0], )  # ,
 
 # Add some text for labels, title and custom x-axis tick labels, etc.
-ax.set_ylabel('Growth rate (mmol/gDW/h)', fontsize=16)  # color = 'tab:blue'
+ax.set_ylabel('Growth rate (mmol/gDW/h)', fontsize=10, family='Arial', )  # color = 'tab:blue'
 ax.tick_params(axis='y')  # , labelcolor='tab:blue'
-ax.set_title('Growth rate simulation', fontsize=18)
+ax.set_title('Growth rate simulation', fontsize=12, family='Arial')
 
 labels = ['Glucose', 'Glucose+Glycerol']
 ax.set_xticks([1, 2.5])
-ax.set_xticklabels(labels, fontsize=16)
-ax.legend(loc='best', fontsize=14)
+ax.set_xticklabels(labels, fontsize=9, family='Arial')
+ax.legend(loc='best', prop={'family': 'Arial', 'size': 8})
 
-fig.tight_layout()
+# ax.legend(loc = 'lower right',prop =prop )
+# fig.tight_layout()
+fig.savefig('Growth rate simulation.pdf', bbox_inches='tight')
 plt.show()
-fig.savefig('Growth rate simulation case1.png')
+
+# fig.savefig('Growth rate simulation case1.png')

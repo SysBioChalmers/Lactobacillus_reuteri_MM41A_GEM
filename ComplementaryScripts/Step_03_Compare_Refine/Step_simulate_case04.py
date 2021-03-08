@@ -84,8 +84,8 @@ for model_i in [iHL622, iNF517, LbReueri, iBT721, iML1515]:
         # My_def.io_file.solution2txt(solution, model, model.id + aa + '_temp_flux.txt')
     # print(aa, aadic[aa])
 # %% <productions>
-prod_list = ['lac__L_c','ac_c','etoh_c','hista_c','fol_c','adeadocbl_c','ppoh_c','13ppd_c']
-Experiment_prod =  [1]*len(prod_list)
+prod_list = ['lac__L_c', 'ac_c', 'etoh_c', 'hista_c', 'fol_c', 'adeadocbl_c', 'ppal_c', '13ppd_c']
+Experiment_prod = [1] * len(prod_list)
 prod_dic = {'Experiment' :  [1]*len(prod_list),
            'iHL622': [],
            'iNF517': [],
@@ -161,15 +161,16 @@ aalist = ['None'] + [i.split('_')[1] for i in aarealist]
 aalist[2] = aalist[2] + '&asn'
 aalist[10] = aalist[10] + '&gln'
 df = pd.DataFrame({'Experiment': experiment_data,
-                   'iHL622': iHL622_data,
-                   'iNF517': iNF517_data,
+                   '$i$HL622': iHL622_data,
+                   '$i$NF517': iNF517_data,
                    'LbReueri': LbReueri_data,
-                   'iBT721': iBT721_data,
-                   'iML1515': iML1515_data,
+                   '$i$BT721': iBT721_data,
+                   '$i$ML1515': iML1515_data,
                    }, index=aalist)
 
 # dft = df.pivot_table(index='experiment_data', columns='iHL622', values= 'LbReuteri',np.median)
-
+df.to_csv('amino_acid.tsv', sep='\t')
+# a = pd.read_csv('amino_acid.tsv',sep = '\t',index_col=0)
 sns.set()
 
 fig, ax = plt.subplots(figsize=(8, 3))
@@ -177,29 +178,29 @@ fig, ax = plt.subplots(figsize=(8, 3))
 im = sns.heatmap(df.T, linewidths=.1, ax=ax, cmap=cm,
                  cbar=False)
 
-cbar = plt.colorbar(im.collections[0], #orientation='horizontal',
+cbar = plt.colorbar(im.collections[0],  # orientation='horizontal',
                     fraction=0.046, pad=0.014, shrink=0.5, aspect=10, )
 
 cbar.set_ticks(np.array([0.25, 0.75]))
-cbar.set_ticklabels(('no growth','growth' ))
+cbar.set_ticklabels(('no growth', 'growth'))
 ax.tick_params(length=0)
 x = plt.xticks()[0]
-plt.xticks(x+0.1,aalist,rotation=45)
-ax.xaxis.tick_top()
-ax.xaxis.set_label_position('top')
-plt.xlabel('Amino acid omitted in medium')
+plt.xticks(x, aalist, rotation=45)
+# ax.xaxis.tick_top()
+# ax.xaxis.set_label_position('top')
+# plt.xlabel('Amino acid omitted in medium')
 # plt.tick_params(axis='both', which='major', labelsize=10, labelbottom = False, bottom=False, top = True, labeltop=True)
 
 # plt.yticks(rotation=0)
 plt.show()
 fig.savefig('Growth rate simulation case4a.png')
 
-
 # %% plt2
 
-prd_list = ['lactate','acteate','ethanol ','histamine','folate','Vb12','1-propanol','1,3-propanediol']#
+prd_list = ['lactate', 'acteate', 'ethanol ', 'histamine', 'folate', 'Vb12', '1-propanol', '1,3-propanediol']  #
 prd_df = pd.DataFrame(prod_dic, index=prd_list)
-
+prd_df.columns = ['Experiment', '$i$HL622', '$i$NF517', 'LbReueri', '$i$BT721', '$i$ML1515']
+prd_df.to_csv('products_df.tsv', sep='\t')
 sns.set()
 
 fig, ax = plt.subplots(figsize=(8, 3))
@@ -207,20 +208,19 @@ fig, ax = plt.subplots(figsize=(8, 3))
 im = sns.heatmap(prd_df.T, linewidths=.1, ax=ax, cmap=cm,
                  cbar=False)
 
-cbar = plt.colorbar(im.collections[0], #orientation='horizontal',
+cbar = plt.colorbar(im.collections[0],  # orientation='horizontal',
                     fraction=0.046, pad=0.014, shrink=0.5, aspect=10, )
 
 cbar.set_ticks(np.array([0.25, 0.75]))
-cbar.set_ticklabels(('not produce','produce' ))
+cbar.set_ticklabels(('not produce', 'produce'))
 ax.tick_params(length=0)
 x = plt.xticks()[0]
-plt.xticks(x+0.1,prd_list,rotation=60)
-ax.xaxis.tick_top()
-ax.xaxis.set_label_position('top')
-plt.title('Product ability of important metabolites')
+plt.xticks(x, prd_list, rotation=60)
+# ax.xaxis.tick_top()
+# ax.xaxis.set_label_position('top')
+# plt.title('Product ability of important metabolites')
 # plt.tick_params(axis='both', which='major', labelsize=10, labelbottom = False, bottom=False, top = True, labeltop=True)
 
 # plt.yticks(rotation=0)
 plt.show()
 fig.savefig('Growth rate simulation case4b.png')
-
