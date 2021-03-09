@@ -145,18 +145,25 @@ print(len(sour_coremet), len(sour_coremet) / len(sour_panmet))
 
 '''
 
-
 textlist = (161, 27, 110, 243, 138, 34, 726)
-print('specific genes:',sum(textlist[0:3])/sum(textlist))
-print('common genes:',sum(textlist[-1:])/sum(textlist))
+print('specific genes:', sum(textlist[0:3]) / sum(textlist))
+print('common genes:', sum(textlist[-1:]) / sum(textlist))
 
 # <Reactions>
 textlist = (40, 10, 20, 95, 41, 20, 671)
-print('specific genes:',sum(textlist[0:3])/sum(textlist))
-print('common genes:',sum(textlist[-1:])/sum(textlist))
-
+print('specific genes:', sum(textlist[0:3]) / sum(textlist))
+print('common genes:', sum(textlist[-1:]) / sum(textlist))
 
 # <Metabolites>
 textlist = (32, 4, 8, 33, 40, 12, 666)
-print('specific genes:',sum(textlist[0:3])/sum(textlist))
-print('common genes:',sum(textlist[-1:])/sum(textlist))
+print('specific genes:', sum(textlist[0:3]) / sum(textlist))
+print('common genes:', sum(textlist[-1:]) / sum(textlist))
+
+''':
+pan_rea = her_panrea | omn_panrea | sour_panrea
+pan_met = her_panmet | omn_panmet | sour_panmet
+print(len(pan_rea))
+print(len(pan_met))
+1010
+870
+'''

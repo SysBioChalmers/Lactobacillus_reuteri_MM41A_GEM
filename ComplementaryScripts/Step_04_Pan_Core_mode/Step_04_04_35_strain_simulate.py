@@ -680,11 +680,15 @@ upsetplot_intreaction(textlist, 'Metabolites', listid, 'union')
 # %%
 # frequency
 
-pan_rea = her_corerea | omn_corerea | sour_corerea
-pan_met = her_coremet | omn_coremet | sour_coremet
+# pan_rea = her_corerea | omn_corerea | sour_corerea
+# pan_met = her_coremet | omn_coremet | sour_coremet
+# print(len(pan_rea))
+# print(len(pan_met))
+
+pan_rea = her_panrea | omn_panrea | sour_panrea
+pan_met = her_panmet | omn_panmet | sour_panmet
 print(len(pan_rea))
 print(len(pan_met))
-
 all_rea_frenquence = []
 all_met_frenquence = []
 
