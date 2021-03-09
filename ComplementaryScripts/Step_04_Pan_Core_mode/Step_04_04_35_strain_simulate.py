@@ -163,14 +163,14 @@ np.array(seq_gen_count).mean()
 np.array(seq_gen_count).std()
 
 her_name = [
-    'lpuph', 'LR1',
+     'LR1',
     'LR10', 'LR11', 'LR12', 'LR13', 'LR14',
     'LR17', 'LR18', 'LR19', 'LR2', 'LR3',
     'LR4', 'LR6', 'LR7', 'LR8', 'LR9'
 ]
 
 omn_name = ['JCM1112', 'MM2_3', 'MM4_1A', 'CF48_3A', 'SD2112', 'I5007', 'ATCC53608', 'DSM200016', 'IRT', 'TD1', 'mlc3',
-            '100_23', '20_2', '3c6', ]
+            '100_23', '20_2', '3c6', 'lpuph',]
 sour_name = ['LTH5448', 'TMW1_112', 'TMW1_656', 'LTH2584']
 
 import pandas as pd
@@ -280,8 +280,8 @@ rects4, = ax.plot(Lreu_df.gen_count, x, '*')
 # plt.hold(True)
 
 rects5 = ax.barh((31 + 35 - 1) / 2, 1000, height=4, alpha=0.2)
-rects6 = ax.barh((31 + 17 - 1) / 2, 1000, height=14, alpha=0.2)
-rects7 = ax.barh((17 - 1) / 2, 1000, height=17, alpha=0.2)
+rects6 = ax.barh((31 + 16 - 1) / 2, 1000, height=15, alpha=0.2)
+rects7 = ax.barh((16 - 1) / 2, 1000, height=16, alpha=0.2)
 
 plt.yticks(x, labels, )
 
@@ -301,7 +301,7 @@ ax.add_artist(legend1)
 # #
 # loc='center left', bbox_to_anchor=(0.2, 1.12),ncol=3
 # ax.legend(loc=2, bbox_to_anchor=(1.05,1.0),borderaxespad = 0.)     ##设置ax4中legend的位置，将其放在图外
-fig.savefig('fig4a1.pdf', bbox_inches='tight')
+# fig.savefig('fig4a1.pdf', bbox_inches='tight')
 
 # ax.set_xlabel('Counts', )
 # ax.xaxis.tick_top()
@@ -309,8 +309,8 @@ fig.savefig('fig4a1.pdf', bbox_inches='tight')
 
 
 # fig.tight_layout()
-plt.savefig('Growth rate simulation2a.png')
-plt.show()
+# plt.savefig('Growth rate simulation2a.png')
+# plt.show()
 
 plt.rcParams['figure.figsize'] = (3, 8.0)
 fig, ax = plt.subplots()
@@ -319,8 +319,8 @@ plt.xlim((1600, 2700))
 
 rects1 = ax.plot(Lreu_df.seq_gen_count, x, '*',color = colors[5] )
 rects5 = ax.barh((31 + 35 - 1) / 2, 2700, height=4, alpha=0.2)
-rects6 = ax.barh((31 + 17 - 1) / 2, 2700, height=14, alpha=0.2)
-rects7 = ax.barh((17 - 1) / 2, 2700, height=17, alpha=0.2)
+rects6 = ax.barh((31 + 16 - 1) / 2, 2700, height=15, alpha=0.2)
+rects7 = ax.barh((16 - 1) / 2, 2700, height=16, alpha=0.2)
 # plt.yticks(x, labels, )
 plt.yticks(x, ' ' * len(x), )
 
@@ -334,7 +334,7 @@ plt.legend(['Genes count (Genome))', ],
 
 # fig.tight_layout()
 # plt.savefig('Growth rate simulation2b.png')
-fig.savefig('fig4a2.pdf', bbox_inches='tight')
+# fig.savefig('fig4a2.pdf', bbox_inches='tight')
 
 plt.show()
 
@@ -439,7 +439,7 @@ for i in range(7):
 
 # for text in v.subset_labels:
 #    text.set_fontsize(16)
-plt.savefig('Venn_of_Lreu_seqs.png')
+# plt.savefig('Venn_of_Lreu_seqs.png')
 plt.show()
 
 # %%
@@ -661,14 +661,14 @@ textlist = (161, 27, 110, 243, 138, 34, 726)
 upsetplot_intreaction(textlist, 'Genes', listid, 'union')
 
 # <Reactions>
-textlist = (11, 10, 36, 95, 25, 20, 671)
+textlist = (40, 10, 20, 95, 41, 20, 671)
 
 # upsetplot_intreaction(textlist, 'Reactions', listid,three_set = [her_corerea, omn_corerea, sour_corerea],all_set =all_rea)
 # upsetplot_intreaction(textlist, 'Reactions', listid,)
 upsetplot_intreaction(textlist, 'Reactions', listid, 'union')
 
 # <Metabolites>
-textlist = (2, 0, 17, 0, 11, 45, 719)
+textlist = (32, 4, 8, 33, 40, 12, 666)
 # upsetplot_intreaction(textlist, 'Metabolites', listid,three_set =[her_coremet, omn_coremet, sour_coremet],all_set =all_met)
 # upsetplot_intreaction(textlist, 'Metabolites', listid,)
 upsetplot_intreaction(textlist, 'Metabolites', listid, 'union')
@@ -682,6 +682,8 @@ upsetplot_intreaction(textlist, 'Metabolites', listid, 'union')
 
 pan_rea = her_corerea | omn_corerea | sour_corerea
 pan_met = her_coremet | omn_coremet | sour_coremet
+print(len(pan_rea))
+print(len(pan_met))
 
 all_rea_frenquence = []
 all_met_frenquence = []

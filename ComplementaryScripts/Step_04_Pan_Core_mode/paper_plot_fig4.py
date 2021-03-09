@@ -370,7 +370,9 @@ print('specific genes: ',(textlist[0]+textlist[1]+textlist[2] )/ sum(textlist))
 upsetplot_intreaction(textlist, 'Genes', listid, 'union')
 
 # <Reactions>
-textlist = (11, 10, 36, 95, 25, 20, 671)
+# textlist = (11, 10, 36, 95, 25, 20, 671)
+textlist = (40, 10, 20, 95, 41, 20, 671)
+
 print('common reactions: ',textlist[-1] / sum(textlist))
 print('specific genes: ',(textlist[0]+textlist[1]+textlist[2] )/ sum(textlist))
 
@@ -379,7 +381,9 @@ print('specific genes: ',(textlist[0]+textlist[1]+textlist[2] )/ sum(textlist))
 upsetplot_intreaction(textlist, 'Reactions', listid, 'union')
 
 # <Metabolites>
-textlist = (2, 0, 17, 0, 11, 45, 719)
+# textlist = (2, 0, 17, 0, 11, 45, 719)
+textlist = (32, 4, 8, 33, 40, 12, 666)
+
 print('common metabolites: ',textlist[-1] / sum(textlist))
 print('specific genes: ',(textlist[0]+textlist[1]+textlist[2] )/ sum(textlist))
 
