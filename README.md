@@ -1,4 +1,5 @@
-# Lactobacillus_reuteri_MM41A_GEM
+# Genome-scale Insights into the Metabolic Versatility of Limosilactobacillus reuteri
+# Lactobacillus reuteri ATCC PTA 6475 & pan GEM of L. reuteri
 GEM for Lactobacillus reuteri ATCC PTA 6475/MM4-1A
 
 Requirements,
