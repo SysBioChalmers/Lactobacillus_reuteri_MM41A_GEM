@@ -103,7 +103,7 @@ cbar = plt.colorbar(im.collections[0],  # orientation='horizontal',
                     fraction=0.046, pad=0.014, shrink=0.5, aspect=10, )
 
 cbar.set_ticks(np.array([0.25, 0.75]))
-cbar.set_ticklabels(('not\ngrowth', 'growth'), )
+cbar.set_ticklabels(('no\ngrowth', 'growth'), )
 cbar.ax.tick_params(length=0, labelsize=10)
 
 x = plt.xticks()[0]
@@ -131,7 +131,7 @@ cbar = plt.colorbar(im.collections[0],  # orientation='horizontal',
                     fraction=0.046, pad=0.014, shrink=0.5, aspect=10, )
 
 cbar.set_ticks(np.array([0.25, 0.75]))
-cbar.set_ticklabels(('not\nproduce', 'produce'))
+cbar.set_ticklabels(('no\nproduction', 'produce'))
 cbar.ax.tick_params(length=0, labelsize=10)
 
 x = plt.xticks()[0]

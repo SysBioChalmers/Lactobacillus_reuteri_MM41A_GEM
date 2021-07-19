@@ -19,6 +19,23 @@ os.chdir('../../ComplementaryData')
 # %% os.chdir('ComplementaryData/Step_03_Compare_Refine/')
 print('----- loading data -----')
 iHL622 = cobra.io.load_json_model('../ModelFiles/iHL622.json')
+iHL622.genes.get_by_id('check_rea_notes_for_genes_missing')
+realist = []
+for i in iHL622.genes.get_by_id('check_rea_notes_for_genes_missing').reactions:
+    grr = i.gene_reaction_rule
+    realist.append(i)
+    print(grr)
+    grr = grr.replace('and', 'or')
+    i.gene_reaction_rule = grr
+iHL622.repair()
+
+for i in realist:
+    grr = i.gene_reaction_rule
+    print(grr)
+
+cobra.manipulation.remove_genes(iHL622, ['check_rea_notes_for_genes_missing'], False)
+# cobra.manipulation.modify.rename_genes(iHL622,{'check_rea_notes_for_genes_missing':''})
+
 iNF517 = cobra.io.read_sbml_model('Initial_data/template_models/iNF517.xml')
 LbReueri = cobra.io.read_sbml_model('Initial_data/template_models/Lreuteri_530.xml')
 iBT721 = cobra.io.read_sbml_model('Initial_data/template_models/iBT721.xml')
@@ -94,3 +111,6 @@ info_table = pd.DataFrame(info_dic).T
 info_table.columns = info_table.iloc[0]
 info_table = info_table.drop(info_table.index[0])
 print(info_table)
+
+cobra.io.save_json_model(iHL622, '../ModelFiles/iHL622_2.json')
+cobra.io.write_sbml_model(iHL622, '../ModelFiles/iHL622_2.xml')
