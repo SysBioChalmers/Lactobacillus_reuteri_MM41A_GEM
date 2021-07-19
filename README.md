@@ -1,20 +1,27 @@
 # Genome-scale Insights into the Metabolic Versatility of Limosilactobacillus reuteri
-# Lactobacillus reuteri ATCC PTA 6475 & pan GEM of L. reuteri
-GEM for Lactobacillus reuteri ATCC PTA 6475/MM4-1A
+## Lactobacillus_reuteri_MM41A_GEM: The generic genome-scale metabolic model of Lactobacillus reuteri ATCC PTA 6475 & core/pan GEM
 
-Requirements,
-- [Prokka](http://github.com) 
-- [Blast+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download)
+#### Description
+GEM for Lactobacillus reuteri ATCC PTA 6475/MM4-1A
+**Taxonomy ID:** [548485](https://identifiers.org/taxonomy:548485)
+
+#### Citation
+
+Genome-scale Insights into the Metabolic Versatility of Limosilactobacillus reuteri
+
+#### Requirements
+- [Prokka](http://github.com)
+- [Blast+](https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=Download) or
 - [Diamond](https://github.com/bbuchfink/diamond)
 - [Biopython](https://biopython.org/)
 - [cobrapy](https://opencobra.github.io/cobrapy/)
 
-Notice, <br />
-Please add `./ComplementaryScripts/My_def` to sys.path to ues functions in My_def   <br />
+#### Notice <br />
+Please add `./ComplementaryScripts/My_def` to sys.path to ues functions   <br />
     - `import sys`    <br />
     - `sys.path.extend(['./Projects/Project_Lreuteri/Lactobacillus_reuteri_MM41A_GEM/ComplementaryScripts/My_def'])` 
 
-Structure,
+#### Structure
 
 - ComplementaryData/  <br />
     - Initial data/  <br />
