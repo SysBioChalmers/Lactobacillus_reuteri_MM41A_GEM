@@ -212,6 +212,34 @@
       - sbo:
         - SBO:0000247
   - !!omap
+    - id: 23dhmp_c
+    - name: (R)-2,3-Dihydroxy-3-methylpentanoate
+    - compartment: c
+    - charge: -1
+    - formula: C6H11O4
+    - annotation: !!omap
+      - LipidMaps:
+        - LMFA01050452
+      - bigg.metabolite: 23dhmp
+      - biocyc:
+        - META:1-KETO-2-METHYLVALERATE
+      - chebi:
+        - CHEBI:18646
+        - CHEBI:27512
+        - CHEBI:306
+        - CHEBI:49258
+      - hmdb:
+        - HMDB12140
+      - kegg.compound:
+        - C06007
+      - lipidmaps: LMFA01050452
+      - metanetx.chemical:
+        - MNXM1202
+      - sbo:
+        - SBO:0000247
+      - seed.compound:
+        - cpd19046
+  - !!omap
     - id: 25aics_c
     - name: (S)-2-[5-Amino-1-(5-phospho-D-ribosyl)imidazole-4-carboxamido]succinate
     - compartment: c
@@ -4251,6 +4279,35 @@
       - seed.compound:
         - cpd02547
   - !!omap
+    - id: aps_c
+    - name: Adenosine 5'-phosphosulfate
+    - compartment: c
+    - charge: -2
+    - formula: C10H12N5O10PS
+    - annotation: !!omap
+      - bigg.metabolite: aps
+      - biocyc:
+        - META:APS
+      - chebi:
+        - CHEBI:12059
+        - CHEBI:13741
+        - CHEBI:13743
+        - CHEBI:17709
+        - CHEBI:22247
+        - CHEBI:2486
+        - CHEBI:40562
+        - CHEBI:58243
+      - kegg.compound:
+        - C00224
+      - metanetx.chemical:
+        - MNXM287
+      - reactome:
+        - R-ALL-174370
+      - sbo:
+        - SBO:0000247
+      - seed.compound:
+        - cpd00193
+  - !!omap
     - id: arab__L_c
     - name: L-Arabinose
     - compartment: c
@@ -5602,6 +5659,26 @@
         - SBO:0000247
       - seed.compound:
         - cpd08375
+  - !!omap
+    - id: cpmp_c
+    - name: ''
+    - compartment: c
+    - charge: -1
+    - formula: C10H13N5O8P
+    - annotation: !!omap
+      - bigg.metabolite: cpmp
+      - chebi:
+        - CHEBI:60210
+      - hmdb:
+        - HMDB59639
+      - kegg.compound:
+        - C18239
+      - metanetx.chemical:
+        - MNXM12735
+      - sbo:
+        - SBO:0000247
+      - seed.compound:
+        - cpd19505
   - !!omap
     - id: cpocdacp_c
     - name: Cyclopropanoyl octadecanoyl acyl carrier protein
@@ -10719,6 +10796,39 @@
       - seed.compound:
         - cpd00312
   - !!omap
+    - id: hista_e
+    - name: Histamine
+    - compartment: e
+    - charge: 1
+    - formula: C5H10N3
+    - annotation: !!omap
+      - KEGG Drug:
+        - D08040
+      - bigg.metabolite: hista
+      - biocyc:
+        - META:HISTAMINE
+      - chebi:
+        - CHEBI:24596
+        - CHEBI:43187
+        - CHEBI:14401
+        - CHEBI:58432
+        - CHEBI:817
+        - CHEBI:18295
+      - hmdb:
+        - HMDB60263
+        - HMDB00870
+      - kegg.compound:
+        - C00388
+      - metanetx.chemical:
+        - MNXM635
+      - reactome:
+        - R-ALL-390899
+        - R-ALL-175992
+      - sbo:
+        - SBO:0000247
+      - seed.compound:
+        - cpd00312
+  - !!omap
     - id: histrna_c
     - name: L-Histidyl-tRNA(His)
     - compartment: c
@@ -12910,6 +13020,18 @@
       - seed.compound:
         - cpd00314
   - !!omap
+    - id: moadcoo_c
+    - name: ''
+    - compartment: c
+    - charge: -1
+    - formula: C1O2X
+    - annotation: !!omap
+      - bigg.metabolite: moadcoo
+      - metanetx.chemical:
+        - MNXM148353
+      - sbo:
+        - SBO:0000247
+  - !!omap
     - id: moadcosh_c
     - name: MoaD Protein with thiocarboxylate
     - compartment: c
@@ -13915,6 +14037,33 @@
       - seed.compound:
         - cpd00007
   - !!omap
+    - id: o2_e
+    - name: O2 O2
+    - compartment: e
+    - charge: 0
+    - formula: O2
+    - annotation: !!omap
+      - bigg.metabolite: o2
+      - biocyc: META:OXYGEN-MOLECULE
+      - chebi:
+        - CHEBI:10745
+        - CHEBI:13416
+        - CHEBI:15379
+        - CHEBI:23833
+        - CHEBI:25366
+        - CHEBI:26689
+        - CHEBI:27140
+        - CHEBI:29097
+        - CHEBI:29793
+        - CHEBI:30491
+        - CHEBI:44742
+        - CHEBI:7860
+      - hmdb: HMDB01377
+      - kegg.compound: C00007
+      - kegg.drug: D00003
+      - metanetx.chemical: MNXM4
+      - seed.compound: cpd00007
+  - !!omap
     - id: oaa_c
     - name: Oxaloacetate
     - compartment: c
@@ -14584,6 +14733,36 @@
       - seed.compound:
         - cpd00045
   - !!omap
+    - id: paps_c
+    - name: 3'-Phosphoadenylyl sulfate
+    - compartment: c
+    - charge: -4
+    - formula: C10H11N5O13P2S
+    - annotation: !!omap
+      - bigg.metabolite: paps
+      - biocyc:
+        - META:PAPS
+      - chebi:
+        - CHEBI:11679
+        - CHEBI:11680
+        - CHEBI:1353
+        - CHEBI:17980
+        - CHEBI:19857
+        - CHEBI:58339
+      - hmdb:
+        - HMDB62646
+      - kegg.compound:
+        - C00053
+      - metanetx.chemical:
+        - MNXM49
+      - reactome:
+        - R-ALL-158471
+        - R-ALL-741440
+      - sbo:
+        - SBO:0000247
+      - seed.compound:
+        - cpd00044
+  - !!omap
     - id: pea_c
     - name: Phenylethyl alcohol
     - compartment: c
@@ -15227,6 +15406,33 @@
     - id: ppoh_c
     - name: 1-Propanol
     - compartment: c
+    - charge: 0
+    - formula: C3H8O
+    - annotation: !!omap
+      - LipidMaps:
+        - LMFA05000101
+      - bigg.metabolite: ppoh
+      - biocyc:
+        - META:PROPANOL
+      - chebi:
+        - CHEBI:26278
+        - CHEBI:28831
+        - CHEBI:44960
+        - CHEBI:8472
+      - hmdb:
+        - HMDB00820
+      - kegg.compound:
+        - C05979
+      - metanetx.chemical:
+        - MNXM6396
+      - sbo:
+        - SBO:0000247
+      - seed.compound:
+        - cpd03559
+  - !!omap
+    - id: ppoh_e
+    - name: 1-Propanol
+    - compartment: e
     - charge: 0
     - formula: C3H8O
     - annotation: !!omap
@@ -19509,185 +19715,6 @@
         - SBO:0000247
       - seed.compound:
         - cpd00198
-  - !!omap
-    - id: aps_c
-    - name: Adenosine 5'-phosphosulfate
-    - compartment: c
-    - charge: -2
-    - formula: C10H12N5O10PS
-    - annotation: !!omap
-      - bigg.metabolite: aps
-      - biocyc:
-        - META:APS
-      - chebi:
-        - CHEBI:12059
-        - CHEBI:13741
-        - CHEBI:13743
-        - CHEBI:17709
-        - CHEBI:22247
-        - CHEBI:2486
-        - CHEBI:40562
-        - CHEBI:58243
-      - kegg.compound:
-        - C00224
-      - metanetx.chemical:
-        - MNXM287
-      - reactome:
-        - R-ALL-174370
-      - sbo:
-        - SBO:0000247
-      - seed.compound:
-        - cpd00193
-  - !!omap
-    - id: paps_c
-    - name: 3'-Phosphoadenylyl sulfate
-    - compartment: c
-    - charge: -4
-    - formula: C10H11N5O13P2S
-    - annotation: !!omap
-      - bigg.metabolite: paps
-      - biocyc:
-        - META:PAPS
-      - chebi:
-        - CHEBI:11679
-        - CHEBI:11680
-        - CHEBI:1353
-        - CHEBI:17980
-        - CHEBI:19857
-        - CHEBI:58339
-      - hmdb:
-        - HMDB62646
-      - kegg.compound:
-        - C00053
-      - metanetx.chemical:
-        - MNXM49
-      - reactome:
-        - R-ALL-158471
-        - R-ALL-741440
-      - sbo:
-        - SBO:0000247
-      - seed.compound:
-        - cpd00044
-  - !!omap
-    - id: ppoh_e
-    - name: 1-Propanol
-    - compartment: e
-    - charge: 0
-    - formula: C3H8O
-    - annotation: !!omap
-      - LipidMaps:
-        - LMFA05000101
-      - bigg.metabolite: ppoh
-      - biocyc:
-        - META:PROPANOL
-      - chebi:
-        - CHEBI:26278
-        - CHEBI:28831
-        - CHEBI:44960
-        - CHEBI:8472
-      - hmdb:
-        - HMDB00820
-      - kegg.compound:
-        - C05979
-      - metanetx.chemical:
-        - MNXM6396
-      - sbo:
-        - SBO:0000247
-      - seed.compound:
-        - cpd03559
-  - !!omap
-    - id: hista_e
-    - name: Histamine
-    - compartment: e
-    - charge: 1
-    - formula: C5H10N3
-    - annotation: !!omap
-      - KEGG Drug:
-        - D08040
-      - bigg.metabolite: hista
-      - biocyc:
-        - META:HISTAMINE
-      - chebi:
-        - CHEBI:24596
-        - CHEBI:43187
-        - CHEBI:14401
-        - CHEBI:58432
-        - CHEBI:817
-        - CHEBI:18295
-      - hmdb:
-        - HMDB60263
-        - HMDB00870
-      - kegg.compound:
-        - C00388
-      - metanetx.chemical:
-        - MNXM635
-      - reactome:
-        - R-ALL-390899
-        - R-ALL-175992
-      - sbo:
-        - SBO:0000247
-      - seed.compound:
-        - cpd00312
-  - !!omap
-    - id: 23dhmp_c
-    - name: (R)-2,3-Dihydroxy-3-methylpentanoate
-    - compartment: c
-    - charge: -1
-    - formula: C6H11O4
-    - annotation: !!omap
-      - LipidMaps:
-        - LMFA01050452
-      - bigg.metabolite: 23dhmp
-      - biocyc:
-        - META:1-KETO-2-METHYLVALERATE
-      - chebi:
-        - CHEBI:18646
-        - CHEBI:27512
-        - CHEBI:306
-        - CHEBI:49258
-      - hmdb:
-        - HMDB12140
-      - kegg.compound:
-        - C06007
-      - lipidmaps: LMFA01050452
-      - metanetx.chemical:
-        - MNXM1202
-      - sbo:
-        - SBO:0000247
-      - seed.compound:
-        - cpd19046
-  - !!omap
-    - id: cpmp_c
-    - name: ''
-    - compartment: c
-    - charge: -1
-    - formula: C10H13N5O8P
-    - annotation: !!omap
-      - bigg.metabolite: cpmp
-      - chebi:
-        - CHEBI:60210
-      - hmdb:
-        - HMDB59639
-      - kegg.compound:
-        - C18239
-      - metanetx.chemical:
-        - MNXM12735
-      - sbo:
-        - SBO:0000247
-      - seed.compound:
-        - cpd19505
-  - !!omap
-    - id: moadcoo_c
-    - name: ''
-    - compartment: c
-    - charge: -1
-    - formula: C1O2X
-    - annotation: !!omap
-      - bigg.metabolite: moadcoo
-      - metanetx.chemical:
-        - MNXM148353
-      - sbo:
-        - SBO:0000247
 - reactions:
   - !!omap
     - id: 2H3MPDH
@@ -20143,6 +20170,24 @@
       - subsystem:
         - palmitate biosynthesis II (bacteria and plants)
         - palmitate biosynthesis I (animals and fungi)
+  - !!omap
+    - id: 3HPPt
+    - name: 3-hydroxypropanoate transport via diffusion
+    - metabolites: !!omap
+      - 3hpp_c: -1.0
+      - 3hpp_e: 1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+    - notes: !!omap
+      - from:
+        - Lreuteri_530
+        - gap
+    - annotation: !!omap
+      - bigg.reaction:
+        - 3HPPt
+      - sbo:
+        - SBO:0000655
   - !!omap
     - id: 3OAR100
     - name: 3-oxoacyl-[acyl-carrier-protein] reductase (n-C10:0)
@@ -21312,8 +21357,8 @@
       - coa_c: -1
       - h_c: 1
       - pap_c: 1
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: ((MBLCLPDI_01086 and MBLCLPDI_00272) or (MBLCLPDI_00272
         or MBLCLPDI_01086)) or ((MBLCLPDI_01292 and MBLCLPDI_00272) or (MBLCLPDI_01086
         and MBLCLPDI_00272))
@@ -22081,6 +22126,60 @@
         - SBO:0000176
         - SBO:0000375
   - !!omap
+    - id: ADSK
+    - name: Adenylyl-sulfate kinase
+    - metabolites: !!omap
+      - adp_c: 1.0
+      - aps_c: -1.0
+      - atp_c: -1.0
+      - h_c: 1.0
+      - paps_c: 1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: MBLCLPDI_01350
+    - notes: !!omap
+      - from:
+        - iML1515
+        - gap
+    - annotation: !!omap
+      - bigg.reaction:
+        - ADSK
+      - biocyc:
+        - META:ADENYLYLSULFKIN-RXN
+      - ec-code:
+        - 2.7.1.25
+      - kegg.reaction:
+        - R00509
+      - metanetx.reaction:
+        - MNXR95159
+      - reactome:
+        - R-ALL-REACT_R-ATH-174389
+        - R-ALL-REACT_R-BTA-174389
+        - R-ALL-REACT_R-CEL-174389
+        - R-ALL-REACT_R-CFA-174389
+        - R-ALL-REACT_R-DME-174389
+        - R-ALL-REACT_R-DRE-174389
+        - R-ALL-REACT_R-GGA-174389
+        - R-ALL-REACT_R-HSA-174389
+        - R-ALL-REACT_R-MMU-174389
+        - R-ALL-REACT_R-OSA-174389
+        - R-ALL-REACT_R-RNO-174389
+        - R-ALL-REACT_R-SCE-174389
+        - R-ALL-REACT_R-SPO-174389
+        - R-ALL-REACT_R-SSC-174389
+        - R-ALL-REACT_R-TGU-174389
+        - R-ALL-REACT_R-XTR-174389
+      - rhea:
+        - '24152'
+        - '24153'
+        - '24154'
+        - '24155'
+      - sbo:
+        - SBO:0000176
+        - SBO:0000375
+      - subsystem:
+        - sulfate activation for sulfonation
+  - !!omap
     - id: ADSL1r
     - name: Adenylsuccinate lyase
     - metabolites: !!omap
@@ -22241,7 +22340,7 @@
       - pa_LRE_c: 0.5
       - palmACP_c: -0.2566
       - tdeacp_c: -0.0687
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_00765
     - notes: !!omap
@@ -24765,6 +24864,41 @@
       - sbo:
         - SBO:0000629
   - !!omap
+    - id: BPNT
+    - name: 3',5'-bisphosphate nucleotidase
+    - metabolites: !!omap
+      - amp_c: 1.0
+      - h2o_c: -1.0
+      - pap_c: -1.0
+      - pi_c: 1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: MBLCLPDI_00718
+    - notes: !!omap
+      - from:
+        - iML1515
+        - gap
+    - annotation: !!omap
+      - bigg.reaction:
+        - BPNT
+      - biocyc:
+        - META:325-BISPHOSPHATE-NUCLEOTIDASE-RXN
+      - ec-code:
+        - 3.1.3.7
+        - 3.1.3.97
+      - kegg.reaction:
+        - R00188
+      - metanetx.reaction:
+        - MNXR96321
+      - rhea:
+        - '10040'
+        - '10041'
+        - '10042'
+        - '10043'
+      - sbo:
+        - SBO:0000176
+        - SBO:0000375
+  - !!omap
     - id: BTDD_RR
     - name: (R,R)-butanediol dehydrogenase
     - metabolites: !!omap
@@ -26761,6 +26895,45 @@
       - subsystem:
         - purine deoxyribonucleosides salvage
   - !!omap
+    - id: DHAD2
+    - name: Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)
+    - metabolites: !!omap
+      - 23dhmp_c: -1.0
+      - 3mop_c: 1.0
+      - h2o_c: 1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: check_rea_notes_for_genes_missing
+    - notes: !!omap
+      - from:
+        - iML1515
+        - gap
+      - missing_gene_reaction_rule: LLMG_RS06490_missing
+    - annotation: !!omap
+      - bigg.reaction:
+        - DHAD2
+      - biocyc:
+        - META:DIHYDROXYMETVALDEHYDRAT-RXN
+      - ec-code:
+        - 4.2.1.9
+      - kegg.reaction:
+        - R05070
+      - metanetx.reaction:
+        - MNXR97359
+      - rhea:
+        - '27694'
+        - '27695'
+        - '27696'
+        - '27697'
+      - sbo:
+        - SBO:0000176
+        - SBO:0000375
+      - subsystem:
+        - L-isoleucine biosynthesis I (from threonine)
+        - L-isoleucine biosynthesis II
+        - L-isoleucine biosynthesis III
+        - L-isoleucine biosynthesis IV
+  - !!omap
     - id: DHAPT
     - name: Dihydroxyacetone phosphotransferase
     - metabolites: !!omap
@@ -27460,7 +27633,7 @@
       - h_c: 1.37
       - pi_c: 1.37
       - ppi_c: 1
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
@@ -28959,6 +29132,25 @@
         - SBO:0000375
         - SBO:0000655
   - !!omap
+    - id: EX_13ppd_e
+    - name: Exchange Propane-1,3-diol
+    - metabolites: !!omap
+      - 13ppd_e: -1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+    - notes: !!omap
+      - from:
+        - Lreuteri_530
+        - gap
+    - annotation: !!omap
+      - bigg.reaction:
+        - EX_13ppd_e
+      - metanetx.reaction:
+        - MNXR97993
+      - sbo:
+        - SBO:0000627
+  - !!omap
     - id: EX_2ahbut_c
     - name: Demand for secretion of (S)-2-Aceto-2-hydroxybutanoate
     - metabolites: !!omap
@@ -29009,6 +29201,25 @@
       - sbo:
         - SBO:0000627
   - !!omap
+    - id: EX_3hpp_e
+    - name: 3-hydroxypropanoate exchange
+    - metabolites: !!omap
+      - 3hpp_e: -1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+    - notes: !!omap
+      - from:
+        - iML1515
+        - gap
+    - annotation: !!omap
+      - bigg.reaction:
+        - 3hpp
+      - metanetx.reaction:
+        - MNXR98044
+      - sbo:
+        - SBO:0000627
+  - !!omap
     - id: EX_4abut_e
     - name: 4-Aminobutanoate exchange
     - metabolites: !!omap
@@ -29051,8 +29262,8 @@
     - name: Acetate exchange
     - metabolites: !!omap
       - ac_e: -1.0
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -29183,7 +29394,7 @@
     - metabolites: !!omap
       - ala__L_e: -1.0
     - lower_bound: -2.69
-    - upper_bound: 1000
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -29259,7 +29470,7 @@
     - metabolites: !!omap
       - asp__L_e: -1.0
     - lower_bound: -3.16
-    - upper_bound: 1000
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -29430,7 +29641,7 @@
     - metabolites: !!omap
       - cys__L_e: -1.0
     - lower_bound: -0.83
-    - upper_bound: 1000
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -29505,8 +29716,8 @@
     - name: Ethanol exchange
     - metabolites: !!omap
       - etoh_e: -1.0
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -29676,8 +29887,8 @@
     - name: L-Glutamine exchange
     - metabolites: !!omap
       - gln__L_e: -1.0
-    - lower_bound: -1
-    - upper_bound: 1000
+    - lower_bound: -1.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -29715,7 +29926,7 @@
     - metabolites: !!omap
       - gly_e: -1.0
     - lower_bound: -2.33
-    - upper_bound: 1000
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -29981,8 +30192,8 @@
     - name: L-Histidine exchange
     - metabolites: !!omap
       - his__L_e: -1.0
-    - lower_bound: -5
-    - upper_bound: 1000
+    - lower_bound: -5.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -29993,6 +30204,24 @@
         - his__L
       - metanetx.reaction:
         - MNXR98656
+      - sbo:
+        - SBO:0000627
+  - !!omap
+    - id: EX_hista_e
+    - name: ''
+    - metabolites: !!omap
+      - hista_e: -1
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+    - notes: !!omap
+      - from:
+        - gap
+    - annotation: !!omap
+      - bigg.reaction:
+        - EX_hista_e
+      - metanetx.reaction:
+        - MNXR98657
       - sbo:
         - SBO:0000627
   - !!omap
@@ -30020,7 +30249,7 @@
     - metabolites: !!omap
       - ile__L_e: -1.0
     - lower_bound: -1.6
-    - upper_bound: 1000
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -30057,8 +30286,8 @@
     - name: L-Lactate exchange
     - metabolites: !!omap
       - lac__L_e: -1.0
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -30095,8 +30324,8 @@
     - name: L-Leucine exchange
     - metabolites: !!omap
       - leu__L_e: -1.0
-    - lower_bound: -1
-    - upper_bound: 1000
+    - lower_bound: -1.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -30115,7 +30344,7 @@
     - metabolites: !!omap
       - lys__L_e: -1.0
     - lower_bound: -2.68
-    - upper_bound: 1000
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -30321,8 +30550,8 @@
     - name: Ammonia exchange
     - metabolites: !!omap
       - nh4_e: -1.0
-    - lower_bound: -1000
-    - upper_bound: 1000
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -30354,6 +30583,17 @@
         - MNXR98789
       - sbo:
         - SBO:0000627
+  - !!omap
+    - id: EX_o2_e
+    - name: Exchange o2
+    - metabolites: !!omap
+      - o2_e: -1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+    - annotation: !!omap
+      - bigg.reaction: o2
+      - sbo: SBO:0000627
   - !!omap
     - id: EX_ocdctr_e
     - name: Exchange octadecynoate (n-C18:3)
@@ -30541,12 +30781,31 @@
       - sbo:
         - SBO:0000627
   - !!omap
+    - id: EX_ppoh_e
+    - name: Propanol exchange
+    - metabolites: !!omap
+      - ppoh_e: -1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+    - notes: !!omap
+      - from:
+        - Lreuteri_530
+        - gap
+    - annotation: !!omap
+      - bigg.reaction:
+        - EX_ppoh_e
+      - metanetx.reaction:
+        - MNXR98861
+      - sbo:
+        - SBO:0000627
+  - !!omap
     - id: EX_pro__L_e
     - name: L-Proline exchange
     - metabolites: !!omap
       - pro__L_e: -1.0
     - lower_bound: -5.86
-    - upper_bound: 1000
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -30698,7 +30957,7 @@
     - metabolites: !!omap
       - ser__L_e: -1.0
     - lower_bound: -3.24
-    - upper_bound: 1000
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -30792,8 +31051,8 @@
     - name: L-Threonine exchange
     - metabolites: !!omap
       - thr__L_e: -1.0
-    - lower_bound: -1
-    - upper_bound: 1000
+    - lower_bound: -1.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
       - from:
@@ -31298,7 +31557,7 @@
       - h_c: 1
       - mettrna_c: -1
       - thf_c: 1
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01304
     - notes: !!omap
@@ -33436,7 +33695,7 @@
       - glutrna_c: 1
       - ppi_c: 1
       - trnaglu_c: -1
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01336
     - notes: !!omap
@@ -35751,6 +36010,27 @@
       - subsystem:
         - histamine biosynthesis
   - !!omap
+    - id: HISTAap
+    - name: histide/histamine antiporter
+    - metabolites: !!omap
+      - his__L_c: -1.0
+      - his__L_e: 1.0
+      - hista_c: 1.0
+      - hista_e: -1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: check_rea_notes_for_genes_missing
+    - notes: !!omap
+      - from:
+        - Lreuteri_530
+        - gap
+      - missing_gene_reaction_rule: None_missing
+    - annotation: !!omap
+      - bigg.reaction:
+        - HISTAap
+      - sbo:
+        - SBO:0000655
+  - !!omap
     - id: HISTRS
     - name: Histidyl-tRNA synthetase
     - metabolites: !!omap
@@ -36754,6 +37034,42 @@
       - subsystem:
         - Pyrimidine metabolism
   - !!omap
+    - id: KARA2
+    - name: Ketol-acid reductoisomerase (2-Acetolactate)
+    - metabolites: !!omap
+      - 23dhmp_c: 1.0
+      - 2ahbut_c: -1.0
+      - h_c: -1.0
+      - nadp_c: 1.0
+      - nadph_c: -1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: MBLCLPDI_00402
+    - notes: !!omap
+      - from:
+        - iML1515
+        - gap
+    - annotation: !!omap
+      - bigg.reaction:
+        - KARA2
+      - biocyc:
+        - META:ACETOOHBUTREDUCTOISOM-RXN
+      - ec-code:
+        - 1.1.1.86
+      - metanetx.reaction:
+        - MNXR100902
+      - rhea:
+        - '13493'
+        - '13494'
+        - '13495'
+        - '13496'
+      - sbo:
+        - SBO:0000176
+        - SBO:0000375
+      - subsystem:
+        - L-isoleucine biosynthesis I (from threonine)
+        - L-isoleucine biosynthesis III
+  - !!omap
     - id: KAS14
     - name: Beta-ketoacyl-ACP synthase
     - metabolites: !!omap
@@ -37182,7 +37498,7 @@
       - pi_c: 1
       - ppi_c: 1
       - trnalys_c: 0.23
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: (MBLCLPDI_01949 or MBLCLPDI_00053) and MBLCLPDI_01680 and
         MBLCLPDI_00188 and MBLCLPDI_00571 and MBLCLPDI_00776
@@ -37248,7 +37564,7 @@
       - ppi_c: 20.0
       - udp_c: 3.2
       - udpg_c: -3.2
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_00825 and MBLCLPDI_01474
     - notes: !!omap
@@ -37762,8 +38078,8 @@
       - co2_c: 1
       - h_c: -1
       - malACP_c: -1
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01083
     - notes: !!omap
       - from:
@@ -37785,8 +38101,8 @@
       - h_c: -1
       - hexACP_c: -1
       - malACP_c: -1
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01083
     - notes: !!omap
       - from:
@@ -37809,8 +38125,8 @@
       - h_c: -1
       - malACP_c: -1
       - ocACP_c: -1
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01083
     - notes: !!omap
       - from:
@@ -37832,8 +38148,8 @@
       - decacp_c: -1
       - h_c: -1
       - malACP_c: -1
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01083
     - notes: !!omap
       - from:
@@ -37855,8 +38171,8 @@
       - ddeacp_c: -1
       - h_c: -1
       - malACP_c: -1
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01083
     - notes: !!omap
       - from:
@@ -37878,8 +38194,8 @@
       - h_c: -1
       - malACP_c: -1
       - tdeacp_c: -1
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01083
     - notes: !!omap
       - from:
@@ -37901,8 +38217,8 @@
       - h_c: -1
       - hdeACP_c: -1
       - malACP_c: -1
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01083
     - notes: !!omap
       - from:
@@ -38497,6 +38813,40 @@
       - sbo:
         - SBO:0000176
   - !!omap
+    - id: MGSA
+    - name: Methylglyoxal synthase
+    - metabolites: !!omap
+      - dhap_c: -1.0
+      - mthgxl_c: 1.0
+      - pi_c: 1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: check_rea_notes_for_genes_missing
+    - notes: !!omap
+      - from:
+        - iML1515
+        - gap
+      - missing_gene_reaction_rule: b0963_missing
+    - annotation: !!omap
+      - bigg.reaction:
+        - MGSA
+      - biocyc:
+        - META:METHGLYSYN-RXN
+      - ec-code:
+        - 4.2.3.3
+      - kegg.reaction:
+        - R01016
+      - metanetx.reaction:
+        - MNXR101551
+      - rhea:
+        - '17939'
+        - '17938'
+        - '17937'
+        - '17940'
+      - sbo:
+        - SBO:0000176
+        - SBO:0000375
+  - !!omap
     - id: MHPGLUT
     - name: 5-methyltetrahydropteroyltriglutamate-homocysteine S-methyltransferase
     - metabolites: !!omap
@@ -38918,7 +39268,7 @@
       - moadcoo_c: 2.0
       - moadcosh_c: -2.0
       - mpt_c: 1
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01116 and MBLCLPDI_01117
     - notes: !!omap
@@ -40017,7 +40367,7 @@
       - nac_c: 1
       - nicrnt_c: -1
       - prbade_c: 1
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_01851
     - notes: !!omap
@@ -41521,6 +41871,42 @@
       - sbo:
         - SBO:0000176
   - !!omap
+    - id: PAPSR
+    - name: Phosphoadenylyl-sulfate reductase (thioredoxin)
+    - metabolites: !!omap
+      - h_c: 2.0
+      - pap_c: 1.0
+      - paps_c: -1.0
+      - so3_c: 1.0
+      - trdox_c: 1.0
+      - trdrd_c: -1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: (MBLCLPDI_01983 and check_rea_notes_for_genes_missing) or
+        (MBLCLPDI_01983 and check_rea_notes_for_genes_missing)
+    - notes: !!omap
+      - from:
+        - iML1515
+        - gap
+      - missing_gene_reaction_rule: (MBLCLPDI_01983 and b2762_missing) or (MBLCLPDI_01983
+          and b2762_missing)
+    - annotation: !!omap
+      - bigg.reaction:
+        - PAPSR
+      - biocyc:
+        - META:1.8.4.8-RXN
+      - ec-code:
+        - 1.8.4.8
+      - kegg.reaction:
+        - R02021
+      - metanetx.reaction:
+        - MNXR102376
+      - sbo:
+        - SBO:0000176
+        - SBO:0000375
+      - subsystem:
+        - assimilatory sulfate reduction I
+  - !!omap
     - id: PDH
     - name: Pyruvate dehydrogenase
     - metabolites: !!omap
@@ -41706,8 +42092,8 @@
       - f6p_c: -1.0
       - fdp_c: 1.0
       - h_c: 1.0
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_00445
     - notes: !!omap
       - from:
@@ -42843,6 +43229,25 @@
       - subsystem:
         - (S)-propane-1,2-diol degradation
   - !!omap
+    - id: PPDt1
+    - name: 1,3-propanediol transport in/out via diffusion reversible
+    - metabolites: !!omap
+      - 13ppd_c: -1.0
+      - 13ppd_e: 1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: check_rea_notes_for_genes_missing
+    - notes: !!omap
+      - from:
+        - Lreuteri_530
+        - gap
+      - missing_gene_reaction_rule: None_missing
+    - annotation: !!omap
+      - bigg.reaction:
+        - PPDt1
+      - sbo:
+        - SBO:0000655
+  - !!omap
     - id: PPGPPDP
     - name: Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase
     - metabolites: !!omap
@@ -43105,6 +43510,24 @@
       - subsystem:
         - coenzyme A biosynthesis I (prokaryotic)
   - !!omap
+    - id: PPOHt
+    - name: Propanol transport via diffusion
+    - metabolites: !!omap
+      - ppoh_c: 1.0
+      - ppoh_e: -1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+    - notes: !!omap
+      - from:
+        - Lreuteri_530
+        - gap
+    - annotation: !!omap
+      - bigg.reaction:
+        - PPOHt
+      - sbo:
+        - SBO:0000655
+  - !!omap
     - id: PRAGSr
     - name: Phosphoribosylglycinamide synthase
     - metabolites: !!omap
@@ -43152,7 +43575,7 @@
       - fpram_c: -1
       - h_c: 2.0
       - pi_c: 1
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_00148
     - notes: !!omap
@@ -43280,7 +43703,7 @@
       - pro__L_c: -1
       - protrna_c: 1
       - trnapro_c: -1
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_00778
     - notes: !!omap
@@ -43355,7 +43778,7 @@
       - trptrna_c: -0.007
       - tyrtrna_c: -0.0281
       - valtrna_c: -0.0705
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
@@ -44775,7 +45198,7 @@
       - pi_c: 0.4
       - ppi_c: 1
       - utp_c: -0.288989660589
-    - lower_bound: 0
+    - lower_bound: 0.0
     - upper_bound: 1000.0
     - gene_reaction_rule: ''
     - notes: !!omap
@@ -45561,6 +45984,36 @@
         - SBO:0000176
         - SBO:0000375
   - !!omap
+    - id: SADT2
+    - name: Sulfate adenyltransferase
+    - metabolites: !!omap
+      - aps_c: 1.0
+      - atp_c: -1.0
+      - gdp_c: 1.0
+      - gtp_c: -1.0
+      - h2o_c: -1.0
+      - pi_c: 1.0
+      - ppi_c: 1.0
+      - so4_c: -1.0
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: check_rea_notes_for_genes_missing and MBLCLPDI_00733
+    - notes: !!omap
+      - from:
+        - iML1515
+        - gap
+      - missing_gene_reaction_rule: b2752_missing and MBLCLPDI_00733
+    - annotation: !!omap
+      - bigg.reaction:
+        - SADT2
+      - ec-code:
+        - 2.7.7.4
+      - metanetx.reaction:
+        - MNXR104241
+      - sbo:
+        - SBO:0000176
+        - SBO:0000375
+  - !!omap
     - id: SCRP
     - name: Sucrose phosphorylase
     - metabolites: !!omap
@@ -45682,6 +46135,47 @@
         - SBO:0000375
       - subsystem:
         - L-lysine biosynthesis I
+  - !!omap
+    - id: SERAT
+    - name: Serine O-acetyltransferase
+    - metabolites: !!omap
+      - accoa_c: -1.0
+      - acser_c: 1.0
+      - coa_c: 1.0
+      - ser__L_c: -1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: MBLCLPDI_00695
+    - notes: !!omap
+      - from:
+        - iML1515
+        - gap
+    - annotation: !!omap
+      - bigg.reaction:
+        - SERAT
+      - biocyc:
+        - META:SERINE-O-ACETTRAN-RXN
+      - ec-code:
+        - 2.3.1.30
+      - kegg.reaction:
+        - R00586
+      - metanetx.reaction:
+        - MNXR104275
+      - reactome:
+        - R-ALL-REACT_R-MTU-936615
+      - rhea:
+        - '24562'
+        - '24563'
+        - '24561'
+        - '24560'
+      - sbo:
+        - SBO:0000176
+        - SBO:0000375
+      - subsystem:
+        - D-cycloserine biosynthesis
+        - L-cysteine biosynthesis I
+        - seleno-amino acid biosynthesis (plants)
+        - L-cysteine biosynthesis VII (from S-sulfo-L-cysteine)
   - !!omap
     - id: SERD_L
     - name: L-serine deaminase
@@ -46458,8 +46952,8 @@
       - acald_c: 1.0
       - gly_c: 1.0
       - thr__L_c: -1.0
-    - lower_bound: 0
-    - upper_bound: 1000
+    - lower_bound: 0.0
+    - upper_bound: 1000.0
     - gene_reaction_rule: MBLCLPDI_00504 or check_rea_notes_for_genes_missing
     - notes: !!omap
       - from:
@@ -48552,8 +49046,8 @@
       - leu__L_c: 1.0
       - phe__L_c: -1.0
       - phpyr_c: 1.0
-    - lower_bound: 0
-    - upper_bound: 0
+    - lower_bound: 0.0
+    - upper_bound: 0.0
     - gene_reaction_rule: MBLCLPDI_00832
     - notes: !!omap
       - from:
@@ -48595,8 +49089,8 @@
       - phe__L_c: -1.0
       - phpyr_c: 1.0
       - trp__L_c: 1.0
-    - lower_bound: 0
-    - upper_bound: 0
+    - lower_bound: 0.0
+    - upper_bound: 0.0
     - gene_reaction_rule: MBLCLPDI_00832
     - notes: !!omap
       - from:
@@ -48616,8 +49110,8 @@
       - indpyr_c: 1.0
       - leu__L_c: 1.0
       - trp__L_c: -1.0
-    - lower_bound: 0
-    - upper_bound: 0
+    - lower_bound: 0.0
+    - upper_bound: 0.0
     - gene_reaction_rule: MBLCLPDI_00832
     - notes: !!omap
       - from:
@@ -48738,6 +49232,15 @@
         - SBO:0000176
         - SBO:0000375
   - !!omap
+    - id: tr_o2
+    - name: o2 transport
+    - metabolites: !!omap
+      - o2_c: 1.0
+      - o2_e: -1.0
+    - lower_bound: -1000.0
+    - upper_bound: 1000.0
+    - gene_reaction_rule: ''
+  - !!omap
     - id: unkFol
     - name: Unk 49
     - metabolites: !!omap
@@ -48760,462 +49263,6 @@
       - sbo:
         - SBO:0000176
         - SBO:0000375
-  - !!omap
-    - id: SADT2
-    - name: Sulfate adenyltransferase
-    - metabolites: !!omap
-      - aps_c: 1.0
-      - atp_c: -1.0
-      - gdp_c: 1.0
-      - gtp_c: -1.0
-      - h2o_c: -1.0
-      - pi_c: 1.0
-      - ppi_c: 1.0
-      - so4_c: -1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: check_rea_notes_for_genes_missing and MBLCLPDI_00733
-    - notes: !!omap
-      - from:
-        - iML1515
-        - gap
-      - missing_gene_reaction_rule: b2752_missing and MBLCLPDI_00733
-    - annotation: !!omap
-      - bigg.reaction:
-        - SADT2
-      - ec-code:
-        - 2.7.7.4
-      - metanetx.reaction:
-        - MNXR104241
-      - sbo:
-        - SBO:0000176
-        - SBO:0000375
-  - !!omap
-    - id: ADSK
-    - name: Adenylyl-sulfate kinase
-    - metabolites: !!omap
-      - adp_c: 1.0
-      - aps_c: -1.0
-      - atp_c: -1.0
-      - h_c: 1.0
-      - paps_c: 1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: MBLCLPDI_01350
-    - notes: !!omap
-      - from:
-        - iML1515
-        - gap
-    - annotation: !!omap
-      - bigg.reaction:
-        - ADSK
-      - biocyc:
-        - META:ADENYLYLSULFKIN-RXN
-      - ec-code:
-        - 2.7.1.25
-      - kegg.reaction:
-        - R00509
-      - metanetx.reaction:
-        - MNXR95159
-      - reactome:
-        - R-ALL-REACT_R-ATH-174389
-        - R-ALL-REACT_R-BTA-174389
-        - R-ALL-REACT_R-CEL-174389
-        - R-ALL-REACT_R-CFA-174389
-        - R-ALL-REACT_R-DME-174389
-        - R-ALL-REACT_R-DRE-174389
-        - R-ALL-REACT_R-GGA-174389
-        - R-ALL-REACT_R-HSA-174389
-        - R-ALL-REACT_R-MMU-174389
-        - R-ALL-REACT_R-OSA-174389
-        - R-ALL-REACT_R-RNO-174389
-        - R-ALL-REACT_R-SCE-174389
-        - R-ALL-REACT_R-SPO-174389
-        - R-ALL-REACT_R-SSC-174389
-        - R-ALL-REACT_R-TGU-174389
-        - R-ALL-REACT_R-XTR-174389
-      - rhea:
-        - '24152'
-        - '24153'
-        - '24154'
-        - '24155'
-      - sbo:
-        - SBO:0000176
-        - SBO:0000375
-      - subsystem:
-        - sulfate activation for sulfonation
-  - !!omap
-    - id: PAPSR
-    - name: Phosphoadenylyl-sulfate reductase (thioredoxin)
-    - metabolites: !!omap
-      - h_c: 2.0
-      - pap_c: 1.0
-      - paps_c: -1.0
-      - so3_c: 1.0
-      - trdox_c: 1.0
-      - trdrd_c: -1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: (MBLCLPDI_01983 and check_rea_notes_for_genes_missing) or
-        (MBLCLPDI_01983 and check_rea_notes_for_genes_missing)
-    - notes: !!omap
-      - from:
-        - iML1515
-        - gap
-      - missing_gene_reaction_rule: (MBLCLPDI_01983 and b2762_missing) or (MBLCLPDI_01983
-          and b2762_missing)
-    - annotation: !!omap
-      - bigg.reaction:
-        - PAPSR
-      - biocyc:
-        - META:1.8.4.8-RXN
-      - ec-code:
-        - 1.8.4.8
-      - kegg.reaction:
-        - R02021
-      - metanetx.reaction:
-        - MNXR102376
-      - sbo:
-        - SBO:0000176
-        - SBO:0000375
-      - subsystem:
-        - assimilatory sulfate reduction I
-  - !!omap
-    - id: BPNT
-    - name: 3',5'-bisphosphate nucleotidase
-    - metabolites: !!omap
-      - amp_c: 1.0
-      - h2o_c: -1.0
-      - pap_c: -1.0
-      - pi_c: 1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: MBLCLPDI_00718
-    - notes: !!omap
-      - from:
-        - iML1515
-        - gap
-    - annotation: !!omap
-      - bigg.reaction:
-        - BPNT
-      - biocyc:
-        - META:325-BISPHOSPHATE-NUCLEOTIDASE-RXN
-      - ec-code:
-        - 3.1.3.7
-        - 3.1.3.97
-      - kegg.reaction:
-        - R00188
-      - metanetx.reaction:
-        - MNXR96321
-      - rhea:
-        - '10040'
-        - '10041'
-        - '10042'
-        - '10043'
-      - sbo:
-        - SBO:0000176
-        - SBO:0000375
-  - !!omap
-    - id: MGSA
-    - name: Methylglyoxal synthase
-    - metabolites: !!omap
-      - dhap_c: -1.0
-      - mthgxl_c: 1.0
-      - pi_c: 1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: check_rea_notes_for_genes_missing
-    - notes: !!omap
-      - from:
-        - iML1515
-        - gap
-      - missing_gene_reaction_rule: b0963_missing
-    - annotation: !!omap
-      - bigg.reaction:
-        - MGSA
-      - biocyc:
-        - META:METHGLYSYN-RXN
-      - ec-code:
-        - 4.2.3.3
-      - kegg.reaction:
-        - R01016
-      - metanetx.reaction:
-        - MNXR101551
-      - rhea:
-        - '17939'
-        - '17938'
-        - '17937'
-        - '17940'
-      - sbo:
-        - SBO:0000176
-        - SBO:0000375
-  - !!omap
-    - id: PPOHt
-    - name: Propanol transport via diffusion
-    - metabolites: !!omap
-      - ppoh_c: 1.0
-      - ppoh_e: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: ''
-    - notes: !!omap
-      - from:
-        - Lreuteri_530
-        - gap
-    - annotation: !!omap
-      - bigg.reaction:
-        - PPOHt
-      - sbo:
-        - SBO:0000655
-  - !!omap
-    - id: EX_ppoh_e
-    - name: Propanol exchange
-    - metabolites: !!omap
-      - ppoh_e: -1.0
-    - lower_bound: 0
-    - upper_bound: 1000
-    - gene_reaction_rule: ''
-    - notes: !!omap
-      - from:
-        - Lreuteri_530
-        - gap
-    - annotation: !!omap
-      - bigg.reaction:
-        - EX_ppoh_e
-      - metanetx.reaction:
-        - MNXR98861
-      - sbo:
-        - SBO:0000627
-  - !!omap
-    - id: PPDt1
-    - name: 1,3-propanediol transport in/out via diffusion reversible
-    - metabolites: !!omap
-      - 13ppd_c: -1.0
-      - 13ppd_e: 1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: check_rea_notes_for_genes_missing
-    - notes: !!omap
-      - from:
-        - Lreuteri_530
-        - gap
-      - missing_gene_reaction_rule: None_missing
-    - annotation: !!omap
-      - bigg.reaction:
-        - PPDt1
-      - sbo:
-        - SBO:0000655
-  - !!omap
-    - id: EX_13ppd_e
-    - name: Exchange Propane-1,3-diol
-    - metabolites: !!omap
-      - 13ppd_e: -1.0
-    - lower_bound: 0
-    - upper_bound: 1000
-    - gene_reaction_rule: ''
-    - notes: !!omap
-      - from:
-        - Lreuteri_530
-        - gap
-    - annotation: !!omap
-      - bigg.reaction:
-        - EX_13ppd_e
-      - metanetx.reaction:
-        - MNXR97993
-      - sbo:
-        - SBO:0000627
-  - !!omap
-    - id: 3HPPt
-    - name: 3-hydroxypropanoate transport via diffusion
-    - metabolites: !!omap
-      - 3hpp_c: -1.0
-      - 3hpp_e: 1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: ''
-    - notes: !!omap
-      - from:
-        - Lreuteri_530
-        - gap
-    - annotation: !!omap
-      - bigg.reaction:
-        - 3HPPt
-      - sbo:
-        - SBO:0000655
-  - !!omap
-    - id: EX_3hpp_e
-    - name: 3-hydroxypropanoate exchange
-    - metabolites: !!omap
-      - 3hpp_e: -1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: ''
-    - notes: !!omap
-      - from:
-        - iML1515
-        - gap
-    - annotation: !!omap
-      - bigg.reaction:
-        - 3hpp
-      - metanetx.reaction:
-        - MNXR98044
-      - sbo:
-        - SBO:0000627
-  - !!omap
-    - id: HISTAap
-    - name: histide/histamine antiporter
-    - metabolites: !!omap
-      - his__L_c: -1.0
-      - his__L_e: 1.0
-      - hista_c: 1.0
-      - hista_e: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: check_rea_notes_for_genes_missing
-    - notes: !!omap
-      - from:
-        - Lreuteri_530
-        - gap
-      - missing_gene_reaction_rule: None_missing
-    - annotation: !!omap
-      - bigg.reaction:
-        - HISTAap
-      - sbo:
-        - SBO:0000655
-  - !!omap
-    - id: EX_hista_e
-    - name: ''
-    - metabolites: !!omap
-      - hista_e: -1
-    - lower_bound: 0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: ''
-    - notes: !!omap
-      - from:
-        - gap
-    - annotation: !!omap
-      - bigg.reaction:
-        - EX_hista_e
-      - metanetx.reaction:
-        - MNXR98657
-      - sbo:
-        - SBO:0000627
-  - !!omap
-    - id: DHAD2
-    - name: Dihydroxy-acid dehydratase (2,3-dihydroxy-3-methylpentanoate)
-    - metabolites: !!omap
-      - 23dhmp_c: -1.0
-      - 3mop_c: 1.0
-      - h2o_c: 1.0
-    - lower_bound: 0.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: check_rea_notes_for_genes_missing
-    - notes: !!omap
-      - from:
-        - iML1515
-        - gap
-      - missing_gene_reaction_rule: LLMG_RS06490_missing
-    - annotation: !!omap
-      - bigg.reaction:
-        - DHAD2
-      - biocyc:
-        - META:DIHYDROXYMETVALDEHYDRAT-RXN
-      - ec-code:
-        - 4.2.1.9
-      - kegg.reaction:
-        - R05070
-      - metanetx.reaction:
-        - MNXR97359
-      - rhea:
-        - '27694'
-        - '27695'
-        - '27696'
-        - '27697'
-      - sbo:
-        - SBO:0000176
-        - SBO:0000375
-      - subsystem:
-        - L-isoleucine biosynthesis I (from threonine)
-        - L-isoleucine biosynthesis II
-        - L-isoleucine biosynthesis III
-        - L-isoleucine biosynthesis IV
-  - !!omap
-    - id: KARA2
-    - name: Ketol-acid reductoisomerase (2-Acetolactate)
-    - metabolites: !!omap
-      - 23dhmp_c: 1.0
-      - 2ahbut_c: -1.0
-      - h_c: -1.0
-      - nadp_c: 1.0
-      - nadph_c: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: MBLCLPDI_00402
-    - notes: !!omap
-      - from:
-        - iML1515
-        - gap
-    - annotation: !!omap
-      - bigg.reaction:
-        - KARA2
-      - biocyc:
-        - META:ACETOOHBUTREDUCTOISOM-RXN
-      - ec-code:
-        - 1.1.1.86
-      - metanetx.reaction:
-        - MNXR100902
-      - rhea:
-        - '13493'
-        - '13494'
-        - '13495'
-        - '13496'
-      - sbo:
-        - SBO:0000176
-        - SBO:0000375
-      - subsystem:
-        - L-isoleucine biosynthesis I (from threonine)
-        - L-isoleucine biosynthesis III
-  - !!omap
-    - id: SERAT
-    - name: Serine O-acetyltransferase
-    - metabolites: !!omap
-      - accoa_c: -1.0
-      - acser_c: 1.0
-      - coa_c: 1.0
-      - ser__L_c: -1.0
-    - lower_bound: -1000.0
-    - upper_bound: 1000.0
-    - gene_reaction_rule: MBLCLPDI_00695
-    - notes: !!omap
-      - from:
-        - iML1515
-        - gap
-    - annotation: !!omap
-      - bigg.reaction:
-        - SERAT
-      - biocyc:
-        - META:SERINE-O-ACETTRAN-RXN
-      - ec-code:
-        - 2.3.1.30
-      - kegg.reaction:
-        - R00586
-      - metanetx.reaction:
-        - MNXR104275
-      - reactome:
-        - R-ALL-REACT_R-MTU-936615
-      - rhea:
-        - '24562'
-        - '24563'
-        - '24561'
-        - '24560'
-      - sbo:
-        - SBO:0000176
-        - SBO:0000375
-      - subsystem:
-        - D-cycloserine biosynthesis
-        - L-cysteine biosynthesis I
-        - seleno-amino acid biosynthesis (plants)
-        - L-cysteine biosynthesis VII (from S-sulfo-L-cysteine)
 - genes:
   - !!omap
     - id: MBLCLPDI_00032
@@ -49465,6 +49512,22 @@
         - B2G550
         - A5VHM0
   - !!omap
+    - id: MBLCLPDI_00076
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lrf:LAR_0068
+      - ncbiprotein: WP_003673063.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A2R7DSS9
+        - B2G552
+  - !!omap
     - id: MBLCLPDI_00088
     - name: ''
     - annotation: !!omap
@@ -49592,6 +49655,22 @@
       - uniprot:
         - A0A2R7DUH8
         - A5VHP7
+  - !!omap
+    - id: MBLCLPDI_00106
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_0100
+      - ncbiprotein: WP_003669656.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A5VHP8
+        - A0A2R7DUM8
   - !!omap
     - id: MBLCLPDI_00107
     - name: ''
@@ -50614,6 +50693,24 @@
         - A5VI28
         - S5N9J4
   - !!omap
+    - id: MBLCLPDI_00252
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_0234
+        - lrr:N134_01215
+      - ncbiprotein: WP_011953387.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A5VI30
+        - S5NMI7
+        - A0A098R173
+  - !!omap
     - id: MBLCLPDI_00255
     - name: ''
     - annotation: !!omap
@@ -50684,6 +50781,22 @@
       - uniprot:
         - A0A1B7LUA7
         - A5VI45
+  - !!omap
+    - id: MBLCLPDI_00268
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_0250
+      - ncbiprotein: WP_003667244.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A1B7LUG7
+        - A5VI46
   - !!omap
     - id: MBLCLPDI_00269
     - name: ''
@@ -51829,6 +51942,30 @@
         - F8KFQ4
         - B2G685
   - !!omap
+    - id: MBLCLPDI_00511
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lrt:LRI_1456
+        - lru:HMPREF0538_21682
+        - lre:Lreu_0462
+        - lrr:N134_02485
+      - ncbiprotein: WP_003666561.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - R9WLR1
+        - A0A073K0T2
+        - F8DMM3
+        - A5VIQ6
+        - S5NA31
+        - B3XR60
+        - F8KFQ3
+  - !!omap
     - id: MBLCLPDI_00512
     - name: ''
     - notes: !!omap
@@ -51967,6 +52104,22 @@
       - uniprot:
         - A0A2R7DRZ8
         - A5VIR4
+  - !!omap
+    - id: MBLCLPDI_00524
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_0475
+      - ncbiprotein: WP_003667566.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A2R7DS91
+        - A5VIR9
   - !!omap
     - id: MBLCLPDI_00526
     - name: ''
@@ -52612,6 +52765,22 @@
         - A0A4P6KBE4
         - A5VJ49
   - !!omap
+    - id: MBLCLPDI_00690
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_0608
+      - ncbiprotein: WP_003668303.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A2R7E017
+        - A5VJ51
+  - !!omap
     - id: MBLCLPDI_00691
     - name: ''
     - annotation: !!omap
@@ -52921,6 +53090,32 @@
         - B3XRN1
         - A0A073JRL1
   - !!omap
+    - id: MBLCLPDI_00733
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lrt:LRI_1255
+        - lru:HMPREF0538_21898
+        - lrr:N134_03570
+        - lre:Lreu_0651
+        - lrf:LAR_0628
+      - ncbiprotein: WP_003666836.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - R9WH31
+        - W0RZF5
+        - F8DNX0
+        - S5NB65
+        - B3XRN8
+        - F8KC64
+        - A5VJ92
+        - B2G6R2
+  - !!omap
     - id: MBLCLPDI_00742
     - name: ''
     - annotation: !!omap
@@ -53062,6 +53257,24 @@
       - uniprot:
         - A0A2R7DT26
         - A5VJE3
+  - !!omap
+    - id: MBLCLPDI_00791
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_0706
+        - lrf:LAR_0679
+      - ncbiprotein: WP_003668169.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A2R7DT53
+        - A5VJE7
+        - B2G6W3
   - !!omap
     - id: MBLCLPDI_00802
     - name: ''
@@ -53346,6 +53559,22 @@
         - B3XQ79
         - S5NV48
   - !!omap
+    - id: MBLCLPDI_00872
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_0784
+      - ncbiprotein: WP_003668077.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A4P6KD63
+        - A5VJM4
+  - !!omap
     - id: MBLCLPDI_00873
     - name: ''
     - annotation: !!omap
@@ -53391,6 +53620,22 @@
         - NZ_ACGX02000007.1
       - uniprot:
         - A0A4V0Z167
+  - !!omap
+    - id: MBLCLPDI_00959
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_0874
+      - ncbiprotein: WP_003667959.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A4P6K6Q9
+        - A5VJW3
   - !!omap
     - id: MBLCLPDI_00963
     - name: ''
@@ -53530,6 +53775,27 @@
         - A0A4P6K6H0
         - A5VJY2
   - !!omap
+    - id: MBLCLPDI_00980
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lrt:LRI_1075
+        - lre:Lreu_0894
+        - lrr:N134_04845
+      - ncbiprotein: WP_003674144.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - R9WGP5
+        - A0A198YE56
+        - A5VJY3
+        - S5N5A9
+        - A0A0S4NP69
+  - !!omap
     - id: MBLCLPDI_00981
     - name: ''
     - notes: !!omap
@@ -53545,6 +53811,22 @@
       - uniprot:
         - A0A098QUW5
         - A5VJY4
+  - !!omap
+    - id: MBLCLPDI_00986
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_0900
+      - ncbiprotein: WP_011953462.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A4V0Z170
+        - A5VJY9
   - !!omap
     - id: MBLCLPDI_00993
     - name: ''
@@ -53700,6 +53982,26 @@
         - NZ_ACGX02000007.1
       - uniprot:
         - A5VK19
+  - !!omap
+    - id: MBLCLPDI_01028
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lrt:LRI_1025
+        - lre:Lreu_0941
+      - ncbiprotein: WP_003666221.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - R9WGK8
+        - A0A081NSJ9
+        - A5VK29
+        - B3XQI9
+        - F8KBL2
   - !!omap
     - id: MBLCLPDI_01029
     - name: ''
@@ -54060,6 +54362,23 @@
         - A0A1Y2UQT6
         - F8KBE1
   - !!omap
+    - id: MBLCLPDI_01116
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lrt:LRI_0951
+      - ncbiprotein: WP_003667715.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - R9WKL9
+        - A0A143PWM4
+        - A0A0S4NQJ4
+  - !!omap
     - id: MBLCLPDI_01117
     - name: ''
     - annotation: !!omap
@@ -54070,6 +54389,34 @@
         - NZ_ACGX02000007.1
       - uniprot:
         - A0A079YYS2
+  - !!omap
+    - id: MBLCLPDI_01119
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes: []
+      - ncbiprotein: WP_035164271.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A143PY64
+  - !!omap
+    - id: MBLCLPDI_01120
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes: []
+      - ncbiprotein: WP_003667711.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A2R7ESA0
   - !!omap
     - id: MBLCLPDI_01136
     - name: ''
@@ -54735,6 +55082,22 @@
         - A0A2R7DZY3
         - A5VKW8
   - !!omap
+    - id: MBLCLPDI_01373
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1238
+      - ncbiprotein: WP_011953512.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A2R7DZQ3
+        - A5VKX1
+  - !!omap
     - id: MBLCLPDI_01380
     - name: ''
     - notes: !!omap
@@ -54868,6 +55231,22 @@
         - S5NPX7
         - A5VL03
         - B2G8D8
+  - !!omap
+    - id: MBLCLPDI_01406
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1271
+      - ncbiprotein: WP_003668522.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A5VL04
+        - A0A2R7DVI1
   - !!omap
     - id: MBLCLPDI_01407
     - name: ''
@@ -55179,6 +55558,22 @@
         - S5NCJ6
         - F8KE24
   - !!omap
+    - id: MBLCLPDI_01485
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1334
+      - ncbiprotein: WP_003668597.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A4P6K7L2
+        - A5VL67
+  - !!omap
     - id: MBLCLPDI_01515
     - name: ''
     - annotation: !!omap
@@ -55293,6 +55688,22 @@
         - A0A4P6K7A6
         - A5VLA2
   - !!omap
+    - id: MBLCLPDI_01532
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1382
+      - ncbiprotein: WP_003668678.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A5VLA7
+        - A0A2R7DU81
+  - !!omap
     - id: MBLCLPDI_01533
     - name: ''
     - annotation: !!omap
@@ -55363,6 +55774,22 @@
       - uniprot:
         - A5VLB9
         - A0A2R7DU97
+  - !!omap
+    - id: MBLCLPDI_01546
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1395
+      - ncbiprotein: WP_011953528.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A2R7DUJ6
+        - A5VLC0
   - !!omap
     - id: MBLCLPDI_01554
     - name: ''
@@ -55877,6 +56304,22 @@
         - A0A2R7DY12
         - A5VLR6
   - !!omap
+    - id: MBLCLPDI_01705
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1546
+      - ncbiprotein: WP_011953543.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A1B7LRU0
+        - A5VLR7
+  - !!omap
     - id: MBLCLPDI_01711
     - name: ''
     - annotation: !!omap
@@ -56188,6 +56631,22 @@
         - A0A2R7DY83
         - A5VM04
   - !!omap
+    - id: MBLCLPDI_01795
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1639
+      - ncbiprotein: WP_011953562.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A2R7DYG9
+        - A5VM05
+  - !!omap
     - id: MBLCLPDI_01799
     - name: ''
     - annotation: !!omap
@@ -56403,6 +56862,22 @@
       - uniprot:
         - A0A4P6K963
         - A5VM51
+  - !!omap
+    - id: MBLCLPDI_01847
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1691
+      - ncbiprotein: WP_003669101.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A4P6K8M7
+        - A5VM56
   - !!omap
     - id: MBLCLPDI_01848
     - name: ''
@@ -56814,6 +57289,22 @@
         - A5VM91
         - Q50EJ3
   - !!omap
+    - id: MBLCLPDI_01883
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1727
+      - ncbiprotein: WP_003669164.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A5VM92
+        - Q50EJ1
+  - !!omap
     - id: MBLCLPDI_01886
     - name: ''
     - annotation: !!omap
@@ -57133,6 +57624,22 @@
         - B2G9P6
         - A5VME2
   - !!omap
+    - id: MBLCLPDI_01941
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1785
+      - ncbiprotein: WP_011953584.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A5VMF0
+        - A0A1B7LQP3
+  - !!omap
     - id: MBLCLPDI_01942
     - name: ''
     - annotation: !!omap
@@ -57187,6 +57694,22 @@
       - uniprot:
         - A0A2R7DYZ8
         - A5VMF8
+  - !!omap
+    - id: MBLCLPDI_01960
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes:
+        - lre:Lreu_1804
+      - ncbiprotein: WP_011953590.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A1B7LQQ4
+        - A5VMG9
   - !!omap
     - id: MBLCLPDI_01965
     - name: ''
@@ -57602,6 +58125,20 @@
         - A5VMR6
         - S5NRA8
   - !!omap
+    - id: MBLCLPDI_02072
+    - name: ''
+    - notes: !!omap
+      - old_tag: lp_3551
+      - old_tag_missing: lp_3551_missing
+    - annotation: !!omap
+      - ccds: []
+      - kegg.genes: []
+      - ncbiprotein: WP_003669423.1
+      - refseq:
+        - NZ_ACGX02000007.1
+      - uniprot:
+        - A0A4P6K956
+  - !!omap
     - id: MBLCLPDI_02076
     - name: ''
     - annotation: !!omap
@@ -57735,496 +58272,6 @@
       - uniprot:
         - A0A4P6K984
         - A5VMU8
-  - !!omap
-    - id: MBLCLPDI_00511
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lrt:LRI_1456
-        - lru:HMPREF0538_21682
-        - lre:Lreu_0462
-        - lrr:N134_02485
-      - ncbiprotein: WP_003666561.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - R9WLR1
-        - A0A073K0T2
-        - F8DMM3
-        - A5VIQ6
-        - S5NA31
-        - B3XR60
-        - F8KFQ3
-  - !!omap
-    - id: MBLCLPDI_00959
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_0874
-      - ncbiprotein: WP_003667959.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A4P6K6Q9
-        - A5VJW3
-  - !!omap
-    - id: MBLCLPDI_01120
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes: []
-      - ncbiprotein: WP_003667711.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A2R7ESA0
-  - !!omap
-    - id: MBLCLPDI_00106
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_0100
-      - ncbiprotein: WP_003669656.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A5VHP8
-        - A0A2R7DUM8
-  - !!omap
-    - id: MBLCLPDI_00252
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_0234
-        - lrr:N134_01215
-      - ncbiprotein: WP_011953387.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A5VI30
-        - S5NMI7
-        - A0A098R173
-  - !!omap
-    - id: MBLCLPDI_01406
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1271
-      - ncbiprotein: WP_003668522.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A5VL04
-        - A0A2R7DVI1
-  - !!omap
-    - id: MBLCLPDI_01532
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1382
-      - ncbiprotein: WP_003668678.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A5VLA7
-        - A0A2R7DU81
-  - !!omap
-    - id: MBLCLPDI_02072
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes: []
-      - ncbiprotein: WP_003669423.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A4P6K956
-  - !!omap
-    - id: MBLCLPDI_01941
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1785
-      - ncbiprotein: WP_011953584.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A5VMF0
-        - A0A1B7LQP3
-  - !!omap
-    - id: MBLCLPDI_01795
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1639
-      - ncbiprotein: WP_011953562.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A2R7DYG9
-        - A5VM05
-  - !!omap
-    - id: MBLCLPDI_01960
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1804
-      - ncbiprotein: WP_011953590.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A1B7LQQ4
-        - A5VMG9
-  - !!omap
-    - id: MBLCLPDI_00791
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_0706
-        - lrf:LAR_0679
-      - ncbiprotein: WP_003668169.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A2R7DT53
-        - A5VJE7
-        - B2G6W3
-  - !!omap
-    - id: MBLCLPDI_01705
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1546
-      - ncbiprotein: WP_011953543.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A1B7LRU0
-        - A5VLR7
-  - !!omap
-    - id: MBLCLPDI_00690
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_0608
-      - ncbiprotein: WP_003668303.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A2R7E017
-        - A5VJ51
-  - !!omap
-    - id: MBLCLPDI_00980
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lrt:LRI_1075
-        - lre:Lreu_0894
-        - lrr:N134_04845
-      - ncbiprotein: WP_003674144.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - R9WGP5
-        - A0A198YE56
-        - A5VJY3
-        - S5N5A9
-        - A0A0S4NP69
-  - !!omap
-    - id: MBLCLPDI_01883
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1727
-      - ncbiprotein: WP_003669164.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A5VM92
-        - Q50EJ1
-  - !!omap
-    - id: MBLCLPDI_00524
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_0475
-      - ncbiprotein: WP_003667566.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A2R7DS91
-        - A5VIR9
-  - !!omap
-    - id: MBLCLPDI_01373
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1238
-      - ncbiprotein: WP_011953512.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A2R7DZQ3
-        - A5VKX1
-  - !!omap
-    - id: MBLCLPDI_00872
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_0784
-      - ncbiprotein: WP_003668077.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A4P6KD63
-        - A5VJM4
-  - !!omap
-    - id: MBLCLPDI_00268
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_0250
-      - ncbiprotein: WP_003667244.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A1B7LUG7
-        - A5VI46
-  - !!omap
-    - id: MBLCLPDI_01116
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lrt:LRI_0951
-      - ncbiprotein: WP_003667715.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - R9WKL9
-        - A0A143PWM4
-        - A0A0S4NQJ4
-  - !!omap
-    - id: MBLCLPDI_00076
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lrf:LAR_0068
-      - ncbiprotein: WP_003673063.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A2R7DSS9
-        - B2G552
-  - !!omap
-    - id: MBLCLPDI_01546
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1395
-      - ncbiprotein: WP_011953528.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A2R7DUJ6
-        - A5VLC0
-  - !!omap
-    - id: MBLCLPDI_00733
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lrt:LRI_1255
-        - lru:HMPREF0538_21898
-        - lrr:N134_03570
-        - lre:Lreu_0651
-        - lrf:LAR_0628
-      - ncbiprotein: WP_003666836.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - R9WH31
-        - W0RZF5
-        - F8DNX0
-        - S5NB65
-        - B3XRN8
-        - F8KC64
-        - A5VJ92
-        - B2G6R2
-  - !!omap
-    - id: MBLCLPDI_01847
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1691
-      - ncbiprotein: WP_003669101.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A4P6K8M7
-        - A5VM56
-  - !!omap
-    - id: MBLCLPDI_01119
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes: []
-      - ncbiprotein: WP_035164271.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A143PY64
-  - !!omap
-    - id: MBLCLPDI_01028
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lrt:LRI_1025
-        - lre:Lreu_0941
-      - ncbiprotein: WP_003666221.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - R9WGK8
-        - A0A081NSJ9
-        - A5VK29
-        - B3XQI9
-        - F8KBL2
-  - !!omap
-    - id: MBLCLPDI_00986
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_0900
-      - ncbiprotein: WP_011953462.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A4V0Z170
-        - A5VJY9
-  - !!omap
-    - id: MBLCLPDI_01485
-    - name: ''
-    - notes: !!omap
-      - old_tag: lp_3551
-      - old_tag_missing: lp_3551_missing
-    - annotation: !!omap
-      - ccds: []
-      - kegg.genes:
-        - lre:Lreu_1334
-      - ncbiprotein: WP_003668597.1
-      - refseq:
-        - NZ_ACGX02000007.1
-      - uniprot:
-        - A0A4P6K7L2
-        - A5VL67
   - !!omap
     - id: check_rea_notes_for_genes_missing
     - name: ''

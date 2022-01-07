@@ -14,6 +14,7 @@
 3HAD40	3haACP_c --> but2eACP_c + h2o_c	0	0.0	1000.0	check_rea_notes_for_genes_missing or MBLCLPDI_01081	{'from': ['BBH', 'iML1515'], 'missing_gene_reaction_rule': 'b0954_missing or MBLCLPDI_01081'}
 3HAD60	3hhexACP_c --> h2o_c + thex2eACP_c	0	0.0	1000.0	check_rea_notes_for_genes_missing or MBLCLPDI_01081	{'from': ['BBH', 'iML1515'], 'missing_gene_reaction_rule': 'b0954_missing or MBLCLPDI_01081'}
 3HAD80	3hoctACP_c --> h2o_c + toct2eACP_c	0	0.0	1000.0	check_rea_notes_for_genes_missing or MBLCLPDI_01081	{'from': ['BBH', 'iML1515'], 'missing_gene_reaction_rule': 'b0954_missing or MBLCLPDI_01081'}
+3HPPt	3hpp_c <=> 3hpp_e	0	-1000.0	1000.0		{'from': ['Lreuteri_530', 'gap']}
 3OAR100	3odecACP_c + h_c + nadph_c <=> 3hdecACP_c + nadp_c	0	-1000.0	1000.0	MBLCLPDI_01084	{'from': ['BBH', 'iML1515']}
 3OAR120	3oddecACP_c + h_c + nadph_c <=> 3hddecACP_c + nadp_c	0	-1000.0	1000.0	MBLCLPDI_01084	{'from': ['BBH', 'iML1515']}
 3OAR140	3omrsACP_c + h_c + nadph_c <=> 3hmrsACP_c + nadp_c	0	-1000.0	1000.0	MBLCLPDI_01084	{'from': ['BBH', 'iML1515']}
@@ -47,7 +48,7 @@ ACLS	h_c + 2.0 pyr_c --> alac__S_c + co2_c	0	0.0	1000.0	(check_rea_notes_for_gen
 ACOATA	ACP_c + accoa_c <=> acACP_c + coa_c	0	-1000.0	1000.0	MBLCLPDI_01292 and MBLCLPDI_01087	{'from': ['iML1515', 'BBH', 'iNF517']}
 ACP1_FMN	fmn_c + h2o_c --> pi_c + ribflv_c	0	0.0	1000.0	MBLCLPDI_00241 or MBLCLPDI_01373 or MBLCLPDI_01058	{'from': ['BBH', 'iML1515']}
 ACPPAT161	h_c + hdeACP_c + pi_c --> ACP_c + hdceap_c	0	0.0	1000.0	MBLCLPDI_01292 and MBLCLPDI_01293	{'from': ['BBH', 'iML1515']}
-ACPS2	apoACP_c + coa_c --> ACP_c + h_c + pap_c	0	0	1000	((MBLCLPDI_01086 and MBLCLPDI_00272) or (MBLCLPDI_00272 or MBLCLPDI_01086)) or ((MBLCLPDI_01292 and MBLCLPDI_00272) or (MBLCLPDI_01086 and MBLCLPDI_00272))	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
+ACPS2	apoACP_c + coa_c --> ACP_c + h_c + pap_c	0	0.0	1000.0	((MBLCLPDI_01086 and MBLCLPDI_00272) or (MBLCLPDI_00272 or MBLCLPDI_01086)) or ((MBLCLPDI_01292 and MBLCLPDI_00272) or (MBLCLPDI_01086 and MBLCLPDI_00272))	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
 ACTD	actn__R_c + nad_c <=> diact_c + h_c + nadh_c	0	-1000.0	1000.0	MBLCLPDI_01601	{'from': ['BBH', 'iNF517']}
 ACTNdiff	actn__R_e <=> actn__R_c	0	-1000.0	1000.0		{'from': ['iNF517', 'transport_reaction']}
 ACTPASE	actp_c + h2o_c --> ac_c + h_c + pi_c	0	0.0	1000.0	MBLCLPDI_01357	{'from': ['BBH', 'Lreuteri_530']}
@@ -70,10 +71,11 @@ ADPDS	h2o_c + h_c + n6all26d_c --> 26dap_LL_c + ac_c	0	0.0	1000.0	MBLCLPDI_00696
 ADPRDP	adprib_c + h2o_c --> amp_c + 2.0 h_c + r5p_c	0	0.0	1000.0	(MBLCLPDI_00682 or MBLCLPDI_01795) or (check_rea_notes_for_genes_missing or MBLCLPDI_00682 or MBLCLPDI_00682)	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530'], 'missing_gene_reaction_rule': '(MBLCLPDI_00682 or MBLCLPDI_01795) or (lp_1790_missing or MBLCLPDI_00682 or MBLCLPDI_00682)'}
 ADPT	ade_c + prpp_c --> amp_c + ppi_c	0	0.0	1000.0	MBLCLPDI_00285 or MBLCLPDI_02089	{'from': ['BBH', 'Lreuteri_530']}
 ADPTA	akg_c + h_c + n6all26d_c <=> acamoxm_c + glu__L_c	0	-1000.0	1000.0	MBLCLPDI_00832	{'from': ['BBH', 'Lreuteri_530']}
+ADSK	aps_c + atp_c --> adp_c + h_c + paps_c	0	0.0	1000.0	MBLCLPDI_01350	{'from': ['iML1515', 'gap']}
 ADSL1r	dcamp_c --> amp_c + fum_c	0	0.0	1000.0	MBLCLPDI_00142	{'from': ['BBH', 'Lreuteri_530', 'iNF517']}
 ADSL2r	25aics_c --> aicar_c + fum_c	0	0.0	1000.0	MBLCLPDI_00142	{'from': ['BBH', 'Lreuteri_530', 'iNF517']}
 ADSS	asp__L_c + gtp_c + imp_c --> dcamp_c + gdp_c + 2.0 h_c + pi_c	0	0.0	1000.0	MBLCLPDI_00074	{'from': ['BBH', 'iNF517']}
-AGAT_LRE	0.0211 cpocdacp_c + 0.5 glyc3p_c + 0.0258 hdeACP_c + 0.075 ocdacp_c + 0.0418 ocdctrACP_c + 0.3519 ocdcyaACP_c + 0.1591 octeACP_c + 0.2566 palmACP_c + 0.0687 tdeacp_c --> ACP_c + 0.5 pa_LRE_c	0	0	1000.0	MBLCLPDI_00765	{'from': ['Lreuteri_530', 'iNF517', 'BBH']}
+AGAT_LRE	0.0211 cpocdacp_c + 0.5 glyc3p_c + 0.0258 hdeACP_c + 0.075 ocdacp_c + 0.0418 ocdctrACP_c + 0.3519 ocdcyaACP_c + 0.1591 octeACP_c + 0.2566 palmACP_c + 0.0687 tdeacp_c --> ACP_c + 0.5 pa_LRE_c	0	0.0	1000.0	MBLCLPDI_00765	{'from': ['Lreuteri_530', 'iNF517', 'BBH']}
 AHCYSNS	ahcys_c + h2o_c --> ade_c + rhcys_c	0	0.0	1000.0	MBLCLPDI_00684	{'from': ['BBH', 'iNF517']}
 AHMMPS	air_c + h2o_c --> 4ahmmp_c + gcald_c + 0.5 o2_c + pi_c	0	0.0	1000.0	MBLCLPDI_00098 or MBLCLPDI_00098 or MBLCLPDI_00098	{'from': ['iBT721', 'BBH', 'Lreuteri_530']}
 AHSERL2	achms_c + h2s_c <=> ac_c + h_c + hcys__L_c	0	-1000.0	1000.0	MBLCLPDI_02039	{'from': ['BBH', 'Lreuteri_530'], 'initial_id': ['METACH']}
@@ -137,6 +139,7 @@ ATPM	atp_c + h2o_c --> adp_c + h_c + pi_c	0	0.36	0.36	MBLCLPDI_00791 or MBLCLPDI
 ATPS3r	adp_c + 3.0 h_e + pi_c <=> atp_c + h2o_c + 2.0 h_c	0	-1000.0	1000.0	((MBLCLPDI_00510 and MBLCLPDI_00513 and MBLCLPDI_00515 and MBLCLPDI_00517 and MBLCLPDI_00516 and MBLCLPDI_00514 and MBLCLPDI_00512 and MBLCLPDI_00511) or (MBLCLPDI_00517 or MBLCLPDI_00514 or MBLCLPDI_00513 or MBLCLPDI_00512 or MBLCLPDI_00511 or MBLCLPDI_00510 or MBLCLPDI_00515 or MBLCLPDI_00516)) or (MBLCLPDI_00517 and MBLCLPDI_00516 and MBLCLPDI_00515 and MBLCLPDI_00514 and MBLCLPDI_00513 and MBLCLPDI_00512 and MBLCLPDI_00511 and MBLCLPDI_00510)	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
 BGLA1	6pgg_c + h2o_c --> g6p_c + glc__D_c	0	0.0	1000.0	MBLCLPDI_02076	{'from': ['BBH', 'Lreuteri_530'], 'initial_id': ['PGGH']}
 BIOMASS	0.186 CPS_LRE_c + 0.075 DNA_LRE_c + 0.096 LIP_LRE_c + 0.018 LTAtotal_LRE_c + 0.145 PGlac2_c + 3.311 PROT_LRE_c + 0.34 RNA_LRE_c + 1e-05 adeadocbl_c + 10.2 atp_c + 1e-05 btn_c + 0.0002 coa_c + 10.2 h2o_c + 0.0002 nad_c + 1e-06 pydx5p_c + 1e-05 thf_c + 1e-05 thmpp_c + 0.0002 udcpdp_c --> 10.2 adp_c + 10.2 h_c + 10.2 pi_c	1.0	0.0	1000.0		{'from': ['Lreuteri_530', 'gap']}
+BPNT	h2o_c + pap_c --> amp_c + pi_c	0	0.0	1000.0	MBLCLPDI_00718	{'from': ['iML1515', 'gap']}
 BTDD_RR	btd_RR_c + nad_c <=> actn__R_c + h_c + nadh_c	0	-1000.0	1000.0	MBLCLPDI_01601	{'from': ['BBH', 'Lreuteri_530']}
 BTDt_RR	btd_RR_c <=> btd_RR_e	0	-1000.0	1000.0		{'from': ['iNF517', 'transport_reaction']}
 BTNt2i	btn_e + h_e --> btn_c + h_c	0	0.0	1000.0	check_rea_notes_for_genes_missing	{'from': ['Lreuteri_530', 'gap'], 'missing_gene_reaction_rule': 'None_missing'}
@@ -195,6 +198,7 @@ DDMAT5	2tddacp_c + h_c + nadh_c --> ddeacp_c + nad_c	0	0.0	1000.0	MBLCLPDI_01077
 DEMAT4	2tdeacp_c + h_c + nadh_c --> decacp_c + nad_c	0	0.0	1000.0	MBLCLPDI_01077	{'from': ['BBH', 'iNF517']}
 DGK1	atp_c + dgmp_c <=> adp_c + dgdp_c	0	-1000.0	1000.0	MBLCLPDI_01308	{'from': ['BBH', 'iML1515']}
 DGNSK	atp_c + dgsn_c --> adp_c + dgmp_c + h_c	0	0.0	1000.0	(MBLCLPDI_01655 or MBLCLPDI_01425) or (MBLCLPDI_01655 or MBLCLPDI_01425)	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
+DHAD2	23dhmp_c --> 3mop_c + h2o_c	0	0.0	1000.0	check_rea_notes_for_genes_missing	{'from': ['iML1515', 'gap'], 'missing_gene_reaction_rule': 'LLMG_RS06490_missing'}
 DHAPT	dha_c + pep_c --> dhap_c + pyr_c	0	0.0	1000.0	((MBLCLPDI_01476 and check_rea_notes_for_genes_missing and check_rea_notes_for_genes_missing and MBLCLPDI_00959 and MBLCLPDI_00506) or (MBLCLPDI_01476 and MBLCLPDI_00506 and check_rea_notes_for_genes_missing and MBLCLPDI_01475 and check_rea_notes_for_genes_missing)) or (((check_rea_notes_for_genes_missing and check_rea_notes_for_genes_missing) and check_rea_notes_for_genes_missing and MBLCLPDI_01476 and MBLCLPDI_00506) or ((check_rea_notes_for_genes_missing and check_rea_notes_for_genes_missing) and check_rea_notes_for_genes_missing and MBLCLPDI_01476 and MBLCLPDI_00506))	{'from': ['BBH', 'iBT721', 'iNF517', 'iML1515'], 'missing_gene_reaction_rule': '((MBLCLPDI_01476 and LLMG_RS01350_missing and LLMG_RS01335_missing and MBLCLPDI_00959 and MBLCLPDI_00506) or (MBLCLPDI_01476 and MBLCLPDI_00506 and b1200_missing and MBLCLPDI_01475 and b1199_missing)) or (((lp_0166_missing and lp_0169_missing) and lp_0170_missing and MBLCLPDI_01476 and MBLCLPDI_00506) or ((lp_0168_missing and lp_0169_missing) and lp_0170_missing and MBLCLPDI_01476 and MBLCLPDI_00506))'}
 DHAt	dha_e <=> dha_c	0	-1000.0	1000.0	MBLCLPDI_01908	{'from': ['BBH', 'Lreuteri_530']}
 DHDPRy	23dhdp_c + h_c + nadph_c --> nadp_c + thdp_c	0	0.0	1000.0	MBLCLPDI_00698	{'from': ['BBH', 'iNF517']}
@@ -215,7 +219,7 @@ DINSK	atp_c + din_c --> adp_c + dimp_c	0	0.0	1000.0	MBLCLPDI_01655 or MBLCLPDI_0
 DKGLCNR2x	25dkglcn_c + h_c + nadh_c --> 5dglcn_c + nad_c	0	0.0	1000.0	MBLCLPDI_02063 or MBLCLPDI_01942 or MBLCLPDI_00534 or MBLCLPDI_01029	{'from': ['BBH', 'Lreuteri_530']}
 DKGLCNR2y	25dkglcn_c + h_c + nadph_c --> 5dglcn_c + nadp_c	0	0.0	1000.0	MBLCLPDI_02063 or MBLCLPDI_01942 or MBLCLPDI_00534 or MBLCLPDI_01029	{'from': ['BBH', 'Lreuteri_530']}
 DMATT	dmpp_c + ipdp_c --> grdp_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01313 or MBLCLPDI_01211	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
-DNAS_LRE	1.37 atp_c + 0.306 datp_c + 0.194 dctp_c + 0.194 dgtp_c + 0.306 dttp_c + 1.37 h2o_c --> DNA_LRE_c + 1.37 adp_c + 1.37 h_c + 1.37 pi_c + ppi_c	0	0	1000.0		{'from': ['Lreuteri_530', 'iNF517', 'biomass']}
+DNAS_LRE	1.37 atp_c + 0.306 datp_c + 0.194 dctp_c + 0.194 dgtp_c + 0.306 dttp_c + 1.37 h2o_c --> DNA_LRE_c + 1.37 adp_c + 1.37 h_c + 1.37 pi_c + ppi_c	0	0.0	1000.0		{'from': ['Lreuteri_530', 'iNF517', 'biomass']}
 DNTPPA	ahdt_c + h2o_c --> dhpmp_c + h_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01412	{'from': ['BBH', 'Lreuteri_530']}
 DPCOAK	atp_c + dpcoa_c --> adp_c + coa_c + h_c	0	0.0	1000.0	MBLCLPDI_01380	{'from': ['BBH', 'iNF517']}
 DPMVD	5dpmev_c + atp_c --> adp_c + co2_c + ipdp_c + pi_c	0	0.0	1000.0	MBLCLPDI_01001	{'from': ['BBH', 'iNF517']}
@@ -261,23 +265,25 @@ ECOAH7	3hhdcoa_c <=> h2o_c + hdd2coa_c	0	-1000.0	1000.0	MBLCLPDI_00109 or MBLCLP
 ECOAH8	3hodcoa_c <=> h2o_c + od2coa_c	0	-1000.0	1000.0	MBLCLPDI_00109 or MBLCLPDI_00109	{'from': ['BBH', 'iML1515']}
 ENO	2pg_c <=> h2o_c + pep_c	0	-1000.0	1000.0	MBLCLPDI_00429 or MBLCLPDI_00429	{'from': ['BBH', 'iBT721', 'iNF517']}
 ETOHt	etoh_e <=> etoh_c	0	-1000.0	1000.0		{'from': ['iNF517', 'transport_reaction']}
+EX_13ppd_e	13ppd_e --> 	0	0.0	1000.0		{'from': ['Lreuteri_530', 'gap']}
 EX_2ahbut_c	2ahbut_c --> 	0	0.0	1000.0		{'from': ['gap']}
 EX_2h3mp_e	2h3mp_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_2hxic__L_e	2hxic__L_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
+EX_3hpp_e	3hpp_e --> 	0	0.0	1000.0		{'from': ['iML1515', 'gap']}
 EX_4abut_e	4abut_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_4abz_e	4abz_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_ac_e	ac_e --> 	0	0	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_ac_e	ac_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_acald_e	acald_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_acgala_e	acgal_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_actn__R_e	actn__R_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_ade_e	ade_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_akg_e	akg_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_ala__D_e	ala__D_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_ala__L_e	ala__L_e <=> 	0	-2.69	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_ala__L_e	ala__L_e <=> 	0	-2.69	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_arab__L_e	arab__L_e --> 	0	0.0	1000.0		{'from': ['Lreuteri_530', 'exchange_reactions']}
 EX_arg__L_e	arg__L_e <=> 	0	-0.42	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_asn__L_e	asn__L_e <=> 	0	-0.23	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_asp__L_e	asp__L_e <=> 	0	-3.16	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_asp__L_e	asp__L_e <=> 	0	-3.16	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_btd_RR_e	btd_RR_e --> 	0	0.0	0.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_btn_e	btn_e <=> 	0	-1000.0	1000.0		{'from': ['Lreuteri_530', 'exchange_reactions']}
 EX_cellb_e	cellb_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
@@ -286,11 +292,11 @@ EX_chol_e	chol_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_co2_e	co2_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_cobalt2_e	cobalt2_e <=> 	0	-1000.0	1000.0		{'from': ['Lreuteri_530', 'exchange_reactions']}
 EX_cu2_e	cu2_e --> 	0	0.0	1000.0		{'from': ['Lreuteri_530', 'exchange_reactions']}
-EX_cys__L_e	cys__L_e <=> 	0	-0.83	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_cys__L_e	cys__L_e <=> 	0	-0.83	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_dha_e	dha_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_diact_e	diact_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_drib_e	drib_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_etoh_e	etoh_e --> 	0	0	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_etoh_e	etoh_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_fe2_e	fe2_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_fol_e	fol_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_for_e	for_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
@@ -299,9 +305,9 @@ EX_gal_e	gal_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_gcald_e	gcald_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_glc__D_e	glc__D_e <=> 	0	-25.2	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_glcn__D_e	glcn__D_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_gln__L_e	gln__L_e <=> 	0	-1	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_gln__L_e	gln__L_e <=> 	0	-1.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_glu__L_e	glu__L_e <=> 	0	-0.47	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_gly_e	gly_e <=> 	0	-2.33	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_gly_e	gly_e <=> 	0	-2.33	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_glyb_e	glyb_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_glyc3p_e	glyc3p_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_glyc_e	glyc_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
@@ -309,14 +315,15 @@ EX_gua_e	gua_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_h2o_e	h2o_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_h2s_e	h2s_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_h_e	h_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_his__L_e	his__L_e <=> 	0	-5	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_his__L_e	his__L_e <=> 	0	-5.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
+EX_hista_e	hista_e --> 	0	0.0	1000.0		{'from': ['gap']}
 EX_hxan_e	hxan_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_ile__L_e	ile__L_e <=> 	0	-1.6	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_ile__L_e	ile__L_e <=> 	0	-1.6	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_ins_e	ins_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_lac__L_e	lac__L_e --> 	0	0	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_lac__L_e	lac__L_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_lcts_e	lcts_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_leu__L_e	leu__L_e <=> 	0	-1	1000		{'from': ['iNF517', 'exchange_reaction']}
-EX_lys__L_e	lys__L_e <=> 	0	-2.68	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_leu__L_e	leu__L_e <=> 	0	-1.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
+EX_lys__L_e	lys__L_e <=> 	0	-2.68	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_mal__L_e	mal__L_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_malt_e	malt_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_man_e	man_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
@@ -327,8 +334,9 @@ EX_mn2_e	mn2_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_mnl_e	mnl_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_nac_e	nac_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_nh3_e	nh3_e <=> 	0	-1000.0	1000.0		{'from': ['Lreuteri_530', 'exchange_reactions']}
-EX_nh4_e	nh4_e <=> 	0	-1000	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_nh4_e	nh4_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_nmn_e	nmn_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
+EX_o2_e	o2_e --> 	0	0.0	1000.0		{}
 EX_ocdctr_e	ocdctr_e <=> 	0	-1000.0	1000.0		{'from': ['Lreuteri_530', 'exchange_reactions']}
 EX_ocdcya_e	ocdcya_e <=> 	0	-1000.0	1000.0		{'from': ['Lreuteri_530', 'exchange_reactions']}
 EX_orn__L_e	orn__L_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
@@ -339,7 +347,8 @@ EX_phe__L_e	phe__L_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reacti
 EX_pi_e	pi_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_pnto__R_e	pnto__R_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_ppi_e	ppi_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_pro__L_e	pro__L_e <=> 	0	-5.86	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_ppoh_e	ppoh_e --> 	0	0.0	1000.0		{'from': ['Lreuteri_530', 'gap']}
+EX_pro__L_e	pro__L_e <=> 	0	-5.86	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_ptrc_e	ptrc_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_pydam_e	pydam_e <=> 	0	-1000.0	1000.0		{'from': ['Lreuteri_530', 'exchange_reactions']}
 EX_pyr_e	pyr_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
@@ -347,12 +356,12 @@ EX_rib__D_e	rib__D_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']
 EX_ribflv_e	ribflv_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_sbt__D_e	sbt__D_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_ser__D_e	ser__D_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_ser__L_e	ser__L_e <=> 	0	-3.24	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_ser__L_e	ser__L_e <=> 	0	-3.24	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_so4_e	so4_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_succ_e	succ_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_sucr_e	sucr_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_thm_e	thm_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
-EX_thr__L_e	thr__L_e <=> 	0	-1	1000		{'from': ['iNF517', 'exchange_reaction']}
+EX_thr__L_e	thr__L_e <=> 	0	-1.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_thymd_e	thymd_e <=> 	0	-0.00283	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_tre_e	tre_e --> 	0	0.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
 EX_trp__L_e	trp__L_e <=> 	0	-1000.0	1000.0		{'from': ['iNF517', 'exchange_reaction']}
@@ -372,7 +381,7 @@ FE2abc	atp_c + fe2_e + h2o_c --> adp_c + fe2_c + h_c + pi_c	0	0.0	1000.0	MBLCLPD
 FE3abc	atp_c + fe3_e + h2o_c --> adp_c + fe3_c + h_c + pi_c	0	0.0	1000.0	MBLCLPDI_01119 and MBLCLPDI_01120 and MBLCLPDI_01119 and check_rea_notes_for_genes_missing	{'from': ['iNF517', 'transport_reaction'], 'missing_gene_reaction_rule': 'MBLCLPDI_01119 and MBLCLPDI_01120 and MBLCLPDI_01119 and LLMG_RS01800_missing'}
 FLVR	h_c + nadph_c + ribflv_c --> nadp_c + rbflvrd_c	0	0.0	1000.0	MBLCLPDI_01718	{'from': ['BBH', 'Lreuteri_530']}
 FMETDF	fmet_c + h2o_c --> for_c + met__L_c	0	0.0	1000.0	MBLCLPDI_01359 or MBLCLPDI_00712	{'from': ['BBH', 'Lreuteri_530', 'iNF517']}
-FMETTRS	10fthf_c + mettrna_c --> fmettrna_c + h_c + thf_c	0	0	1000.0	MBLCLPDI_01304	{'from': ['BBH', 'iNF517']}
+FMETTRS	10fthf_c + mettrna_c --> fmettrna_c + h_c + thf_c	0	0.0	1000.0	MBLCLPDI_01304	{'from': ['BBH', 'iNF517']}
 FMNAT	atp_c + fmn_c + h_c --> fad_c + ppi_c	0	0.0	1000.0	MBLCLPDI_00787 or MBLCLPDI_00787	{'from': ['BBH', 'iBT721', 'iNF517']}
 FOLD3	2ahhmd_c + 4abz_c --> dhpt_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01411	{'from': ['BBH', 'iNF517']}
 FOLt	fol_e + h_e <=> fol_c + h_c	0	-1000.0	1000.0		{'from': ['iNF517', 'transport_reaction']}
@@ -431,7 +440,7 @@ GLUN	gln__L_c + h2o_c --> glu__L_c + nh4_c	0	0.0	1000.0	(MBLCLPDI_01389 or MBLCL
 GLUPRT	gln__L_c + h2o_c + prpp_c --> glu__L_c + ppi_c + pram_c	0	0.0	1000.0	MBLCLPDI_00147	{'from': ['BBH', 'iNF517']}
 GLUR	glu__D_c <=> glu__L_c	0	-1000.0	1000.0	MBLCLPDI_00591	{'from': ['BBH', 'iNF517']}
 GLUTRR	glutrna_c + h_c + nadph_c --> glu1sa_c + nadp_c + trnaglu_c	0	0.0	1000.0	MBLCLPDI_01859	{'from': ['BBH', 'iML1515']}
-GLUTRS	atp_c + glu__L_c + trnaglu_c --> amp_c + glutrna_c + ppi_c	0	0	1000.0	MBLCLPDI_01336	{'from': ['BBH', 'iNF517']}
+GLUTRS	atp_c + glu__L_c + trnaglu_c --> amp_c + glutrna_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01336	{'from': ['BBH', 'iNF517']}
 GLUabc	atp_c + glu__L_e + h2o_c --> adp_c + glu__L_c + h_c + pi_c	0	0.0	1000.0	MBLCLPDI_00815 and MBLCLPDI_00814	{'from': ['iNF517', 'transport_reaction']}
 GLUt2r	glu__L_e + h_e <=> glu__L_c + h_c	0	-1000.0	1000.0	MBLCLPDI_01927	{'from': ['iBT721', 'BBH', 'Lreuteri_530']}
 GLYALDDr	glyald_c + h2o_c + nad_c --> glyc__R_c + 2.0 h_c + nadh_c	0	0.0	1000.0	MBLCLPDI_00350	{'from': ['BBH', 'Lreuteri_530'], 'initial_id': ['ALDD8x']}
@@ -485,6 +494,7 @@ HHDR7	3oxhdacp_c + h_c + nadph_c --> 3hpaacp_c + nadp_c	0	0.0	1000.0	MBLCLPDI_00
 HHYHL2	3hhacp_c --> 2theacp_c + h2o_c	0	0.0	1000.0	((MBLCLPDI_01089 or MBLCLPDI_01089) or (MBLCLPDI_01450 or MBLCLPDI_01089 or MBLCLPDI_01081)) or (MBLCLPDI_01081 or MBLCLPDI_01089)	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
 HHYR2	3oxhacp_c + h_c + nadph_c --> 3hhacp_c + nadp_c	0	0.0	1000.0	MBLCLPDI_00175 or MBLCLPDI_01084	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
 HISDC	h_c + his__L_c --> co2_c + hista_c	0	0.0	1000.0	MBLCLPDI_01992	{'from': ['BBH', 'Lreuteri_530']}
+HISTAap	his__L_c + hista_e <=> his__L_e + hista_c	0	-1000.0	1000.0	check_rea_notes_for_genes_missing	{'from': ['Lreuteri_530', 'gap'], 'missing_gene_reaction_rule': 'None_missing'}
 HISTRS	atp_c + his__L_c + trnahis_c --> amp_c + histrna_c + ppi_c	0	0.0	1000.0	(MBLCLPDI_02010 or check_rea_notes_for_genes_missing) or (MBLCLPDI_02010 or MBLCLPDI_01990)	{'from': ['Lreuteri_530', 'iNF517', 'BBH'], 'missing_gene_reaction_rule': '(MBLCLPDI_02010 or LLMG_RS06580_missing) or (MBLCLPDI_02010 or MBLCLPDI_01990)'}
 HISabc	atp_c + h2o_c + his__L_e --> adp_c + h_c + his__L_c + pi_c	0	0.0	1000.0	MBLCLPDI_00565 or MBLCLPDI_00566 or MBLCLPDI_00409	{'from': ['BBH', 'Lreuteri_530']}
 HMBS	h2o_c + 4.0 ppbng_c --> hmbil_c + 4.0 nh4_c	0	0.0	1000.0	MBLCLPDI_01858	{'from': ['BBH', 'iML1515']}
@@ -515,6 +525,7 @@ INSH	h2o_c + ins_c --> hxan_c + rib__D_c	0	0.0	1000.0	MBLCLPDI_01814 or MBLCLPDI
 INSt2	h_e + ins_e <=> h_c + ins_c	0	-1000.0	1000.0		{'from': ['iNF517', 'transport_reaction']}
 IPDDI	ipdp_c <=> dmpp_c	0	-1000.0	1000.0	MBLCLPDI_00999	{'from': ['BBH', 'iNF517']}
 ITCY	cytd_c + itp_c --> cmp_c + h_c + idp_c	0	0.0	1000.0	MBLCLPDI_01350	{'from': ['BBH', 'iNF517']}
+KARA2	2ahbut_c + h_c + nadph_c <=> 23dhmp_c + nadp_c	0	-1000.0	1000.0	MBLCLPDI_00402	{'from': ['iML1515', 'gap']}
 KAS14	acACP_c + h_c + malACP_c --> ACP_c + actACP_c + co2_c	0	0.0	1000.0	MBLCLPDI_01083 or MBLCLPDI_01083	{'from': ['BBH', 'iML1515']}
 KAS15	accoa_c + h_c + malACP_c --> actACP_c + co2_c + coa_c	0	0.0	1000.0	MBLCLPDI_01087 or MBLCLPDI_01087	{'from': ['iML1515', 'BBH', 'Lreuteri_530', 'iBT721']}
 Kabc	atp_c + h2o_c + k_e --> adp_c + h_c + k_c + pi_c	0	0.0	1000.0	MBLCLPDI_01716 or MBLCLPDI_01715	{'from': ['BBH', 'Lreuteri_530']}
@@ -525,9 +536,9 @@ LDH_L	lac__L_c + nad_c <=> h_c + nadh_c + pyr_c	0	-1000.0	1000.0	(MBLCLPDI_01407
 LEUTRS	atp_c + leu__L_c + trnaleu_c --> amp_c + leutrna_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01432	{'from': ['Lreuteri_530', 'iNF517', 'BBH']}
 LEUt2r	h_e + leu__L_e <=> h_c + leu__L_c	0	-1000.0	1000.0	((MBLCLPDI_01967 or MBLCLPDI_00126 or MBLCLPDI_00125) or (MBLCLPDI_00125 or MBLCLPDI_01837 or MBLCLPDI_01967 or MBLCLPDI_01967)) or MBLCLPDI_01837	{'from': ['BBH', 'Lreuteri_530', 'iNF517', 'iBT721']}
 LIPATPT	atp_c + lipoate_c --> lipoamp_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01833	{'from': ['BBH', 'iML1515']}
-LIP_LRE	ctp_c + glyc3p_c + h2o_c + 0.23 lystrna_c + pa_LRE_c --> LIP_LRE_c + cmp_c + 0.02 glyc_c + pi_c + ppi_c + 0.23 trnalys_c	0	0	1000.0	(MBLCLPDI_01949 or MBLCLPDI_00053) and MBLCLPDI_01680 and MBLCLPDI_00188 and MBLCLPDI_00571 and MBLCLPDI_00776	{'from': ['Lreuteri_530', 'gap']}
+LIP_LRE	ctp_c + glyc3p_c + h2o_c + 0.23 lystrna_c + pa_LRE_c --> LIP_LRE_c + cmp_c + 0.02 glyc_c + pi_c + ppi_c + 0.23 trnalys_c	0	0.0	1000.0	(MBLCLPDI_01949 or MBLCLPDI_00053) and MBLCLPDI_01680 and MBLCLPDI_00188 and MBLCLPDI_00571 and MBLCLPDI_00776	{'from': ['Lreuteri_530', 'gap']}
 LSERDHr	nadp_c + ser__L_c <=> 2amsa_c + h_c + nadph_c	0	-1000.0	1000.0	MBLCLPDI_00742	{'from': ['BBH', 'iML1515']}
-LTA_LRE	15.3 ala__D_c + 35.3 atp_c + 20.0 ctp_c + 20.0 glyc3p_c + 21.0 h2o_c + pa_LRE_c + 3.2 udpg_c --> LTAtotal_LRE_c + 35.3 adp_c + 20.0 cmp_c + 23.2 h_c + 36.3 pi_c + 20.0 ppi_c + 3.2 udp_c	0	0	1000.0	MBLCLPDI_00825 and MBLCLPDI_01474	{'from': ['gap']}
+LTA_LRE	15.3 ala__D_c + 35.3 atp_c + 20.0 ctp_c + 20.0 glyc3p_c + 21.0 h2o_c + pa_LRE_c + 3.2 udpg_c --> LTAtotal_LRE_c + 35.3 adp_c + 20.0 cmp_c + 23.2 h_c + 36.3 pi_c + 20.0 ppi_c + 3.2 udp_c	0	0.0	1000.0	MBLCLPDI_00825 and MBLCLPDI_01474	{'from': ['gap']}
 LYSDC	h_c + lys__L_c --> 15dap_c + co2_c	0	0.0	1000.0	MBLCLPDI_01544	{'from': ['BBH', 'Lreuteri_530']}
 LYSTRS	atp_c + lys__L_c + trnalys_c --> amp_c + lystrna_c + ppi_c	0	0.0	1000.0	MBLCLPDI_00289	{'from': ['Lreuteri_530', 'iNF517', 'BBH']}
 LYSt2r	h_e + lys__L_e <=> h_c + lys__L_c	0	-1000.0	1000.0	MBLCLPDI_01657 or MBLCLPDI_01657	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
@@ -543,13 +554,13 @@ MALTt2	h_e + malt_e <=> h_c + malt_c	0	-1000.0	1000.0	MBLCLPDI_00058	{'from': ['
 MALt2r	h_e + mal__L_e <=> h_c + mal__L_c	0	-1000.0	1000.0	MBLCLPDI_02079 or MBLCLPDI_02079 or MBLCLPDI_02079	{'from': ['iBT721', 'BBH', 'Lreuteri_530']}
 MAN6PI	man6p_c <=> f6p_c	0	-1000.0	1000.0	MBLCLPDI_01733	{'from': ['BBH', 'iNF517']}
 MANpts	man_e + pep_c --> man6p_c + pyr_c	0	0.0	1000.0	(MBLCLPDI_01476 and (check_rea_notes_for_genes_missing or check_rea_notes_for_genes_missing or check_rea_notes_for_genes_missing) and MBLCLPDI_00506) or (((check_rea_notes_for_genes_missing and check_rea_notes_for_genes_missing and check_rea_notes_for_genes_missing and check_rea_notes_for_genes_missing) or (check_rea_notes_for_genes_missing and check_rea_notes_for_genes_missing and check_rea_notes_for_genes_missing)) and MBLCLPDI_01476 and MBLCLPDI_00506)	{'from': ['BBH', 'iBT721', 'iNF517'], 'missing_gene_reaction_rule': '(MBLCLPDI_01476 and (LLMG_RS03765_missing or LLMG_RS03760_missing or LLMG_RS03755_missing) and MBLCLPDI_00506) or (((lp_0576_missing and lp_0577_missing and lp_0586_missing and lp_0587_missing) or (lp_0575_missing and lp_0576_missing and lp_0577_missing)) and MBLCLPDI_01476 and MBLCLPDI_00506)'}
-MCMAT2	butACP_c + h_c + malACP_c --> 3oxhacp_c + ACP_c + co2_c	0	0	1000	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
-MCMAT3	h_c + hexACP_c + malACP_c --> 3oxocacp_c + ACP_c + co2_c	0	0	1000	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
-MCMAT4	h_c + malACP_c + ocACP_c --> 3oxdeacp_c + ACP_c + co2_c	0	0	1000	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
-MCMAT5	decacp_c + h_c + malACP_c --> 3oxddacp_c + ACP_c + co2_c	0	0	1000	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
-MCMAT6	ddeacp_c + h_c + malACP_c --> 3oxtdacp_c + ACP_c + co2_c	0	0	1000	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
-MCMAT7	h_c + malACP_c + tdeacp_c --> 3oxhdacp_c + ACP_c + co2_c	0	0	1000	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
-MCMAT8	h_c + hdeACP_c + malACP_c --> 3oxocdacp_c + ACP_c + co2_c	0	0	1000	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
+MCMAT2	butACP_c + h_c + malACP_c --> 3oxhacp_c + ACP_c + co2_c	0	0.0	1000.0	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
+MCMAT3	h_c + hexACP_c + malACP_c --> 3oxocacp_c + ACP_c + co2_c	0	0.0	1000.0	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
+MCMAT4	h_c + malACP_c + ocACP_c --> 3oxdeacp_c + ACP_c + co2_c	0	0.0	1000.0	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
+MCMAT5	decacp_c + h_c + malACP_c --> 3oxddacp_c + ACP_c + co2_c	0	0.0	1000.0	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
+MCMAT6	ddeacp_c + h_c + malACP_c --> 3oxtdacp_c + ACP_c + co2_c	0	0.0	1000.0	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
+MCMAT7	h_c + malACP_c + tdeacp_c --> 3oxhdacp_c + ACP_c + co2_c	0	0.0	1000.0	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
+MCMAT8	h_c + hdeACP_c + malACP_c --> 3oxocdacp_c + ACP_c + co2_c	0	0.0	1000.0	MBLCLPDI_01083	{'from': ['BBH', 'iNF517']}
 MCOATA	ACP_c + malcoa_c <=> coa_c + malACP_c	0	-1000.0	1000.0	MBLCLPDI_01085	{'from': ['Lreuteri_530', 'iNF517', 'BBH']}
 MDH	mal__L_c + nad_c <=> h_c + nadh_c + oaa_c	0	-1000.0	1000.0	MBLCLPDI_01545	{'from': ['BBH', 'Lreuteri_530']}
 ME1	mal__L_c + nad_c --> co2_c + nadh_c + pyr_c	0	0.0	1000.0	MBLCLPDI_01690	{'from': ['BBH', 'iML1515']}
@@ -565,6 +576,7 @@ MEVK2	ctp_c + mev__R_c --> 5pmev_c + cdp_c + h_c	0	0.0	1000.0	MBLCLPDI_01002	{'f
 MEVK3	gtp_c + mev__R_c --> 5pmev_c + gdp_c + h_c	0	0.0	1000.0	MBLCLPDI_01002	{'from': ['BBH', 'Lreuteri_530']}
 MEVK4	mev__R_c + utp_c --> 5pmev_c + h_c + udp_c	0	0.0	1000.0	MBLCLPDI_01002	{'from': ['BBH', 'Lreuteri_530']}
 MGDS	gtp_c + h_c + moco_c --> MGD_c + h2o_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01108 and MBLCLPDI_01107	{'from': ['BBH', 'iBT721']}
+MGSA	dhap_c --> mthgxl_c + pi_c	0	0.0	1000.0	check_rea_notes_for_genes_missing	{'from': ['iML1515', 'gap'], 'missing_gene_reaction_rule': 'b0963_missing'}
 MHPGLUT	hcys__L_c + mhpglu_c --> hpglu_c + met__L_c	0	0.0	1000.0	MBLCLPDI_02035 or MBLCLPDI_01208	{'from': ['BBH', 'Lreuteri_530'], 'initial_id': ['MTHPTGHM']}
 MI1PP	h2o_c + mi1p__D_c --> inost_c + pi_c	0	0.0	1000.0	MBLCLPDI_00718 or MBLCLPDI_01427	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
 MLTG1	h2o_c + malttr_c --> glc__D_c + malt_c	0	0.0	1000.0	MBLCLPDI_01769	{'from': ['BBH', 'iML1515']}
@@ -579,7 +591,7 @@ MNt6	h_e + mn2_e <=> h_c + mn2_c	0	-1000.0	1000.0	MBLCLPDI_01713 or MBLCLPDI_020
 MOADCST	MCOOH_c + atp_c + cys__L_c + h2o_c --> MCOSH_c + amp_c + ppi_c + ser__L_c	0	0.0	1000.0	(MBLCLPDI_00552 or MBLCLPDI_00685 or MBLCLPDI_00979 or MBLCLPDI_00553) or ((MBLCLPDI_01116 and MBLCLPDI_01104 and (MBLCLPDI_00553 and MBLCLPDI_00552)) or ((MBLCLPDI_00686 and MBLCLPDI_00685) and MBLCLPDI_01116 and MBLCLPDI_01104))	{'from': ['iBT721', 'BBH', 'Lreuteri_530']}
 MOCOS	2.0 h_c + mobd_c + mptamp_c --> amp_c + cu2_c + h2o_c + moco_c	0	0.0	1000.0	MBLCLPDI_01106	{'from': ['BBH', 'iML1515']}
 MPL	malt_c + pi_c <=> g1p_B_c + glc__D_c	0	-1000.0	1000.0	((MBLCLPDI_00059 or MBLCLPDI_00059) or (MBLCLPDI_00059 or MBLCLPDI_02093)) or (MBLCLPDI_00059 or MBLCLPDI_00059 or MBLCLPDI_00059 or MBLCLPDI_00059)	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
-MPTS	cpmp_c + cu2_c + 2.0 moadcosh_c --> 5.0 h_c + 2.0 moadcoo_c + mpt_c	0	0	1000.0	MBLCLPDI_01116 and MBLCLPDI_01117	{'from': ['BBH', 'iBT721']}
+MPTS	cpmp_c + cu2_c + 2.0 moadcosh_c --> 5.0 h_c + 2.0 moadcoo_c + mpt_c	0	0.0	1000.0	MBLCLPDI_01116 and MBLCLPDI_01117	{'from': ['BBH', 'iBT721']}
 MTHFC	h2o_c + methf_c <=> 10fthf_c + h_c	0	-1000.0	1000.0	MBLCLPDI_01316	{'from': ['BBH', 'iNF517']}
 MTHFD	mlthf_c + nadp_c <=> methf_c + nadph_c	0	-1000.0	1000.0	MBLCLPDI_01316	{'from': ['BBH', 'iNF517']}
 NACt	nac_e --> nac_c	0	0.0	1000.0		{'from': ['iNF517', 'transport_reaction']}
@@ -607,7 +619,7 @@ NH4t	nh4_e <=> nh4_c	0	-1000.0	1000.0	MBLCLPDI_01562	{'from': ['BBH', 'iNF517']}
 NMNAT	atp_c + h_c + nmn_c --> nad_c + ppi_c	0	0.0	1000.0	(MBLCLPDI_01370 or MBLCLPDI_01370) or (MBLCLPDI_01847 or MBLCLPDI_01370)	{'from': ['iML1515', 'BBH', 'iNF517']}
 NMNP	nmn_e --> nmn_c	0	0.0	1000.0	MBLCLPDI_01941	{'from': ['iNF517', 'transport_reaction']}
 NNATr	atp_c + h_c + nicrnt_c --> dnad_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01370 or MBLCLPDI_01370	{'from': ['iNF517', 'BBH', 'iML1515', 'Lreuteri_530', 'iBT721']}
-NNDMBRT	ade_c + nicrnt_c --> h_c + nac_c + prbade_c	0	0	1000.0	MBLCLPDI_01851	{'from': ['BBH', 'iML1515']}
+NNDMBRT	ade_c + nicrnt_c --> h_c + nac_c + prbade_c	0	0.0	1000.0	MBLCLPDI_01851	{'from': ['BBH', 'iML1515']}
 NO2t3	h_e + no2_c --> h_c + no2_e	0	0.0	1000.0	MBLCLPDI_01115	{'from': ['BBH', 'iBT721']}
 NOX	h_c + nadh_c + o2_c --> h2o2_c + nad_c	0	0.0	1000.0	((MBLCLPDI_00072 or MBLCLPDI_00072) or MBLCLPDI_01778) or (MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or check_rea_notes_for_genes_missing)	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530'], 'missing_gene_reaction_rule': '((MBLCLPDI_00072 or MBLCLPDI_00072) or MBLCLPDI_01778) or (MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or lp_1350_missing)'}
 NOX2	2.0 h_c + 2.0 nadh_c + o2_c --> 2.0 h2o_c + 2.0 nad_c	0	0.0	1000.0	((MBLCLPDI_00072 or MBLCLPDI_00072) or MBLCLPDI_01778) or (MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or check_rea_notes_for_genes_missing)	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530'], 'missing_gene_reaction_rule': '((MBLCLPDI_00072 or MBLCLPDI_00072) or MBLCLPDI_01778) or (MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or MBLCLPDI_00072 or lp_1350_missing)'}
@@ -649,13 +661,14 @@ PACALDt	pacald_c <=> pacald_e	0	-1000.0	1000.0		{'from': ['iNF517', 'transport_r
 PAPPT1	uAgla_c + udcpp_c --> uaAgla_c + ump_c	0	0.0	1000.0	MBLCLPDI_00670	{'from': ['BBH', 'iNF517']}
 PAPPT3	udcpp_c + ugmda_c --> uagmda_c + ump_c	0	0.0	1000.0	MBLCLPDI_00670	{'from': ['BBH', 'iML1515']}
 PAPPT5	udcpp_c + ugmdalac_c --> uagmdalac_c + ump_c	0	0.0	1000.0	MBLCLPDI_00670	{'from': ['BBH', 'Lreuteri_530']}
+PAPSR	paps_c + trdrd_c --> 2.0 h_c + pap_c + so3_c + trdox_c	0	0.0	1000.0	(MBLCLPDI_01983 and check_rea_notes_for_genes_missing) or (MBLCLPDI_01983 and check_rea_notes_for_genes_missing)	{'from': ['iML1515', 'gap'], 'missing_gene_reaction_rule': '(MBLCLPDI_01983 and b2762_missing) or (MBLCLPDI_01983 and b2762_missing)'}
 PDH	coa_c + nad_c + pyr_c --> accoa_c + co2_c + nadh_c	0	0.0	1000.0	(MBLCLPDI_00715 and MBLCLPDI_00714 and MBLCLPDI_00713 and MBLCLPDI_00716) or (MBLCLPDI_00716 and MBLCLPDI_00715 and check_rea_notes_for_genes_missing)	{'from': ['iNF517', 'BBH', 'iML1515', 'Lreuteri_530', 'iBT721'], 'missing_gene_reaction_rule': '(MBLCLPDI_00715 and MBLCLPDI_00714 and MBLCLPDI_00713 and MBLCLPDI_00716) or (MBLCLPDI_00716 and MBLCLPDI_00715 and b0114_missing)'}
 PDUL2	3hpcoa_c + pi_c --> 3hppap_c + coa_c	0	0.0	1000.0	MBLCLPDI_01896	{'from': ['BBH', 'Lreuteri_530']}
 PDUP	coa_c + nad_c + ppal_c <=> h_c + nadh_c + ppcoa_c	0	-1000.0	1000.0	MBLCLPDI_01891	{'from': ['BBH', 'Lreuteri_530']}
 PDUP2	3hppnl_c + coa_c + nad_c --> 3hpcoa_c + h_c + nadh_c	0	0.0	1000.0	MBLCLPDI_00350 or MBLCLPDI_01891	{'from': ['BBH', 'Lreuteri_530']}
 PDUW2	3hppap_c + adp_c --> 3hpp_c + atp_c	0	0.0	1000.0	MBLCLPDI_01889	{'from': ['BBH', 'Lreuteri_530']}
 PEAt	pea_c <=> pea_e	0	-1000.0	1000.0		{'from': ['iNF517', 'transport_reaction']}
-PFK	atp_c + f6p_c --> adp_c + fdp_c + h_c	0	0	1000	MBLCLPDI_00445	{'from': ['BBH', 'Lreuteri_530']}
+PFK	atp_c + f6p_c --> adp_c + fdp_c + h_c	0	0.0	1000.0	MBLCLPDI_00445	{'from': ['BBH', 'Lreuteri_530']}
 PGAMT	gam1p_c <=> gam6p_c	0	-1000.0	1000.0	MBLCLPDI_00450	{'from': ['BBH', 'iNF517']}
 PGGT4	uaagmdalac_c --> PGlac2_c + udcpdp_c	0	0.0	1000.0	(MBLCLPDI_01007 and MBLCLPDI_01404 and MBLCLPDI_00669) or (MBLCLPDI_01007 and MBLCLPDI_01404 and MBLCLPDI_01346)	{'from': ['iBT721', 'BBH', 'Lreuteri_530']}
 PGI	g6p_c <=> f6p_c	0	-1000.0	1000.0	MBLCLPDI_00462	{'from': ['BBH', 'iNF517']}
@@ -680,6 +693,7 @@ PPBNGS	2.0 5aop_c --> 2.0 h2o_c + h_c + ppbng_c	0	0.0	1000.0	MBLCLPDI_01857	{'fr
 PPCDC	4ppcys_c + h_c --> co2_c + pan4p_c	0	0.0	1000.0	MBLCLPDI_01306	{'from': ['BBH', 'iNF517']}
 PPCK	atp_c + oaa_c --> adp_c + co2_c + pep_c	0	0.0	1000.0	MBLCLPDI_01450	{'from': ['BBH', 'Lreuteri_530']}
 PPDD	12ppd__R_c --> h2o_c + ppal_c	0	0.0	1000.0	MBLCLPDI_01901 and MBLCLPDI_01902 and MBLCLPDI_01903	{'from': ['BBH', 'Lreuteri_530']}
+PPDt1	13ppd_c <=> 13ppd_e	0	-1000.0	1000.0	check_rea_notes_for_genes_missing	{'from': ['Lreuteri_530', 'gap'], 'missing_gene_reaction_rule': 'None_missing'}
 PPGPPDP	h2o_c + ppgpp_c --> gdp_c + ppi_c	0	0.0	1000.0	MBLCLPDI_00809	{'from': ['BBH', 'iML1515']}
 PPIabc	atp_c + h2o_c + ppi_e --> adp_c + h_c + pi_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01726 and MBLCLPDI_01724 and MBLCLPDI_01723 and MBLCLPDI_01723 and MBLCLPDI_01725 and MBLCLPDI_01726	{'from': ['BBH', 'iNF517']}
 PPK	atp_c + pi_c --> adp_c + ppi_c	0	0.0	1000.0	MBLCLPDI_00366	{'from': ['BBH', 'iML1515']}
@@ -689,13 +703,14 @@ PPM2	2dr1p_c <=> 2dr5p_c	0	-1000.0	1000.0	MBLCLPDI_00118 or MBLCLPDI_00196	{'fro
 PPN13D	13ppd_c + nad_c <=> 3hppnl_c + h_c + nadh_c	0	-1000.0	1000.0	MBLCLPDI_00032	{'from': ['BBH', 'Lreuteri_530']}
 PPNCL	4ppan_c + ctp_c + cys__L_c --> 4ppcys_c + cdp_c + h_c + pi_c	0	0.0	1000.0	MBLCLPDI_01306	{'from': ['BBH', 'iNF517']}
 PPNCL2	4ppan_c + ctp_c + cys__L_c --> 4ppcys_c + cmp_c + h_c + ppi_c	0	0.0	1000.0	MBLCLPDI_01306	{'from': ['BBH', 'iML1515']}
+PPOHt	ppoh_e <=> ppoh_c	0	-1000.0	1000.0		{'from': ['Lreuteri_530', 'gap']}
 PRAGSr	atp_c + gly_c + pram_c --> adp_c + gar_c + h_c + pi_c	0	0.0	1000.0	MBLCLPDI_00151	{'from': ['iNF517', 'BBH', 'iML1515', 'Lreuteri_530']}
-PRAIS	atp_c + fpram_c --> adp_c + air_c + 2.0 h_c + pi_c	0	0	1000.0	MBLCLPDI_00148	{'from': ['BBH', 'iNF517']}
+PRAIS	atp_c + fpram_c --> adp_c + air_c + 2.0 h_c + pi_c	0	0.0	1000.0	MBLCLPDI_00148	{'from': ['BBH', 'iNF517']}
 PRASCSi	5aizc_c + asp__L_c + atp_c <=> 25aics_c + adp_c + h_c + pi_c	0	-1000.0	1000.0	MBLCLPDI_00143	{'from': ['iML1515', 'BBH', 'iNF517']}
 PREN	frdp_c + 4.0 ipdp_c --> hepdp_c + 4.0 ppi_c	0	0.0	1000.0	MBLCLPDI_01211	{'from': ['BBH', 'iNF517']}
 PRFGS	atp_c + fgam_c + gln__L_c + h2o_c --> adp_c + fpram_c + glu__L_c + h_c + pi_c	0	0.0	1000.0	(MBLCLPDI_00145 and MBLCLPDI_00144 and MBLCLPDI_00146) or (MBLCLPDI_00146 or MBLCLPDI_00144 or MBLCLPDI_00145)	{'from': ['Lreuteri_530', 'iNF517', 'BBH']}
-PROTRS	atp_c + pro__L_c + trnapro_c --> amp_c + ppi_c + protrna_c	0	0	1000.0	MBLCLPDI_00778	{'from': ['BBH', 'iNF517']}
-PROTS_LRE	0.0068 alatrna_c + 0.0409 argtrna_c + 0.0768 asntrna_c + 0.0768 asptrna_c + 0.306 atp_c + 0.0095 cystrna_c + 0.0714 glntrna_c + 0.0275 glutrna_c + 0.1058 glytrna_c + 2.0 gtp_c + 2.306 h2o_c + 0.0209 histrna_c + 0.0572 iletrna_c + 0.0849 leutrna_c + 0.0977 lystrna_c + 0.027 mettrna_c + 0.0326 phetrna_c + 0.0401 protrna_c + 0.0543 sertrna_c + 0.0644 thrtrna_c + 0.007 trptrna_c + 0.0281 tyrtrna_c + 0.0705 valtrna_c --> PROT_LRE_c + 0.306 adp_c + 2.0 gdp_c + 2.306 h_c + 2.306 pi_c + 0.0068 trnaala_c + 0.0409 trnaarg_c + 0.0768 trnaasn_c + 0.0768 trnaasp_c + 0.0095 trnacys_c + 0.0989 trnaglu_c + 0.1058 trnagly_c + 0.0209 trnahis_c + 0.0572 trnaile_c + 0.0849 trnaleu_c + 0.0977 trnalys_c + 0.027 trnamet_c + 0.0326 trnaphe_c + 0.0401 trnapro_c + 0.0543 trnaser_c + 0.0644 trnathr_c + 0.007 trnatrp_c + 0.0281 trnatyr_c + 0.0705 trnaval_c	0	0	1000.0		{'from': ['Lreuteri_530', 'iNF517', 'biomass']}
+PROTRS	atp_c + pro__L_c + trnapro_c --> amp_c + ppi_c + protrna_c	0	0.0	1000.0	MBLCLPDI_00778	{'from': ['BBH', 'iNF517']}
+PROTS_LRE	0.0068 alatrna_c + 0.0409 argtrna_c + 0.0768 asntrna_c + 0.0768 asptrna_c + 0.306 atp_c + 0.0095 cystrna_c + 0.0714 glntrna_c + 0.0275 glutrna_c + 0.1058 glytrna_c + 2.0 gtp_c + 2.306 h2o_c + 0.0209 histrna_c + 0.0572 iletrna_c + 0.0849 leutrna_c + 0.0977 lystrna_c + 0.027 mettrna_c + 0.0326 phetrna_c + 0.0401 protrna_c + 0.0543 sertrna_c + 0.0644 thrtrna_c + 0.007 trptrna_c + 0.0281 tyrtrna_c + 0.0705 valtrna_c --> PROT_LRE_c + 0.306 adp_c + 2.0 gdp_c + 2.306 h_c + 2.306 pi_c + 0.0068 trnaala_c + 0.0409 trnaarg_c + 0.0768 trnaasn_c + 0.0768 trnaasp_c + 0.0095 trnacys_c + 0.0989 trnaglu_c + 0.1058 trnagly_c + 0.0209 trnahis_c + 0.0572 trnaile_c + 0.0849 trnaleu_c + 0.0977 trnalys_c + 0.027 trnamet_c + 0.0326 trnaphe_c + 0.0401 trnapro_c + 0.0543 trnaser_c + 0.0644 trnathr_c + 0.007 trnatrp_c + 0.0281 trnatyr_c + 0.0705 trnaval_c	0	0.0	1000.0		{'from': ['Lreuteri_530', 'iNF517', 'biomass']}
 PROabc	atp_c + h2o_c + pro__L_e --> adp_c + h_c + pi_c + pro__L_c	0	0.0	1000.0	MBLCLPDI_00814 and MBLCLPDI_00201	{'from': ['iNF517', 'transport_reaction']}
 PROt3	h_e + pro__L_c --> h_c + pro__L_e	0	0.0	1000.0		{'from': ['iNF517', 'transport_reaction']}
 PRPPS	atp_c + r5p_c <=> amp_c + h_c + prpp_c	0	-1000.0	1000.0	(MBLCLPDI_00239 or MBLCLPDI_00239) or (MBLCLPDI_00239 or MBLCLPDI_00691)	{'from': ['iNF517', 'BBH', 'iML1515', 'Lreuteri_530', 'iBT721']}
@@ -735,7 +750,7 @@ RBP4E	ru5p__L_c <=> xu5p__D_c	0	-1000.0	1000.0	MBLCLPDI_00531 or MBLCLPDI_00531 
 RHCYS	h2o_c + rhcys_c --> hcys__L_c + rib__D_c	0	0.0	1000.0	MBLCLPDI_01744	{'from': ['BBH', 'Lreuteri_530'], 'initial_id': ['RHC']}
 RIBFLVt2	h_e + ribflv_e --> h_c + ribflv_c	0	0.0	1000.0		{'from': ['iNF517', 'transport_reaction']}
 RIBabc	atp_c + h2o_c + rib__D_e --> adp_c + h_c + pi_c + rib__D_c	0	0.0	1000.0	MBLCLPDI_01978	{'from': ['BBH', 'Lreuteri_530']}
-RNAS_LRE	0.710810743235 atp_c + 0.187747387186 ctp_c + 0.21245220899 gtp_c + 0.288989660589 utp_c --> RNA_LRE_c + 0.4 adp_c + 0.4 h_c + 0.4 pi_c + ppi_c	0	0	1000.0		{'from': ['Lreuteri_530', 'iNF517', 'biomass']}
+RNAS_LRE	0.710810743235 atp_c + 0.187747387186 ctp_c + 0.21245220899 gtp_c + 0.288989660589 utp_c --> RNA_LRE_c + 0.4 adp_c + 0.4 h_c + 0.4 pi_c + ppi_c	0	0.0	1000.0		{'from': ['Lreuteri_530', 'iNF517', 'biomass']}
 RNDR1	adp_c + trdrd_c --> dadp_c + h2o_c + trdox_c	0	0.0	1000.0	(MBLCLPDI_00351 and MBLCLPDI_00352 and MBLCLPDI_00589) or (MBLCLPDI_00351 and MBLCLPDI_00352 and MBLCLPDI_01387) or (MBLCLPDI_00351 and MBLCLPDI_00352 and MBLCLPDI_01983)	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
 RNDR1b	adp_c + grxrd_c --> dadp_c + grxox_c + h2o_c	0	0.0	1000.0	(check_rea_notes_for_genes_missing and MBLCLPDI_00351 and MBLCLPDI_00352) or (MBLCLPDI_00351 and MBLCLPDI_00352 and check_rea_notes_for_genes_missing) or (MBLCLPDI_00351 and MBLCLPDI_00352 and check_rea_notes_for_genes_missing) or (MBLCLPDI_00351 and MBLCLPDI_00352 and check_rea_notes_for_genes_missing)	{'from': ['BBH', 'iML1515'], 'missing_gene_reaction_rule': '(b0849_missing and MBLCLPDI_00351 and MBLCLPDI_00352) or (MBLCLPDI_00351 and MBLCLPDI_00352 and b1064_missing) or (MBLCLPDI_00351 and MBLCLPDI_00352 and b3610_missing) or (MBLCLPDI_00351 and MBLCLPDI_00352 and b1654_missing)'}
 RNDR2	gdp_c + trdrd_c --> dgdp_c + h2o_c + trdox_c	0	0.0	1000.0	MBLCLPDI_00352 and MBLCLPDI_00351	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530']}
@@ -758,10 +773,12 @@ S2FE2SR	2fe1s_c + atp_c + h2o_c + sufbcd_c + sufsesh_c --> adp_c + 5.0 h_c + pi_
 S2FE2SS	atp_c + fadh2_c + 2.0 fe2_c + h2o_c + sufbcd_c + 2.0 sufsesh_c --> adp_c + fad_c + 7.0 h_c + pi_c + sufbcd_2fe2s_c + 2.0 sufse_c	0	0.0	1000.0	MBLCLPDI_00977 and MBLCLPDI_00981 and MBLCLPDI_00979 and MBLCLPDI_00981 and check_rea_notes_for_genes_missing	{'from': ['BBH', 'iML1515'], 'missing_gene_reaction_rule': 'MBLCLPDI_00977 and MBLCLPDI_00981 and MBLCLPDI_00979 and MBLCLPDI_00981 and b1679_missing'}
 S2FE2SS2	atp_c + fadh2_c + 2.0 fe2_c + h2o_c + sufbcd_2fe2s_c + 2.0 sufsesh_c --> adp_c + fad_c + 7.0 h_c + pi_c + sufbcd_2fe2s2_c + 2.0 sufse_c	0	0.0	1000.0	MBLCLPDI_00977 and MBLCLPDI_00981 and MBLCLPDI_00979 and MBLCLPDI_00981 and check_rea_notes_for_genes_missing	{'from': ['BBH', 'iML1515'], 'missing_gene_reaction_rule': 'MBLCLPDI_00977 and MBLCLPDI_00981 and MBLCLPDI_00979 and MBLCLPDI_00981 and b1679_missing'}
 S4FE4SR	fadh2_c + 2.0 h_c + sufbcd_2fe2s2_c --> fad_c + sufbcd_4fe4s_c	0	0.0	1000.0	MBLCLPDI_00981 and MBLCLPDI_00977 and MBLCLPDI_00981	{'from': ['BBH', 'iML1515']}
+SADT2	atp_c + gtp_c + h2o_c + so4_c --> aps_c + gdp_c + pi_c + ppi_c	0	0.0	1000.0	check_rea_notes_for_genes_missing and MBLCLPDI_00733	{'from': ['iML1515', 'gap'], 'missing_gene_reaction_rule': 'b2752_missing and MBLCLPDI_00733'}
 SCRP	pi_c + sucr_c --> fru_c + g1p_c	0	0.0	1000.0	MBLCLPDI_01701	{'from': ['BBH', 'Lreuteri_530']}
 SCYSDS	cys__L_c + sufse_c --> ala__L_c + sufsesh_c	0	0.0	1000.0	MBLCLPDI_00979 and check_rea_notes_for_genes_missing	{'from': ['BBH', 'iML1515'], 'missing_gene_reaction_rule': 'MBLCLPDI_00979 and b1679_missing'}
 SDPDS	h2o_c + sl26da_c --> 26dap_LL_c + succ_c	0	0.0	1000.0	(MBLCLPDI_00206 or MBLCLPDI_00408) or (MBLCLPDI_00408 or MBLCLPDI_00206)	{'from': ['iBT721', 'BBH', 'Lreuteri_530']}
 SDPTA	akg_c + sl26da_c <=> glu__L_c + sl2a6o_c	0	-1000.0	1000.0	(MBLCLPDI_00215 or MBLCLPDI_00215 or MBLCLPDI_00215 or MBLCLPDI_00215 or check_rea_notes_for_genes_missing) or MBLCLPDI_00378	{'from': ['BBH', 'iBT721', 'iML1515'], 'missing_gene_reaction_rule': '(MBLCLPDI_00215 or MBLCLPDI_00215 or MBLCLPDI_00215 or MBLCLPDI_00215 or b0907_missing) or MBLCLPDI_00378'}
+SERAT	accoa_c + ser__L_c <=> acser_c + coa_c	0	-1000.0	1000.0	MBLCLPDI_00695	{'from': ['iML1515', 'gap']}
 SERD_L	ser__L_c --> nh4_c + pyr_c	0	0.0	1000.0	(MBLCLPDI_01200 and MBLCLPDI_01201) or (check_rea_notes_for_genes_missing or MBLCLPDI_01200 or MBLCLPDI_01200 or MBLCLPDI_01200 or check_rea_notes_for_genes_missing)	{'from': ['iNF517', 'BBH', 'iML1515', 'Lreuteri_530', 'iBT721'], 'missing_gene_reaction_rule': '(MBLCLPDI_01200 and MBLCLPDI_01201) or (b3708_missing or MBLCLPDI_01200 or MBLCLPDI_01200 or MBLCLPDI_01200 or b3117_missing)'}
 SERTRS	atp_c + ser__L_c + trnaser_c --> amp_c + ppi_c + sertrna_c	0	0.0	1000.0	MBLCLPDI_00103	{'from': ['Lreuteri_530', 'iNF517', 'BBH']}
 SERt2r	h_e + ser__L_e <=> h_c + ser__L_c	0	-1000.0	1000.0	MBLCLPDI_01661 or MBLCLPDI_01685 or MBLCLPDI_01660	{'from': ['BBH', 'Lreuteri_530', 'iNF517', 'transport_reaction']}
@@ -784,7 +801,7 @@ THDPS	h2o_c + succoa_c + thdp_c --> coa_c + sl2a6o_c	0	0.0	1000.0	MBLCLPDI_00695
 THFAT	h2o_c + methf_c --> 5fthf_c + h_c	0	0.0	1000.0	MBLCLPDI_00504	{'from': ['BBH', 'iML1515']}
 THMDt2	h_e + thymd_e --> h_c + thymd_c	0	0.0	1000.0	MBLCLPDI_00107	{'from': ['BBH', 'iBT721']}
 THMabc	atp_c + h2o_c + thm_e --> adp_c + h_c + pi_c + thm_c	0	0.0	1000.0		{'from': ['iNF517', 'transport_reaction']}
-THRA	thr__L_c --> acald_c + gly_c	0	0	1000	MBLCLPDI_00504 or check_rea_notes_for_genes_missing	{'from': ['iML1515', 'BBH', 'iNF517'], 'missing_gene_reaction_rule': 'MBLCLPDI_00504 or b0870_missing'}
+THRA	thr__L_c --> acald_c + gly_c	0	0.0	1000.0	MBLCLPDI_00504 or check_rea_notes_for_genes_missing	{'from': ['iML1515', 'BBH', 'iNF517'], 'missing_gene_reaction_rule': 'MBLCLPDI_00504 or b0870_missing'}
 THRA2	athr__L_c --> acald_c + gly_c	0	0.0	1000.0	MBLCLPDI_00504 or check_rea_notes_for_genes_missing	{'from': ['BBH', 'iML1515'], 'missing_gene_reaction_rule': 'MBLCLPDI_00504 or b0870_missing'}
 THRD	nad_c + thr__L_c --> 2aobut_c + h_c + nadh_c	0	0.0	1000.0	MBLCLPDI_02022 or MBLCLPDI_00032	{'from': ['BBH', 'iML1515']}
 THRTRS	atp_c + thr__L_c + trnathr_c --> amp_c + ppi_c + thrtrna_c	0	0.0	1000.0	MBLCLPDI_02025	{'from': ['Lreuteri_530', 'iNF517', 'BBH']}
@@ -841,29 +858,14 @@ XANt2	h_e + xan_e --> h_c + xan_c	0	0.0	1000.0	MBLCLPDI_01988	{'from': ['BBH', '
 XPPT	prpp_c + xan_c --> ppi_c + xmp_c	0	0.0	1000.0	MBLCLPDI_01599	{'from': ['BBH', 'iNF517']}
 XTSNH	h2o_c + xtsn_c --> rib__D_c + xan_c	0	0.0	1000.0	MBLCLPDI_01814 or MBLCLPDI_00963 or MBLCLPDI_00108	{'from': ['BBH', 'iML1515', 'iBT721', 'Lreuteri_530']}
 YUMPS	r5p_c + ura_c <=> h2o_c + psd5p_c	0	-1000.0	1000.0	((MBLCLPDI_01604 or MBLCLPDI_00786 or check_rea_notes_for_genes_missing or MBLCLPDI_00650 or MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_00845) or (MBLCLPDI_01604 or MBLCLPDI_01678 or MBLCLPDI_00786 or MBLCLPDI_01016 or MBLCLPDI_01985)) or (MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_01678 or MBLCLPDI_00845 or MBLCLPDI_00786 or MBLCLPDI_00650)	{'from': ['iNF517', 'BBH', 'iBT721', 'Lreuteri_530'], 'missing_gene_reaction_rule': '((MBLCLPDI_01604 or MBLCLPDI_00786 or llmg_2518_missing or MBLCLPDI_00650 or MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_00845) or (MBLCLPDI_01604 or MBLCLPDI_01678 or MBLCLPDI_00786 or MBLCLPDI_01016 or MBLCLPDI_01985)) or (MBLCLPDI_01016 or MBLCLPDI_01985 or MBLCLPDI_01604 or MBLCLPDI_00845 or MBLCLPDI_01678 or MBLCLPDI_00845 or MBLCLPDI_00786 or MBLCLPDI_00650)'}
-araphe1	4mop_c + phe__L_c --> leu__L_c + phpyr_c	0	0	0	MBLCLPDI_00832	{'from': ['BBH', 'iNF517']}
+araphe1	4mop_c + phe__L_c --> leu__L_c + phpyr_c	0	0.0	0.0	MBLCLPDI_00832	{'from': ['BBH', 'iNF517']}
 araphe2	3mop_c + phe__L_c <=> ile__L_c + phpyr_c	0	-1000.0	1000.0	MBLCLPDI_00832 or MBLCLPDI_00699	{'from': ['BBH', 'Lreuteri_530', 'iNF517']}
-araphe3	indpyr_c + phe__L_c --> phpyr_c + trp__L_c	0	0	0	MBLCLPDI_00832	{'from': ['BBH', 'iNF517']}
-aratry1	4mop_c + trp__L_c --> indpyr_c + leu__L_c	0	0	0	MBLCLPDI_00832	{'from': ['BBH', 'iNF517']}
+araphe3	indpyr_c + phe__L_c --> phpyr_c + trp__L_c	0	0.0	0.0	MBLCLPDI_00832	{'from': ['BBH', 'iNF517']}
+aratry1	4mop_c + trp__L_c --> indpyr_c + leu__L_c	0	0.0	0.0	MBLCLPDI_00832	{'from': ['BBH', 'iNF517']}
 aratry2	3mop_c + trp__L_c <=> ile__L_c + indpyr_c	0	-1000.0	1000.0	MBLCLPDI_00832 or MBLCLPDI_01335	{'from': ['BBH', 'Lreuteri_530', 'iNF517']}
 aratyr1	4mop_c + tyr__L_c --> 34hpp_c + leu__L_c	0	0.0	0.0	MBLCLPDI_00832	{'from': ['BBH', 'iNF517']}
 aratyr2	3mop_c + tyr__L_c <=> 34hpp_c + ile__L_c	0	-1000.0	1000.0	MBLCLPDI_00832 or MBLCLPDI_00048	{'from': ['BBH', 'Lreuteri_530', 'iNF517']}
 aratyr3	phpyr_c + tyr__L_c <=> 34hpp_c + phe__L_c	0	-1000.0	1000.0	MBLCLPDI_00832	{'from': ['BBH', 'iNF517']}
 aratyr4	indpyr_c + tyr__L_c <=> 34hpp_c + trp__L_c	0	-1000.0	1000.0	MBLCLPDI_00832 or MBLCLPDI_00048	{'from': ['BBH', 'Lreuteri_530', 'iNF517']}
+tr_o2	o2_e <=> o2_c	0	-1000.0	1000.0		{}
 unkFol	ahdt_c + 2.0 h2o_c --> dhnpt_c + h_c + pi_c + ppi_c	0	0.0	1000.0		{'from': ['iNF517', 'gap']}
-SADT2	atp_c + gtp_c + h2o_c + so4_c --> aps_c + gdp_c + pi_c + ppi_c	0	0.0	1000.0	check_rea_notes_for_genes_missing and MBLCLPDI_00733	{'from': ['iML1515', 'gap'], 'missing_gene_reaction_rule': 'b2752_missing and MBLCLPDI_00733'}
-ADSK	aps_c + atp_c --> adp_c + h_c + paps_c	0	0.0	1000.0	MBLCLPDI_01350	{'from': ['iML1515', 'gap']}
-PAPSR	paps_c + trdrd_c --> 2.0 h_c + pap_c + so3_c + trdox_c	0	0.0	1000.0	(MBLCLPDI_01983 and check_rea_notes_for_genes_missing) or (MBLCLPDI_01983 and check_rea_notes_for_genes_missing)	{'from': ['iML1515', 'gap'], 'missing_gene_reaction_rule': '(MBLCLPDI_01983 and b2762_missing) or (MBLCLPDI_01983 and b2762_missing)'}
-BPNT	h2o_c + pap_c --> amp_c + pi_c	0	0.0	1000.0	MBLCLPDI_00718	{'from': ['iML1515', 'gap']}
-MGSA	dhap_c --> mthgxl_c + pi_c	0	0.0	1000.0	check_rea_notes_for_genes_missing	{'from': ['iML1515', 'gap'], 'missing_gene_reaction_rule': 'b0963_missing'}
-PPOHt	ppoh_e <=> ppoh_c	0	-1000.0	1000.0		{'from': ['Lreuteri_530', 'gap']}
-EX_ppoh_e	ppoh_e --> 	0	0	1000		{'from': ['Lreuteri_530', 'gap']}
-PPDt1	13ppd_c <=> 13ppd_e	0	-1000.0	1000.0	check_rea_notes_for_genes_missing	{'from': ['Lreuteri_530', 'gap'], 'missing_gene_reaction_rule': 'None_missing'}
-EX_13ppd_e	13ppd_e --> 	0	0	1000		{'from': ['Lreuteri_530', 'gap']}
-3HPPt	3hpp_c <=> 3hpp_e	0	-1000.0	1000.0		{'from': ['Lreuteri_530', 'gap']}
-EX_3hpp_e	3hpp_e --> 	0	0.0	1000.0		{'from': ['iML1515', 'gap']}
-HISTAap	his__L_c + hista_e <=> his__L_e + hista_c	0	-1000.0	1000.0	check_rea_notes_for_genes_missing	{'from': ['Lreuteri_530', 'gap'], 'missing_gene_reaction_rule': 'None_missing'}
-EX_hista_e	hista_e --> 	0	0	1000.0		{'from': ['gap']}
-DHAD2	23dhmp_c --> 3mop_c + h2o_c	0	0.0	1000.0	check_rea_notes_for_genes_missing	{'from': ['iML1515', 'gap'], 'missing_gene_reaction_rule': 'LLMG_RS06490_missing'}
-KARA2	2ahbut_c + h_c + nadph_c <=> 23dhmp_c + nadp_c	0	-1000.0	1000.0	MBLCLPDI_00402	{'from': ['iML1515', 'gap']}
-SERAT	accoa_c + ser__L_c <=> acser_c + coa_c	0	-1000.0	1000.0	MBLCLPDI_00695	{'from': ['iML1515', 'gap']}
